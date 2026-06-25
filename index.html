@@ -1262,7 +1262,7 @@ footer a{color:#86efac}
   <div class="sb-box">
     <div class="sb-head" style="display:flex;align-items:center;gap:6px">🔄 Cập nhật tự động <span class="live-dot"></span><span id="live-ts" style="font-weight:400;font-size:11px;opacity:.8">Đang tải...</span></div>
     <div class="sb-body">
-      <div style="font-size:11.5px;color:var(--t2);margin-bottom:7px">Tự động lấy tin mới mỗi <strong>5 phút</strong>. Nhấn bên dưới để làm mới ngay.</div>
+      <div style="font-size:11.5px;color:var(--t2);margin-bottom:7px">Tự động lấy tin mới mỗi <strong>5 phút</strong> và mỗi khi mở lại app. Nhấn bên dưới để làm mới ngay.</div>
       <div id="rss-status" style="font-size:11px;color:var(--t3);margin-bottom:8px">Đang kiểm tra nguồn tin...</div>
       <button onclick="fetchAllLive()" style="width:100%;padding:8px;background:linear-gradient(135deg,var(--p),var(--bl));color:#fff;border:none;border-radius:var(--rs);cursor:pointer;font-size:12px;font-weight:700;font-family:inherit">🔄 Làm mới ngay</button>
       <div style="margin-top:7px;text-align:center;font-size:11px;color:var(--t3)" id="refresh-countdown">Làm mới sau 05:00</div>
@@ -1462,6 +1462,7 @@ function startRefreshBar(){
 }
 
 function fetchAllLive(){
+  window.__lastFetch=Date.now();
   var statusEl=document.getElementById('rss-status');
   var tsEl=document.getElementById('live-ts');
   if(statusEl) statusEl.innerHTML='⏳ Đang lấy tin mới…';
@@ -1565,6 +1566,21 @@ if('serviceWorker' in navigator){
     });
   });
 }
+
+/* ───────── LUÔN TỰ ĐỘNG CẬP NHẬT MỌI LÚC ───────── */
+/* Làm mới ngay khi mở lại app / quay lại tab (nếu đã quá 60 giây) */
+document.addEventListener('visibilitychange',function(){
+  if(document.visibilityState==='visible'){
+    var last=window.__lastFetch||0;
+    if(Date.now()-last>60000) fetchAllLive();
+  }
+});
+window.addEventListener('focus',function(){
+  var last=window.__lastFetch||0;
+  if(Date.now()-last>60000) fetchAllLive();
+});
+/* Có mạng trở lại → cập nhật ngay */
+window.addEventListener('online',function(){ fetchAllLive(); });
 </script>
 
 <button id="backTop" onclick="window.scrollTo({top:0,behavior:'smooth'})">&#8593;</button>
