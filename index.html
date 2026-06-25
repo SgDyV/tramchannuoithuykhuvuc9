@@ -1,0 +1,1572 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Trạm Chăn nuôi & Thú y KV9 — Dashboard</title>
+<meta name="description" content="Dashboard thông tin Trạm Chăn nuôi và Thú y Khu vực 9 — Chi cục CNTY TP.HCM: tin tức, giá sản phẩm, cảnh báo dịch bệnh, văn bản pháp luật và thủ tục hành chính.">
+<meta name="theme-color" content="#0f3d1f" id="metaTheme">
+<meta name="color-scheme" content="light dark">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon.svg">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Trạm KV9">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
+<script>/* Áp dụng chế độ sáng/tối ngay để tránh nhấp nháy */
+(function(){try{var t=localStorage.getItem('kv9-theme');
+  if(!t) t=window.matchMedia&&matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';
+  document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
+<style>
+:root{
+  --bg:#f0f4f8;--bg2:#e8eef6;--bg3:#dce6f2;
+  --g1:#ffffff;--g2:#f8fafc;--g3:#f1f5f9;
+  --b1:#e2e8f0;--b2:#cbd5e1;--b3:#94a3b8;
+  --p:#1a7a3a;--pa:rgba(26,122,58,0.08);--pb:rgba(26,122,58,0.16);
+  --bl:#2563eb;--bla:rgba(37,99,235,0.08);
+  --am:#d97706;--re:#dc2626;--gr:#16a34a;
+  --t1:#0f172a;--t2:#334155;--t3:#64748b;
+  --r:12px;--rs:8px;
+  --sh:0 1px 4px rgba(0,0,0,0.08),0 2px 8px rgba(0,0,0,0.05);
+  --gw:0 0 0 3px rgba(26,122,58,0.15);
+  --hdr-bg:#0f3d1f;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Be Vietnam Pro',system-ui,sans-serif;background:var(--bg);color:var(--t1);font-size:13px;line-height:1.65;min-height:100vh}
+a{color:var(--p);text-decoration:none}a:hover{color:#0a4d22;text-decoration:none}
+img{max-width:100%;display:block}
+::-webkit-scrollbar{width:6px;height:6px}
+::-webkit-scrollbar-track{background:var(--bg2)}
+::-webkit-scrollbar-thumb{background:var(--b2);border-radius:3px}
+::-webkit-scrollbar-thumb:hover{background:var(--b3)}
+
+/* TOPBAR */
+.tb{background:var(--hdr-bg);border-bottom:1px solid rgba(255,255,255,0.08);padding:0 20px;display:flex;align-items:center;justify-content:space-between;height:34px;font-size:11px;color:rgba(255,255,255,0.6);position:sticky;top:0;z-index:200}
+.tb strong{color:rgba(255,255,255,0.9)}
+.tb a{color:#6ee7a0}
+.tb a:hover{color:#fff}
+
+/* HEADER */
+.hdr{background:linear-gradient(120deg,#0a2e14 0%,#1a5c2a 50%,#0e3a1a 100%);border-bottom:3px solid #22c55e;padding:0 24px;display:flex;align-items:center;gap:18px;position:relative;overflow:hidden;min-height:80px}
+.hdr::before{content:'';position:absolute;right:0;top:0;bottom:0;width:40%;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 100'%3E%3Ccircle cx='350' cy='20' r='80' fill='rgba(255,255,255,0.02)'/%3E%3Ccircle cx='300' cy='80' r='60' fill='rgba(255,255,255,0.03)'/%3E%3C/svg%3E") center/cover;pointer-events:none}
+.hdr::after{content:'';position:absolute;left:0;top:0;bottom:0;width:4px;background:linear-gradient(180deg,#22c55e,#16a34a)}
+.hdr-logo{width:56px;height:56px;background:rgba(255,255,255,0.12);border:2px solid rgba(255,255,255,0.25);border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:26px;flex-shrink:0;position:relative;z-index:1;backdrop-filter:blur(4px)}
+.hdr-text{flex:1;z-index:1}
+.hdr-title{font-size:17px;font-weight:800;color:#fff;letter-spacing:-0.3px;line-height:1.25;text-shadow:0 1px 3px rgba(0,0,0,0.3)}
+.hdr-sub{font-size:11px;color:rgba(255,255,255,0.6);margin-top:3px}
+.hdr-sub a{color:#86efac}
+.hdr-sub a:hover{color:#fff}
+.hdr-clock{text-align:right;z-index:1;flex-shrink:0}
+.hdr-clock .time{font-size:28px;font-weight:800;color:#86efac;font-variant-numeric:tabular-nums;line-height:1;text-shadow:0 0 20px rgba(134,239,172,0.4)}
+.hdr-clock .date{font-size:10.5px;color:rgba(255,255,255,0.55);margin-top:3px}
+
+/* NAV */
+.nav{background:#fff;border-bottom:1px solid var(--b1);display:flex;align-items:center;padding:0 18px;position:sticky;top:34px;z-index:150;overflow-x:auto;box-shadow:var(--sh)}
+.nav-a{display:flex;align-items:center;gap:5px;padding:12px 14px;font-size:12.5px;font-weight:600;color:var(--t3);cursor:pointer;border:none;border-bottom:3px solid transparent;background:none;font-family:inherit;white-space:nowrap;transition:all .2s;position:relative}
+.nav-a:hover{color:var(--p);border-bottom-color:rgba(26,122,58,0.3)}
+.nav-a.on{color:var(--p);border-bottom-color:var(--p)}
+.nav-date{margin-left:auto;font-size:10.5px;color:var(--t3);padding:0 4px;white-space:nowrap}
+
+/* TICKER */
+.ticker{background:#1a5c2a;border-bottom:1px solid #145223;display:flex;align-items:center;height:30px;overflow:hidden}
+.ticker-lbl{background:#22c55e;color:#0a2e14;font-size:9.5px;font-weight:800;padding:0 12px;height:100%;display:flex;align-items:center;white-space:nowrap;flex-shrink:0;letter-spacing:.6px;text-transform:uppercase}
+.ticker-wrap{flex:1;overflow:hidden;position:relative}
+.ticker-wrap::before,.ticker-wrap::after{content:'';position:absolute;top:0;bottom:0;width:36px;z-index:2;pointer-events:none}
+.ticker-wrap::before{left:0;background:linear-gradient(90deg,#1a5c2a 40%,transparent)}
+.ticker-wrap::after{right:0;background:linear-gradient(-90deg,#1a5c2a 40%,transparent)}
+.ticker-inner{display:inline-block;white-space:nowrap;font-size:11.5px;color:rgba(255,255,255,0.85);animation:tscroll 70s linear infinite;padding-left:100%;font-weight:500}
+.ticker-inner:hover{animation-play-state:paused}
+@keyframes tscroll{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+
+/* LAYOUT */
+.wrap{max-width:1380px;margin:0 auto;padding:0 16px}
+.body-grid{display:grid;grid-template-columns:1fr 256px;gap:14px;padding:16px 0;align-items:start}
+.main{min-width:0}
+.side{position:sticky;top:70px}
+
+/* PANELS */
+.panel{display:none}
+.panel.on{display:block;animation:fadeUp .22s ease}
+@keyframes fadeUp{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+
+/* SECTION HEADER */
+.sh{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;padding-bottom:8px;border-bottom:2px solid var(--b1)}
+.sh-t{font-size:13px;font-weight:700;color:var(--t1);display:flex;align-items:center;gap:7px;position:relative;padding-left:10px}
+.sh-t::before{content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:3px;height:16px;background:var(--p);border-radius:2px}
+.sh-more{font-size:11px;color:var(--t3);transition:color .2s;font-weight:500}
+.sh-more:hover{color:var(--p)}
+
+/* CARD BASE */
+.card{background:var(--g1);border:1px solid var(--b1);border-radius:var(--r);box-shadow:var(--sh);transition:border-color .2s,box-shadow .2s}
+.card:hover{border-color:var(--b2);box-shadow:0 4px 16px rgba(0,0,0,0.1)}
+.card-p{padding:14px}
+
+/* STAT CARDS */
+.stat-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:8px}
+.stat-c{background:#fff;border:1px solid var(--b1);border-radius:var(--rs);padding:14px 10px;text-align:center;transition:all .25s;position:relative;overflow:hidden;box-shadow:var(--sh)}
+.stat-c::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--p),#22c55e)}
+.stat-c:hover{border-color:var(--p);box-shadow:0 4px 16px rgba(26,122,58,0.12);transform:translateY(-2px)}
+.stat-v{font-size:20px;font-weight:800;color:var(--p);line-height:1.2}
+.stat-v.red{color:var(--re)}
+.stat-v.amb{color:var(--am)}
+.stat-lbl{font-size:10.5px;color:var(--t2);margin-top:4px;font-weight:500}
+.stat-sub{font-size:10px;color:var(--t3);margin-top:2px}
+
+/* FEATURED ARTICLE CARD */
+.feat-card{background:#fff;border:1px solid var(--b1);border-radius:var(--r);overflow:hidden;margin-bottom:14px;cursor:pointer;transition:all .3s;box-shadow:var(--sh);position:relative}
+.feat-card:hover{border-color:var(--p);box-shadow:0 8px 32px rgba(0,0,0,0.12),0 0 0 3px rgba(26,122,58,0.08);transform:translateY(-2px)}
+.feat-cover{width:100%;height:195px;object-fit:cover;display:block}
+.feat-cover-ph{width:100%;height:195px;background:linear-gradient(135deg,#0a2e14,#1a5c2a);display:flex;align-items:center;justify-content:center;font-size:52px}
+.feat-body{padding:16px}
+.feat-tag{display:inline-flex;align-items:center;gap:5px;font-size:10px;font-weight:700;color:var(--p);text-transform:uppercase;letter-spacing:.7px;margin-bottom:8px}
+.feat-title{font-size:15px;font-weight:800;color:var(--t1);line-height:1.35;margin-bottom:10px}
+.feat-sapo{font-size:12.5px;font-weight:600;color:var(--t2);line-height:1.65;border-left:3px solid var(--p);padding-left:12px;margin-bottom:12px;background:var(--pa);padding:8px 12px;border-radius:0 var(--rs) var(--rs) 0}
+.feat-text{font-size:12.5px;color:var(--t2);line-height:1.7;margin-bottom:10px}
+.feat-alert{background:#fef2f2;border:1px solid #fecaca;border-radius:var(--rs);padding:10px 13px;font-size:12px;color:#b91c1c;margin-bottom:12px;line-height:1.6}
+.feat-badges{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}
+.feat-b{display:inline-flex;align-items:center;gap:4px;font-size:10.5px;font-weight:600;padding:3px 9px;border-radius:20px;background:var(--g3);border:1px solid var(--b1);color:var(--t2)}
+.feat-cta{display:flex;align-items:center;justify-content:space-between;padding-top:10px;border-top:1px solid var(--b1)}
+.feat-cta-txt{font-size:12px;font-weight:700;color:var(--p)}
+.feat-cta-arr{font-size:16px;color:var(--p)}
+
+/* NEWS CARDS */
+.nc-big{background:#fff;border:1px solid var(--b1);border-radius:var(--r);overflow:hidden;margin-bottom:12px;transition:all .3s;box-shadow:var(--sh);position:relative}
+.nc-big::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--p),#22c55e);z-index:1}
+.nc-big:hover{border-color:var(--p);transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,0.1)}
+.nc-big-img{width:100%;height:148px;display:flex;align-items:center;justify-content:center;font-size:42px;background:linear-gradient(135deg,#0a2e14,#1a5c2a)}
+.nc-big-body{padding:12px 14px}
+.nc-cat{font-size:10px;font-weight:700;color:var(--p);text-transform:uppercase;letter-spacing:.8px;margin-bottom:5px}
+.nc-title{font-size:13px;font-weight:700;color:var(--t1);line-height:1.45;margin-bottom:5px}
+.nc-title a{color:inherit}
+.nc-title a:hover{color:var(--p)}
+.nc-meta{font-size:10.5px;color:var(--t3)}
+
+/* 3-COL NEWS GRID */
+.nc3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:14px}
+.nc3-c{background:#fff;border:1px solid var(--b1);border-radius:var(--rs);padding:12px;transition:all .25s;box-shadow:var(--sh)}
+.nc3-c:hover{border-color:var(--p);transform:translateY(-2px);box-shadow:0 4px 16px rgba(26,122,58,0.1)}
+.nc3-icon{font-size:20px;margin-bottom:7px}
+.nc3-title{font-size:11.5px;font-weight:600;color:var(--t1);line-height:1.45}
+.nc3-title a{color:inherit}
+.nc3-title a:hover{color:var(--p)}
+.nc3-meta{font-size:10px;color:var(--t3);margin-top:5px}
+
+/* NEWS LIST */
+.nlist{display:flex;flex-direction:column;gap:3px;margin-bottom:14px}
+.nitem{display:flex;align-items:center;gap:9px;padding:8px 10px;border-radius:var(--rs);background:#fff;border:1px solid var(--b1);transition:all .2s;box-shadow:0 1px 2px rgba(0,0,0,0.04)}
+.nitem:hover{background:var(--g3);border-color:var(--p);box-shadow:0 2px 8px rgba(26,122,58,0.08)}
+.nitem-ico{font-size:15px;flex-shrink:0;width:30px;height:30px;display:flex;align-items:center;justify-content:center;background:var(--pa);border-radius:7px}
+.nitem-body{flex:1;min-width:0}
+.nitem-title{font-size:12.5px;color:var(--t1);line-height:1.4;font-weight:500}
+.nitem-title a{color:inherit}
+.nitem-title a:hover{color:var(--p)}
+.nitem-meta{font-size:10px;color:var(--t3);margin-top:2px}
+.new-b{display:inline-flex;align-items:center;background:var(--p);color:#fff;font-size:8px;font-weight:800;padding:1px 5px;border-radius:3px;margin-left:5px;vertical-align:middle;letter-spacing:.3px}
+
+/* DISEASE ALERTS */
+.da-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px}
+.da{background:#fff;border:1px solid var(--b1);border-radius:var(--rs);padding:12px;position:relative;overflow:hidden;box-shadow:var(--sh)}
+.da.re{border-left:3px solid var(--re)}.da.re{background:#fff8f8}
+.da.am{border-left:3px solid var(--am)}.da.am{background:#fffbf2}
+.da.bl{border-left:3px solid var(--bl)}.da.bl{background:#f5f8ff}
+.da.gn{border-left:3px solid var(--gr)}.da.gn{background:#f2fdf5}
+.da-icon{font-size:18px;margin-bottom:5px}
+.da-name{font-size:12px;font-weight:700;color:var(--t1);margin-bottom:3px}
+.da-status{font-size:11px}
+
+/* VBPL */
+.vbpl{background:#fff;border:1px solid var(--b1);border-radius:var(--r);overflow:hidden;margin-bottom:14px;box-shadow:var(--sh)}
+.vbpl-grid{display:grid;grid-template-columns:1fr 1fr}
+.vbpl-item{padding:11px 14px;border-bottom:1px solid var(--b1);border-right:1px solid var(--b1);transition:background .2s}
+.vbpl-item:hover{background:var(--pa)}
+.vbpl-item:nth-child(2n){border-right:none}
+.vbpl-item:nth-last-child(-n+2){border-bottom:none}
+
+/* TECH CARDS */
+.tech-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:14px}
+.tech{background:#fff;border:1px solid var(--b1);border-radius:var(--rs);overflow:hidden;box-shadow:var(--sh)}
+.tech-bar{height:4px}
+.tech-body{padding:13px}
+.tech-cat{font-size:11px;font-weight:800;text-transform:uppercase;margin-bottom:7px}
+.tech ul{list-style:none;font-size:12px;color:var(--t2);line-height:1.8}
+.tech li{padding-left:12px;position:relative}
+.tech li::before{content:'›';position:absolute;left:0;color:var(--p);font-weight:700}
+
+/* QUICK LINKS */
+.qlnk-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:7px;margin-bottom:10px}
+.qlnk{display:flex;align-items:center;gap:8px;padding:9px 11px;background:#fff;border:1px solid var(--b1);border-radius:var(--rs);transition:all .2s;color:var(--t1);box-shadow:var(--sh)}
+.qlnk:hover{border-color:var(--p);background:var(--pa);color:var(--t1)}
+.qlnk span{font-size:17px;flex-shrink:0}
+.qlnk b{font-size:12px;display:block;color:var(--t1);font-weight:600}
+.qlnk small{font-size:10.5px;color:var(--t3);display:block}
+.grp-lbl{font-size:10.5px;font-weight:700;color:var(--p);text-transform:uppercase;letter-spacing:.5px;padding:3px 10px;background:var(--pa);border-radius:4px;display:inline-block;margin:0 0 7px;border:1px solid rgba(26,122,58,0.15)}
+
+/* PRICE TABLE */
+.price-tbl{background:#fff;border:1px solid var(--b1);border-radius:var(--r);overflow:hidden;margin-bottom:14px;box-shadow:var(--sh)}
+.price-hdr{background:linear-gradient(135deg,#f0fdf4,#dcfce7);border-bottom:1px solid var(--b1);padding:10px 14px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-weight:700;color:var(--t1)}
+.price-hdr em{font-size:10.5px;color:var(--t3);font-style:normal}
+.ptab{width:100%;border-collapse:collapse;font-size:12px}
+.ptab th{padding:7px 10px;text-align:left;background:#f8fafc;color:var(--t3);font-weight:600;font-size:11px;border-bottom:1px solid var(--b1)}
+.ptab td{padding:6px 10px;border-bottom:1px solid var(--b1);color:var(--t2)}
+.ptab tr:hover td{background:#f0fdf4;color:var(--t1)}
+.ptab .pv{font-weight:700;color:var(--p)}
+
+/* SCHEDULE */
+.sched-fr{width:100%;height:calc(100vh - 210px);min-height:560px;border:none;display:block;background:#fff;border-radius:0 0 var(--r) var(--r)}
+.sw-ctrl{display:flex;gap:7px;padding:10px 13px;flex-wrap:wrap;background:#fff;border-bottom:1px solid var(--b1)}
+.sw-btn{padding:5px 12px;border-radius:20px;border:1px solid var(--b1);background:#fff;color:var(--t2);font-size:11.5px;cursor:pointer;transition:all .2s;font-family:inherit}
+.sw-btn:hover{border-color:var(--p);color:var(--p);background:var(--pa)}
+.sw-btn.cur{background:var(--pa);border-color:var(--p);color:var(--p);font-weight:600}
+.sw-lbl{padding:3px 13px;display:block;font-size:11.5px;color:var(--t3)}
+
+/* ABOUT */
+.about-card{background:#fff;border:1px solid var(--b1);border-radius:var(--r);padding:18px;margin-bottom:14px;box-shadow:var(--sh)}
+.about-card h2{font-size:15px;font-weight:700;color:var(--t1);margin-bottom:10px;padding-left:10px;border-left:3px solid var(--p)}
+.about-card p{font-size:12.5px;color:var(--t2);margin-bottom:9px;line-height:1.7}
+.about-card strong{color:var(--t1)}
+
+/* STATION MAP */
+.stn-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:6px;margin-bottom:14px}
+.stn-c{display:flex;align-items:center;gap:7px;padding:8px;background:#fff;border:1px solid var(--b1);border-radius:var(--rs);transition:all .2s;color:var(--t2);font-size:11px;box-shadow:var(--sh)}
+.stn-c:hover{border-color:var(--p);color:var(--t1)}
+.stn-c.me{border-color:var(--p);border-left:3px solid var(--p);background:#f0fdf4}
+.stn-n{font-size:17px;font-weight:800;color:var(--p);flex-shrink:0}
+.stn-txt{font-size:11px;font-weight:600;color:var(--t1)}
+.stn-sub{font-size:10px;color:var(--t3)}
+
+/* SIDEBAR */
+.sb-box{background:#fff;border:1px solid var(--b1);border-radius:var(--r);overflow:hidden;margin-bottom:10px;box-shadow:var(--sh)}
+.sb-head{background:linear-gradient(135deg,#f0fdf4,#dcfce7);border-bottom:1px solid var(--b1);padding:9px 13px;font-size:12px;font-weight:700;color:var(--p);display:flex;align-items:center;justify-content:space-between}
+.sb-head.red{background:#fef2f2;border-bottom-color:#fecaca;color:var(--re)}
+.sb-head a{font-size:10.5px;color:var(--t3);font-weight:400}
+.sb-head a:hover{color:var(--p)}
+.sb-body{padding:9px 11px}
+.sb-list{list-style:none;display:flex;flex-direction:column;gap:2px}
+.sb-item{display:flex;align-items:center;gap:7px;padding:5px 6px;border-radius:6px;font-size:12px;color:var(--t2);transition:all .2s}
+.sb-item:hover{background:var(--g3);color:var(--t1)}
+.sb-item a{color:inherit;font-size:12px}
+.sb-item a:hover{color:var(--p)}
+.sb-dot{width:6px;height:6px;border-radius:50%;background:var(--p);flex-shrink:0}
+
+/* PROGRESS BAR */
+.prog-row{margin-bottom:10px}
+.prog-lbl{display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px}
+.prog-bar{height:7px;background:var(--g3);border-radius:4px;overflow:hidden;border:1px solid var(--b1)}
+.prog-fill{height:100%;border-radius:4px}
+
+/* ARTICLE */
+.art-wrap{background:#fff;border:1px solid var(--b1);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh)}
+.art-hdr{background:linear-gradient(120deg,#0a2e14,#1a5c2a,#0e3a1a);padding:22px 24px;border-bottom:3px solid #22c55e}
+.art-hdr h1{font-size:19px;font-weight:800;color:#fff;margin-bottom:10px;line-height:1.35}
+.art-meta{font-size:11px;color:rgba(255,255,255,0.6);display:flex;gap:14px;flex-wrap:wrap}
+.art-body{padding:22px 24px;font-size:13px;color:var(--t2);line-height:1.8}
+.art-body p{margin-bottom:14px}
+.art-sapo{font-size:13.5px;font-weight:600;color:var(--t1);line-height:1.7;border-left:3px solid var(--p);padding-left:14px;background:var(--pa);padding:10px 14px;border-radius:0 var(--rs) var(--rs) 0;margin-bottom:18px}
+.art-img{border-radius:var(--rs);object-fit:cover}
+.art-tbl{width:100%;border-collapse:collapse;font-size:12.5px;margin:14px 0}
+.art-tbl th{padding:8px 12px;text-align:left;background:#f0fdf4;color:var(--p);font-weight:700;font-size:11.5px;border-bottom:1px solid #bbf7d0}
+.art-tbl td{padding:7px 12px;border-bottom:1px solid var(--b1);color:var(--t2)}
+.art-tbl tr:hover td{background:#f0fdf4;color:var(--t1)}
+.art-tbl .av{font-weight:700;color:var(--p)}
+.art-alert{background:#fef2f2;border:1px solid #fecaca;border-radius:var(--rs);padding:13px 15px;font-size:12.5px;color:#b91c1c;margin:14px 0;line-height:1.65}
+.art-outlook{background:#f0fdf4;border:1px solid #bbf7d0;border-radius:var(--rs);padding:13px 15px;font-size:12.5px;color:var(--t2);margin:14px 0;line-height:1.7}
+.art-src{background:var(--g3);border:1px solid var(--b1);border-radius:var(--rs);padding:10px 14px;font-size:11.5px;color:var(--t3);margin-top:18px}
+.art-btn{padding:7px 18px;background:var(--pa);border:1px solid rgba(26,122,58,0.3);border-radius:20px;color:var(--p);font-size:12px;cursor:pointer;font-family:inherit;transition:all .2s;font-weight:600}
+.art-btn:hover{background:var(--pb);border-color:var(--p)}
+
+/* BADGES */
+.badge{display:inline-flex;align-items:center;font-size:10px;font-weight:700;padding:2px 7px;border-radius:4px}
+.badge-b{background:#eff6ff;color:#2563eb;border:1px solid #bfdbfe}
+.badge-g{background:#f0fdf4;color:#16a34a;border:1px solid #bbf7d0}
+.badge-r{background:#fef2f2;color:#dc2626;border:1px solid #fecaca}
+.note-box{background:#f0fdf4;border:1px solid #bbf7d0;border-radius:var(--rs);padding:10px 14px;font-size:11.5px;color:var(--t2);margin-bottom:14px}
+.all-wrap{max-width:1000px}
+footer{background:linear-gradient(135deg,#0a2e14,#1a5c2a);border-top:3px solid #22c55e;color:rgba(255,255,255,0.7);text-align:center;padding:16px 20px;font-size:11.5px;margin-top:18px}
+footer strong{color:#86efac}
+footer a{color:#86efac}
+
+/* LIVE PULSE DOT */
+.live-dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--p);
+  box-shadow:0 0 0 0 rgba(26,122,58,.6);animation:livepulse 1.8s ease-in-out infinite;flex-shrink:0}
+@keyframes livepulse{
+  0%{box-shadow:0 0 0 0 rgba(26,122,58,.7)}
+  70%{box-shadow:0 0 0 8px rgba(26,122,58,0)}
+  100%{box-shadow:0 0 0 0 rgba(26,122,58,0)}}
+
+/* REFRESH PROGRESS BAR */
+.refresh-bar{height:2px;width:100%;background:linear-gradient(90deg,var(--p),#22c55e);
+  transform-origin:left;transform:scaleX(0);border-radius:1px;display:block}
+
+/* CARD HOVER GLOW */
+.nc-big:hover{box-shadow:0 8px 24px rgba(0,0,0,.1),0 0 0 2px rgba(26,122,58,.1)}
+.stat-c:hover{box-shadow:0 4px 16px rgba(26,122,58,.12),0 2px 6px rgba(0,0,0,.06)}
+.nc3-c:hover{box-shadow:0 4px 16px rgba(0,0,0,.08)}
+.feat-card:hover{box-shadow:0 8px 32px rgba(0,0,0,.1),0 0 0 3px rgba(26,122,58,.08)}
+
+/* STAT TOP BAR ANIMATE */
+.stat-c::before{transition:transform .35s ease;transform:scaleX(0);transform-origin:left}
+.stat-c:hover::before{transform:scaleX(1)}
+
+/* NEW NITEM FLASH */
+@keyframes newflash{
+  0%{background:#f0fdf4;border-color:rgba(26,122,58,.3)}
+  100%{background:#fff;border-color:var(--b1)}}
+.nitem-new{animation:newflash 2s ease-out forwards}
+
+/* BACK TO TOP */
+#backTop{position:fixed;bottom:22px;right:18px;z-index:600;
+  width:38px;height:38px;border-radius:50%;
+  background:var(--p);
+  border:none;cursor:pointer;color:#fff;font-size:17px;font-weight:700;
+  display:flex;align-items:center;justify-content:center;
+  opacity:0;pointer-events:none;transition:opacity .3s,box-shadow .3s;
+  box-shadow:0 2px 8px rgba(26,122,58,0.3)}
+#backTop.show{opacity:1;pointer-events:all}
+#backTop:hover{box-shadow:0 4px 16px rgba(26,122,58,0.4)}
+
+/* ───────── UTILITY GRID CLASSES (responsive) ───────── */
+.dgrid{display:grid}
+.c2{grid-template-columns:1fr 1fr}
+.c3{grid-template-columns:repeat(3,1fr)}
+.c4{grid-template-columns:repeat(4,1fr)}
+.gap8{gap:8px}.gap10{gap:10px}.gap12{gap:12px}
+.mb8{margin-bottom:8px}.mb14{margin-bottom:14px}
+
+/* ───────── RESPONSIVE BREAKPOINTS ───────── */
+/* Tablet & dưới: thu gọn sidebar xuống dưới nội dung chính */
+@media (max-width:980px){
+  .body-grid{grid-template-columns:1fr}
+  .side{position:static;top:auto}
+  .stn-grid{grid-template-columns:repeat(3,1fr)}
+}
+/* Tablet nhỏ */
+@media (max-width:768px){
+  .hdr{flex-wrap:wrap;min-height:auto;padding:12px 16px;gap:12px}
+  .hdr-clock{text-align:left;width:100%;display:flex;align-items:baseline;gap:10px}
+  .hdr-clock .time{font-size:22px}
+  .hdr-clock .date{margin-top:0}
+  .c3,.c4,.tech-grid,.da-grid{grid-template-columns:1fr 1fr}
+  .vbpl-grid{grid-template-columns:1fr}
+  .vbpl-item:nth-child(2n){border-right:1px solid var(--b1)}
+  .vbpl-item{border-right:none}
+}
+/* Điện thoại */
+@media (max-width:560px){
+  body{font-size:13px}
+  .wrap{padding:0 10px}
+  .c2,.c3,.c4,.stat-grid,.tech-grid,.da-grid,.nc3,.stn-grid{grid-template-columns:1fr}
+  .tb{flex-direction:column;height:auto;padding:6px 14px;gap:2px;align-items:flex-start}
+  .hdr-title{font-size:15px}
+  .nav-a{padding:10px;font-size:12px}
+  .nav-date{display:none}
+  /* các lưới khai báo inline cần co lại trên mobile */
+  .feat-title{font-size:14px}
+  footer{font-size:11px}
+}
+/* Bảng nhiều cột: cho cuộn ngang trong vùng đã bọc, không ép tràn các bảng nhỏ */
+.price-tbl>div[style*="overflow"] .ptab{min-width:520px}
+.price-tbl>div[style*="overflow"]{-webkit-overflow-scrolling:touch}
+
+/* ───────── GIẢM CHUYỂN ĐỘNG (accessibility) ───────── */
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{
+    animation-duration:.001ms !important;
+    animation-iteration-count:1 !important;
+    transition-duration:.001ms !important;
+    scroll-behavior:auto !important;
+  }
+  .ticker-inner{animation:none;padding-left:0}
+}
+
+/* ───────── NÚT ĐIỀU KHIỂN TRÊN NAV (theme / cài app) ───────── */
+.nav-ctrl{display:flex;align-items:center;gap:6px;margin-left:auto;padding-left:8px}
+.nav-btn{display:inline-flex;align-items:center;gap:5px;border:1px solid var(--b1);background:var(--g2);
+  color:var(--t2);font-family:inherit;font-size:11.5px;font-weight:600;padding:6px 11px;border-radius:20px;
+  cursor:pointer;white-space:nowrap;transition:all .2s}
+.nav-btn:hover{border-color:var(--p);color:var(--p);background:var(--pa)}
+.nav-btn.primary{background:linear-gradient(135deg,var(--p),#22c55e);color:#fff;border-color:transparent}
+.nav-btn.primary:hover{filter:brightness(1.08);color:#fff}
+
+/* ───────── DARK MODE ───────── */
+[data-theme="dark"]{
+  --bg:#0b1220;--bg2:#0f1828;--bg3:#132034;
+  --g1:#141d2e;--g2:#111a29;--g3:#1b2638;
+  --b1:#28344c;--b2:#3a4868;--b3:#5a6c8c;
+  --pa:rgba(34,197,94,0.14);--pb:rgba(34,197,94,0.24);
+  --t1:#e8edf6;--t2:#bac6da;--t3:#8595ad;
+  --sh:0 1px 4px rgba(0,0,0,.45),0 4px 14px rgba(0,0,0,.35);
+}
+[data-theme="dark"] .nav,
+[data-theme="dark"] .stat-c,
+[data-theme="dark"] .feat-card,
+[data-theme="dark"] .nc-big,
+[data-theme="dark"] .nc3-c,
+[data-theme="dark"] .nitem,
+[data-theme="dark"] .da,
+[data-theme="dark"] .vbpl,
+[data-theme="dark"] .tech,
+[data-theme="dark"] .qlnk,
+[data-theme="dark"] .price-tbl,
+[data-theme="dark"] .about-card,
+[data-theme="dark"] .stn-c,
+[data-theme="dark"] .sb-box,
+[data-theme="dark"] .art-wrap,
+[data-theme="dark"] .sw-ctrl,
+[data-theme="dark"] .sched-fr{background:var(--g1)}
+/* các thẻ khai báo nền trắng inline (TTHC, giới thiệu...) */
+[data-theme="dark"] [style*="background:#fff"]{background:var(--g1) !important}
+/* tiêu đề nền xanh nhạt */
+[data-theme="dark"] .price-hdr,
+[data-theme="dark"] .sb-head{background:var(--g3);color:var(--p)}
+[data-theme="dark"] .sb-head.red{background:rgba(220,38,38,.14);color:#fca5a5;border-bottom-color:rgba(220,38,38,.3)}
+/* bảng */
+[data-theme="dark"] .ptab th{background:var(--g3);color:var(--t3)}
+[data-theme="dark"] .ptab tr:hover td{background:rgba(34,197,94,.08);color:var(--t1)}
+[data-theme="dark"] .art-tbl th{background:rgba(34,197,94,.10);color:#86efac;border-bottom-color:#1f5132}
+[data-theme="dark"] .art-tbl tr:hover td{background:rgba(34,197,94,.06);color:var(--t1)}
+/* hộp cảnh báo / ghi chú */
+[data-theme="dark"] .feat-alert,
+[data-theme="dark"] .art-alert{background:rgba(220,38,38,.10);border-color:rgba(220,38,38,.35);color:#fca5a5}
+[data-theme="dark"] .note-box,
+[data-theme="dark"] .art-outlook{background:var(--pa);border-color:rgba(34,197,94,.3);color:var(--t2)}
+/* badge */
+[data-theme="dark"] .badge-b{background:rgba(37,99,235,.18);color:#93c5fd;border-color:rgba(37,99,235,.4)}
+[data-theme="dark"] .badge-g{background:rgba(22,163,74,.18);color:#86efac;border-color:rgba(22,163,74,.4)}
+[data-theme="dark"] .badge-r{background:rgba(220,38,38,.18);color:#fca5a5;border-color:rgba(220,38,38,.4)}
+</style>
+</head>
+<body>
+
+<div class="tb">
+  <span><strong>Trạm Chăn nuôi &amp; Thú y KV9</strong> &nbsp;|&nbsp; Chi cục CNTY TP.HCM &nbsp;|&nbsp; <a href="mailto:tcntykv9.snnmt@tphcm.gov.vn">tcntykv9.snnmt@tphcm.gov.vn</a></span>
+  <small>QL55, ấp Phước Hòa, xã Hồ Tràm, Xuyên Mộc, BR-VT</small>
+</div>
+
+<div class="hdr">
+  <div class="hdr-logo">🐄</div>
+  <div class="hdr-text">
+    <div class="hdr-title">Trạm Chăn nuôi và Thú y Khu vực 9</div>
+    <div class="hdr-sub">Chi cục Chăn nuôi và Thú y TP.HCM &nbsp;·&nbsp; Sở NN&amp;MT TP.HCM &nbsp;·&nbsp; <a href="https://chicuccntyhcm.gov.vn" target="_blank">chicuccntyhcm.gov.vn</a></div>
+  </div>
+  <div class="hdr-clock">
+    <div class="time" id="hdrClock">--:--:--</div>
+    <div class="date" id="hdrDate"></div>
+  </div>
+</div>
+
+<nav class="nav">
+  <button class="nav-a on" id="nav-home" onclick="goTab('home')">🏠 Trang chủ</button>
+  <button class="nav-a" id="nav-news" onclick="goTab('news')">📰 Tin tức</button>
+  <button class="nav-a" id="nav-schedule" onclick="goTab('schedule')">📅 Lịch công tác</button>
+  <button class="nav-a" id="nav-stats" onclick="goTab('stats')">💰 Giá sản phẩm</button>
+  <button class="nav-a" id="nav-about" onclick="goTab('about')">ℹ️ Giới thiệu</button>
+  <button class="nav-a" id="nav-links" onclick="goTab('links')">🔗 Liên kết</button>
+  <div class="nav-ctrl">
+    <span class="nav-date" id="navDate"></span>
+    <button class="nav-btn primary" id="installBtn" style="display:none" onclick="installApp()" title="Cài đặt ứng dụng">⬇️ Cài app</button>
+    <button class="nav-btn" id="themeBtn" onclick="toggleTheme()" title="Chuyển chế độ sáng/tối" aria-label="Chuyển chế độ sáng/tối">🌙 Tối</button>
+  </div>
+</nav>
+
+<div class="ticker">
+  <div class="ticker-lbl">🔔 Tin mới</div>
+  <div class="ticker-wrap">
+    <span class="refresh-bar" id="refreshBar"></span>
+    <div class="ticker-inner" id="tickerEl">🔔 Phối hợp kiểm tra, kiểm soát hoạt động vận chuyển động vật, sản p ⋆ 🔔 Bộ trưởng Trịnh Việt Hùng gửi Thư Chúc mừng Tạp chí NN&MT nhân Kỷ ⋆ 🔔 Đẩy mạnh phòng, chống dịch bệnh và phát triển chăn nuôi theo chuỗ ⋆ 🔔 Thông tin ban đầu vụ việc nghi ngờ ngộ độc thực phẩm tại Trường T ⋆ 🔔 Công bố quyết định thành lập Báo và Phát thanh, Truyền hình TPHCM ⋆ 🔔 Đồng chí Lê Quốc Phong: Sự ra đời Cơ quan Báo và Phát thanh, Truy ⋆ 🔔 Hội đồng phối hợp phổ biến, giáo dục pháp luật Thành phố tổ chức  ⋆ 🔔 TP.HCM khảo sát công nghệ xe tự hành, thúc đẩy phát triển sản phẩ &nbsp;&nbsp;&nbsp;&nbsp; 🔔 Phối hợp kiểm tra, kiểm soát hoạt động vận chuyển động vật, sản p ⋆ 🔔 Bộ trưởng Trịnh Việt Hùng gửi Thư Chúc mừng Tạp chí NN&MT nhân Kỷ ⋆ 🔔 Đẩy mạnh phòng, chống dịch bệnh và phát triển chăn nuôi theo chuỗ ⋆ 🔔 Thông tin ban đầu vụ việc nghi ngờ ngộ độc thực phẩm tại Trường T ⋆ 🔔 Công bố quyết định thành lập Báo và Phát thanh, Truyền hình TPHCM ⋆ 🔔 Đồng chí Lê Quốc Phong: Sự ra đời Cơ quan Báo và Phát thanh, Truy ⋆ 🔔 Hội đồng phối hợp phổ biến, giáo dục pháp luật Thành phố tổ chức  ⋆ 🔔 TP.HCM khảo sát công nghệ xe tự hành, thúc đẩy phát triển sản phẩ</div>
+  </div>
+</div>
+
+<div class="wrap">
+<div class="body-grid">
+<div class="main">
+
+<!-- ════ PANEL HOME ════ -->
+<div class="panel on" id="panel-home">
+
+<!-- BÁO CÁO NỔI BẬT (FEAT) -->
+<div class="feat-card" onclick="goTab('article-35')" tabindex="0" role="button" aria-label="Đọc báo cáo KV9">
+  <img class="feat-cover" src="https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=900&q=80" alt="Chăn nuôi KV9" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+  <div class="feat-cover-ph" style="display:none">🐄</div>
+  <div class="feat-body">
+    <div class="feat-tag">📋 BC số 35/BC-TCNTY9 &nbsp;·&nbsp; 08/06/2026 &nbsp;·&nbsp; Trạm KV9</div>
+    <div class="feat-title">Tổng quan hoạt động chăn nuôi – thú y KV9: Đàn heo vượt 203.000 con, kiểm soát tốt dịch bệnh 6T/2026</div>
+    <div class="feat-sapo">Khu vực 9 ghi nhận tăng trưởng ổn định +5,5% so cùng kỳ. Công tác phòng chống dịch bài bản — 6 tháng liên tiếp không có ổ dịch tả heo châu Phi mới.</div>
+    <div class="feat-badges">
+      <span class="feat-b">🐷 Heo: 203.157 con</span>
+      <span class="feat-b">🐔 Gia cầm: 3,59 triệu</span>
+      <span class="feat-b">💉 FMD: 94%</span>
+      <span class="feat-b">🚫 ASF: 0 ổ dịch 6T</span>
+      <span class="feat-b">📈 Tăng trưởng +5,5%</span>
+      <span class="feat-b">🏠 Yến: 239 nhà</span>
+    </div>
+    <div class="feat-cta"><span class="feat-cta-txt">Nhấp để đọc toàn bài →</span><span class="feat-cta-arr">›</span></div>
+  </div>
+</div>
+
+<!-- DASHBOARD STATS (2 ROW × 4) -->
+<div class="dgrid c4 gap8 mb8">
+  <div class="stat-c"><div class="stat-v">203.157</div><div class="stat-lbl">🐷 Tổng đàn heo</div><div class="stat-sub">BC 35 · T6/2026</div></div>
+  <div class="stat-c"><div class="stat-v">3.592.446</div><div class="stat-lbl">🐔 Gia cầm (con)</div><div class="stat-sub">6T/2026</div></div>
+  <div class="stat-c"><div class="stat-v">94%</div><div class="stat-lbl">💉 Tiêm FMD/LMLM</div><div class="stat-sub">6 tháng 2026</div></div>
+  <div class="stat-c"><div class="stat-v red">0</div><div class="stat-lbl">🚫 Ổ dịch ASF</div><div class="stat-sub">Đã kiểm soát 6T</div></div>
+</div>
+<div class="dgrid c4 gap8 mb14">
+  <div class="stat-c"><div class="stat-v">9.006</div><div class="stat-lbl">🐄 Trâu bò</div><div class="stat-sub">T5/2026</div></div>
+  <div class="stat-c"><div class="stat-v">12.712</div><div class="stat-lbl">🐐 Dê (con)</div><div class="stat-sub">6T/2026</div></div>
+  <div class="stat-c"><div class="stat-v">239</div><div class="stat-lbl">🏠 Nhà yến</div><div class="stat-sub">170 hộ nuôi</div></div>
+  <div class="stat-c"><div class="stat-v">+5,5%</div><div class="stat-lbl">📈 Tăng trưởng CN</div><div class="stat-sub">So cùng kỳ 2025</div></div>
+</div>
+
+<!-- TIẾN ĐỘ TIÊM PHÒNG + GIÁ (2 cột ngang) -->
+<div class="dgrid c2 gap10 mb14">
+  <!-- Tiêm phòng -->
+  <div class="card card-p">
+    <div class="sh" style="margin-bottom:10px;padding-bottom:6px"><span class="sh-t">💉 Tiêm phòng KV9 — 6T/2026</span></div>
+    <div class="prog-row">
+      <div class="prog-lbl"><span style="color:var(--t2);font-size:12px">💉 FMD Trâu bò</span><span style="color:var(--p);font-weight:700;font-size:12px">94%</span></div>
+      <div class="prog-bar"><div class="prog-fill" style="width:94%;background:linear-gradient(90deg,var(--p),var(--bl))"></div></div>
+    </div>
+    <div class="prog-row">
+      <div class="prog-lbl"><span style="color:var(--t2);font-size:12px">🐕 Tiêm phòng Dại</span><span style="color:#f5a623;font-weight:700;font-size:12px">32,50%</span></div>
+      <div class="prog-bar"><div class="prog-fill" style="width:32.5%;background:linear-gradient(90deg,#f5a623,#ef4444)"></div></div>
+    </div>
+    <div class="prog-row" style="margin-bottom:0">
+      <div class="prog-lbl"><span style="color:var(--t2);font-size:12px">🏭 Heo CN cao</span><span style="color:var(--p);font-weight:700;font-size:12px">92%</span></div>
+      <div class="prog-bar"><div class="prog-fill" style="width:92%;background:linear-gradient(90deg,var(--gr),var(--p))"></div></div>
+    </div>
+    <div style="margin-top:9px;font-size:10.5px;color:var(--t3);padding-top:8px;border-top:1px solid var(--b1)">Tổng thể KV9: <strong style="color:#f5a623">81%</strong> &nbsp;·&nbsp; Heo CN cao: <strong style="color:var(--p)">186.837 con</strong></div>
+  </div>
+  <!-- Giá thị trường -->
+  <div class="card card-p">
+    <div class="sh" style="margin-bottom:10px;padding-bottom:6px"><span class="sh-t">💰 Giá sản phẩm T6/2026</span><a class="sh-more" href="#" onclick="goTab('stats');return false">Chi tiết »</a></div>
+    <table style="width:100%;border-collapse:collapse;font-size:12px">
+      <tr style="border-bottom:1px solid var(--b1)">
+        <td style="padding:5px 0;color:var(--t2)">🐷 Heo hơi</td>
+        <td style="text-align:right;font-weight:700;color:var(--p)">65.000 đ/kg</td>
+        <td style="text-align:right;font-size:10px;color:#10b981;padding-left:6px">▲ ổn định</td>
+      </tr>
+      <tr style="border-bottom:1px solid var(--b1)">
+        <td style="padding:5px 0;color:var(--t2)">🐔 Gà lông màu</td>
+        <td style="text-align:right;font-weight:700;color:#f5a623">38.000 đ/kg</td>
+        <td style="text-align:right;font-size:10px;color:#ef4444;padding-left:6px">▼ -1.000</td>
+      </tr>
+      <tr style="border-bottom:1px solid var(--b1)">
+        <td style="padding:5px 0;color:var(--t2)">🥚 Trứng gà CN</td>
+        <td style="text-align:right;font-weight:700;color:var(--p)">1.400 đ/quả</td>
+        <td style="text-align:right;font-size:10px;color:var(--t3);padding-left:6px">= Ổn định</td>
+      </tr>
+      <tr>
+        <td style="padding:5px 0;color:var(--t2)">🦆 Vịt thịt</td>
+        <td style="text-align:right;font-weight:700;color:var(--p)">32.000 đ/kg</td>
+        <td style="text-align:right;font-size:10px;color:#10b981;padding-left:6px">▲ +1.000</td>
+      </tr>
+    </table>
+    <div style="margin-top:8px;font-size:10.5px;color:var(--t3);text-align:right"><a href="https://channuoivietnam.com" target="_blank">channuoivietnam.com »</a></div>
+  </div>
+</div>
+
+<!-- TIN NỔI BẬT + NC3 (2 cột: nc-big trái / nc3 phải) -->
+<div class="sh"><span class="sh-t">🔥 Tin nổi bật</span><a class="sh-more" href="#" onclick="goTab('news');return false">Xem tất cả »</a></div>
+<div class="dgrid c2 gap10 mb14">
+  <!-- NC-BIG-START -->
+  <!-- nc-big (trái) -->
+  <div class="nc-big" style="margin-bottom:0">
+    <div style="position:relative;width:100%;height:145px;overflow:hidden">
+      <img src="https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=900&q=80" alt="" style="width:100%;height:100%;object-fit:cover;display:block" onerror="this.parentElement.style.background='linear-gradient(135deg,#0d1a30,#0a201a)';this.style.display='none'">
+      <div style="position:absolute;top:0;left:0;right:0;bottom:0;background:linear-gradient(to bottom,rgba(6,10,18,0.1) 0%,rgba(6,10,18,0.7) 100%)"></div>
+      <div style="position:absolute;bottom:8px;left:12px"><span style="background:rgba(0,200,150,0.9);color:#000;font-size:9px;font-weight:800;padding:2px 7px;border-radius:3px;text-transform:uppercase;letter-spacing:.5px">🚗 Nổi bật</span></div>
+    </div>
+    <div class="nc-big-body">
+      <div class="nc-cat">🚗 Chi cục CNTY HCM · 19/06/2026</div>
+      <div class="nc-title"><a href="https://chicuccntyhcm.gov.vn/new/2026/06/19/phoi-hop-kiem-tra-kiem-soat-hoat-dong-van-chuyen-dong-vat-san-pham-dong-vat-ra-vao-thanh-pho-ho-chi-minh.aspx" target="_blank">Phối hợp kiểm tra, kiểm soát hoạt động vận chuyển động vật, sản phẩm động vật ra vào TP.HCM</a></div>
+      <div class="nc-meta">Xem chi tiết tại nguồn Chi cục CNTY HCM.</div>
+    </div>
+  </div>
+  <!-- NC-BIG-END -->
+  <!-- NC3-START -->
+  <!-- nc3 dạng cột (phải) -->
+  <div style="display:flex;flex-direction:column;gap:8px">
+    <div class="nc3-c" style="border-left:3px solid #00c896;padding-left:12px">
+      <div style="display:flex;gap:7px;align-items:center;margin-bottom:5px">
+        <span style="background:#00c89620;border:1px solid #00c89650;padding:2px 6px;border-radius:4px;font-size:9px;font-weight:800;color:#00c896">📋 Mới</span>
+        <span style="font-size:10px;color:var(--t3)">21/06/2026</span>
+      </div>
+      <div class="nc3-title" style="font-size:12px;line-height:1.4"><a href="https://mae.gov.vn/bo-truong-trinh-viet-hung-gui-thu-chuc-mung-tap-chi-nong-nghiep-va-moi-truong-nhan-ky-niem-101-nam-ngay-bao-chi-cach-mang-viet-nam-22118.htm" target="_blank">Bộ trưởng Trịnh Việt Hùng gửi Thư Chúc mừng Tạp chí NN&MT nhân Kỷ niệm 101 năm Ngày B…</a></div>
+    </div>
+    <div class="nc3-c" style="border-left:3px solid #4f8ef7;padding-left:12px">
+      <div style="display:flex;gap:7px;align-items:center;margin-bottom:5px">
+        <span style="background:#4f8ef720;border:1px solid #4f8ef750;padding:2px 6px;border-radius:4px;font-size:9px;font-weight:800;color:#4f8ef7">🔍 Mới</span>
+        <span style="font-size:10px;color:var(--t3)">12/03/2026</span>
+      </div>
+      <div class="nc3-title" style="font-size:12px;line-height:1.4"><a href="https://cucthuy.gov.vn/web/guest/news" target="_blank">Đẩy mạnh phòng, chống dịch bệnh và phát triển chăn nuôi theo chuỗi giá trị bền vững</a></div>
+    </div>
+    <div class="nc3-c" style="border-left:3px solid #f5a623;padding-left:12px">
+      <div style="display:flex;gap:7px;align-items:center;margin-bottom:5px">
+        <span style="background:#f5a62320;border:1px solid #f5a62350;padding:2px 6px;border-radius:4px;font-size:9px;font-weight:800;color:#f5a623">🚔 Mới</span>
+        <span style="font-size:10px;color:var(--t3)">2026</span>
+      </div>
+      <div class="nc3-title" style="font-size:12px;line-height:1.4"><a href="http://sattp.hochiminhcity.gov.vn/ArticleDetail.aspx?NewsID=8085" target="_blank">Thông tin ban đầu vụ việc nghi ngờ ngộ độc thực phẩm tại Trường Tiểu học Đặng Thùy Tr…</a></div>
+    </div>
+  </div>
+  <!-- NC3-END -->
+</div>
+
+<!-- CẢNH BÁO DỊCH BỆNH (4 thẻ hàng ngang) -->
+<div class="sh"><span class="sh-t">⚠️ Cảnh báo dịch bệnh</span><a class="sh-more" href="https://cucthuy.gov.vn/web/guest/phong-chong-dich-benh-tren-can" target="_blank">Cục CN&TY »</a></div>
+<div class="dgrid c4 gap8 mb14">
+  <div class="da re" style="padding:10px 11px">
+    <div style="font-size:15px;margin-bottom:4px">🦠</div>
+    <div style="font-size:11.5px;font-weight:700;color:#ef4444;margin-bottom:2px"><a href="https://mae.gov.vn/lao-cai-chu-dong-ngua-dich-lo-mom-long-mong-serotype-sat1-22003.htm" target="_blank" style="color:#ef4444">LMLM SAT1</a></div>
+    <div style="font-size:10.5px;color:#ef4444">⚡ Lào Cai · Toàn quốc</div>
+  </div>
+  <div class="da am" style="padding:10px 11px">
+    <div style="font-size:15px;margin-bottom:4px">🐦</div>
+    <div style="font-size:11.5px;font-weight:700;color:#f5a623;margin-bottom:2px"><a href="https://cucthuy.gov.vn" target="_blank" style="color:#f5a623">Cúm H5N1/H5N8</a></div>
+    <div style="font-size:10.5px;color:#f5a623">⚠️ Cảnh báo cao</div>
+  </div>
+  <div class="da bl" style="padding:10px 11px">
+    <div style="font-size:15px;margin-bottom:4px">🐕</div>
+    <div style="font-size:11.5px;font-weight:700;color:#4f8ef7;margin-bottom:2px"><a href="https://chicuccntyhcm.gov.vn/new/2026/06/03/Tap-huan-phong-chong-benh-Dai.aspx" target="_blank" style="color:#4f8ef7">Bệnh dại</a></div>
+    <div style="font-size:10.5px;color:#4f8ef7">💉 Tiêm đợt 2/2026</div>
+  </div>
+  <div class="da gn" style="padding:10px 11px">
+    <div style="font-size:15px;margin-bottom:4px">🐷</div>
+    <div style="font-size:11.5px;font-weight:700;color:#10b981;margin-bottom:2px"><a href="https://cucthuy.gov.vn" target="_blank" style="color:#10b981">ASF (Dịch tả heo)</a></div>
+    <div style="font-size:10.5px;color:#10b981">✅ Đã kiểm soát 6T</div>
+  </div>
+</div>
+
+<!-- TIN TỨC MỚI NHẤT -->
+<div class="sh"><span class="sh-t">📰 Tin tức mới nhất</span><a class="sh-more" href="#" onclick="goTab('news');return false">Xem tất cả »</a></div>
+<div class="nlist" id="home-nlist">
+    <div class="nitem" data-s="cucthuy"><div class="nitem-ico">🐄</div><div class="nitem-body"><div class="nitem-title"><a href="https://cucthuy.gov.vn/web/guest/news" target="_blank">Đẩy mạnh phòng, chống dịch bệnh và phát triển chăn nuôi theo chuỗi giá trị bền vững</a></div><div class="nitem-meta">🐄 cucthuy.gov.vn · 12/03/2026</div></div></div>
+    <div class="nitem" data-s="sattp"><div class="nitem-ico">⚠️</div><div class="nitem-body"><div class="nitem-title"><a href="http://sattp.hochiminhcity.gov.vn/ArticleDetail.aspx?NewsID=8085" target="_blank">Thông tin ban đầu vụ việc nghi ngờ ngộ độc thực phẩm tại Trường Tiểu học Đặng Thùy Trâm</a></div><div class="nitem-meta">🍽️ sattp.hochiminhcity.gov.vn · 2026</div></div></div>
+    <div class="nitem" data-s="chinhphu"><div class="nitem-ico">🏛️</div><div class="nitem-body"><div class="nitem-title"><a href="https://tphcm.chinhphu.vn/cong-bo-quyet-dinh-thanh-lap-bao-va-phat-thanh-truyen-hinh-tphcm-102260620095329233.htm" target="_blank">Công bố quyết định thành lập Báo và Phát thanh, Truyền hình TPHCM<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🇻🇳 tphcm.chinhphu.vn · 20/06/2026</div></div></div>
+    <div class="nitem" data-s="hcmcpv"><div class="nitem-ico">🏛️</div><div class="nitem-body"><div class="nitem-title"><a href="https://hcmcpv.org.vn/tin-tuc/dong-chi-le-quoc-phong-su-ra-doi-co-quan-bao-va-phat-thanh-truyen-hinh-tphcm-la-khoi-dau-hanh-trin-1491944120" target="_blank">Đồng chí Lê Quốc Phong: Sự ra đời Cơ quan Báo và Phát thanh, Truyền hình TPHCM là khởi đầu hành trìn<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🎖️ hcmcpv.org.vn · 21/06/2026</div></div></div>
+    <div class="nitem" data-s="sotuphap"><div class="nitem-ico">⚖️</div><div class="nitem-body"><div class="nitem-title"><a href="https://sotuphap.hochiminhcity.gov.vn/tin-tuc-su-kien" target="_blank">Hội đồng phối hợp phổ biến, giáo dục pháp luật Thành phố tổ chức Hội nghị triển khai công tác phổ bi</a></div><div class="nitem-meta">⚖️ sotuphap.hochiminhcity.gov.vn · 18/06/2026</div></div></div>
+    <div class="nitem" data-s="dost"><div class="nitem-ico">🚗</div><div class="nitem-body"><div class="nitem-title"><a href="https://dost.hochiminhcity.gov.vn/hoat-dong-so-khcn/thanh-pho-ho-chi-minh-khao-sat-cong-nghe-xe-tu-hanh-thuc-day-phat-trien-san-pham-cong-nghe-chien-luoc-phuc-vu-xa-hoi/" target="_blank">TP.HCM khảo sát công nghệ xe tự hành, thúc đẩy phát triển sản phẩm công nghệ chiến lược phục vụ xã h</a></div><div class="nitem-meta">🔬 dost.hochiminhcity.gov.vn · 2026</div></div></div>
+    <div class="nitem" data-s="chicuccntyhcm"><div class="nitem-ico">📊</div><div class="nitem-body"><div class="nitem-title"><a href="https://chicuccntyhcm.gov.vn/new/2026/06/19/Hoi-nghi-so-ket-tinh-hinh-hoat-dong-linh-vuc-chan-nuoi-va-thu-y-06-thang-dau-nam-2026.aspx" target="_blank">Hội nghị sơ kết tình hình hoạt động lĩnh vực chăn nuôi và thú y 06 tháng đầu năm 2026<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🏥 Chi cục CNTY HCM · 19/06/2026</div></div></div>
+    <div class="nitem" data-s="mae"><div class="nitem-ico">⛈️</div><div class="nitem-body"><div class="nitem-title"><a href="https://mae.gov.vn/du-bao-bao-mekhala-tiep-tuc-manh-len-va-khong-vao-bien-dong-22116.htm" target="_blank">Dự báo bão Mekhala tiếp tục mạnh lên và không vào Biển Đông<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🌿 mae.gov.vn · 21/06/2026</div></div></div>
+    <div class="nitem" data-s="cucthuy"><div class="nitem-ico">🐄</div><div class="nitem-body"><div class="nitem-title"><a href="https://cucthuy.gov.vn/web/guest/news" target="_blank">Triển lãm và hội thảo quốc tế lần thứ 10 về chăn nuôi, sản xuất sữa, chế biến thịt và nuôi trồng thủ</a></div><div class="nitem-meta">🐄 cucthuy.gov.vn · 2026</div></div></div>
+    <div class="nitem" data-s="sattp"><div class="nitem-ico">⚠️</div><div class="nitem-body"><div class="nitem-title"><a href="http://sattp.hochiminhcity.gov.vn/ArticleDetail.aspx?NewsID=8065" target="_blank">Sở An toàn thực phẩm TP.HCM thông tin kết quả điều tra vụ ngộ độc thực phẩm tại Trường Tiểu học Bình</a></div><div class="nitem-meta">🍽️ sattp.hochiminhcity.gov.vn · 2026</div></div></div>
+    <div class="nitem" data-s="chinhphu"><div class="nitem-ico">🎭</div><div class="nitem-body"><div class="nitem-title"><a href="https://tphcm.chinhphu.vn/lan-toa-gia-tri-ao-dai-tai-ngay-hoi-van-hoa-ao-dai-tphcm-lan-thu-ii-10126062009165274.htm" target="_blank">Lan tỏa giá trị áo dài tại Ngày hội Văn hóa áo dài TPHCM lần thứ II<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🇻🇳 tphcm.chinhphu.vn · 20/06/2026</div></div></div>
+    <div class="nitem" data-s="hcmcpv"><div class="nitem-ico">🏙️</div><div class="nitem-body"><div class="nitem-title"><a href="https://hcmcpv.org.vn/tin-tuc/chu-tich-ubnd-tphcm-nguyen-van-duoc-tang-truong-2-con-so-la-menh-lenh-trach-nhiem-cua-thanh-pho-1491944115" target="_blank">Chủ tịch UBND TPHCM Nguyễn Văn Được: Tăng trưởng 2 con số là mệnh lệnh, trách nhiệm của thành phố<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🎖️ hcmcpv.org.vn · 20/06/2026</div></div></div>
+</div><!-- NLIST-END -->
+
+<!-- VĂN BẢN PHÁP LUẬT -->
+<!-- VĂN BẢN PHÁP LUẬT header row -->
+<div class="sh" style="display:flex;align-items:center;flex-wrap:wrap;gap:6px">
+  <span class="sh-t">📄 Văn bản pháp luật mới</span>
+  <div style="margin-left:auto;display:flex;gap:8px;flex-wrap:wrap">
+    <a class="sh-more" href="https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=ch%C4%83n+nu%C3%B4i+th%C3%BA+y&sort=1" target="_blank">Thư viện PL »</a>
+    <a class="sh-more" href="https://luatvietnam.vn/van-ban-moi.html" target="_blank">LuatVN »</a>
+    <a class="sh-more" href="https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx" target="_blank">CSDL QG »</a>
+    <a class="sh-more" href="https://sotuphap.hochiminhcity.gov.vn/web/stp/van-ban-phap-luat" target="_blank">Sở TP »</a>
+  </div>
+</div>
+<div class="vbpl" style="margin-bottom:14px">
+  <!-- VBPL-START -->
+  <div class="vbpl-grid">
+    <div class="vbpl-item">
+      <div style="display:flex;gap:7px;align-items:flex-start">
+        <span class="badge badge-b" style="flex-shrink:0;margin-top:2px">15/2026/NQ-CP</span>
+        <div>
+          <div style="font-size:12.5px;font-weight:600;color:var(--t1);line-height:1.45;margin-bottom:3px"><a href="https://chicuccntyhcm.gov.vn/file.axd?file=2026%2f4%2f15_2026_NQ_CP.NQ_tam_dung_hieu_luc_1.pdf" target="_blank">Nghị quyết tạm ngưng hiệu lực Nghị định 46/2026/NĐ-CP của Chính phủ</a></div>
+          <div style="font-size:11px;color:var(--t3)">06/04/2026 — Chính phủ &nbsp;<a href="https://chicuccntyhcm.gov.vn/file.axd?file=2026%2f4%2f15_2026_NQ_CP.NQ_tam_dung_hieu_luc_1.pdf" target="_blank" style="color:var(--bl);font-weight:600">📥 PDF</a></div>
+        </div>
+      </div>
+    </div>
+    <div class="vbpl-item">
+      <div style="display:flex;gap:7px;align-items:flex-start">
+        <span class="badge badge-b" style="flex-shrink:0;margin-top:2px">146/2025/QH15</span>
+        <div>
+          <div style="font-size:12.5px;font-weight:600;color:var(--t1);line-height:1.45;margin-bottom:3px"><a href="https://chicuccntyhcm.gov.vn/file.axd?file=2026%2f1%2f146.2025_LUAT_SUA_DOI_15_LUAT.pdf" target="_blank">Luật sửa đổi 15 Luật lĩnh vực nông nghiệp và môi trường</a></div>
+          <div style="font-size:11px;color:var(--t3)">11/12/2025 — Quốc hội &nbsp;<a href="https://chicuccntyhcm.gov.vn/file.axd?file=2026%2f1%2f146.2025_LUAT_SUA_DOI_15_LUAT.pdf" target="_blank" style="color:var(--bl);font-weight:600">📥 PDF</a></div>
+        </div>
+      </div>
+    </div>
+    <div class="vbpl-item">
+      <div style="display:flex;gap:7px;align-items:flex-start">
+        <span class="badge badge-b" style="flex-shrink:0;margin-top:2px">4795/UBND-ĐT</span>
+        <div>
+          <div style="font-size:12.5px;font-weight:600;color:var(--t1);line-height:1.45;margin-bottom:3px"><a href="https://chicuccntyhcm.gov.vn/file.axd?file=2025%2f12%2fCV_UBND_TP_trien_khai_Nghi_quyet_so_64_signed.pdf" target="_blank">Triển khai NQ 64/2025/NQ-HĐND hỗ trợ kinh phí tiêm vắc-xin GSGC</a></div>
+          <div style="font-size:11px;color:var(--t3)">18/12/2025 — UBND TP.HCM &nbsp;<a href="https://chicuccntyhcm.gov.vn/file.axd?file=2025%2f12%2fCV_UBND_TP_trien_khai_Nghi_quyet_so_64_signed.pdf" target="_blank" style="color:var(--bl);font-weight:600">📥 PDF</a></div>
+        </div>
+      </div>
+    </div>
+    <div class="vbpl-item">
+      <div style="display:flex;gap:7px;align-items:flex-start">
+        <span class="badge badge-g" style="flex-shrink:0;margin-top:2px">MỚI</span>
+        <div>
+          <div style="font-size:12.5px;font-weight:600;color:var(--t1);line-height:1.45;margin-bottom:3px"><a href="https://chicuccntyhcm.gov.vn/Luat/Default.aspx" target="_blank">Thông tư 05/2026/TT-BNNMT hướng dẫn kiểm dịch động vật xuất nhập khẩu</a></div>
+          <div style="font-size:11px;color:var(--t3)">02/06/2026 — Bộ NN&amp;MT &nbsp;<a href="https://chicuccntyhcm.gov.vn/Luat/Default.aspx" target="_blank" style="color:var(--p);font-weight:600">Xem tại chicuccntyhcm »</a></div>
+        </div>
+      </div>
+    </div>
+    <div class="vbpl-item">
+      <div style="display:flex;gap:7px;align-items:flex-start">
+        <span class="badge badge-g" style="flex-shrink:0;margin-top:2px">MỚI</span>
+        <div>
+          <div style="font-size:12.5px;font-weight:600;color:var(--t1);line-height:1.45;margin-bottom:3px"><a href="https://luatvietnam.vn/van-ban-moi.html" target="_blank">Văn bản mới ban hành — Nghị định, Thông tư tháng 06/2026</a></div>
+          <div style="font-size:11px;color:var(--t3)">06/2026 — LuatVietnam.vn</div>
+        </div>
+      </div>
+    </div>
+    <div class="vbpl-item">
+      <div style="display:flex;gap:7px;align-items:flex-start">
+        <span class="badge badge-g" style="flex-shrink:0;margin-top:2px">MỚI</span>
+        <div>
+          <div style="font-size:12.5px;font-weight:600;color:var(--t1);line-height:1.45;margin-bottom:3px"><a href="https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?dvid=13" target="_blank">Cơ sở dữ liệu quốc gia về pháp luật — Văn bản mới nhất</a></div>
+          <div style="font-size:11px;color:var(--t3)">06/2026 — CSDL Quốc gia (vbpl.vn)</div>
+        </div>
+      </div>
+    </div>
+    <div class="vbpl-item">
+      <div style="display:flex;gap:7px;align-items:flex-start">
+        <span class="badge badge-g" style="flex-shrink:0;margin-top:2px">VB HCM</span>
+        <div>
+          <div style="font-size:12.5px;font-weight:600;color:var(--t1);line-height:1.45;margin-bottom:3px"><a href="https://sotuphap.hochiminhcity.gov.vn/web/stp/van-ban-phap-luat" target="_blank">Sở Tư pháp TP.HCM — Văn bản pháp luật địa phương mới nhất</a></div>
+          <div style="font-size:11px;color:var(--t3)">06/2026 — Sở Tư pháp HCM</div>
+        </div>
+      </div>
+    </div>
+    <div class="vbpl-item">
+      <div style="display:flex;gap:7px;align-items:flex-start">
+        <span class="badge badge-b" style="flex-shrink:0;margin-top:2px">MỚI</span>
+        <div>
+          <div style="font-size:12.5px;font-weight:600;color:var(--t1);line-height:1.45;margin-bottom:3px"><a href="https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=an+to%C3%A0n+th%E1%BB%B1c+ph%E1%BA%A9m&sort=1" target="_blank">Văn bản an toàn thực phẩm mới ban hành — Thư viện pháp luật</a></div>
+          <div style="font-size:11px;color:var(--t3)">06/2026 — Thư viện pháp luật</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- VBPL-END -->
+</div>
+
+<!-- HƯỚNG DẪN KỸ THUẬT (3 cột) -->
+<div class="sh"><span class="sh-t">🔬 Hướng dẫn kỹ thuật</span><a class="sh-more" href="https://cucthuy.gov.vn/web/guest/thu-y-cong-dong-ksgm-attp" target="_blank">Xem thêm »</a></div>
+<div class="tech-grid" style="margin-bottom:14px">
+  <div class="tech">
+    <div class="tech-bar" style="background:linear-gradient(90deg,#c0392b,#e74c3c)"></div>
+    <div class="tech-body">
+      <div class="tech-cat" style="color:#ef4444">💉 Tiêm phòng bắt buộc 2026</div>
+      <ul><li>Lở mồm long móng (FMD) — Trâu bò, heo</li><li>Tụ huyết trùng — Trâu bò</li><li>Dịch tả heo cổ điển (CSF)</li><li>Cúm gia cầm H5N1 — Gà, vịt, ngan</li><li>Bệnh dại — Chó, mèo</li><li>Newcastle — Gà, chim cút</li></ul>
+      <a href="https://chicuccntyhcm.gov.vn" target="_blank" style="font-size:11px;color:var(--p);font-weight:600;display:inline-block;margin-top:8px">Lịch tiêm chi tiết »</a>
+    </div>
+  </div>
+  <div class="tech">
+    <div class="tech-bar" style="background:linear-gradient(90deg,var(--p),var(--gr))"></div>
+    <div class="tech-body">
+      <div class="tech-cat" style="color:var(--p)">🔍 Kiểm soát giết mổ</div>
+      <ul><li>Kiểm dịch trước giết mổ 100% đàn</li><li>Đóng dấu kiểm soát giết mổ bắt buộc</li><li>Kiểm tra chất cấm: Salbutamol, Clenbuterol</li><li>Kiểm tra kháng sinh tồn dư</li><li>Xét nghiệm ATTP định kỳ hằng tháng</li><li>Xử lý nghiêm giết mổ không phép</li></ul>
+      <a href="https://cucthuy.gov.vn/web/guest/thu-y-cong-dong-ksgm-attp" target="_blank" style="font-size:11px;color:var(--p);font-weight:600;display:inline-block;margin-top:8px">Quy trình KSGM »</a>
+    </div>
+  </div>
+  <div class="tech">
+    <div class="tech-bar" style="background:linear-gradient(90deg,var(--bl),#6366f1)"></div>
+    <div class="tech-body">
+      <div class="tech-cat" style="color:var(--bl)">🐛 Phòng chống dịch bệnh</div>
+      <ul><li>Khai báo dịch bệnh động vật bắt buộc</li><li>Lấy mẫu xét nghiệm chẩn đoán bệnh</li><li>Hỗ trợ thiệt hại dịch bệnh nhà nước</li><li>Vệ sinh, tiêu độc khử trùng sau dịch</li><li>Giám sát dịch bệnh định kỳ</li><li>Thông báo ổ dịch và vùng uy hiếp</li></ul>
+      <a href="https://chicuccntyhcm.gov.vn" target="_blank" style="font-size:11px;color:var(--p);font-weight:600;display:inline-block;margin-top:8px">Chi cục CNTY HCM »</a>
+    </div>
+  </div>
+</div>
+
+<!-- THỦ TỤC HÀNH CHÍNH THEO CHUYÊN NGÀNH -->
+<div class="sh" style="margin-top:4px">
+  <span class="sh-t">📋 Thủ tục hành chính theo chuyên ngành</span>
+  <a class="sh-more" href="https://vpcp.dichvucong.gov.vn/p/home/dvc-trang-chu.html" target="_blank">🖥️ Cổng DVC Quốc gia »</a>
+</div>
+<div class="dgrid c3 gap10 mb14">
+
+  <!-- Cột 1: Chăn nuôi -->
+  <div style="background:#fff;border:1px solid var(--b1);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh)">
+    <div style="background:linear-gradient(90deg,#1a7a3a,#27ae60);height:4px"></div>
+    <div style="padding:12px 14px">
+      <div style="font-size:11px;font-weight:800;text-transform:uppercase;color:#1a7a3a;margin-bottom:8px">🐄 Chăn nuôi</div>
+      <ul style="margin:0;padding-left:16px;font-size:12px;color:var(--t2);line-height:1.8">
+        <li><a href="https://vpcp.dichvucong.gov.vn/p/home/dvc-trang-chu.html" target="_blank" style="color:var(--t2)">Cấp giấy phép cơ sở chăn nuôi tập trung</a></li>
+        <li><a href="https://vpcp.dichvucong.gov.vn/p/home/dvc-trang-chu.html" target="_blank" style="color:var(--t2)">Đăng ký mã số cơ sở chăn nuôi</a></li>
+        <li><a href="https://vpcp.dichvucong.gov.vn/p/home/dvc-trang-chu.html" target="_blank" style="color:var(--t2)">Cấp chứng nhận VietGAHP chăn nuôi</a></li>
+        <li><a href="https://cucthuy.gov.vn/web/guest/tthc" target="_blank" style="color:var(--t2)">Công nhận cơ sở an toàn dịch bệnh</a></li>
+      </ul>
+      <a href="https://cucthuy.gov.vn/web/guest/tthc" target="_blank" style="font-size:11px;color:var(--p);font-weight:600;display:inline-block;margin-top:8px">Xem TTHC »</a>
+    </div>
+  </div>
+
+  <!-- Cột 2: Thú y & Thuốc TY -->
+  <div style="background:#fff;border:1px solid var(--b1);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh)">
+    <div style="background:linear-gradient(90deg,#2980b9,#3498db);height:4px"></div>
+    <div style="padding:12px 14px">
+      <div style="font-size:11px;font-weight:800;text-transform:uppercase;color:#2980b9;margin-bottom:8px">💊 Thú y &amp; Thuốc TY</div>
+      <ul style="margin:0;padding-left:16px;font-size:12px;color:var(--t2);line-height:1.8">
+        <li><a href="https://vpcp.dichvucong.gov.vn/p/home/dvc-trang-chu.html" target="_blank" style="color:var(--t2)">Cấp chứng chỉ hành nghề thú y</a></li>
+        <li><a href="https://vpcp.dichvucong.gov.vn/p/home/dvc-trang-chu.html" target="_blank" style="color:var(--t2)">Đăng ký kinh doanh thuốc thú y</a></li>
+        <li><a href="https://vpcp.dichvucong.gov.vn/p/home/dvc-trang-chu.html" target="_blank" style="color:var(--t2)">Cấp giấy phép nhập khẩu thuốc TY</a></li>
+        <li><a href="https://cucthuy.gov.vn/web/guest/tthc" target="_blank" style="color:var(--t2)">Cấp số đăng ký lưu hành thuốc TY</a></li>
+      </ul>
+      <a href="https://cucthuy.gov.vn/web/guest/tthc" target="_blank" style="font-size:11px;color:var(--bl);font-weight:600;display:inline-block;margin-top:8px">Xem TTHC »</a>
+    </div>
+  </div>
+
+  <!-- Cột 3: Giết mổ & Kiểm dịch -->
+  <div style="background:#fff;border:1px solid var(--b1);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh)">
+    <div style="background:linear-gradient(90deg,#8e44ad,#9b59b6);height:4px"></div>
+    <div style="padding:12px 14px">
+      <div style="font-size:11px;font-weight:800;text-transform:uppercase;color:#8e44ad;margin-bottom:8px">🏭 Giết mổ &amp; Kiểm dịch</div>
+      <ul style="margin:0;padding-left:16px;font-size:12px;color:var(--t2);line-height:1.8">
+        <li><a href="https://vpcp.dichvucong.gov.vn/p/home/dvc-trang-chu.html" target="_blank" style="color:var(--t2)">Cấp phép cơ sở giết mổ tập trung</a></li>
+        <li><a href="https://vpcp.dichvucong.gov.vn/p/home/dvc-trang-chu.html" target="_blank" style="color:var(--t2)">Cấp giấy chứng nhận kiểm dịch ĐV</a></li>
+        <li><a href="https://cucthuy.gov.vn/web/guest/tthc/kiem-dich-dong-vat" target="_blank" style="color:var(--t2)">Kiểm dịch ĐV xuất, nhập khẩu</a></li>
+        <li><a href="https://cucthuy.gov.vn/web/guest/tthc/kiem-dich-dong-vat" target="_blank" style="color:var(--t2)">Kiểm dịch vận chuyển nội địa</a></li>
+      </ul>
+      <a href="https://cucthuy.gov.vn/web/guest/tthc/kiem-dich-dong-vat" target="_blank" style="font-size:11px;color:#8e44ad;font-weight:600;display:inline-block;margin-top:8px">Xem TTHC »</a>
+    </div>
+  </div>
+
+  <!-- Cột 4: ATTP -->
+  <div style="background:#fff;border:1px solid var(--b1);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh)">
+    <div style="background:linear-gradient(90deg,#e67e22,#f39c12);height:4px"></div>
+    <div style="padding:12px 14px">
+      <div style="font-size:11px;font-weight:800;text-transform:uppercase;color:#e67e22;margin-bottom:8px">🍽️ An toàn thực phẩm</div>
+      <ul style="margin:0;padding-left:16px;font-size:12px;color:var(--t2);line-height:1.8">
+        <li><a href="https://sattp.hochiminhcity.gov.vn" target="_blank" style="color:var(--t2)">Cấp giấy chứng nhận ATTP cơ sở</a></li>
+        <li><a href="https://vpcp.dichvucong.gov.vn/p/home/dvc-trang-chu.html" target="_blank" style="color:var(--t2)">Xác nhận ATTP sản phẩm ĐV</a></li>
+        <li><a href="https://sattp.hochiminhcity.gov.vn" target="_blank" style="color:var(--t2)">Kiểm tra điều kiện ATTP chợ đầu mối</a></li>
+        <li><a href="https://sattp.hochiminhcity.gov.vn" target="_blank" style="color:var(--t2)">Tự công bố sản phẩm thực phẩm</a></li>
+      </ul>
+      <a href="https://sattp.hochiminhcity.gov.vn" target="_blank" style="font-size:11px;color:#e67e22;font-weight:600;display:inline-block;margin-top:8px">Sở ATTP HCM »</a>
+    </div>
+  </div>
+
+  <!-- Cột 5: Nộp hồ sơ trực tuyến -->
+  <div style="background:#fff;border:1px solid var(--b1);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh)">
+    <div style="background:linear-gradient(90deg,#16a085,#1abc9c);height:4px"></div>
+    <div style="padding:12px 14px">
+      <div style="font-size:11px;font-weight:800;text-transform:uppercase;color:#16a085;margin-bottom:8px">🖥️ Nộp hồ sơ trực tuyến</div>
+      <ul style="margin:0;padding-left:16px;font-size:12px;color:var(--t2);line-height:1.8">
+        <li><a href="https://vpcp.dichvucong.gov.vn/p/home/dvc-trang-chu.html" target="_blank" style="color:var(--t2)">Cổng DVC Quốc gia (VPCP)</a></li>
+        <li><a href="https://dichvucong.hochiminhcity.gov.vn" target="_blank" style="color:var(--t2)">Cổng DVC TP.HCM</a></li>
+        <li><a href="https://chicuccntyhcm.gov.vn" target="_blank" style="color:var(--t2)">Chi cục CNTY HCM — TTHC</a></li>
+        <li><a href="https://cucthuy.gov.vn/web/guest/tthc" target="_blank" style="color:var(--t2)">Cục Chăn nuôi &amp; Thú y — TTHC</a></li>
+      </ul>
+      <a href="https://vpcp.dichvucong.gov.vn/p/home/dvc-trang-chu.html" target="_blank" style="font-size:11px;color:#16a085;font-weight:600;display:inline-block;margin-top:8px">Nộp hồ sơ ngay »</a>
+    </div>
+  </div>
+
+  <!-- Cột 6: Biểu mẫu & Tra cứu -->
+  <div style="background:#fff;border:1px solid var(--b1);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh)">
+    <div style="background:linear-gradient(90deg,#c0392b,#e74c3c);height:4px"></div>
+    <div style="padding:12px 14px">
+      <div style="font-size:11px;font-weight:800;text-transform:uppercase;color:#c0392b;margin-bottom:8px">📄 Biểu mẫu &amp; Tra cứu</div>
+      <ul style="margin:0;padding-left:16px;font-size:12px;color:var(--t2);line-height:1.8">
+        <li><a href="https://chicuccntyhcm.gov.vn/Luat/Default.aspx" target="_blank" style="color:var(--t2)">Biểu mẫu TTHC chăn nuôi thú y</a></li>
+        <li><a href="https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=ch%C4%83n+nu%C3%B4i+th%C3%BA+y&sort=1" target="_blank" style="color:var(--t2)">Tra cứu văn bản pháp luật</a></li>
+        <li><a href="https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx" target="_blank" style="color:var(--t2)">CSDL pháp luật quốc gia</a></li>
+        <li><a href="https://sotuphap.hochiminhcity.gov.vn/web/stp/van-ban-phap-luat" target="_blank" style="color:var(--t2)">Văn bản pháp luật Sở Tư pháp HCM</a></li>
+      </ul>
+      <a href="https://thuvienphapluat.vn" target="_blank" style="font-size:11px;color:#c0392b;font-weight:600;display:inline-block;margin-top:8px">Tra cứu ngay »</a>
+    </div>
+  </div>
+
+</div>
+
+<!-- LIÊN KẾT NHANH -->
+<div class="sh"><span class="sh-t">🔗 Liên kết nhanh</span><a class="sh-more" href="#" onclick="goTab('links');return false">Xem tất cả »</a></div>
+<div class="grp-lbl">🐄 Chuyên ngành Chăn nuôi &amp; Thú y</div>
+<div class="qlnk-grid" style="margin-bottom:8px">
+  <a class="qlnk" href="https://chicuccntyhcm.gov.vn" target="_blank"><span>🏥</span><div><b>Chi cục CNTY HCM</b><small>chicuccntyhcm.gov.vn</small></div></a>
+  <a class="qlnk" href="https://cucthuy.gov.vn" target="_blank"><span>🐄</span><div><b>Cục Chăn nuôi &amp; Thú y</b><small>cucthuy.gov.vn</small></div></a>
+  <a class="qlnk" href="https://mae.gov.vn" target="_blank"><span>🌿</span><div><b>Bộ NN &amp; Môi trường</b><small>mae.gov.vn</small></div></a>
+  <a class="qlnk" href="https://sonnmt.hochiminhcity.gov.vn" target="_blank"><span>🏙️</span><div><b>Sở NN&amp;MT TP.HCM</b><small>sonnmt.hochiminhcity.gov.vn</small></div></a>
+  <a class="qlnk" href="https://nafiqpm.mae.gov.vn" target="_blank"><span>🔬</span><div><b>NAFIQPM</b><small>nafiqpm.mae.gov.vn</small></div></a>
+  <a class="qlnk" href="https://channuoivietnam.com" target="_blank"><span>🌾</span><div><b>Chăn nuôi Việt Nam</b><small>channuoivietnam.com</small></div></a>
+</div>
+<div class="grp-lbl" style="margin-bottom:7px">🏛️ Cơ quan Thành phố HCM</div>
+<div class="qlnk-grid" style="margin-bottom:14px">
+  <a class="qlnk" href="https://www.hochiminhcity.gov.vn" target="_blank"><span>🏛️</span><div><b>UBND TP.HCM</b><small>hochiminhcity.gov.vn</small></div></a>
+  <a class="qlnk" href="https://sattp.hochiminhcity.gov.vn" target="_blank"><span>🍽️</span><div><b>Sở ATTP TP.HCM</b><small>sattp.hochiminhcity.gov.vn</small></div></a>
+  <a class="qlnk" href="https://nhachannuoi.vn" target="_blank"><span>🐄</span><div><b>Tạp chí CN Việt Nam</b><small>nhachannuoi.vn</small></div></a>
+  <a class="qlnk" href="https://vcn.org.vn" target="_blank"><span>🔬</span><div><b>Viện Chăn nuôi VN</b><small>vcn.org.vn</small></div></a>
+  <a class="qlnk" href="https://hoichannuoi.vn" target="_blank"><span>🤝</span><div><b>Hội Chăn nuôi VN</b><small>hoichannuoi.vn</small></div></a>
+  <a class="qlnk" href="https://nongnghiepmoitruong.vn/chan-nuoi/" target="_blank"><span>🌱</span><div><b>NN &amp; Môi trường</b><small>nongnghiepmoitruong.vn</small></div></a>
+  <a class="qlnk" href="https://medinet.hochiminhcity.gov.vn" target="_blank"><span>🏥</span><div><b>Sở Y tế (Medinet)</b><small>medinet.hochiminhcity.gov.vn</small></div></a>
+  <a class="qlnk" href="https://sonoivu.hochiminhcity.gov.vn" target="_blank"><span>👥</span><div><b>Sở Nội vụ HCM</b><small>sonoivu.hochiminhcity.gov.vn</small></div></a>
+</div>
+
+</div><!-- /panel-home -->
+
+
+<!-- ════ PANEL NEWS ════ -->
+<div class="panel" id="panel-news">
+  <div class="all-wrap">
+    <div class="sh" style="margin-bottom:12px"><span class="sh-t">📰 Tất cả tin tức</span></div>
+    <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px">
+      <button class="sw-btn cur" data-s="all" onclick="filterNews(this,'all')">Tất cả</button>
+      <button class="sw-btn" data-s="chicuccntyhcm" onclick="filterNews(this,'chicuccntyhcm')">🏥 Chi cục CNTY</button>
+      <button class="sw-btn" data-s="mae" onclick="filterNews(this,'mae')">🌿 Bộ NN&MT</button>
+      <button class="sw-btn" data-s="cucthuy" onclick="filterNews(this,'cucthuy')">🐄 Cục CN&TY</button>
+      <button class="sw-btn" data-s="sps" onclick="filterNews(this,'sps')">🛡️ SPS/ATTP</button>
+      <button class="sw-btn" data-s="nafiqpm" onclick="filterNews(this,'nafiqpm')">🔬 NAFIQPM</button>
+      <button class="sw-btn" data-s="channuoi" onclick="filterNews(this,'channuoi')">🌾 Chăn nuôi VN</button>
+      <button class="sw-btn" data-s="sonnmt" onclick="filterNews(this,'sonnmt')">🏙️ Sở NN&MT HCM</button>
+      <button class="sw-btn" data-s="sattp" onclick="filterNews(this,'sattp')">🍽️ Sở ATTP HCM</button>
+      <button class="sw-btn" data-s="hcmcity" onclick="filterNews(this,'hcmcity')">🏛️ UBND TP.HCM</button>
+      <button class="sw-btn" data-s="soban" onclick="filterNews(this,'soban')">🏢 Sở ban ngành</button>
+      <button class="sw-btn" data-s="nhachannuoi" onclick="filterNews(this,'nhachannuoi')">🐄 Tạp chí CNVN</button>
+      <button class="sw-btn" data-s="vcn" onclick="filterNews(this,'vcn')">🔬 Viện Chăn nuôi</button>
+      <button class="sw-btn" data-s="hoichannuoi" onclick="filterNews(this,'hoichannuoi')">🤝 Hội Chăn nuôi</button>
+      <button class="sw-btn" data-s="nongnghiepmt" onclick="filterNews(this,'nongnghiepmt')">🌱 NN Môi trường</button>
+      <button class="sw-btn" data-s="medinet" onclick="filterNews(this,'medinet')">🏥 Sở Y tế HCM</button>
+      <button class="sw-btn" data-s="chinhphu" onclick="filterNews(this,'chinhphu')">🇻🇳 Chính phủ HCM</button>
+      <button class="sw-btn" data-s="hcmcpv" onclick="filterNews(this,'hcmcpv')">🎖️ Thành ủy HCM</button>
+      <button class="sw-btn" data-s="sotuphap" onclick="filterNews(this,'sotuphap')">⚖️ Sở Tư pháp</button>
+      <button class="sw-btn" data-s="congthuong" onclick="filterNews(this,'congthuong')">🏭 Sở Công thương</button>
+      <button class="sw-btn" data-s="dost" onclick="filterNews(this,'dost')">🔬 Sở KH&amp;CN</button>
+      <button class="sw-btn" data-s="sdttg" onclick="filterNews(this,'sdttg')">💻 Sở DL&amp;TT</button>
+      <button class="sw-btn" data-s="hcmedu" onclick="filterNews(this,'hcmedu')">🎓 Sở GD&amp;ĐT</button>
+      <button class="sw-btn" data-s="tcvg" onclick="filterNews(this,'tcvg')">💰 Sở Tài chính</button>
+      <button class="sw-btn" data-s="sodulich" onclick="filterNews(this,'sodulich')">✈️ Sở Du lịch</button>
+    </div>
+    <div class="nlist">
+      <div class="nitem" data-s="chicuccntyhcm"><div class="nitem-ico">📋</div><div class="nitem-body"><div class="nitem-title"><a href="https://chicuccntyhcm.gov.vn/new/2026/06/11/Diem-moi-ve-viec-tu-cong-bo-thong-tin-san-pham-thuc-an-chan-nuoi.aspx" target="_blank">Điểm mới về việc "tự công bố thông tin" sản phẩm thức ăn chăn nuôi<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🏥 Chi cục CNTY HCM · 11/06/2026</div></div></div>
+      <div class="nitem" data-s="mae"><div class="nitem-ico">📜</div><div class="nitem-body"><div class="nitem-title"><a href="https://mae.gov.vn/hoi-nghi-toan-quoc-quan-triet-nghi-quyet-06-ve-doi-ngoai-dai-hoi-xiv-cua-dang-22047.htm" target="_blank">Hội nghị toàn quốc quán triệt Nghị quyết 06-NQ/TW về đối ngoại Đại hội XIV<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🌿 mae.gov.vn · 11/06/2026</div></div></div>
+      <div class="nitem" data-s="mae"><div class="nitem-ico">🌍</div><div class="nitem-body"><div class="nitem-title"><a href="https://mae.gov.vn/tong-bi-thu-chu-tich-nuoc-to-lam-bao-ve-moi-truong-va-thich-ung-bien-doi-khi-hau-la-mot-trong-nhung-tru-cot-phat-trien-moi-22041.htm" target="_blank">Tổng Bí thư Tô Lâm: Bảo vệ môi trường và thích ứng biến đổi khí hậu là trụ cột phát triển mới<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🌿 mae.gov.vn · 11/06/2026</div></div></div>
+      <div class="nitem" data-s="mae"><div class="nitem-ico">🏙️</div><div class="nitem-body"><div class="nitem-title"><a href="https://mae.gov.vn/tphcm-phe-duyet-danh-muc-67-ho-ao-dam-pha-khong-duoc-san-lap-22046.htm" target="_blank">TP.HCM phê duyệt danh mục 67 hồ, ao, đầm, phá không được san lấp<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🌿 mae.gov.vn · 11/06/2026</div></div></div>
+      <div class="nitem" data-s="chicuccntyhcm"><div class="nitem-ico">🔍</div><div class="nitem-body"><div class="nitem-title"><a href="https://chicuccntyhcm.gov.vn/new/2026/06/10/Thong-tin-huong-dan-su-dung-he-thong-mot-cua-Quan-ly-dang-ky-doi-voi-co-so-san-xuat-thuc-pham-nhap-khau-nuoc-ngoai.aspx" target="_blank">Hướng dẫn hệ thống một cửa quản lý đăng ký cơ sở sản xuất thực phẩm nhập khẩu<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🏥 Chi cục CNTY HCM · 10/06/2026</div></div></div>
+      <div class="nitem" data-s="mae"><div class="nitem-ico">🏙️</div><div class="nitem-body"><div class="nitem-title"><a href="https://mae.gov.vn/tin-tuc--su-kien/uu-tien-bo-tri-nguon-luc-cho-dong-nai-phat-trien-cao-hon-22051.htm" target="_blank">Thủ tướng: Ưu tiên nguồn lực cho Đồng Nai nếu hoàn thành mục tiêu tăng trưởng<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🌿 mae.gov.vn · 13/06/2026</div></div></div>
+      <div class="nitem" data-s="mae"><div class="nitem-ico">🔬</div><div class="nitem-body"><div class="nitem-title"><a href="https://mae.gov.vn/tin-tuc--su-kien/dong-bo-du-lieu-de-he-thong-truy-xuat-nguon-goc-len-song-dung-hen-22043.htm" target="_blank">Đồng bộ dữ liệu để hệ thống truy xuất nguồn gốc nông lâm thủy sản 'lên sóng' đúng hẹn<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🌿 mae.gov.vn · 10/06/2026</div></div></div>
+      <div class="nitem" data-s="mae"><div class="nitem-ico">🤝</div><div class="nitem-body"><div class="nitem-title"><a href="https://mae.gov.vn/tin-tuc--su-kien/viet-nam--argentina-thao-go-vuong-mac-trong-kiem-dich-dong-vat-22042.htm" target="_blank">Việt Nam - Argentina tháo gỡ vướng mắc trong kiểm dịch động vật</a></div><div class="nitem-meta">🌿 mae.gov.vn · 10/06/2026</div></div></div>
+      <div class="nitem" data-s="mae"><div class="nitem-ico">🌾</div><div class="nitem-body"><div class="nitem-title"><a href="https://mae.gov.vn/tphcm-hinh-thanh-the-he-nong-dan-so-22028.htm" target="_blank">TP.HCM hình thành thế hệ nông dân số — Ứng dụng AI và bản sao số trong nông nghiệp</a></div><div class="nitem-meta">🌿 mae.gov.vn · 10/06/2026</div></div></div>
+      <div class="nitem" data-s="mae"><div class="nitem-ico">⚠️</div><div class="nitem-body"><div class="nitem-title"><a href="https://mae.gov.vn/lao-cai-chu-dong-ngua-dich-lo-mom-long-mong-serotype-sat1-22003.htm" target="_blank" style="color:#ef4444">Lào Cai chủ động ngừa dịch Lở mồm long móng serotype SAT1 — Cảnh báo toàn quốc</a></div><div class="nitem-meta">🌿 mae.gov.vn · 09/06/2026</div></div></div>
+      <div class="nitem" data-s="chicuccntyhcm"><div class="nitem-ico">🔍</div><div class="nitem-body"><div class="nitem-title"><a href="https://chicuccntyhcm.gov.vn/new/2026/06/04/Kiem-tra-xu-ly-lo-mo-heo-trai-phep.aspx" target="_blank">Kiểm tra, xử lý lò mổ heo trái phép trong khu dân cư</a></div><div class="nitem-meta">🏥 Chi cục CNTY HCM · 04/06/2026</div></div></div>
+      <div class="nitem" data-s="chicuccntyhcm"><div class="nitem-ico">📚</div><div class="nitem-body"><div class="nitem-title"><a href="https://chicuccntyhcm.gov.vn/new/2026/06/03/tap-huan-nghiep-vu-thu-y-tang-cuong-la-chan-an-toan-tu-khau-giet-mo-va-kiem-dich-dong-vat.aspx" target="_blank">Tập huấn nghiệp vụ thú y: Tăng cường "lá chắn" an toàn từ khâu giết mổ và kiểm dịch động vật</a></div><div class="nitem-meta">🏥 Chi cục CNTY HCM · 03/06/2026</div></div></div>
+      <div class="nitem" data-s="chicuccntyhcm"><div class="nitem-ico">🍽️</div><div class="nitem-body"><div class="nitem-title"><a href="https://chicuccntyhcm.gov.vn/new/2026/06/01/Can-tu-duy-quan-ly-moi-de-ngan-chan-thuc-pham-ban.aspx" target="_blank">Cần tư duy quản lý mới để ngăn chặn thực phẩm bẩn — Sửa Luật ATTP</a></div><div class="nitem-meta">🏥 Chi cục CNTY HCM · 01/06/2026</div></div></div>
+      <div class="nitem" data-s="chicuccntyhcm"><div class="nitem-ico">💉</div><div class="nitem-body"><div class="nitem-title"><a href="https://chicuccntyhcm.gov.vn/new/2026/06/03/Tap-huan-phong-chong-benh-Dai.aspx" target="_blank">Tập huấn phòng, chống bệnh Dại</a></div><div class="nitem-meta">🏥 Chi cục CNTY HCM · 03/06/2026</div></div></div>
+      <div class="nitem" data-s="chicuccntyhcm"><div class="nitem-ico">🛑</div><div class="nitem-body"><div class="nitem-title"><a href="https://chicuccntyhcm.gov.vn/new/2026/05/29/Chan-dung-hai-tan-vit-lau-triet-pha-lo-mo-heo-trai-phep-giua-TPHCM.aspx" target="_blank">Chặn đứng hai tấn vịt lậu, triệt phá lò mổ heo trái phép giữa TP.HCM</a></div><div class="nitem-meta">🏥 Chi cục CNTY HCM · 29/05/2026</div></div></div>
+      <div class="nitem" data-s="sps"><div class="nitem-ico">🛡️</div><div class="nitem-body"><div class="nitem-title"><a href="http://www.spsvietnam.gov.vn/" target="_blank">Thông báo quy định biện pháp SPS WTO (01/6 – 15/6/2026)<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🛡️ spsvietnam.gov.vn · 10/06/2026</div></div></div>
+      <div class="nitem" data-s="cucthuy"><div class="nitem-ico">📋</div><div class="nitem-body"><div class="nitem-title"><a href="https://cucthuy.gov.vn/web/guest/trang-chu" target="_blank">Danh mục thức ăn chăn nuôi được phép lưu hành tại VN — Cập nhật tháng 06/2026<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🐄 cucthuy.gov.vn · 06/2026</div></div></div>
+      <div class="nitem" data-s="channuoi"><div class="nitem-ico">📈</div><div class="nitem-body"><div class="nitem-title"><a href="https://channuoivietnam.com/tin-tuc/" target="_blank">Giá heo hơi miền Nam tiếp tục tăng nhẹ cuối tuần — Dao động 66.000–70.000 đ/kg</a></div><div class="nitem-meta">🌾 channuoivietnam.com · 12/06/2026</div></div></div>
+      <div class="nitem" data-s="channuoi"><div class="nitem-ico">🐔</div><div class="nitem-body"><div class="nitem-title"><a href="https://channuoivietnam.com/tin-tuc/" target="_blank">Giá gà lông màu tăng mạnh sau kỳ nghỉ lễ — Thị trường gia cầm ổn định tháng 6</a></div><div class="nitem-meta">🌾 channuoivietnam.com · 10/06/2026</div></div></div>
+      <div class="nitem" data-s="sattp"><div class="nitem-ico">🍽️</div><div class="nitem-body"><div class="nitem-title"><a href="https://sattp.hochiminhcity.gov.vn/ArticleDetail.aspx?NewsID=8085" target="_blank">Thông tin ban đầu vụ nghi ngờ ngộ độc thực phẩm tại Trường TH Đặng Thùy Trâm<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🍽️ sattp.hochiminhcity.gov.vn · 06/2026</div></div></div>
+      <div class="nitem" data-s="sattp"><div class="nitem-ico">🔍</div><div class="nitem-body"><div class="nitem-title"><a href="https://sattp.hochiminhcity.gov.vn/ArticleDetail.aspx?NewsID=8134" target="_blank">Kết quả điều tra vụ ngộ độc thực phẩm tại Trường TH Đặng Thùy Trâm<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🍽️ sattp.hochiminhcity.gov.vn · 06/2026</div></div></div>
+      <div class="nitem" data-s="sattp"><div class="nitem-ico">🎓</div><div class="nitem-body"><div class="nitem-title"><a href="https://sattp.hochiminhcity.gov.vn/ArticleDetail.aspx?NewsID=8141" target="_blank">Sở ATTP tập huấn kiến thức ATTP cho thương nhân tại Chợ đầu mối nông sản Thủ Đức</a></div><div class="nitem-meta">🍽️ sattp.hochiminhcity.gov.vn · 06/2026</div></div></div>
+      <div class="nitem" data-s="nafiqpm"><div class="nitem-ico">🔬</div><div class="nitem-body"><div class="nitem-title"><a href="https://nafiqpm.mae.gov.vn/" target="_blank">Kiểm tra, giám sát chất lượng nông lâm thủy sản xuất nhập khẩu — Kết quả tháng 5/2026</a></div><div class="nitem-meta">🔬 nafiqpm.mae.gov.vn · 06/06/2026</div></div></div>
+      <div class="nitem" data-s="sonnmt"><div class="nitem-ico">🏙️</div><div class="nitem-body"><div class="nitem-title"><a href="https://sonnmt.hochiminhcity.gov.vn/article/category?item=DMCNTY" target="_blank">Sở NN&MT TP.HCM: Cập nhật thông tin chăn nuôi thú y trên địa bàn thành phố<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🏙️ sonnmt.hochiminhcity.gov.vn · 06/2026</div></div></div>
+      <div class="nitem" data-s="hcmcity"><div class="nitem-ico">🏛️</div><div class="nitem-body"><div class="nitem-title"><a href="https://www.hochiminhcity.gov.vn/tintuc/Lists/ChuyenDe/AllItems.aspx" target="_blank">Cổng TTĐT TP.HCM — Tin tức &amp; Chuyên đề mới nhất<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🏛️ hochiminhcity.gov.vn · Cập nhật liên tục</div></div></div>
+      <div class="nitem" data-s="soban"><div class="nitem-ico">👥</div><div class="nitem-body"><div class="nitem-title"><a href="https://sonoivu.hochiminhcity.gov.vn/web/snv/trang-chu" target="_blank">Sở Nội vụ TP.HCM — Tin tức, thông báo, tuyển dụng công chức viên chức<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🏢 sonoivu.hochiminhcity.gov.vn · Liên tục</div></div></div>
+      <div class="nitem" data-s="medinet"><div class="nitem-ico">🏥</div><div class="nitem-body"><div class="nitem-title"><a href="https://medinet.hochiminhcity.gov.vn/Default.aspx" target="_blank">Sở Y tế TP.HCM — Tin tức y tế, thông báo dịch bệnh, cập nhật mới nhất<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🏥 medinet.hochiminhcity.gov.vn · Liên tục</div></div></div>
+      <div class="nitem" data-s="chinhphu"><div class="nitem-ico">🇻🇳</div><div class="nitem-body"><div class="nitem-title"><a href="https://tphcm.chinhphu.vn/" target="_blank">Cổng thông tin điện tử Chính phủ TP.HCM — Chỉ đạo điều hành, tin tức mới<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🇻🇳 tphcm.chinhphu.vn · Liên tục</div></div></div>
+      <div class="nitem" data-s="hcmcpv"><div class="nitem-ico">🎖️</div><div class="nitem-body"><div class="nitem-title"><a href="https://hcmcpv.org.vn/" target="_blank">Thành ủy TP.HCM — Nghị quyết, thông báo, chỉ đạo Đảng bộ Thành phố<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🎖️ hcmcpv.org.vn · Liên tục</div></div></div>
+      <div class="nitem" data-s="sotuphap"><div class="nitem-ico">⚖️</div><div class="nitem-body"><div class="nitem-title"><a href="https://sotuphap.hochiminhcity.gov.vn/" target="_blank">Sở Tư pháp TP.HCM — Văn bản pháp luật, thông báo tư pháp mới nhất<span class="new-b">MỚI</span></a></div><div class="nitem-meta">⚖️ sotuphap.hochiminhcity.gov.vn · Liên tục</div></div></div>
+      <div class="nitem" data-s="congthuong"><div class="nitem-ico">🏭</div><div class="nitem-body"><div class="nitem-title"><a href="https://congthuong.hochiminhcity.gov.vn/" target="_blank">Sở Công thương TP.HCM — Tin tức thương mại, công nghiệp, xúc tiến đầu tư<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🏭 congthuong.hochiminhcity.gov.vn · Liên tục</div></div></div>
+      <div class="nitem" data-s="dost"><div class="nitem-ico">🔬</div><div class="nitem-body"><div class="nitem-title"><a href="https://dost.hochiminhcity.gov.vn/" target="_blank">Sở Khoa học & Công nghệ TP.HCM — Nghiên cứu, ứng dụng, đổi mới sáng tạo<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🔬 dost.hochiminhcity.gov.vn · Liên tục</div></div></div>
+      <div class="nitem" data-s="sdttg"><div class="nitem-ico">💻</div><div class="nitem-body"><div class="nitem-title"><a href="https://sdttg.hochiminhcity.gov.vn/web/bdt/trangchu" target="_blank">Sở Dữ liệu & Thông tin TP.HCM — Chuyển đổi số, hạ tầng CNTT thành phố<span class="new-b">MỚI</span></a></div><div class="nitem-meta">💻 sdttg.hochiminhcity.gov.vn · Liên tục</div></div></div>
+      <div class="nitem" data-s="hcmedu"><div class="nitem-ico">🎓</div><div class="nitem-body"><div class="nitem-title"><a href="https://hcm.edu.vn/homehcm" target="_blank">Sở Giáo dục & Đào tạo TP.HCM — Thông báo tuyển sinh, đào tạo, giáo dục<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🎓 hcm.edu.vn · Liên tục</div></div></div>
+      <div class="nitem" data-s="tcvg"><div class="nitem-ico">💰</div><div class="nitem-body"><div class="nitem-title"><a href="http://www.tcvg.hochiminhcity.gov.vn/default.aspx" target="_blank">Sở Tài chính TP.HCM — Ngân sách, tài chính công, thông báo đấu thầu<span class="new-b">MỚI</span></a></div><div class="nitem-meta">💰 tcvg.hochiminhcity.gov.vn · Liên tục</div></div></div>
+      <div class="nitem" data-s="sodulich"><div class="nitem-ico">✈️</div><div class="nitem-body"><div class="nitem-title"><a href="https://sodulich.hochiminhcity.gov.vn/" target="_blank">Sở Du lịch TP.HCM — Tin tức du lịch, xúc tiến quảng bá, sự kiện<span class="new-b">MỚI</span></a></div><div class="nitem-meta">✈️ sodulich.hochiminhcity.gov.vn · Liên tục</div></div></div>
+    </div>
+  </div>
+</div><!-- /panel-news -->
+
+<!-- ════ PANEL SCHEDULE ════ -->
+<div class="panel" id="panel-schedule">
+  <div class="sb-box" style="overflow:hidden">
+    <div class="sb-head" style="font-size:13px">📅 LỊCH CÔNG TÁC CHI CỤC CNTY TP.HCM
+      <a href="https://vp.ccty.vn/OnlySchedule/Index" target="_blank">Mở trang đầy đủ ↗</a>
+    </div>
+    <div class="sw-ctrl">
+      <button class="sw-btn" onclick="chWeek(-1)">‹ Tuần trước</button>
+      <button class="sw-btn cur" onclick="chWeek(0)">Tuần này</button>
+      <button class="sw-btn" onclick="chWeek(1)">Tuần sau ›</button>
+    </div>
+    <span class="sw-lbl" id="wcLabel"></span>
+    <iframe id="schedFr" class="sched-fr" src="https://vp.ccty.vn/OnlySchedule/Index"
+            sandbox="allow-same-origin allow-scripts allow-popups allow-forms" title="Lịch công tác"></iframe>
+  </div>
+</div><!-- /panel-schedule -->
+
+<!-- ════ PANEL STATS (GIÁ) ════ -->
+<div class="panel" id="panel-stats">
+  <div class="stat-grid" style="margin-bottom:14px">
+    <div class="stat-c"><div class="stat-v">65.000</div><div class="stat-lbl">🐷 Heo hơi (đ/kg)</div><div class="stat-sub" style="color:#10b981">64.000-70.000 đ/kg tại hộ</div></div>
+    <div class="stat-c"><div class="stat-v amb">38.000</div><div class="stat-lbl">🐔 Gà lông màu (đ/kg)</div><div class="stat-sub" style="color:#ef4444">▼ -1.000 tháng 6</div></div>
+    <div class="stat-c"><div class="stat-v">1.400</div><div class="stat-lbl">🥚 Trứng gà (đ/quả)</div><div class="stat-sub">= Ổn định</div></div>
+    <div class="stat-c"><div class="stat-v">32.000</div><div class="stat-lbl">🦆 Vịt thịt (đ/kg)</div><div class="stat-sub" style="color:#10b981">▲ +1.000 tháng 6</div></div>
+  </div>
+  <div class="price-tbl">
+    <div class="price-hdr"><span>🐄 Bảng giá sản phẩm chăn nuôi TP.HCM — Tháng 6/2026</span><em>Nguồn: chicuccntyhcm.gov.vn · 14/06/2026</em></div>
+    <div style="overflow-x:auto">
+      <table class="ptab">
+        <thead><tr><th>Loại sản phẩm</th><th>Tại công ty/trại</th><th>Tại hộ dân</th><th>Tại CS giết mổ</th><th>So tháng 5</th></tr></thead>
+        <tbody>
+          <tr><td>🐷 Heo hơi</td><td class="pv">65.000 đ/kg</td><td>63.000 – 72.000 đ/kg</td><td>—</td><td style="color:#10b981;font-weight:600">▲ ổn định</td></tr>
+          <tr><td>🐷 Heo mảnh (móc hàm)</td><td class="pv">85.000 đ/kg</td><td>—</td><td>82.000 – 86.000 đ/kg</td><td style="color:#10b981;font-weight:600">▲ +3.000</td></tr>
+          <tr><td>🐷 Heo giống (con)</td><td>—</td><td>1.200.000 – 1.500.000 đ/con</td><td>—</td><td style="color:var(--t3)">= Ổn định</td></tr>
+          <tr><td>🐄 Bò hơi</td><td class="pv">75.000 đ/kg</td><td>72.000 – 78.000 đ/kg</td><td>—</td><td style="color:var(--t3)">= Ổn định</td></tr>
+          <tr><td>🐐 Dê hơi</td><td class="pv">110.000 đ/kg</td><td>105.000 – 115.000 đ/kg</td><td>—</td><td style="color:#10b981;font-weight:600">▲ +5.000</td></tr>
+          <tr><td>🐔 Gà lông màu</td><td class="pv">38.000 đ/kg</td><td>32.000 đ/kg</td><td>60.000 đ/kg</td><td style="color:#ef4444;font-weight:600">▼ -1.000</td></tr>
+          <tr><td>🐓 Gà lông trắng (CN)</td><td class="pv">28.000 đ/kg</td><td>28.000 đ/kg</td><td>41.000 đ/kg</td><td style="color:var(--t3)">= Ổn định</td></tr>
+          <tr><td>🐔 Gà ta (bản địa)</td><td>—</td><td>70.000 – 90.000 đ/kg</td><td>—</td><td style="color:#10b981;font-weight:600">▲ +2.000</td></tr>
+          <tr><td>🦆 Vịt thịt</td><td class="pv">32.000 đ/kg</td><td>36.000 đ/kg</td><td>—</td><td style="color:#10b981;font-weight:600">▲ +1.000</td></tr>
+          <tr><td>🥚 Trứng gà công nghiệp</td><td colspan="2" class="pv">1.400 đ/quả</td><td>2.000 – 2.500 đ/quả</td><td style="color:var(--t3)">= Ổn định</td></tr>
+          <tr><td>🥚 Trứng vịt</td><td colspan="2" class="pv">3.300 đ/quả</td><td>—</td><td style="color:var(--t3)">= Ổn định</td></tr>
+          <tr><td>🥚 Trứng cút</td><td colspan="2" class="pv">460 đ/quả</td><td>—</td><td style="color:var(--t3)">= Ổn định</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <div class="price-tbl">
+    <div class="price-hdr"><span>🌾 Giá thức ăn chăn nuôi — Tháng 6/2026</span><em>Nguồn: Công ty TACN · Thị trường TP.HCM</em></div>
+    <div style="overflow-x:auto">
+      <table class="ptab">
+        <thead><tr><th>Loại thức ăn</th><th>Quy cách</th><th>Giá (đ/kg)</th><th>So tháng 5</th></tr></thead>
+        <tbody>
+          <tr><td>🐷 Cám heo con tập ăn</td><td>Bao 25 kg</td><td class="pv">18.500 – 22.000</td><td style="color:#ef4444;font-weight:600">▼ -500</td></tr>
+          <tr><td>🐷 Cám heo thịt giai đoạn 1</td><td>Bao 25 kg</td><td class="pv">13.500 – 15.000</td><td style="color:var(--t3)">= Ổn định</td></tr>
+          <tr><td>🐔 Cám gà thịt</td><td>Bao 25 kg</td><td class="pv">13.000 – 15.000</td><td style="color:var(--t3)">= Ổn định</td></tr>
+          <tr><td>🦆 Cám vịt thịt</td><td>Bao 25 kg</td><td class="pv">12.000 – 13.500</td><td style="color:var(--t3)">= Ổn định</td></tr>
+          <tr><td>🌽 Bắp nguyên liệu</td><td>Tấn</td><td class="pv">6.800 – 7.200/kg</td><td style="color:#10b981;font-weight:600">▲ +200</td></tr>
+          <tr><td>🫘 Khô dầu đậu nành</td><td>Tấn</td><td class="pv">15.500 – 16.500/kg</td><td style="color:var(--t3)">= Ổn định</td></tr>
+          <tr><td>🐟 Bột cá (đạm 60%)</td><td>Tấn</td><td class="pv">28.000 – 32.000/kg</td><td style="color:#10b981;font-weight:600">▲ +500</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <div class="dgrid c2 gap12 mb14">
+    <div class="price-tbl" style="margin-bottom:0">
+      <div class="price-hdr"><span>💉 Giá vaccine &amp; thuốc thú y</span><em>T6/2026</em></div>
+      <table class="ptab">
+        <thead><tr><th>Sản phẩm</th><th>ĐVT</th><th>Giá (đ)</th></tr></thead>
+        <tbody>
+          <tr><td>Vaccine FMD (LMLM)</td><td>liều</td><td class="pv">12.000 – 15.000</td></tr>
+          <tr><td>Vaccine H5N1</td><td>liều</td><td class="pv">5.000 – 7.000</td></tr>
+          <tr><td>Vaccine dại (chó, mèo)</td><td>liều</td><td class="pv">35.000 – 45.000</td></tr>
+          <tr><td>Vaccine ASF</td><td>liều</td><td class="pv">25.000 – 30.000</td></tr>
+          <tr><td>Vaccine Newcastle</td><td>liều</td><td class="pv">1.200 – 2.000</td></tr>
+          <tr><td>Amoxicillin 15% bột</td><td>kg</td><td class="pv">280.000 – 350.000</td></tr>
+          <tr><td>Enrofloxacin 10%</td><td>lít</td><td class="pv">120.000 – 180.000</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="price-tbl" style="margin-bottom:0">
+      <div class="price-hdr"><span>📋 Phí dịch vụ thú y nhà nước</span><em>Theo QĐ hiện hành</em></div>
+      <table class="ptab">
+        <thead><tr><th>Dịch vụ</th><th>Mức phí</th></tr></thead>
+        <tbody>
+          <tr><td>Kiểm dịch vận chuyển heo</td><td class="pv">3.500 đ/con</td></tr>
+          <tr><td>Kiểm dịch vận chuyển gia cầm</td><td class="pv">500 đ/con</td></tr>
+          <tr><td>KSGM heo</td><td class="pv">18.000 đ/con</td></tr>
+          <tr><td>KSGM trâu/bò</td><td class="pv">45.000 đ/con</td></tr>
+          <tr><td>KSGM gia cầm</td><td class="pv">500 đ/con</td></tr>
+          <tr><td>Cấp giấy CN kiểm dịch</td><td class="pv">Miễn phí</td></tr>
+          <tr><td>Tiêm phòng dại (ngân sách)</td><td class="pv">Miễn phí</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <div class="note-box">
+    <strong>📌 Ghi chú:</strong> Giá sản phẩm chăn nuôi biến động theo thị trường. Số liệu mang tính tham khảo, thu thập từ các cơ sở chăn nuôi và thị trường TP.HCM tháng 6/2026.
+    Xem giá chính thức: <a href="https://chicuccntyhcm.gov.vn" target="_blank">chicuccntyhcm.gov.vn</a> &nbsp;|&nbsp; <a href="https://channuoivietnam.com" target="_blank">channuoivietnam.com</a>
+  </div>
+</div><!-- /panel-stats -->
+
+<!-- ════ PANEL ABOUT ════ -->
+<div class="panel" id="panel-about">
+  <div class="about-card">
+    <h2>📋 Giới thiệu Chi cục Chăn nuôi và Thú y Thành phố Hồ Chí Minh</h2>
+    <p>Chi cục Chăn nuôi và Thú y Thành phố Hồ Chí Minh là cơ quan hành chính trực thuộc <strong>Sở Nông nghiệp và Môi trường TP.HCM</strong>, chịu hướng dẫn chuyên môn của <strong>Cục Chăn nuôi và Thú y</strong>, giúp Giám đốc Sở thực hiện chức năng quản lý nhà nước về lĩnh vực chăn nuôi, thú y trên địa bàn Thành phố Hồ Chí Minh.</p>
+    <p>Đơn vị được thành lập theo <strong>Quyết định số 1140/QĐ-UBND ngày 30/8/2025</strong> của UBND TP.HCM, trên cơ sở hợp nhất ba Chi cục.</p>
+    <div class="dgrid c3" style="gap:8px;margin:12px 0">
+      <div style="background:rgba(0,200,150,0.05);border-left:3px solid var(--p);border-radius:0 6px 6px 0;padding:9px 12px">
+        <div style="font-size:11px;font-weight:700;color:var(--p);margin-bottom:3px">Chi cục CN&TY TP.HCM (cũ)</div>
+        <div style="font-size:11.5px;color:var(--t2);line-height:1.6">Thành lập 1975 (Trạm Thú y TP)<br>Đổi tên 1989 (Chi cục Thú y TP)<br>Trụ sở: 151 Lý Thường Kiệt, Q.11</div>
+      </div>
+      <div style="background:rgba(79,142,247,0.05);border-left:3px solid var(--bl);border-radius:0 6px 6px 0;padding:9px 12px">
+        <div style="font-size:11px;font-weight:700;color:var(--bl);margin-bottom:3px">Chi cục CN, TY &amp; TS tỉnh Bình Dương</div>
+        <div style="font-size:11.5px;color:var(--t2);line-height:1.6">Thành lập 1983 (Chi cục TY tỉnh Sông Bé)<br>Đổi tên 1997 (tỉnh Bình Dương)<br>Trụ sở: 60 Lê Thị Trung, P.Phú Lợi</div>
+      </div>
+      <div style="background:rgba(245,166,35,0.05);border-left:3px solid var(--am);border-radius:0 6px 6px 0;padding:9px 12px">
+        <div style="font-size:11px;font-weight:700;color:var(--am);margin-bottom:3px">Chi cục TY tỉnh Bà Rịa - Vũng Tàu</div>
+        <div style="font-size:11.5px;color:var(--t2);line-height:1.6">Thành lập 1992<br>Trụ sở: 2 Cô Giang, P.Phước Trung, BRVT</div>
+      </div>
+    </div>
+  </div>
+  <div class="about-card">
+    <h2>🏢 Giới thiệu Trạm Chăn nuôi và Thú y Khu vực 9</h2>
+    <p><strong>Trạm Chăn nuôi và Thú y Khu vực 9 (KV9)</strong> là đơn vị trực thuộc Chi cục Chăn nuôi và Thú y TP.HCM, phụ trách công tác quản lý nhà nước về chăn nuôi và thú y trên địa bàn các huyện thuộc khu vực tỉnh Bà Rịa - Vũng Tàu.</p>
+    <div class="dgrid c2" style="gap:12px;margin:12px 0">
+      <div class="card card-p">
+        <div style="font-size:11px;font-weight:700;color:var(--p);margin-bottom:8px;text-transform:uppercase;letter-spacing:.5px">📍 Thông tin liên hệ</div>
+        <div style="font-size:12.5px;color:var(--t2);line-height:1.9">
+          <div>🏠 QL55, ấp Phước Hòa, xã Hồ Tràm</div>
+          <div>📍 Huyện Xuyên Mộc, tỉnh BR-VT</div>
+          <div>📧 <a href="mailto:tcntykv9.snnmt@tphcm.gov.vn">tcntykv9.snnmt@tphcm.gov.vn</a></div>
+        </div>
+      </div>
+      <div class="card card-p">
+        <div style="font-size:11px;font-weight:700;color:var(--p);margin-bottom:8px;text-transform:uppercase;letter-spacing:.5px">👤 Lãnh đạo Trạm</div>
+        <div style="font-size:12.5px;color:var(--t2);line-height:1.9">
+          <div>Trưởng trạm: <strong style="color:var(--t1)">Ông Trần Anh Tuấn</strong></div>
+          <div>📧 <a href="mailto:tcntykv9.snnmt@tphcm.gov.vn">tcntykv9.snnmt@tphcm.gov.vn</a></div>
+          <div><a href="https://chicuccntyhcm.gov.vn/new/2025/12/04/Tram-Chan-nuoi-va-Thu-y-khu-vuc-9.aspx" target="_blank">Xem thông tin chi tiết »</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="sh"><span class="sh-t">🗺️ Bản đồ Trạm Chi cục CNTY TP.HCM</span></div>
+  <div class="stn-grid" style="margin-bottom:14px">
+    <a href="https://chicuccntyhcm.gov.vn/new/2025/12/04/Tram-Chan-nuoi-va-Thu-y-khu-vuc-9.aspx" target="_blank" class="stn-c me"><div class="stn-n">9</div><div><div class="stn-txt" style="color:var(--p)">Trạm KV9 ✓</div><div class="stn-sub">QL55, ấp Phước Hòa</div></div></a>
+    <a href="https://chicuccntyhcm.gov.vn" target="_blank" class="stn-c"><div class="stn-n" style="color:var(--bl)">1</div><div><div class="stn-txt">Trạm KV1</div><div class="stn-sub">Quận 1, Q.3, Q.4</div></div></a>
+    <a href="https://chicuccntyhcm.gov.vn" target="_blank" class="stn-c"><div class="stn-n" style="color:var(--bl)">2</div><div><div class="stn-txt">Trạm KV2</div><div class="stn-sub">Quận 5, Q.6, Q.8</div></div></a>
+    <a href="https://chicuccntyhcm.gov.vn" target="_blank" class="stn-c"><div class="stn-n" style="color:var(--bl)">3</div><div><div class="stn-txt">Trạm KV3</div><div class="stn-sub">Q.10, Q.11, Tân Bình</div></div></a>
+    <a href="https://chicuccntyhcm.gov.vn" target="_blank" class="stn-c"><div class="stn-n" style="color:var(--bl)">4</div><div><div class="stn-txt">Trạm KV4</div><div class="stn-sub">Bình Thạnh, Phú Nhuận</div></div></a>
+    <a href="https://chicuccntyhcm.gov.vn" target="_blank" class="stn-c"><div class="stn-n" style="color:var(--bl)">5</div><div><div class="stn-txt">Trạm KV5</div><div class="stn-sub">Gò Vấp, 12, Hóc Môn</div></div></a>
+    <a href="https://chicuccntyhcm.gov.vn" target="_blank" class="stn-c"><div class="stn-n" style="color:var(--bl)">6</div><div><div class="stn-txt">Trạm KV6</div><div class="stn-sub">Bình Dương</div></div></a>
+    <a href="https://chicuccntyhcm.gov.vn" target="_blank" class="stn-c"><div class="stn-n" style="color:var(--bl)">7</div><div><div class="stn-txt">Trạm KV7</div><div class="stn-sub">Long An</div></div></a>
+    <a href="https://chicuccntyhcm.gov.vn" target="_blank" class="stn-c"><div class="stn-n" style="color:var(--bl)">8</div><div><div class="stn-txt">Trạm KV8</div><div class="stn-sub">Đồng Nai</div></div></a>
+    <a href="https://chicuccntyhcm.gov.vn" target="_blank" class="stn-c"><div class="stn-n" style="color:var(--bl)">10</div><div><div class="stn-txt">Trạm KV10</div><div class="stn-sub">Bình Phước</div></div></a>
+  </div>
+  <div class="card" style="overflow:hidden;margin-bottom:14px">
+    <div style="background:rgba(0,200,150,0.08);border-bottom:1px solid var(--b1);padding:10px 14px;font-size:12px;font-weight:700;color:var(--p)">👥 Cán bộ phụ trách địa bàn — Trạm KV9</div>
+    <div style="padding:12px 14px">
+      <div class="dgrid c3" style="gap:8px;font-size:12px">
+        <div class="card card-p"><div style="font-weight:700;color:var(--t1)">Huyện Xuyên Mộc</div><div style="color:var(--t2);margin-top:3px">Phụ trách chính các xã ven biển</div></div>
+        <div class="card card-p"><div style="font-weight:700;color:var(--t1)">Huyện Đất Đỏ</div><div style="color:var(--t2);margin-top:3px">Kiểm dịch vận chuyển, giết mổ</div></div>
+        <div class="card card-p"><div style="font-weight:700;color:var(--t1)">Huyện Long Điền</div><div style="color:var(--t2);margin-top:3px">Tiêm phòng, kiểm tra cơ sở CN</div></div>
+      </div>
+    </div>
+  </div>
+</div><!-- /panel-about -->
+
+<!-- ════ PANEL LINKS ════ -->
+<div class="panel" id="panel-links">
+  <div class="all-wrap">
+    <div class="sh" style="margin-bottom:14px"><span class="sh-t">🔗 Liên kết website ngành</span></div>
+    <div class="grp-lbl">🐄 Chuyên ngành Chăn nuôi &amp; Thú y</div>
+    <div class="qlnk-grid" style="margin-bottom:14px">
+      <a class="qlnk" href="https://chicuccntyhcm.gov.vn" target="_blank"><span>🏥</span><div><b>Chi cục CNTY HCM</b><small>chicuccntyhcm.gov.vn</small></div></a>
+      <a class="qlnk" href="https://cucthuy.gov.vn" target="_blank"><span>🐄</span><div><b>Cục Chăn nuôi &amp; Thú y</b><small>cucthuy.gov.vn</small></div></a>
+      <a class="qlnk" href="https://mae.gov.vn" target="_blank"><span>🌿</span><div><b>Bộ NN &amp; Môi trường</b><small>mae.gov.vn</small></div></a>
+      <a class="qlnk" href="https://sonnmt.hochiminhcity.gov.vn" target="_blank"><span>🏙️</span><div><b>Sở NN&amp;MT TP.HCM</b><small>sonnmt.hochiminhcity.gov.vn</small></div></a>
+      <a class="qlnk" href="https://nafiqpm.mae.gov.vn" target="_blank"><span>🔬</span><div><b>NAFIQPM</b><small>nafiqpm.mae.gov.vn</small></div></a>
+      <a class="qlnk" href="http://www.spsvietnam.gov.vn" target="_blank"><span>🛡️</span><div><b>SPS Việt Nam</b><small>spsvietnam.gov.vn</small></div></a>
+      <a class="qlnk" href="https://channuoivietnam.com" target="_blank"><span>🌾</span><div><b>Chăn nuôi Việt Nam</b><small>channuoivietnam.com</small></div></a>
+    </div>
+    <div class="grp-lbl">🏛️ Cơ quan Thành phố HCM</div>
+    <div class="qlnk-grid" style="margin-bottom:14px">
+      <a class="qlnk" href="https://www.hochiminhcity.gov.vn" target="_blank"><span>🏛️</span><div><b>UBND TP.HCM</b><small>hochiminhcity.gov.vn</small></div></a>
+      <a class="qlnk" href="https://www.hcmcpv.org.vn" target="_blank"><span>🎖️</span><div><b>Thành ủy TP.HCM</b><small>hcmcpv.org.vn</small></div></a>
+      <a class="qlnk" href="https://tphcm.chinhphu.vn" target="_blank"><span>🇻🇳</span><div><b>Cổng Chính phủ HCM</b><small>tphcm.chinhphu.vn</small></div></a>
+      <a class="qlnk" href="https://sattp.hochiminhcity.gov.vn" target="_blank"><span>🍽️</span><div><b>Sở ATTP TP.HCM</b><small>sattp.hochiminhcity.gov.vn</small></div></a>
+      <a class="qlnk" href="https://medinet.hochiminhcity.gov.vn" target="_blank"><span>🏥</span><div><b>Sở Y tế (Medinet)</b><small>medinet.hochiminhcity.gov.vn</small></div></a>
+      <a class="qlnk" href="https://sonoivu.hochiminhcity.gov.vn" target="_blank"><span>👥</span><div><b>Sở Nội vụ HCM</b><small>sonoivu.hochiminhcity.gov.vn</small></div></a>
+      <a class="qlnk" href="https://sotuphap.hochiminhcity.gov.vn" target="_blank"><span>⚖️</span><div><b>Sở Tư pháp HCM</b><small>sotuphap.hochiminhcity.gov.vn</small></div></a>
+    </div>
+    <div class="grp-lbl">🏢 Sở ban ngành khác</div>
+    <div class="qlnk-grid" style="margin-bottom:14px">
+      <a class="qlnk" href="https://congthuong.hochiminhcity.gov.vn/" target="_blank"><span>🏭</span><div><b>Sở Công Thương HCM</b><small>congthuong.hochiminhcity.gov.vn</small></div></a>
+      <a class="qlnk" href="https://dost.hochiminhcity.gov.vn/" target="_blank"><span>🔬</span><div><b>Sở KH&amp;CN HCM</b><small>dost.hochiminhcity.gov.vn</small></div></a>
+      <a class="qlnk" href="https://sdttg.hochiminhcity.gov.vn/" target="_blank"><span>💻</span><div><b>Sở Dữ liệu &amp; TT HCM</b><small>sdttg.hochiminhcity.gov.vn</small></div></a>
+      <a class="qlnk" href="https://hcm.edu.vn/homehcm" target="_blank"><span>🎓</span><div><b>Sở GD&amp;ĐT HCM</b><small>hcm.edu.vn</small></div></a>
+      <a class="qlnk" href="http://www.tcvg.hochiminhcity.gov.vn/" target="_blank"><span>💰</span><div><b>Sở Tài chính HCM</b><small>tcvg.hochiminhcity.gov.vn</small></div></a>
+      <a class="qlnk" href="https://sodulich.hochiminhcity.gov.vn/" target="_blank"><span>✈️</span><div><b>Sở Du lịch HCM</b><small>sodulich.hochiminhcity.gov.vn</small></div></a>
+    </div>
+  </div>
+</div><!-- /panel-links -->
+
+<!-- ════ PANEL ARTICLE-35 ════ -->
+<div class="panel" id="panel-article-35">
+  <div style="margin-bottom:14px">
+    <button class="art-btn" onclick="goTab('home')">← Quay lại Trang chủ</button>
+  </div>
+  <div class="art-wrap">
+    <div class="art-hdr">
+      <h1>🐄 Trạm Chăn nuôi và Thú y Khu vực 9 — Tổng quan hoạt động 6T/2026</h1>
+      <div class="art-meta">
+        <span>📅 08/06/2026</span>
+        <span>🏢 BC số 35/BC-TCNTY9</span>
+        <span>✍️ Trưởng Trạm Trần Anh Tuấn</span>
+      </div>
+    </div>
+    <div class="art-body">
+
+      <img src="https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=900&q=80" alt="Chăn nuôi KV9" style="width:100%;height:260px;object-fit:cover;border-radius:var(--rs);margin-bottom:18px" onerror="this.style.display='none'">
+
+      <div class="art-sapo">Trong 6 tháng đầu năm 2026, Trạm Chăn nuôi và Thú y Khu vực 9 ghi nhận kết quả toàn diện với tổng đàn gia súc gia cầm tăng trưởng 5,5% so cùng kỳ, không phát sinh ổ dịch tả heo châu Phi mới, và công tác tiêm phòng đạt tiến độ tốt trước bối cảnh cảnh báo dịch LMLM serotype SAT1 từ các tỉnh phía Bắc.</div>
+
+      <p>Bức tranh chăn nuôi KV9 nửa đầu năm 2026 phản ánh sức bền của mô hình sản xuất công nghiệp đã được củng cố qua nhiều năm. Tổng đàn gia cầm trên địa bàn — bao gồm gà, vịt, ngan và chim cút — đạt <strong style="color:var(--t1)">3.592.446 con</strong>, duy trì vai trò là vùng cung cấp gia cầm thịt và trứng trọng điểm cho thị trường TP.HCM và các tỉnh lân cận. Tỷ lệ gia cầm nuôi theo phương thức thâm canh công nghiệp tiếp tục tăng, cho thấy chuyển dịch tích cực trong cơ cấu chăn nuôi của khu vực.</p>
+
+      <div style="display:flex;gap:16px;align-items:flex-start;margin-bottom:14px">
+        <div style="flex:1">
+          <p style="margin-bottom:0">Đàn heo đạt <strong style="color:var(--t1)">203.157 con</strong>, trong đó tỷ lệ heo chăn nuôi công nghệ cao theo tiêu chuẩn VietGAHP chiếm đến <strong style="color:var(--t1)">92%</strong> tổng đàn — tương đương <strong style="color:var(--t1)">186.837 con</strong>. Đây là chỉ số quan trọng phản ánh trình độ kỹ thuật và năng lực cạnh tranh của ngành chăn nuôi heo trong khu vực. Các cơ sở chăn nuôi công nghệ cao được kiểm soát chặt chẽ về điều kiện an toàn sinh học, quản lý dịch bệnh và truy xuất nguồn gốc sản phẩm theo quy định của Chi cục CNTY TP.HCM.</p>
+        </div>
+        <img src="https://images.unsplash.com/photo-1516467508483-a7212febe31a?w=300&q=80" alt="Heo chăn nuôi CN cao" style="width:160px;height:115px;object-fit:cover;border-radius:var(--rs);flex-shrink:0" onerror="this.style.display='none'">
+      </div>
+
+      <table class="art-tbl">
+        <thead><tr><th>Loại vật nuôi</th><th>Số lượng</th><th>So cùng kỳ 2025</th><th>Ghi chú</th></tr></thead>
+        <tbody>
+          <tr><td>🐷 Tổng đàn heo</td><td class="av">203.157 con</td><td style="color:#10b981">▲ +5,5%</td><td>92% CN cao (VietGAHP)</td></tr>
+          <tr><td>🐔 Gia cầm</td><td class="av">3.592.446 con</td><td style="color:#10b981">▲ Ổn định</td><td>Gà, vịt, ngan, cút</td></tr>
+          <tr><td>🐄 Trâu bò</td><td class="av">9.006 con</td><td style="color:var(--t3)">= Ổn định</td><td>Chủ yếu bò thịt, sữa</td></tr>
+          <tr><td>🐐 Dê</td><td class="av">12.712 con</td><td style="color:#10b981">▲ Tăng nhẹ</td><td>Mô hình hộ gia đình</td></tr>
+          <tr><td>🏠 Nhà yến</td><td class="av">239 nhà</td><td style="color:#10b981">▲ Mở rộng</td><td>170 hộ nuôi</td></tr>
+        </tbody>
+      </table>
+
+      <p>Đàn trâu bò duy trì ở mức <strong style="color:var(--t1)">9.006 con</strong>, chủ yếu là bò thịt và bò sữa nuôi theo hình thức gia đình kết hợp bán công nghiệp. Đàn dê đạt <strong style="color:var(--t1)">12.712 con</strong>, tiếp tục là mô hình chăn nuôi bổ sung thu nhập hiệu quả cho các hộ dân ven rừng và vùng đất gò đồi. Đặc biệt, số lượng nhà yến tiếp tục mở rộng lên <strong style="color:var(--t1)">239 nhà / 170 hộ nuôi</strong> — xu hướng đa dạng hóa vật nuôi phi truyền thống đang được khu vực nắm bắt tốt, với giá trị kinh tế vượt trội so với chăn nuôi thông thường.</p>
+
+      <div class="art-alert">
+        🚨 <strong>Tình hình dịch bệnh — Cảnh báo cần theo dõi:</strong><br><br>
+        <strong>Lở mồm long móng (LMLM) serotype SAT1</strong> lần đầu tiên xuất hiện tại Việt Nam với ổ dịch tại Lào Cai, đang được Cục Chăn nuôi &amp; Thú y theo dõi trên toàn quốc. Đây là biến thể nguy hiểm, có khả năng lây lan mạnh qua tiếp xúc trực tiếp và qua phương tiện vận chuyển. Trạm KV9 đã tăng cường kiểm soát kiểm dịch vận chuyển gia súc ra vào khu vực và khuyến cáo các hộ chăn nuôi không nhập gia súc từ vùng có dịch, đồng thời tăng cường tiêm phòng vaccine FMD định kỳ. Cúm gia cầm H5N1/H5N8 tiếp tục duy trì mức cảnh báo cao theo thông báo của Tổ chức Thú y thế giới (WOAH) — công tác giám sát chủ động đàn gia cầm và kiểm soát chim hoang dã được duy trì thường xuyên.
+      </div>
+
+      <p>Về công tác phòng chống dịch tả heo châu Phi (ASF), kết quả 6 tháng là đáng ghi nhận: <strong style="color:var(--t1)">0 ổ dịch ASF</strong> mới phát sinh trên địa bàn kể từ đầu năm 2026. Thành quả này là kết quả của chiến lược kiểm soát an toàn sinh học đồng bộ, từ kiểm tra định kỳ chuồng trại, kiểm soát thương lái thu mua, đến giám sát lò mổ và kiểm dịch vận chuyển tại các chốt kiểm soát. Trạm KV9 đã phối hợp với các huyện Xuyên Mộc, Đất Đỏ và Long Điền để duy trì hệ thống báo cáo dịch bệnh định kỳ hàng tuần, đảm bảo phát hiện sớm bất kỳ biến động bất thường nào trong đàn vật nuôi.</p>
+
+      <div style="display:flex;gap:16px;align-items:flex-start;margin-bottom:14px">
+        <img src="https://images.unsplash.com/photo-1618450619697-4e2f12527c11?w=300&q=80" alt="Tiêm phòng thú y" style="width:160px;height:115px;object-fit:cover;border-radius:var(--rs);flex-shrink:0" onerror="this.style.display='none'">
+        <p style="margin-bottom:0">Công tác tiêm phòng đợt 1 và triển khai đợt 2 năm 2026 đạt nhiều kết quả tích cực. Tiêm phòng FMD/LMLM cho trâu bò đạt <strong style="color:var(--t1)">94%</strong> tổng đàn — vượt mục tiêu đề ra. Tiêm phòng bệnh dại cho chó mèo đạt <strong style="color:var(--t1)">32,50%</strong>, hiện đang trong giai đoạn tiêm đợt 2/2026 với mục tiêu đạt trên 80% theo chỉ tiêu của Chi cục. Tiến độ tiêm phòng tổng thể trên địa bàn KV9 đạt <strong style="color:var(--t1)">81%</strong>, cần đẩy nhanh ở một số phường xã còn lại. Các loại vaccine được sử dụng đều đạt tiêu chuẩn kiểm soát chất lượng, được bảo quản lạnh đúng quy định từ kho đến điểm tiêm.</p>
+      </div>
+
+      <p>Công tác kiểm dịch và kiểm soát giết mổ (KSGM) tiếp tục được triển khai nghiêm túc. Trong 6 tháng đầu năm, Trạm KV9 đã phối hợp với lực lượng liên ngành phát hiện và xử lý nhiều trường hợp giết mổ heo và gia cầm trái phép trong khu dân cư, xử phạt theo đúng quy định của Nghị định 90/2017/NĐ-CP. Tại các cơ sở giết mổ tập trung được cấp phép, 100% sản phẩm được kiểm dịch trước và sau giết mổ, đóng dấu kiểm soát đảm bảo an toàn thực phẩm trước khi đưa ra thị trường. Kiểm tra kháng sinh tồn dư và chất cấm trong thịt heo, thịt gia cầm được thực hiện định kỳ theo kế hoạch, với tần suất lấy mẫu tuân thủ hướng dẫn của Chi cục và Cục CNTY.</p>
+
+      <div class="art-outlook">
+        <strong style="color:var(--p)">📊 Nhận định và định hướng 6 tháng cuối năm 2026:</strong><br><br>
+        Với nền tảng tăng trưởng ổn định và công tác kiểm soát dịch bệnh hiệu quả trong 6 tháng đầu năm, Trạm KV9 đặt mục tiêu: duy trì tổng đàn heo trên 200.000 con, hoàn thành tiêm phòng dại đợt 2 đạt trên 80%, không để phát sinh ổ dịch ASF và cúm gia cầm mới. Công tác chuyển đổi số trong quản lý chăn nuôi, ứng dụng phần mềm truy xuất nguồn gốc và số hóa hồ sơ vật nuôi sẽ được đẩy mạnh theo lộ trình của Chi cục CNTY TP.HCM.
+      </div>
+
+      <div class="art-src">
+        <strong style="color:var(--t1)">📎 Nguồn:</strong> Báo cáo số 35/BC-TCNTY9 ngày 08/06/2026 — Trưởng Trạm Trần Anh Tuấn &nbsp;·&nbsp;
+        <a href="https://chicuccntyhcm.gov.vn/new/2025/12/04/Tram-Chan-nuoi-va-Thu-y-khu-vuc-9.aspx" target="_blank">Xem tại chicuccntyhcm.gov.vn</a>
+        &nbsp;·&nbsp; <em style="color:var(--t3)">(Hoàng Duy – Thị Hương)</em>
+      </div>
+
+      <div style="margin-top:14px">
+        <button class="art-btn" onclick="goTab('home')">← Quay lại Trang chủ</button>
+      </div>
+    </div>
+  </div>
+</div><!-- /panel-article-35 -->
+
+</div><!-- /.main -->
+
+<!-- ════ SIDEBAR ════ -->
+<div class="side">
+
+  <div class="sb-box">
+    <div class="sb-head" style="display:flex;align-items:center;gap:6px">🔄 Cập nhật tự động <span class="live-dot"></span><span id="live-ts" style="font-weight:400;font-size:11px;opacity:.8">Đang tải...</span></div>
+    <div class="sb-body">
+      <div style="font-size:11.5px;color:var(--t2);margin-bottom:7px">Tự động lấy tin mới mỗi <strong>5 phút</strong>. Nhấn bên dưới để làm mới ngay.</div>
+      <div id="rss-status" style="font-size:11px;color:var(--t3);margin-bottom:8px">Đang kiểm tra nguồn tin...</div>
+      <button onclick="fetchAllLive()" style="width:100%;padding:8px;background:linear-gradient(135deg,var(--p),var(--bl));color:#fff;border:none;border-radius:var(--rs);cursor:pointer;font-size:12px;font-weight:700;font-family:inherit">🔄 Làm mới ngay</button>
+      <div style="margin-top:7px;text-align:center;font-size:11px;color:var(--t3)" id="refresh-countdown">Làm mới sau 05:00</div>
+    </div>
+  </div>
+
+  <div class="sb-box">
+    <div class="sb-head">🔗 Truy cập nhanh</div>
+    <div class="sb-body">
+      <ul class="sb-list">
+        <li class="sb-item"><div class="sb-dot"></div><a href="https://chicuccntyhcm.gov.vn" target="_blank">Chi cục CNTY TP.HCM</a></li>
+        <li class="sb-item"><div class="sb-dot"></div><a href="https://sattp.hochiminhcity.gov.vn" target="_blank">Sở ATTP TP.HCM</a></li>
+        <li class="sb-item"><div class="sb-dot"></div><a href="https://sonnmt.hochiminhcity.gov.vn" target="_blank">Sở NN&amp;MT TP.HCM</a></li>
+        <li class="sb-item"><div class="sb-dot"></div><a href="https://mae.gov.vn" target="_blank">Bộ NN &amp; Môi trường</a></li>
+        <li class="sb-item"><div class="sb-dot"></div><a href="https://cucthuy.gov.vn" target="_blank">Cục Chăn nuôi &amp; Thú y</a></li>
+        <li class="sb-item"><div class="sb-dot"></div><a href="https://www.hochiminhcity.gov.vn" target="_blank">UBND TP.HCM</a></li>
+        <li class="sb-item"><div class="sb-dot"></div><a href="https://channuoivietnam.com" target="_blank">Tạp chí Chăn nuôi VN</a></li>
+        <li class="sb-item"><div class="sb-dot"></div><a href="https://nafiqpm.mae.gov.vn" target="_blank">NAFIQPM</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="sb-box">
+    <div class="sb-head red">⚠️ Cảnh báo dịch bệnh</div>
+    <div class="sb-body">
+      <ul class="sb-list">
+        <li class="sb-item"><div class="sb-dot" style="background:#ef4444"></div><a href="https://cucthuy.gov.vn/web/guest/phong-chong-dich-benh-tren-can" target="_blank" style="color:#ef4444;font-weight:600">LMLM SAT1 — Lào Cai · Theo dõi</a></li>
+        <li class="sb-item"><div class="sb-dot" style="background:#f5a623"></div><a href="https://cucthuy.gov.vn" target="_blank" style="color:#f5a623;font-weight:600">Cúm H5N1/H5N8 — Cảnh báo cao</a></li>
+        <li class="sb-item"><div class="sb-dot" style="background:#4f8ef7"></div><a href="https://chicuccntyhcm.gov.vn" target="_blank">Bệnh dại — Đang tiêm đợt 2/2026</a></li>
+        <li class="sb-item"><div class="sb-dot" style="background:#10b981"></div><a href="https://cucthuy.gov.vn" target="_blank" style="color:#10b981">ASF — Đã kiểm soát (6 tháng)</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="sb-box">
+    <div class="sb-head">📊 Chỉ số KV9 — 6T/2026</div>
+    <div class="sb-body" style="padding:8px 11px">
+      <div style="font-size:10px;color:var(--t3);margin-bottom:7px;font-style:italic">Tính đến 02/06/2026 — BC số 35/BC-TCNTY9</div>
+      <table style="width:100%;border-collapse:collapse;font-size:12px">
+        <tr><td style="padding:5px 0;color:var(--t2);border-bottom:1px dotted rgba(255,255,255,0.06)">🐷 Tổng đàn heo</td><td style="text-align:right;font-weight:700;color:var(--p);border-bottom:1px dotted rgba(255,255,255,0.06)">203.157 con</td></tr>
+        <tr><td style="padding:5px 0;color:var(--t2);border-bottom:1px dotted rgba(255,255,255,0.06)">🐔 Gia cầm</td><td style="text-align:right;font-weight:700;color:var(--p);border-bottom:1px dotted rgba(255,255,255,0.06)">3.592.446 con</td></tr>
+        <tr><td style="padding:5px 0;color:var(--t2);border-bottom:1px dotted rgba(255,255,255,0.06)">🐄 Trâu bò</td><td style="text-align:right;font-weight:700;color:var(--p);border-bottom:1px dotted rgba(255,255,255,0.06)">9.006 con</td></tr>
+        <tr><td style="padding:5px 0;color:var(--t2);border-bottom:1px dotted rgba(255,255,255,0.06)">🐐 Dê</td><td style="text-align:right;font-weight:700;color:var(--p);border-bottom:1px dotted rgba(255,255,255,0.06)">12.712 con</td></tr>
+        <tr><td style="padding:5px 0;color:var(--t2);border-bottom:1px dotted rgba(255,255,255,0.06)">🐶 Tiêm phòng dại</td><td style="text-align:right;font-weight:700;color:#f5a623;border-bottom:1px dotted rgba(255,255,255,0.06)">32,50%</td></tr>
+        <tr><td style="padding:5px 0;color:var(--t2);border-bottom:1px dotted rgba(255,255,255,0.06)">🏠 Nhà yến</td><td style="text-align:right;font-weight:700;color:var(--p);border-bottom:1px dotted rgba(255,255,255,0.06)">239 nhà</td></tr>
+        <tr><td style="padding:5px 0;color:var(--t2)">🐖 Heo CN cao</td><td style="text-align:right;font-weight:700;color:var(--p)">92% (186.837)</td></tr>
+      </table>
+    </div>
+  </div>
+
+</div><!-- /.side -->
+
+</div><!-- /.body-grid -->
+</div><!-- /.wrap -->
+
+<footer>
+  <div style="margin-bottom:4px"><strong>Trạm Chăn nuôi và Thú y Khu vực 9</strong> — Chi cục Chăn nuôi và Thú y TP.HCM</div>
+  <div>QL55, ấp Phước Hòa, xã Hồ Tràm, Xuyên Mộc, BR-VT &nbsp;|&nbsp; Email: <a href="mailto:tcntykv9.snnmt@tphcm.gov.vn">tcntykv9.snnmt@tphcm.gov.vn</a></div>
+  <div style="margin-top:5px;font-size:10.5px;color:var(--t3)">© 2026 Chi cục Chăn nuôi và Thú y TP.HCM &nbsp;·&nbsp; Cập nhật tự động mỗi 5 phút</div>
+</footer>
+
+<script>
+// Clock
+function updateClock(){
+  var now=new Date();
+  var days=['Chủ nhật','Thứ 2','Thứ 3','Thứ 4','Thứ 5','Thứ 6','Thứ 7'];
+  var p=function(n){return n.toString().padStart(2,'0');};
+  var d=p(now.getDate()),mo=p(now.getMonth()+1),y=now.getFullYear();
+  var h=p(now.getHours()),mi=p(now.getMinutes()),s=p(now.getSeconds());
+  var eld=document.getElementById('hdrDate');
+  var elc=document.getElementById('hdrClock');
+  var eldn=document.getElementById('navDate');
+  if(eld) eld.textContent=days[now.getDay()]+', '+d+'/'+mo+'/'+y;
+  if(elc) elc.textContent=h+':'+mi+':'+s;
+  if(eldn) eldn.textContent=days[now.getDay()]+' '+d+'/'+mo+'/'+y+' '+h+':'+mi;
+}
+setInterval(updateClock,1000); updateClock();
+
+// Back to top
+window.addEventListener('scroll',function(){
+  var b=document.getElementById('backTop');
+  if(b) b.classList.toggle('show',window.scrollY>300);
+},{ passive:true });
+
+// Tab navigation
+function goTab(tab){
+  document.querySelectorAll('.panel').forEach(function(p){p.classList.remove('on');});
+  document.querySelectorAll('.nav-a').forEach(function(a){a.classList.remove('on');});
+  var panel=document.getElementById('panel-'+tab);
+  var nav=document.getElementById('nav-'+tab);
+  if(panel) panel.classList.add('on');
+  if(nav) nav.classList.add('on');
+  var side=document.querySelector('.side');
+  if(side) side.style.display=(tab==='article-35')?'none':'';
+  window.scrollTo(0,0);
+}
+
+// Schedule calendar
+var curWeekOffset=0;
+function chWeek(dir){
+  if(dir===0) curWeekOffset=0; else curWeekOffset+=dir;
+  var now=new Date(); var day=now.getDay()||7;
+  var mon=new Date(now); mon.setDate(now.getDate()-day+1+curWeekOffset*7);
+  var sun=new Date(mon); sun.setDate(mon.getDate()+6);
+  var fmt=function(d){return p(d.getDate())+'/'+p(d.getMonth()+1);};
+  var p=function(n){return n.toString().padStart(2,'0');};
+  var el=document.getElementById('wcLabel');
+  if(el) el.textContent='Tuần: '+fmt(mon)+' – '+fmt(sun)+'/'+sun.getFullYear();
+  var fr=document.getElementById('schedFr');
+  if(fr){
+    var p2=function(n){return n.toString().padStart(2,'0');};
+    fr.src='https://vp.ccty.vn/OnlySchedule/Index?ngay='+p2(mon.getDate())+'-'+p2(mon.getMonth()+1)+'-'+mon.getFullYear();
+  }
+}
+chWeek(0);
+
+// RSS feeds
+var RSS_FEEDS=[
+  {url:'https://channuoivietnam.com/feed/',src:'channuoi',icon:'🌾',label:'Chăn nuôi VN',home:true},
+  {url:'https://chicuccntyhcm.gov.vn/rss.aspx',src:'chicuccntyhcm',icon:'🏥',label:'Chi cục CNTY HCM',home:true},
+  {url:'https://sattp.hochiminhcity.gov.vn/RSS.aspx',src:'sattp',icon:'🍽️',label:'Sở ATTP HCM',home:true},
+  {url:'https://mae.gov.vn/rss',src:'mae',icon:'🌿',label:'Bộ NN&MT',home:true},
+  {url:'https://cucthuy.gov.vn/rss',src:'cucthuy',icon:'🐄',label:'Cục CN&TY',home:false},
+  {url:'https://sonnmt.hochiminhcity.gov.vn/rss',src:'sonnmt',icon:'🏙️',label:'Sở NN&MT HCM',home:false}
+];
+
+function fetchFeed(feed,ctrl){
+  var sig=ctrl?ctrl.signal:undefined;
+  var opts=sig?{signal:sig}:{};
+  var url0='https://api.rss2json.com/v1/api.json?count=6&rss_url='+encodeURIComponent(feed.url);
+  return fetch(url0,opts).then(function(r){return r.json();}).then(function(j){
+    if(j&&j.items&&j.items.length) return j.items.map(function(it){
+      return {title:it.title||'',link:it.link||'',src:feed.src,icon:feed.icon,label:feed.label,home:feed.home,date:it.pubDate||''};
+    });
+    throw new Error('empty');
+  }).catch(function(){
+    return fetch('https://api.allorigins.win/raw?url='+encodeURIComponent(feed.url),opts)
+      .then(function(r){return r.text();})
+      .then(function(xml){
+        var doc=new DOMParser().parseFromString(xml,'application/xml');
+        return Array.from(doc.querySelectorAll('item')).slice(0,6).map(function(it){
+          var link=(it.querySelector('link')||{}).textContent||'';
+          if(!link){var ln=it.getElementsByTagName('link')[0];if(ln)link=ln.textContent||'';}
+          return {title:(it.querySelector('title')||{}).textContent||'',link:link||feed.url,
+            src:feed.src,icon:feed.icon,label:feed.label,home:feed.home,
+            date:(it.querySelector('pubDate')||{}).textContent||''};
+        });
+      });
+  });
+}
+
+function fmtDate(raw){
+  if(!raw) return '';
+  try{var d=new Date(raw);if(isNaN(d))return '';
+    return d.getDate().toString().padStart(2,'0')+'/'+(d.getMonth()+1).toString().padStart(2,'0');}
+  catch(e){return '';}
+}
+
+function makeNitem(it){
+  var d=document.createElement('div');
+  d.className='nitem nitem-new'; d.setAttribute('data-s',it.src); d.setAttribute('data-live','1');
+  var ds=fmtDate(it.date);
+  var title=it.title.replace(/</g,'&lt;').replace(/>/g,'&gt;').substring(0,110);
+  d.innerHTML='<div class="nitem-ico">'+it.icon+'</div><div class="nitem-body"><div class="nitem-title"><a href="'
+    +it.link+'" target="_blank"><span style="font-size:10px;font-weight:700;color:var(--p);margin-right:4px">'+it.label+'</span>'
+    +(ds?'<span style="font-size:10px;color:var(--t3)">'+ds+'</span> ':'')+title+'</a></div></div>';
+  return d;
+}
+
+// Refresh progress bar (5-minute countdown)
+var REFRESH_SEC=300;
+var refreshRemain=REFRESH_SEC;
+var refreshTimer=null;
+
+function startRefreshBar(){
+  clearInterval(refreshTimer);
+  refreshRemain=REFRESH_SEC;
+  var bar=document.getElementById('refreshBar');
+  if(bar){
+    bar.style.transition='none';
+    bar.style.transform='scaleX(0)';
+    requestAnimationFrame(function(){
+      requestAnimationFrame(function(){
+        bar.style.transition='transform '+REFRESH_SEC+'s linear';
+        bar.style.transform='scaleX(1)';
+      });
+    });
+  }
+  refreshTimer=setInterval(function(){
+    refreshRemain--;
+    var m=Math.floor(refreshRemain/60).toString().padStart(2,'0');
+    var s=(refreshRemain%60).toString().padStart(2,'0');
+    var el=document.getElementById('refresh-countdown');
+    if(el) el.textContent='Làm mới sau '+m+':'+s;
+    if(refreshRemain<=0){ clearInterval(refreshTimer); fetchAllLive(); }
+  },1000);
+}
+
+function fetchAllLive(){
+  var statusEl=document.getElementById('rss-status');
+  var tsEl=document.getElementById('live-ts');
+  if(statusEl) statusEl.innerHTML='⏳ Đang lấy tin mới…';
+  document.querySelectorAll('.nitem[data-live]').forEach(function(el){el.remove();});
+  var allItems=[], ok=0, fail=0;
+  var promises=RSS_FEEDS.map(function(feed){
+    return fetchFeed(feed).then(function(items){
+      ok++;
+      items.forEach(function(it){
+        if(!it.title||!it.link) return;
+        allItems.push(it);
+        var nlist=document.querySelector('#panel-news .nlist');
+        if(nlist) nlist.prepend(makeNitem(it));
+        if(it.home){
+          var hnlist=document.getElementById('home-nlist');
+          if(hnlist) hnlist.prepend(makeNitem(it));
+        }
+      });
+    }).catch(function(){fail++;});
+  });
+  Promise.all(promises).then(function(){
+    var now=new Date();
+    var ts=now.getHours().toString().padStart(2,'0')+':'+now.getMinutes().toString().padStart(2,'0');
+    if(tsEl) tsEl.textContent=ts;
+    if(statusEl) statusEl.innerHTML=(ok>0?'✅ ':'⚠️ ')+ok+' nguồn'+(fail>0?' · ⚠️ '+fail+' lỗi':'')+' · '+ts;
+    if(allItems.length){
+      var parts=allItems.slice(0,10).map(function(it){
+        return it.icon+' '+it.title.substring(0,60);
+      });
+      var base=parts.join(' ⋆ ');
+      var el=document.getElementById('tickerEl');
+      if(el) el.innerHTML=base+'&nbsp;&nbsp;&nbsp;&nbsp;'+base;
+    }
+    startRefreshBar();
+  });
+}
+
+function filterNews(btn,src){
+  document.querySelectorAll('.nitem').forEach(function(el){
+    el.style.display=(src==='all'||el.getAttribute('data-s')===src)?'':'none';
+  });
+  document.querySelectorAll('.sw-btn').forEach(function(b){b.classList.remove('cur');});
+  if(btn) btn.classList.add('cur');
+}
+
+fetchAllLive();
+
+(function(){
+  var hash=location.hash.replace('#','');
+  var valid=['home','news','schedule','stats','about','links'];
+  if(hash&&valid.indexOf(hash)>=0) goTab(hash);
+})();
+
+/* ───────── CHẾ ĐỘ SÁNG / TỐI ───────── */
+function applyThemeBtn(){
+  var t=document.documentElement.getAttribute('data-theme');
+  var btn=document.getElementById('themeBtn');
+  var meta=document.getElementById('metaTheme');
+  if(btn) btn.textContent=(t==='dark')?'☀️ Sáng':'🌙 Tối';
+  if(meta) meta.setAttribute('content',(t==='dark')?'#0b1220':'#0f3d1f');
+}
+function toggleTheme(){
+  var cur=document.documentElement.getAttribute('data-theme')==='dark'?'dark':'light';
+  var next=cur==='dark'?'light':'dark';
+  document.documentElement.setAttribute('data-theme',next);
+  try{localStorage.setItem('kv9-theme',next);}catch(e){}
+  applyThemeBtn();
+}
+applyThemeBtn();
+
+/* ───────── CÀI ĐẶT ỨNG DỤNG (PWA) ───────── */
+var deferredPrompt=null;
+window.addEventListener('beforeinstallprompt',function(e){
+  e.preventDefault();
+  deferredPrompt=e;
+  var b=document.getElementById('installBtn');
+  if(b) b.style.display='inline-flex';
+});
+function installApp(){
+  if(!deferredPrompt){
+    alert('Để cài đặt: mở menu trình duyệt (⋮ hoặc nút Chia sẻ) và chọn "Cài đặt ứng dụng" / "Thêm vào màn hình chính".');
+    return;
+  }
+  deferredPrompt.prompt();
+  deferredPrompt.userChoice.finally(function(){
+    deferredPrompt=null;
+    var b=document.getElementById('installBtn');
+    if(b) b.style.display='none';
+  });
+}
+window.addEventListener('appinstalled',function(){
+  var b=document.getElementById('installBtn');
+  if(b) b.style.display='none';
+});
+
+/* ───────── SERVICE WORKER (chạy offline) ───────── */
+if('serviceWorker' in navigator){
+  window.addEventListener('load',function(){
+    navigator.serviceWorker.register('sw.js').catch(function(err){
+      console.warn('Không đăng ký được service worker:',err);
+    });
+  });
+}
+</script>
+
+<button id="backTop" onclick="window.scrollTo({top:0,behavior:'smooth'})">&#8593;</button>
+</body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "name": "Trạm Chăn nuôi và Thú y Khu vực 9",
+  "short_name": "Trạm KV9",
+  "description": "Dashboard thông tin Trạm Chăn nuôi và Thú y Khu vực 9 — Chi cục CNTY TP.HCM: tin tức, giá sản phẩm, cảnh báo dịch bệnh, văn bản pháp luật và thủ tục hành chính.",
+  "lang": "vi",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f3d1f",
+  "theme_color": "#0f3d1f",
+  "categories": ["government", "news", "productivity"],
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "./icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
