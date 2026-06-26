@@ -95,9 +95,9 @@ img{max-width:100%;display:block}
 @keyframes fadeUp{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
 
 /* SECTION HEADER */
-.sh{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;padding-bottom:8px;border-bottom:2px solid var(--b1)}
-.sh-t{font-size:13px;font-weight:700;color:var(--t1);display:flex;align-items:center;gap:7px;position:relative;padding-left:10px}
-.sh-t::before{content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:3px;height:16px;background:var(--p);border-radius:2px}
+.sh{display:flex;align-items:center;justify-content:space-between;margin-top:22px;margin-bottom:12px;padding-bottom:9px;border-bottom:2px solid var(--b1)}
+.sh-t{font-size:14px;font-weight:700;color:var(--t1);display:flex;align-items:center;gap:7px;position:relative;padding-left:12px}
+.sh-t::before{content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:4px;height:18px;background:linear-gradient(180deg,var(--p),#22c55e);border-radius:3px}
 .sh-more{font-size:11px;color:var(--t3);transition:color .2s;font-weight:500}
 .sh-more:hover{color:var(--p)}
 
@@ -508,6 +508,31 @@ footer a{color:#86efac}
   </div>
 </div>
 
+<!-- CẢNH BÁO DỊCH BỆNH (đưa lên cao vì khẩn cấp) -->
+<div class="sh"><span class="sh-t">⚠️ Cảnh báo dịch bệnh</span><a class="sh-more" href="https://cucthuy.gov.vn/web/guest/phong-chong-dich-benh-tren-can" target="_blank">Cục CN&TY »</a></div>
+<div class="dgrid c4 gap8 mb14">
+  <div class="da re" style="padding:10px 11px">
+    <div style="font-size:15px;margin-bottom:4px">🦠</div>
+    <div style="font-size:11.5px;font-weight:700;color:#ef4444;margin-bottom:2px"><a href="https://mae.gov.vn/lao-cai-chu-dong-ngua-dich-lo-mom-long-mong-serotype-sat1-22003.htm" target="_blank" style="color:#ef4444">LMLM SAT1</a></div>
+    <div style="font-size:10.5px;color:#ef4444">⚡ Lào Cai · Toàn quốc</div>
+  </div>
+  <div class="da am" style="padding:10px 11px">
+    <div style="font-size:15px;margin-bottom:4px">🐦</div>
+    <div style="font-size:11.5px;font-weight:700;color:#f5a623;margin-bottom:2px"><a href="https://cucthuy.gov.vn" target="_blank" style="color:#f5a623">Cúm H5N1/H5N8</a></div>
+    <div style="font-size:10.5px;color:#f5a623">⚠️ Cảnh báo cao</div>
+  </div>
+  <div class="da bl" style="padding:10px 11px">
+    <div style="font-size:15px;margin-bottom:4px">🐕</div>
+    <div style="font-size:11.5px;font-weight:700;color:#4f8ef7;margin-bottom:2px"><a href="https://chicuccntyhcm.gov.vn/new/2026/06/03/Tap-huan-phong-chong-benh-Dai.aspx" target="_blank" style="color:#4f8ef7">Bệnh dại</a></div>
+    <div style="font-size:10.5px;color:#4f8ef7">💉 Tiêm đợt 2/2026</div>
+  </div>
+  <div class="da gn" style="padding:10px 11px">
+    <div style="font-size:15px;margin-bottom:4px">🐷</div>
+    <div style="font-size:11.5px;font-weight:700;color:#10b981;margin-bottom:2px"><a href="https://cucthuy.gov.vn" target="_blank" style="color:#10b981">ASF (Dịch tả heo)</a></div>
+    <div style="font-size:10.5px;color:#10b981">✅ Đã kiểm soát 6T</div>
+  </div>
+</div>
+
 <!-- DASHBOARD STATS (2 ROW × 4) -->
 <div class="dgrid c4 gap8 mb8">
   <div class="stat-c"><div class="stat-v">203.157</div><div class="stat-lbl">🐷 Tổng đàn heo</div><div class="stat-sub">BC 35 · T6/2026</div></div>
@@ -614,31 +639,6 @@ footer a{color:#86efac}
     </div>
   </div>
   <!-- NC3-END -->
-</div>
-
-<!-- CẢNH BÁO DỊCH BỆNH (4 thẻ hàng ngang) -->
-<div class="sh"><span class="sh-t">⚠️ Cảnh báo dịch bệnh</span><a class="sh-more" href="https://cucthuy.gov.vn/web/guest/phong-chong-dich-benh-tren-can" target="_blank">Cục CN&TY »</a></div>
-<div class="dgrid c4 gap8 mb14">
-  <div class="da re" style="padding:10px 11px">
-    <div style="font-size:15px;margin-bottom:4px">🦠</div>
-    <div style="font-size:11.5px;font-weight:700;color:#ef4444;margin-bottom:2px"><a href="https://mae.gov.vn/lao-cai-chu-dong-ngua-dich-lo-mom-long-mong-serotype-sat1-22003.htm" target="_blank" style="color:#ef4444">LMLM SAT1</a></div>
-    <div style="font-size:10.5px;color:#ef4444">⚡ Lào Cai · Toàn quốc</div>
-  </div>
-  <div class="da am" style="padding:10px 11px">
-    <div style="font-size:15px;margin-bottom:4px">🐦</div>
-    <div style="font-size:11.5px;font-weight:700;color:#f5a623;margin-bottom:2px"><a href="https://cucthuy.gov.vn" target="_blank" style="color:#f5a623">Cúm H5N1/H5N8</a></div>
-    <div style="font-size:10.5px;color:#f5a623">⚠️ Cảnh báo cao</div>
-  </div>
-  <div class="da bl" style="padding:10px 11px">
-    <div style="font-size:15px;margin-bottom:4px">🐕</div>
-    <div style="font-size:11.5px;font-weight:700;color:#4f8ef7;margin-bottom:2px"><a href="https://chicuccntyhcm.gov.vn/new/2026/06/03/Tap-huan-phong-chong-benh-Dai.aspx" target="_blank" style="color:#4f8ef7">Bệnh dại</a></div>
-    <div style="font-size:10.5px;color:#4f8ef7">💉 Tiêm đợt 2/2026</div>
-  </div>
-  <div class="da gn" style="padding:10px 11px">
-    <div style="font-size:15px;margin-bottom:4px">🐷</div>
-    <div style="font-size:11.5px;font-weight:700;color:#10b981;margin-bottom:2px"><a href="https://cucthuy.gov.vn" target="_blank" style="color:#10b981">ASF (Dịch tả heo)</a></div>
-    <div style="font-size:10.5px;color:#10b981">✅ Đã kiểm soát 6T</div>
-  </div>
 </div>
 
 <!-- TIN TỨC MỚI NHẤT -->
