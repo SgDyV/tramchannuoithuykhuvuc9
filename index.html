@@ -30,8 +30,8 @@
   --bl:#2563eb;--bla:rgba(37,99,235,0.08);
   --am:#d97706;--re:#dc2626;--gr:#16a34a;
   --t1:#0f172a;--t2:#334155;--t3:#64748b;
-  --r:12px;--rs:8px;
-  --sh:0 1px 4px rgba(0,0,0,0.08),0 2px 8px rgba(0,0,0,0.05);
+  --r:16px;--rs:11px;
+  --sh:0 2px 8px rgba(15,23,42,0.06),0 12px 28px -10px rgba(15,23,42,0.12);
   --gw:0 0 0 3px rgba(26,122,58,0.15);
   --hdr-bg:#0f3d1f;
 }
@@ -62,14 +62,14 @@ img{max-width:100%;display:block}
 .hdr-sub a{color:#86efac}
 .hdr-sub a:hover{color:#fff}
 .hdr-clock{text-align:right;z-index:1;flex-shrink:0}
-.hdr-clock .time{font-size:28px;font-weight:800;color:#86efac;font-variant-numeric:tabular-nums;line-height:1;text-shadow:0 0 20px rgba(134,239,172,0.4)}
+.hdr-clock .time{font-size:25px;font-weight:800;color:#bbf7d0;font-variant-numeric:tabular-nums;line-height:1;padding:7px 15px;border-radius:13px;background:rgba(255,255,255,0.08);border:1px solid rgba(255,255,255,0.14);backdrop-filter:blur(6px);display:inline-block}
 .hdr-clock .date{font-size:10.5px;color:rgba(255,255,255,0.55);margin-top:3px}
 
 /* NAV */
 .nav{background:#fff;border-bottom:1px solid var(--b1);display:flex;align-items:center;padding:0 18px;position:sticky;top:34px;z-index:150;overflow-x:auto;box-shadow:var(--sh)}
-.nav-a{display:flex;align-items:center;gap:5px;padding:12px 14px;font-size:12.5px;font-weight:600;color:var(--t3);cursor:pointer;border:none;border-bottom:3px solid transparent;background:none;font-family:inherit;white-space:nowrap;transition:all .2s;position:relative}
-.nav-a:hover{color:var(--p);border-bottom-color:rgba(26,122,58,0.3)}
-.nav-a.on{color:var(--p);border-bottom-color:var(--p)}
+.nav-a{display:flex;align-items:center;gap:5px;margin:7px 1px;padding:9px 14px;font-size:12.5px;font-weight:600;color:var(--t3);cursor:pointer;border:none;border-radius:11px;background:none;font-family:inherit;white-space:nowrap;transition:all .18s;position:relative}
+.nav-a:hover{color:var(--p);background:var(--pa)}
+.nav-a.on{color:#fff;background:linear-gradient(135deg,var(--p),#22c55e);box-shadow:0 3px 10px rgba(26,122,58,0.28)}
 .nav-date{margin-left:auto;font-size:10.5px;color:var(--t3);padding:0 4px;white-space:nowrap}
 
 /* TICKER */
