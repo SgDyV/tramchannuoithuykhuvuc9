@@ -23,15 +23,15 @@
   document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
 <style>
 :root{
-  --bg:#f0f4f8;--bg2:#e8eef6;--bg3:#dce6f2;
-  --g1:#ffffff;--g2:#f8fafc;--g3:#f1f5f9;
-  --b1:#e2e8f0;--b2:#cbd5e1;--b3:#94a3b8;
+  --bg:#ffffff;--bg2:#f7f9fb;--bg3:#eef2f6;
+  --g1:#ffffff;--g2:#fbfcfd;--g3:#f4f6f9;
+  --b1:#e6eaf0;--b2:#d4dbe4;--b3:#9aa6b5;
   --p:#1a7a3a;--pa:rgba(26,122,58,0.08);--pb:rgba(26,122,58,0.16);
   --bl:#2563eb;--bla:rgba(37,99,235,0.08);
   --am:#d97706;--re:#dc2626;--gr:#16a34a;
   --t1:#0f172a;--t2:#334155;--t3:#64748b;
-  --r:16px;--rs:11px;
-  --sh:0 2px 8px rgba(15,23,42,0.06),0 12px 28px -10px rgba(15,23,42,0.12);
+  --r:11px;--rs:8px;
+  --sh:0 1px 2px rgba(16,24,40,0.04),0 2px 6px rgba(16,24,40,0.05);
   --gw:0 0 0 3px rgba(26,122,58,0.15);
   --hdr-bg:#0f3d1f;
 }
@@ -46,24 +46,24 @@ img{max-width:100%;display:block}
 ::-webkit-scrollbar-thumb:hover{background:var(--b3)}
 
 /* TOPBAR */
-.tb{background:var(--hdr-bg);border-bottom:1px solid rgba(255,255,255,0.08);padding:0 20px;display:flex;align-items:center;justify-content:space-between;height:34px;font-size:11px;color:rgba(255,255,255,0.6);position:sticky;top:0;z-index:200}
-.tb strong{color:rgba(255,255,255,0.9)}
-.tb a{color:#6ee7a0}
-.tb a:hover{color:#fff}
+.tb{background:var(--g3);border-bottom:1px solid var(--b1);padding:0 20px;display:flex;align-items:center;justify-content:space-between;height:34px;font-size:11px;color:var(--t3);position:sticky;top:0;z-index:200}
+.tb strong{color:var(--t1)}
+.tb a{color:var(--p)}
+.tb a:hover{color:#0a4d22}
 
 /* HEADER */
-.hdr{background:linear-gradient(120deg,#0a2e14 0%,#1a5c2a 50%,#0e3a1a 100%);border-bottom:3px solid #22c55e;padding:0 24px;display:flex;align-items:center;gap:18px;position:relative;overflow:hidden;min-height:80px}
-.hdr::before{content:'';position:absolute;right:0;top:0;bottom:0;width:40%;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 100'%3E%3Ccircle cx='350' cy='20' r='80' fill='rgba(255,255,255,0.02)'/%3E%3Ccircle cx='300' cy='80' r='60' fill='rgba(255,255,255,0.03)'/%3E%3C/svg%3E") center/cover;pointer-events:none}
-.hdr::after{content:'';position:absolute;left:0;top:0;bottom:0;width:4px;background:linear-gradient(180deg,#22c55e,#16a34a)}
-.hdr-logo{width:56px;height:56px;background:rgba(255,255,255,0.12);border:2px solid rgba(255,255,255,0.25);border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:26px;flex-shrink:0;position:relative;z-index:1;backdrop-filter:blur(4px)}
+.hdr{background:var(--g1);border-bottom:1px solid var(--b1);border-top:4px solid var(--p);padding:0 24px;display:flex;align-items:center;gap:18px;position:relative;overflow:hidden;min-height:88px}
+.hdr::before{display:none}
+.hdr::after{display:none}
+.hdr-logo{width:58px;height:58px;background:var(--pa);border:1px solid rgba(26,122,58,0.25);border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:28px;flex-shrink:0;position:relative;z-index:1}
 .hdr-text{flex:1;z-index:1}
-.hdr-title{font-size:17px;font-weight:800;color:#fff;letter-spacing:-0.3px;line-height:1.25;text-shadow:0 1px 3px rgba(0,0,0,0.3)}
-.hdr-sub{font-size:11px;color:rgba(255,255,255,0.6);margin-top:3px}
-.hdr-sub a{color:#86efac}
-.hdr-sub a:hover{color:#fff}
+.hdr-title{font-size:19px;font-weight:800;color:var(--t1);letter-spacing:-0.3px;line-height:1.25}
+.hdr-sub{font-size:11.5px;color:var(--t3);margin-top:4px}
+.hdr-sub a{color:var(--p)}
+.hdr-sub a:hover{color:#0a4d22}
 .hdr-clock{text-align:right;z-index:1;flex-shrink:0}
-.hdr-clock .time{font-size:25px;font-weight:800;color:#bbf7d0;font-variant-numeric:tabular-nums;line-height:1;padding:7px 15px;border-radius:13px;background:rgba(255,255,255,0.08);border:1px solid rgba(255,255,255,0.14);backdrop-filter:blur(6px);display:inline-block}
-.hdr-clock .date{font-size:10.5px;color:rgba(255,255,255,0.55);margin-top:3px}
+.hdr-clock .time{font-size:24px;font-weight:800;color:var(--p);font-variant-numeric:tabular-nums;line-height:1;padding:7px 15px;border-radius:11px;background:var(--pa);border:1px solid var(--b1);display:inline-block}
+.hdr-clock .date{font-size:10.5px;color:var(--t3);margin-top:6px}
 
 /* NAV */
 .nav{background:#fff;border-bottom:1px solid var(--b1);display:flex;align-items:center;padding:0 18px;position:sticky;top:34px;z-index:150;overflow-x:auto;box-shadow:var(--sh)}
