@@ -1,19 +1,20 @@
 /* Service worker — Trạm KV9 PWA
    Chiến lược: network-first cho điều hướng/tài nguyên (luôn lấy bản mới khi có mạng),
    tự động lưu cache để xem được khi offline. */
-const CACHE = 'kv9-cache-v2';
+const CACHE = 'kv9-cache-v3';
 const CORE = [
   './',
   './index.html',
   './manifest.webmanifest',
   './icon.svg',
   './icon-maskable.svg',
-  './img/hero.jpg',
-  './img/heo.jpg',
-  './img/vaccine.jpg',
-  './img/giacam.jpg',
-  './img/cho.jpg',
-  './img/hoinghi.jpg'
+  './img/hoinghi1.jpg',
+  './img/hoinghi2.jpg',
+  './img/hoinghi3.jpg',
+  './img/bantin.jpg',
+  './img/botruong.jpg',
+  './img/dai.png',
+  './img/vit.png'
 ];
 
 self.addEventListener('install', (e) => {
