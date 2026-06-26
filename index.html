@@ -438,6 +438,33 @@ footer a{color:#86efac}
 [data-theme="dark"] .badge-b{background:rgba(37,99,235,.18);color:#93c5fd;border-color:rgba(37,99,235,.4)}
 [data-theme="dark"] .badge-g{background:rgba(22,163,74,.18);color:#86efac;border-color:rgba(22,163,74,.4)}
 [data-theme="dark"] .badge-r{background:rgba(220,38,38,.18);color:#fca5a5;border-color:rgba(220,38,38,.4)}
+
+/* ───────── LAYOUT KIỂU TẠP CHÍ (MAGAZINE) ───────── */
+.mag-hero{display:grid;grid-template-columns:1.7fr 1fr;gap:14px;margin-bottom:18px}
+.mag-lead{display:block;background:var(--g1);border:1px solid var(--b1);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh);cursor:pointer;transition:box-shadow .2s,transform .2s}
+.mag-lead:hover{transform:translateY(-2px);box-shadow:0 12px 30px -12px rgba(16,24,40,.20)}
+.mag-lead-img{width:100%;height:300px;object-fit:cover;display:block;background:linear-gradient(135deg,#0a2e14,#1a5c2a)}
+.mag-lead-body{padding:18px 20px}
+.mag-kicker{display:inline-block;font-size:10.5px;font-weight:800;letter-spacing:.6px;text-transform:uppercase;color:var(--p);background:var(--pa);padding:4px 11px;border-radius:20px;margin-bottom:11px}
+.mag-lead-title{font-size:22px;line-height:1.25;font-weight:800;color:var(--t1);margin-bottom:10px;letter-spacing:-.4px}
+.mag-lead-title:hover{color:var(--p)}
+.mag-lead-sapo{font-size:13.5px;color:var(--t2);line-height:1.7}
+.mag-side{display:flex;flex-direction:column;gap:10px}
+.mag-sec{display:flex;gap:12px;background:var(--g1);border:1px solid var(--b1);border-radius:var(--rs);overflow:hidden;padding:10px;transition:border-color .2s,transform .2s;color:inherit}
+.mag-sec:hover{border-color:var(--p);transform:translateX(2px)}
+.mag-sec-thumb{width:76px;height:66px;border-radius:8px;flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:27px}
+.mag-sec-body{min-width:0}
+.mag-sec-k{font-size:9.5px;font-weight:800;text-transform:uppercase;letter-spacing:.5px;color:var(--p);margin-bottom:3px}
+.mag-sec-t{font-size:12.5px;font-weight:700;line-height:1.4;color:var(--t1)}
+.mag-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:18px}
+.mag-card{background:var(--g1);border:1px solid var(--b1);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh);transition:transform .2s,box-shadow .2s;cursor:pointer;color:inherit;display:block}
+.mag-card:hover{transform:translateY(-3px);box-shadow:0 12px 28px -12px rgba(16,24,40,.20)}
+.mag-card-thumb{height:150px;display:flex;align-items:center;justify-content:center;font-size:42px}
+.mag-card-body{padding:13px 15px}
+.mag-card-title{font-size:14px;font-weight:700;line-height:1.42;color:var(--t1);margin:6px 0 0}
+.mag-card:hover .mag-card-title{color:var(--p)}
+@media (max-width:900px){.mag-hero{grid-template-columns:1fr}.mag-grid{grid-template-columns:1fr 1fr}}
+@media (max-width:560px){.mag-grid{grid-template-columns:1fr}.mag-lead-title{font-size:18px}.mag-lead-img{height:200px}}
 </style>
 </head>
 <body>
@@ -488,48 +515,29 @@ footer a{color:#86efac}
 <!-- ════ PANEL HOME ════ -->
 <div class="panel on" id="panel-home">
 
-<!-- BÁO CÁO NỔI BẬT (FEAT) -->
-<div class="feat-card" onclick="goTab('article-35')" tabindex="0" role="button" aria-label="Đọc báo cáo KV9">
-  <img class="feat-cover" src="https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=900&q=80" alt="Chăn nuôi KV9" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-  <div class="feat-cover-ph" style="display:none">🐄</div>
-  <div class="feat-body">
-    <div class="feat-tag">📋 BC số 35/BC-TCNTY9 &nbsp;·&nbsp; 08/06/2026 &nbsp;·&nbsp; Trạm KV9</div>
-    <div class="feat-title">Tổng quan hoạt động chăn nuôi – thú y KV9: Đàn heo vượt 203.000 con, kiểm soát tốt dịch bệnh 6T/2026</div>
-    <div class="feat-sapo">Khu vực 9 ghi nhận tăng trưởng ổn định +5,5% so cùng kỳ. Công tác phòng chống dịch bài bản — 6 tháng liên tiếp không có ổ dịch tả heo châu Phi mới.</div>
-    <div class="feat-badges">
-      <span class="feat-b">🐷 Heo: 203.157 con</span>
-      <span class="feat-b">🐔 Gia cầm: 3,59 triệu</span>
-      <span class="feat-b">💉 FMD: 94%</span>
-      <span class="feat-b">🚫 ASF: 0 ổ dịch 6T</span>
-      <span class="feat-b">📈 Tăng trưởng +5,5%</span>
-      <span class="feat-b">🏠 Yến: 239 nhà</span>
+<!-- ════ HERO KIỂU TẠP CHÍ ════ -->
+<div class="mag-hero">
+  <div class="mag-lead" onclick="goTab('article-35')" tabindex="0" role="button" aria-label="Đọc báo cáo KV9">
+    <img class="mag-lead-img" src="https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=1000&q=80" alt="Chăn nuôi KV9" onerror="this.style.display='none'">
+    <div class="mag-lead-body">
+      <span class="mag-kicker">📋 Báo cáo nổi bật · BC 35/BC-TCNTY9</span>
+      <div class="mag-lead-title">Tổng quan hoạt động chăn nuôi – thú y KV9: Đàn heo vượt 203.000 con, kiểm soát tốt dịch bệnh 6 tháng đầu 2026</div>
+      <div class="mag-lead-sapo">Khu vực 9 tăng trưởng ổn định +5,5% so cùng kỳ; 6 tháng liên tiếp không phát sinh ổ dịch tả heo châu Phi mới. Tiêm phòng FMD đạt 94%, đàn heo công nghệ cao chiếm 92%.</div>
     </div>
-    <div class="feat-cta"><span class="feat-cta-txt">Nhấp để đọc toàn bài →</span><span class="feat-cta-arr">›</span></div>
   </div>
-</div>
-
-<!-- CẢNH BÁO DỊCH BỆNH (đưa lên cao vì khẩn cấp) -->
-<div class="sh"><span class="sh-t">⚠️ Cảnh báo dịch bệnh</span><a class="sh-more" href="https://cucthuy.gov.vn/web/guest/phong-chong-dich-benh-tren-can" target="_blank">Cục CN&TY »</a></div>
-<div class="dgrid c4 gap8 mb14">
-  <div class="da re" style="padding:10px 11px">
-    <div style="font-size:15px;margin-bottom:4px">🦠</div>
-    <div style="font-size:11.5px;font-weight:700;color:#ef4444;margin-bottom:2px"><a href="https://mae.gov.vn/lao-cai-chu-dong-ngua-dich-lo-mom-long-mong-serotype-sat1-22003.htm" target="_blank" style="color:#ef4444">LMLM SAT1</a></div>
-    <div style="font-size:10.5px;color:#ef4444">⚡ Lào Cai · Toàn quốc</div>
-  </div>
-  <div class="da am" style="padding:10px 11px">
-    <div style="font-size:15px;margin-bottom:4px">🐦</div>
-    <div style="font-size:11.5px;font-weight:700;color:#f5a623;margin-bottom:2px"><a href="https://cucthuy.gov.vn" target="_blank" style="color:#f5a623">Cúm H5N1/H5N8</a></div>
-    <div style="font-size:10.5px;color:#f5a623">⚠️ Cảnh báo cao</div>
-  </div>
-  <div class="da bl" style="padding:10px 11px">
-    <div style="font-size:15px;margin-bottom:4px">🐕</div>
-    <div style="font-size:11.5px;font-weight:700;color:#4f8ef7;margin-bottom:2px"><a href="https://chicuccntyhcm.gov.vn/new/2026/06/03/Tap-huan-phong-chong-benh-Dai.aspx" target="_blank" style="color:#4f8ef7">Bệnh dại</a></div>
-    <div style="font-size:10.5px;color:#4f8ef7">💉 Tiêm đợt 2/2026</div>
-  </div>
-  <div class="da gn" style="padding:10px 11px">
-    <div style="font-size:15px;margin-bottom:4px">🐷</div>
-    <div style="font-size:11.5px;font-weight:700;color:#10b981;margin-bottom:2px"><a href="https://cucthuy.gov.vn" target="_blank" style="color:#10b981">ASF (Dịch tả heo)</a></div>
-    <div style="font-size:10.5px;color:#10b981">✅ Đã kiểm soát 6T</div>
+  <div class="mag-side">
+    <a class="mag-sec" href="https://chicuccntyhcm.gov.vn/new/2026/06/19/phoi-hop-kiem-tra-kiem-soat-hoat-dong-van-chuyen-dong-vat-san-pham-dong-vat-ra-vao-thanh-pho-ho-chi-minh.aspx" target="_blank">
+      <div class="mag-sec-thumb" style="background:linear-gradient(135deg,#0a2e14,#22c55e)">🚗</div>
+      <div class="mag-sec-body"><div class="mag-sec-k">Chi cục CNTY · 19/06</div><div class="mag-sec-t">Phối hợp kiểm tra, kiểm soát vận chuyển động vật ra vào TP.HCM</div></div>
+    </a>
+    <a class="mag-sec" href="https://mae.gov.vn/bo-truong-trinh-viet-hung-gui-thu-chuc-mung-tap-chi-nong-nghiep-va-moi-truong-nhan-ky-niem-101-nam-ngay-bao-chi-cach-mang-viet-nam-22118.htm" target="_blank">
+      <div class="mag-sec-thumb" style="background:linear-gradient(135deg,#2563eb,#4f8ef7)">📰</div>
+      <div class="mag-sec-body"><div class="mag-sec-k">Bộ NN&MT · 2026</div><div class="mag-sec-t">Bộ trưởng gửi Thư chúc mừng Tạp chí Nông nghiệp & Môi trường</div></div>
+    </a>
+    <a class="mag-sec" href="https://cucthuy.gov.vn/web/guest/news" target="_blank">
+      <div class="mag-sec-thumb" style="background:linear-gradient(135deg,#d97706,#f5a623)">🔍</div>
+      <div class="mag-sec-body"><div class="mag-sec-k">Cục CN&TY · 12/03</div><div class="mag-sec-t">Đẩy mạnh phòng chống dịch bệnh, phát triển chăn nuôi theo chuỗi giá trị</div></div>
+    </a>
   </div>
 </div>
 
@@ -595,50 +603,21 @@ footer a{color:#86efac}
   </div>
 </div>
 
-<!-- TIN NỔI BẬT + NC3 (2 cột: nc-big trái / nc3 phải) -->
+<!-- TIN NỔI BẬT (lưới thẻ tạp chí) -->
 <div class="sh"><span class="sh-t">🔥 Tin nổi bật</span><a class="sh-more" href="#" onclick="goTab('news');return false">Xem tất cả »</a></div>
-<div class="dgrid c2 gap10 mb14">
-  <!-- NC-BIG-START -->
-  <!-- nc-big (trái) -->
-  <div class="nc-big" style="margin-bottom:0">
-    <div style="position:relative;width:100%;height:145px;overflow:hidden">
-      <img src="https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=900&q=80" alt="" style="width:100%;height:100%;object-fit:cover;display:block" onerror="this.parentElement.style.background='linear-gradient(135deg,#0d1a30,#0a201a)';this.style.display='none'">
-      <div style="position:absolute;top:0;left:0;right:0;bottom:0;background:linear-gradient(to bottom,rgba(6,10,18,0.1) 0%,rgba(6,10,18,0.7) 100%)"></div>
-      <div style="position:absolute;bottom:8px;left:12px"><span style="background:rgba(0,200,150,0.9);color:#000;font-size:9px;font-weight:800;padding:2px 7px;border-radius:3px;text-transform:uppercase;letter-spacing:.5px">🚗 Nổi bật</span></div>
-    </div>
-    <div class="nc-big-body">
-      <div class="nc-cat">🚗 Chi cục CNTY HCM · 19/06/2026</div>
-      <div class="nc-title"><a href="https://chicuccntyhcm.gov.vn/new/2026/06/19/phoi-hop-kiem-tra-kiem-soat-hoat-dong-van-chuyen-dong-vat-san-pham-dong-vat-ra-vao-thanh-pho-ho-chi-minh.aspx" target="_blank">Phối hợp kiểm tra, kiểm soát hoạt động vận chuyển động vật, sản phẩm động vật ra vào TP.HCM</a></div>
-      <div class="nc-meta">Xem chi tiết tại nguồn Chi cục CNTY HCM.</div>
-    </div>
-  </div>
-  <!-- NC-BIG-END -->
-  <!-- NC3-START -->
-  <!-- nc3 dạng cột (phải) -->
-  <div style="display:flex;flex-direction:column;gap:8px">
-    <div class="nc3-c" style="border-left:3px solid #00c896;padding-left:12px">
-      <div style="display:flex;gap:7px;align-items:center;margin-bottom:5px">
-        <span style="background:#00c89620;border:1px solid #00c89650;padding:2px 6px;border-radius:4px;font-size:9px;font-weight:800;color:#00c896">📋 Mới</span>
-        <span style="font-size:10px;color:var(--t3)">21/06/2026</span>
-      </div>
-      <div class="nc3-title" style="font-size:12px;line-height:1.4"><a href="https://mae.gov.vn/bo-truong-trinh-viet-hung-gui-thu-chuc-mung-tap-chi-nong-nghiep-va-moi-truong-nhan-ky-niem-101-nam-ngay-bao-chi-cach-mang-viet-nam-22118.htm" target="_blank">Bộ trưởng Trịnh Việt Hùng gửi Thư Chúc mừng Tạp chí NN&MT nhân Kỷ niệm 101 năm Ngày B…</a></div>
-    </div>
-    <div class="nc3-c" style="border-left:3px solid #4f8ef7;padding-left:12px">
-      <div style="display:flex;gap:7px;align-items:center;margin-bottom:5px">
-        <span style="background:#4f8ef720;border:1px solid #4f8ef750;padding:2px 6px;border-radius:4px;font-size:9px;font-weight:800;color:#4f8ef7">🔍 Mới</span>
-        <span style="font-size:10px;color:var(--t3)">12/03/2026</span>
-      </div>
-      <div class="nc3-title" style="font-size:12px;line-height:1.4"><a href="https://cucthuy.gov.vn/web/guest/news" target="_blank">Đẩy mạnh phòng, chống dịch bệnh và phát triển chăn nuôi theo chuỗi giá trị bền vững</a></div>
-    </div>
-    <div class="nc3-c" style="border-left:3px solid #f5a623;padding-left:12px">
-      <div style="display:flex;gap:7px;align-items:center;margin-bottom:5px">
-        <span style="background:#f5a62320;border:1px solid #f5a62350;padding:2px 6px;border-radius:4px;font-size:9px;font-weight:800;color:#f5a623">🚔 Mới</span>
-        <span style="font-size:10px;color:var(--t3)">2026</span>
-      </div>
-      <div class="nc3-title" style="font-size:12px;line-height:1.4"><a href="http://sattp.hochiminhcity.gov.vn/ArticleDetail.aspx?NewsID=8085" target="_blank">Thông tin ban đầu vụ việc nghi ngờ ngộ độc thực phẩm tại Trường Tiểu học Đặng Thùy Tr…</a></div>
-    </div>
-  </div>
-  <!-- NC3-END -->
+<div class="mag-grid">
+  <a class="mag-card" href="https://chicuccntyhcm.gov.vn/new/2026/06/19/Hoi-nghi-so-ket-tinh-hinh-hoat-dong-linh-vuc-chan-nuoi-va-thu-y-06-thang-dau-nam-2026.aspx" target="_blank">
+    <div class="mag-card-thumb" style="background:linear-gradient(135deg,#0a2e14,#1a5c2a)">📊</div>
+    <div class="mag-card-body"><div class="mag-sec-k">Chi cục CNTY · 19/06/2026</div><div class="mag-card-title">Hội nghị sơ kết hoạt động chăn nuôi và thú y 6 tháng đầu năm 2026</div></div>
+  </a>
+  <a class="mag-card" href="https://chicuccntyhcm.gov.vn/new/2026/06/03/Tap-huan-phong-chong-benh-Dai.aspx" target="_blank">
+    <div class="mag-card-thumb" style="background:linear-gradient(135deg,#2563eb,#4f8ef7)">💉</div>
+    <div class="mag-card-body"><div class="mag-sec-k">Chi cục CNTY · 03/06/2026</div><div class="mag-card-title">Tập huấn phòng, chống bệnh Dại trên địa bàn</div></div>
+  </a>
+  <a class="mag-card" href="https://chicuccntyhcm.gov.vn/new/2026/05/29/Chan-dung-hai-tan-vit-lau-triet-pha-lo-mo-heo-trai-phep-giua-TPHCM.aspx" target="_blank">
+    <div class="mag-card-thumb" style="background:linear-gradient(135deg,#c0392b,#f5a623)">🛑</div>
+    <div class="mag-card-body"><div class="mag-sec-k">Chi cục CNTY · 29/05/2026</div><div class="mag-card-title">Chặn đứng 2 tấn vịt lậu, triệt phá lò mổ heo trái phép giữa TP.HCM</div></div>
+  </a>
 </div>
 
 <!-- TIN TỨC MỚI NHẤT -->
