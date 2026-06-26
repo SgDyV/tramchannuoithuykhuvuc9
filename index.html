@@ -459,7 +459,7 @@ footer a{color:#86efac}
 .mag-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:18px}
 .mag-card{background:var(--g1);border:1px solid var(--b1);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh);transition:transform .2s,box-shadow .2s;cursor:pointer;color:inherit;display:block}
 .mag-card:hover{transform:translateY(-3px);box-shadow:0 12px 28px -12px rgba(16,24,40,.20)}
-.mag-card-thumb{height:150px;display:flex;align-items:center;justify-content:center;font-size:42px}
+.mag-card-thumb{height:150px;width:100%;object-fit:cover;display:block;background:var(--g3)}
 .mag-card-body{padding:13px 15px}
 .mag-card-title{font-size:14px;font-weight:700;line-height:1.42;color:var(--t1);margin:6px 0 0}
 .mag-card:hover .mag-card-title{color:var(--p)}
@@ -518,7 +518,7 @@ footer a{color:#86efac}
 <!-- ════ HERO KIỂU TẠP CHÍ ════ -->
 <div class="mag-hero">
   <div class="mag-lead" onclick="goTab('article-35')" tabindex="0" role="button" aria-label="Đọc báo cáo KV9">
-    <div class="mag-lead-img" style="display:flex;align-items:center;justify-content:center;font-size:96px" role="img" aria-label="Chăn nuôi KV9">🐄</div>
+    <img class="mag-lead-img" src="img/hero.jpg" alt="Chăn nuôi Khu vực 9" loading="lazy">
     <div class="mag-lead-body">
       <span class="mag-kicker">📋 Báo cáo nổi bật · BC 35/BC-TCNTY9</span>
       <div class="mag-lead-title">Tổng quan hoạt động chăn nuôi – thú y KV9: Đàn heo vượt 203.000 con, kiểm soát tốt dịch bệnh 6 tháng đầu 2026</div>
@@ -607,15 +607,15 @@ footer a{color:#86efac}
 <div class="sh"><span class="sh-t">🔥 Tin nổi bật</span><a class="sh-more" href="#" onclick="goTab('news');return false">Xem tất cả »</a></div>
 <div class="mag-grid">
   <a class="mag-card" href="https://chicuccntyhcm.gov.vn/new/2026/06/19/Hoi-nghi-so-ket-tinh-hinh-hoat-dong-linh-vuc-chan-nuoi-va-thu-y-06-thang-dau-nam-2026.aspx" target="_blank">
-    <div class="mag-card-thumb" style="background:linear-gradient(135deg,#0a2e14,#1a5c2a)">📊</div>
+    <img class="mag-card-thumb" src="img/hoinghi.jpg" alt="Hội nghị sơ kết" loading="lazy">
     <div class="mag-card-body"><div class="mag-sec-k">Chi cục CNTY · 19/06/2026</div><div class="mag-card-title">Hội nghị sơ kết hoạt động chăn nuôi và thú y 6 tháng đầu năm 2026</div></div>
   </a>
   <a class="mag-card" href="https://chicuccntyhcm.gov.vn/new/2026/06/03/Tap-huan-phong-chong-benh-Dai.aspx" target="_blank">
-    <div class="mag-card-thumb" style="background:linear-gradient(135deg,#2563eb,#4f8ef7)">💉</div>
+    <img class="mag-card-thumb" src="img/cho.jpg" alt="Tập huấn phòng chống bệnh Dại" loading="lazy">
     <div class="mag-card-body"><div class="mag-sec-k">Chi cục CNTY · 03/06/2026</div><div class="mag-card-title">Tập huấn phòng, chống bệnh Dại trên địa bàn</div></div>
   </a>
   <a class="mag-card" href="https://chicuccntyhcm.gov.vn/new/2026/05/29/Chan-dung-hai-tan-vit-lau-triet-pha-lo-mo-heo-trai-phep-giua-TPHCM.aspx" target="_blank">
-    <div class="mag-card-thumb" style="background:linear-gradient(135deg,#c0392b,#f5a623)">🛑</div>
+    <img class="mag-card-thumb" src="img/giacam.jpg" alt="Kiểm tra vận chuyển gia cầm" loading="lazy">
     <div class="mag-card-body"><div class="mag-sec-k">Chi cục CNTY · 29/05/2026</div><div class="mag-card-title">Chặn đứng 2 tấn vịt lậu, triệt phá lò mổ heo trái phép giữa TP.HCM</div></div>
   </a>
 </div>
@@ -1175,7 +1175,7 @@ footer a{color:#86efac}
     </div>
     <div class="art-body">
 
-      <div style="width:100%;height:220px;border-radius:var(--rs);margin-bottom:18px;background:linear-gradient(135deg,#0a2e14,#1a5c2a);display:flex;align-items:center;justify-content:center;font-size:84px" role="img" aria-label="Chăn nuôi KV9">🐄</div>
+      <img src="img/hero.jpg" alt="Chăn nuôi Khu vực 9" style="width:100%;height:240px;object-fit:cover;border-radius:var(--rs);margin-bottom:18px" loading="lazy">
 
       <div class="art-sapo">Trong 6 tháng đầu năm 2026, Trạm Chăn nuôi và Thú y Khu vực 9 ghi nhận kết quả toàn diện với tổng đàn gia súc gia cầm tăng trưởng 5,5% so cùng kỳ, không phát sinh ổ dịch tả heo châu Phi mới, và công tác tiêm phòng đạt tiến độ tốt trước bối cảnh cảnh báo dịch LMLM serotype SAT1 từ các tỉnh phía Bắc.</div>
 
@@ -1185,7 +1185,7 @@ footer a{color:#86efac}
         <div style="flex:1">
           <p style="margin-bottom:0">Đàn heo đạt <strong style="color:var(--t1)">203.157 con</strong>, trong đó tỷ lệ heo chăn nuôi công nghệ cao theo tiêu chuẩn VietGAHP chiếm đến <strong style="color:var(--t1)">92%</strong> tổng đàn — tương đương <strong style="color:var(--t1)">186.837 con</strong>. Đây là chỉ số quan trọng phản ánh trình độ kỹ thuật và năng lực cạnh tranh của ngành chăn nuôi heo trong khu vực. Các cơ sở chăn nuôi công nghệ cao được kiểm soát chặt chẽ về điều kiện an toàn sinh học, quản lý dịch bệnh và truy xuất nguồn gốc sản phẩm theo quy định của Chi cục CNTY TP.HCM.</p>
         </div>
-        <div style="width:160px;height:115px;border-radius:var(--rs);flex-shrink:0;background:linear-gradient(135deg,#1a7a3a,#22c55e);display:flex;align-items:center;justify-content:center;font-size:48px" role="img" aria-label="Heo chăn nuôi công nghệ cao">🐷</div>
+        <img src="img/heo.jpg" alt="Heo chăn nuôi công nghệ cao" style="width:160px;height:115px;object-fit:cover;border-radius:var(--rs);flex-shrink:0" loading="lazy">
       </div>
 
       <table class="art-tbl">
@@ -1209,7 +1209,7 @@ footer a{color:#86efac}
       <p>Về công tác phòng chống dịch tả heo châu Phi (ASF), kết quả 6 tháng là đáng ghi nhận: <strong style="color:var(--t1)">0 ổ dịch ASF</strong> mới phát sinh trên địa bàn kể từ đầu năm 2026. Thành quả này là kết quả của chiến lược kiểm soát an toàn sinh học đồng bộ, từ kiểm tra định kỳ chuồng trại, kiểm soát thương lái thu mua, đến giám sát lò mổ và kiểm dịch vận chuyển tại các chốt kiểm soát. Trạm KV9 đã phối hợp với các huyện Xuyên Mộc, Đất Đỏ và Long Điền để duy trì hệ thống báo cáo dịch bệnh định kỳ hàng tuần, đảm bảo phát hiện sớm bất kỳ biến động bất thường nào trong đàn vật nuôi.</p>
 
       <div style="display:flex;gap:16px;align-items:flex-start;margin-bottom:14px">
-        <div style="width:160px;height:115px;border-radius:var(--rs);flex-shrink:0;background:linear-gradient(135deg,#2563eb,#4f8ef7);display:flex;align-items:center;justify-content:center;font-size:48px" role="img" aria-label="Tiêm phòng thú y">💉</div>
+        <img src="img/vaccine.jpg" alt="Tiêm phòng thú y" style="width:160px;height:115px;object-fit:cover;border-radius:var(--rs);flex-shrink:0" loading="lazy">
         <p style="margin-bottom:0">Công tác tiêm phòng đợt 1 và triển khai đợt 2 năm 2026 đạt nhiều kết quả tích cực. Tiêm phòng FMD/LMLM cho trâu bò đạt <strong style="color:var(--t1)">94%</strong> tổng đàn — vượt mục tiêu đề ra. Tiêm phòng bệnh dại cho chó mèo đạt <strong style="color:var(--t1)">32,50%</strong>, hiện đang trong giai đoạn tiêm đợt 2/2026 với mục tiêu đạt trên 80% theo chỉ tiêu của Chi cục. Tiến độ tiêm phòng tổng thể trên địa bàn KV9 đạt <strong style="color:var(--t1)">81%</strong>, cần đẩy nhanh ở một số phường xã còn lại. Các loại vaccine được sử dụng đều đạt tiêu chuẩn kiểm soát chất lượng, được bảo quản lạnh đúng quy định từ kho đến điểm tiêm.</p>
       </div>
 
