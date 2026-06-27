@@ -81,6 +81,10 @@ img{max-width:100%;display:block}
 .ticker-wrap::after{right:0;background:linear-gradient(-90deg,#1a5c2a 40%,transparent)}
 .ticker-inner{display:inline-block;white-space:nowrap;font-size:11.5px;color:rgba(255,255,255,0.85);animation:tscroll 70s linear infinite;padding-left:100%;font-weight:500}
 .ticker-inner:hover{animation-play-state:paused}
+.ticker-inner a{color:inherit;text-decoration:none;cursor:pointer}
+.ticker-inner a:hover{color:#fff;text-decoration:underline}
+.ticker-inner .tk-dot{opacity:.45;margin:0 14px}
+.ticker-inner .tk-gap{display:inline-block;width:64px}
 @keyframes tscroll{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
 
 /* LAYOUT */
@@ -1477,12 +1481,13 @@ function fetchAllLive(){
     if(tsEl) tsEl.textContent=ts;
     if(statusEl) statusEl.innerHTML=(ok>0?'✅ Đã cập nhật · ':'⏳ Đang đồng bộ · ')+ts;
     if(allItems.length){
-      var parts=allItems.slice(0,10).map(function(it){
-        return it.icon+' '+it.title.substring(0,60);
+      var parts=allItems.slice(0,12).map(function(it){
+        var t=(it.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\s+/g,' ').trim().substring(0,72);
+        return '<a href="'+it.link+'" target="_blank" rel="noopener">'+it.icon+' '+t+'</a>';
       });
-      var base=parts.join(' ⋆ ');
+      var base=parts.join('<span class="tk-dot">⋆</span>')+'<span class="tk-gap"></span>';
       var el=document.getElementById('tickerEl');
-      if(el) el.innerHTML=base+'&nbsp;&nbsp;&nbsp;&nbsp;'+base;
+      if(el) el.innerHTML=base+base; // nhân đôi để cuộn lặp mượt (-50%)
     }
     startRefreshBar();
   });
