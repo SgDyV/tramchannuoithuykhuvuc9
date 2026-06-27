@@ -1474,15 +1474,26 @@ function fetchAllLive(){
     // Chỉ giữ tin liên quan chăn nuôi – thú y – ATTP (bỏ tin chính trị/ngoại giao)
     var KW=['chăn nuôi','thú y','dịch bệnh','gia súc','gia cầm','vật nuôi','động vật','heo','bò','gà','vịt','ngan','dê','trâu','yến','thịt','trứng','vaccine','vắc','tiêm phòng','giết mổ','kiểm dịch','an toàn thực phẩm','thực phẩm','dịch tả','cúm','lở mồm','bệnh dại','thức ăn','nông nghiệp','thủy sản','nông lâm','bò sữa','vật tư nông'];
     var topical=uniq.filter(function(it){var s=(it.title||'').toLowerCase();return KW.some(function(k){return s.indexOf(k)>=0;});});
-    var list=(topical.length>=4)?topical:uniq;
+    var list=topical.length?topical:uniq;
     var now=new Date();
     var ts=now.getHours().toString().padStart(2,'0')+':'+now.getMinutes().toString().padStart(2,'0');
     if(tsEl) tsEl.textContent=ts;
     if(statusEl) statusEl.innerHTML=(list.length?'✅ Đã cập nhật · ':'⏳ Đang đồng bộ · ')+ts;
     if(list.length){
-      // Trang chủ: thay hẳn "Tin tức mới nhất" bằng tin sống liên quan (sạch, không trùng)
+      // Trang chủ: tin sống liên quan lên đầu + giữ danh sách biên tập bên dưới (bỏ trùng)
       var hn=document.getElementById('home-nlist');
-      if(hn){ hn.innerHTML=''; list.slice(0,12).forEach(function(it){ hn.appendChild(makeNitem(it)); }); }
+      if(hn){
+        if(typeof window.__staticHome==='undefined') window.__staticHome=hn.innerHTML;
+        var nrm=function(s){return (s||'').replace(/MỚI/g,'').replace(/\s+/g,' ').trim().toLowerCase();};
+        hn.innerHTML='';
+        var liveSeen={};
+        list.slice(0,8).forEach(function(it){ liveSeen[nrm(it.title)]=1; hn.appendChild(makeNitem(it)); });
+        var tmp=document.createElement('div'); tmp.innerHTML=window.__staticHome;
+        Array.prototype.forEach.call(tmp.querySelectorAll('.nitem'), function(node){
+          var tt=node.querySelector('.nitem-title'); var key=tt?nrm(tt.textContent):'';
+          if(!liveSeen[key]) hn.appendChild(node);
+        });
+      }
       // Thanh tin chạy: mỗi tin là một link mở đúng bài
       var parts=list.slice(0,14).map(function(it){
         var t=(it.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\s+/g,' ').trim().substring(0,72);
