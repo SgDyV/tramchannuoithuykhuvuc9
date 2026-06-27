@@ -1472,8 +1472,18 @@ function fetchAllLive(){
       if(!seen[k]){ seen[k]=1; uniq.push(it); }
     });
     // Chỉ giữ tin liên quan chăn nuôi – thú y – ATTP (bỏ tin chính trị/ngoại giao)
-    var KW=['chăn nuôi','thú y','dịch bệnh','gia súc','gia cầm','vật nuôi','động vật','heo','bò','gà','vịt','ngan','dê','trâu','yến','thịt','trứng','vaccine','vắc','tiêm phòng','giết mổ','kiểm dịch','an toàn thực phẩm','thực phẩm','dịch tả','cúm','lở mồm','bệnh dại','thức ăn','nông nghiệp','thủy sản','nông lâm','bò sữa','vật tư nông'];
-    var topical=uniq.filter(function(it){var s=(it.title||'').toLowerCase();return KW.some(function(k){return s.indexOf(k)>=0;});});
+    // Cụm nhiều chữ: khớp một phần là được
+    var MULTI=['chăn nuôi','thú y','gia súc','gia cầm','vật nuôi','động vật','an toàn thực phẩm','thực phẩm','dịch bệnh','dịch tả','lở mồm','bệnh dại','tiêm phòng','giết mổ','kiểm dịch','thức ăn chăn nuôi','nông nghiệp','thủy sản','nông lâm','bò sữa','vệ sinh thú y'];
+    // Từ đơn: phải khớp NGUYÊN chữ (tránh 'yến' khớp "chuyến", 'gà' khớp "ngành")
+    var SINGLE={heo:1,'bò':1,'gà':1,'vịt':1,ngan:1,'dê':1,'trâu':1,'yến':1,'thịt':1,'trứng':1,'cúm':1,vaccine:1,'vắc':1,asf:1,lmlm:1};
+    function isTopical(it){
+      var s=(it.title||'').toLowerCase();
+      for(var i=0;i<MULTI.length;i++){ if(s.indexOf(MULTI[i])>=0) return true; }
+      var ws=s.replace(/[^0-9a-zà-ỹđ]+/g,' ').split(' ');
+      for(var j=0;j<ws.length;j++){ if(SINGLE[ws[j]]) return true; }
+      return false;
+    }
+    var topical=uniq.filter(isTopical);
     var list=topical.length?topical:uniq;
     var now=new Date();
     var ts=now.getHours().toString().padStart(2,'0')+':'+now.getMinutes().toString().padStart(2,'0');
