@@ -1471,16 +1471,20 @@ function fetchAllLive(){
       var k=(it.link||'')+'|'+(it.title||'').replace(/\s+/g,' ').trim().toLowerCase();
       if(!seen[k]){ seen[k]=1; uniq.push(it); }
     });
+    // Chỉ giữ tin liên quan chăn nuôi – thú y – ATTP (bỏ tin chính trị/ngoại giao)
+    var KW=['chăn nuôi','thú y','dịch bệnh','gia súc','gia cầm','vật nuôi','động vật','heo','bò','gà','vịt','ngan','dê','trâu','yến','thịt','trứng','vaccine','vắc','tiêm phòng','giết mổ','kiểm dịch','an toàn thực phẩm','thực phẩm','dịch tả','cúm','lở mồm','bệnh dại','thức ăn','nông nghiệp','thủy sản','nông lâm','bò sữa','vật tư nông'];
+    var topical=uniq.filter(function(it){var s=(it.title||'').toLowerCase();return KW.some(function(k){return s.indexOf(k)>=0;});});
+    var list=(topical.length>=4)?topical:uniq;
     var now=new Date();
     var ts=now.getHours().toString().padStart(2,'0')+':'+now.getMinutes().toString().padStart(2,'0');
     if(tsEl) tsEl.textContent=ts;
-    if(statusEl) statusEl.innerHTML=(uniq.length?'✅ Đã cập nhật · ':'⏳ Đang đồng bộ · ')+ts;
-    if(uniq.length){
-      // Trang chủ: thay hẳn "Tin tức mới nhất" bằng tin sống (sạch, không trùng)
+    if(statusEl) statusEl.innerHTML=(list.length?'✅ Đã cập nhật · ':'⏳ Đang đồng bộ · ')+ts;
+    if(list.length){
+      // Trang chủ: thay hẳn "Tin tức mới nhất" bằng tin sống liên quan (sạch, không trùng)
       var hn=document.getElementById('home-nlist');
-      if(hn){ hn.innerHTML=''; uniq.slice(0,12).forEach(function(it){ hn.appendChild(makeNitem(it)); }); }
+      if(hn){ hn.innerHTML=''; list.slice(0,12).forEach(function(it){ hn.appendChild(makeNitem(it)); }); }
       // Thanh tin chạy: mỗi tin là một link mở đúng bài
-      var parts=uniq.slice(0,14).map(function(it){
+      var parts=list.slice(0,14).map(function(it){
         var t=(it.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\s+/g,' ').trim().substring(0,72);
         return '<a href="'+it.link+'" target="_blank" rel="noopener">'+it.icon+' '+t+'</a>';
       });
