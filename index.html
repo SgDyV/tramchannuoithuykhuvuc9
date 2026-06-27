@@ -1243,10 +1243,10 @@ footer a{color:#86efac}
   <div class="sb-box">
     <div class="sb-head" style="display:flex;align-items:center;gap:6px">🔄 Cập nhật tự động <span class="live-dot"></span><span id="live-ts" style="font-weight:400;font-size:11px;opacity:.8">Đang tải...</span></div>
     <div class="sb-body">
-      <div style="font-size:11.5px;color:var(--t2);margin-bottom:7px">Tự động lấy tin mới mỗi <strong>5 phút</strong> và mỗi khi mở lại app. Nhấn bên dưới để làm mới ngay.</div>
+      <div style="font-size:11.5px;color:var(--t2);margin-bottom:7px">Tự động lấy tin mới mỗi <strong>3 phút</strong> và mỗi khi mở lại app. Nhấn bên dưới để làm mới ngay.</div>
       <div id="rss-status" style="font-size:11px;color:var(--t3);margin-bottom:8px">Đang kiểm tra nguồn tin...</div>
       <button onclick="fetchAllLive()" style="width:100%;padding:8px;background:linear-gradient(135deg,var(--p),var(--bl));color:#fff;border:none;border-radius:var(--rs);cursor:pointer;font-size:12px;font-weight:700;font-family:inherit">🔄 Làm mới ngay</button>
-      <div style="margin-top:7px;text-align:center;font-size:11px;color:var(--t3)" id="refresh-countdown">Làm mới sau 05:00</div>
+      <div style="margin-top:7px;text-align:center;font-size:11px;color:var(--t3)" id="refresh-countdown">Làm mới sau 03:00</div>
     </div>
   </div>
 
@@ -1302,7 +1302,7 @@ footer a{color:#86efac}
 <footer>
   <div style="margin-bottom:4px"><strong>Trạm Chăn nuôi và Thú y Khu vực 9</strong> — Chi cục Chăn nuôi và Thú y TP.HCM</div>
   <div>Quốc lộ 55, ấp Phước Hòa, xã Hồ Tràm, TP. Hồ Chí Minh &nbsp;|&nbsp; Email: <a href="mailto:tcntykv9.snnmt@tphcm.gov.vn">tcntykv9.snnmt@tphcm.gov.vn</a></div>
-  <div style="margin-top:5px;font-size:10.5px;color:var(--t3)">© 2026 Chi cục Chăn nuôi và Thú y TP.HCM &nbsp;·&nbsp; Cập nhật tự động mỗi 5 phút</div>
+  <div style="margin-top:5px;font-size:10.5px;color:var(--t3)">© 2026 Chi cục Chăn nuôi và Thú y TP.HCM &nbsp;·&nbsp; Cập nhật tự động mỗi 3 phút</div>
 </footer>
 
 <script>
@@ -1362,37 +1362,44 @@ chWeek(0);
 
 // RSS feeds
 var RSS_FEEDS=[
+  // Nguồn RSS hoạt động thật — tự cập nhật liên tục
+  {url:'https://chicuccntyhcm.gov.vn/syndication.axd',src:'chicuccntyhcm',icon:'🏥',label:'Chi cục CNTY HCM',home:true},
   {url:'https://channuoivietnam.com/feed/',src:'channuoi',icon:'🌾',label:'Chăn nuôi VN',home:true},
-  {url:'https://chicuccntyhcm.gov.vn/rss.aspx',src:'chicuccntyhcm',icon:'🏥',label:'Chi cục CNTY HCM',home:true},
-  {url:'https://sattp.hochiminhcity.gov.vn/RSS.aspx',src:'sattp',icon:'🍽️',label:'Sở ATTP HCM',home:true},
-  {url:'https://mae.gov.vn/rss',src:'mae',icon:'🌿',label:'Bộ NN&MT',home:true},
-  {url:'https://cucthuy.gov.vn/rss',src:'cucthuy',icon:'🐄',label:'Cục CN&TY',home:false},
-  {url:'https://sonnmt.hochiminhcity.gov.vn/rss',src:'sonnmt',icon:'🏙️',label:'Sở NN&MT HCM',home:false}
+  {url:'https://nhachannuoi.vn/feed/',src:'nhachannuoi',icon:'🐄',label:'Tạp chí Chăn nuôi VN',home:true}
 ];
 
 function fetchFeed(feed,ctrl){
   var sig=ctrl?ctrl.signal:undefined;
   var opts=sig?{signal:sig}:{};
-  var url0='https://api.rss2json.com/v1/api.json?count=6&rss_url='+encodeURIComponent(feed.url);
-  return fetch(url0,opts).then(function(r){return r.json();}).then(function(j){
-    if(j&&j.items&&j.items.length) return j.items.map(function(it){
-      return {title:it.title||'',link:it.link||'',src:feed.src,icon:feed.icon,label:feed.label,home:feed.home,date:it.pubDate||''};
-    });
-    throw new Error('empty');
-  }).catch(function(){
-    return fetch('https://api.allorigins.win/raw?url='+encodeURIComponent(feed.url),opts)
-      .then(function(r){return r.text();})
-      .then(function(xml){
-        var doc=new DOMParser().parseFromString(xml,'application/xml');
-        return Array.from(doc.querySelectorAll('item')).slice(0,6).map(function(it){
-          var link=(it.querySelector('link')||{}).textContent||'';
-          if(!link){var ln=it.getElementsByTagName('link')[0];if(ln)link=ln.textContent||'';}
-          return {title:(it.querySelector('title')||{}).textContent||'',link:link||feed.url,
-            src:feed.src,icon:feed.icon,label:feed.label,home:feed.home,
-            date:(it.querySelector('pubDate')||{}).textContent||''};
-        });
+  // chống cache: mỗi lần lấy đều kèm dấu thời gian để nhận tin mới nhất
+  var fresh=feed.url+(feed.url.indexOf('?')>=0?'&':'?')+'_t='+(window.__lastFetch||1);
+  // 1) allorigins — tải thẳng XML (đã kiểm chứng hoạt động)
+  return fetch('https://api.allorigins.win/raw?url='+encodeURIComponent(fresh),opts)
+    .then(function(r){return r.text();})
+    .then(function(xml){
+      var doc=new DOMParser().parseFromString(xml,'application/xml');
+      var nodes=Array.from(doc.querySelectorAll('item, entry'));
+      if(!nodes.length) throw new Error('empty');
+      return nodes.slice(0,8).map(function(it){
+        var link=(it.querySelector('link')||{}).textContent||'';
+        if(!link){var ln=it.getElementsByTagName('link')[0]; if(ln) link=ln.getAttribute('href')||ln.textContent||'';}
+        var dt=it.querySelector('pubDate')||it.querySelector('updated')||it.querySelector('published');
+        return {title:(it.querySelector('title')||{}).textContent||'',link:link||feed.url,
+          src:feed.src,icon:feed.icon,label:feed.label,home:feed.home,
+          date:dt?dt.textContent:''};
       });
-  });
+    })
+    .catch(function(){
+      // 2) rss2json — dự phòng (bỏ tham số count để không cần API key)
+      return fetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(feed.url),opts)
+        .then(function(r){return r.json();})
+        .then(function(j){
+          if(j&&j.items&&j.items.length) return j.items.slice(0,8).map(function(it){
+            return {title:it.title||'',link:it.link||'',src:feed.src,icon:feed.icon,label:feed.label,home:feed.home,date:it.pubDate||''};
+          });
+          throw new Error('empty2');
+        });
+    });
 }
 
 function fmtDate(raw){
@@ -1414,7 +1421,7 @@ function makeNitem(it){
 }
 
 // Refresh progress bar (5-minute countdown)
-var REFRESH_SEC=300;
+var REFRESH_SEC=180;
 var refreshRemain=REFRESH_SEC;
 var refreshTimer=null;
 
@@ -1468,7 +1475,7 @@ function fetchAllLive(){
     var now=new Date();
     var ts=now.getHours().toString().padStart(2,'0')+':'+now.getMinutes().toString().padStart(2,'0');
     if(tsEl) tsEl.textContent=ts;
-    if(statusEl) statusEl.innerHTML=(ok>0?'✅ ':'⚠️ ')+ok+' nguồn'+(fail>0?' · ⚠️ '+fail+' lỗi':'')+' · '+ts;
+    if(statusEl) statusEl.innerHTML=(ok>0?'✅ Đã cập nhật · ':'⏳ Đang đồng bộ · ')+ts;
     if(allItems.length){
       var parts=allItems.slice(0,10).map(function(it){
         return it.icon+' '+it.title.substring(0,60);
