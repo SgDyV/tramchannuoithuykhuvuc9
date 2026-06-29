@@ -79,7 +79,7 @@ img{max-width:100%;display:block}
 .ticker-wrap::before,.ticker-wrap::after{content:'';position:absolute;top:0;bottom:0;width:36px;z-index:2;pointer-events:none}
 .ticker-wrap::before{left:0;background:linear-gradient(90deg,#1a5c2a 40%,transparent)}
 .ticker-wrap::after{right:0;background:linear-gradient(-90deg,#1a5c2a 40%,transparent)}
-.ticker-inner{display:inline-block;white-space:nowrap;font-size:11.5px;color:rgba(255,255,255,0.85);animation:tscroll 70s linear infinite;padding-left:100%;font-weight:500}
+.ticker-inner{display:inline-block;white-space:nowrap;font-size:11.5px;color:rgba(255,255,255,0.88);animation:tscroll 72s linear infinite;will-change:transform;font-weight:500}
 .ticker-inner:hover{animation-play-state:paused}
 .ticker-inner a{color:inherit;text-decoration:none;cursor:pointer}
 .ticker-inner a:hover{color:#fff;text-decoration:underline}
@@ -317,10 +317,10 @@ footer a{color:#86efac}
 .stat-c:hover::before{transform:scaleX(1)}
 
 /* NEW NITEM FLASH */
-@keyframes newflash{
-  0%{background:#f0fdf4;border-color:rgba(26,122,58,.3)}
-  100%{background:#fff;border-color:var(--b1)}}
-.nitem-new{animation:newflash 2s ease-out forwards}
+@keyframes itemIn{
+  from{opacity:0;transform:translateY(7px)}
+  to{opacity:1;transform:translateY(0)}}
+.nitem-new{animation:itemIn .45s cubic-bezier(.22,.61,.36,1) both}
 
 /* BACK TO TOP */
 #backTop{position:fixed;bottom:22px;right:18px;z-index:600;
@@ -469,6 +469,19 @@ footer a{color:#86efac}
 .mag-card:hover .mag-card-title{color:var(--p)}
 @media (max-width:900px){.mag-hero{grid-template-columns:1fr}.mag-grid{grid-template-columns:1fr 1fr}}
 @media (max-width:560px){.mag-grid{grid-template-columns:1fr}.mag-lead-title{font-size:18px}.mag-lead-img{height:200px}}
+
+/* ───────── MƯỢT HƠN: easing mềm + phóng ảnh khi rê chuột ───────── */
+.mag-card-thumb,.mag-lead-img{transition:transform .55s cubic-bezier(.22,.61,.36,1)}
+.mag-card:hover .mag-card-thumb,.mag-lead:hover .mag-lead-img{transform:scale(1.06)}
+.mag-card,.mag-lead,.nc-big,.feat-card{transition:transform .25s cubic-bezier(.22,.61,.36,1),box-shadow .25s ease,border-color .2s ease}
+.mag-sec-thumb{transition:transform .4s cubic-bezier(.22,.61,.36,1)}
+.mag-sec:hover .mag-sec-thumb{transform:scale(1.06)}
+.nitem{transition:background .2s ease,border-color .2s ease,transform .18s cubic-bezier(.22,.61,.36,1)}
+.nitem:hover{transform:translateX(3px)}
+#tickerEl a{transition:color .15s ease}
+/* trạng thái đang tải nhấp nháy nhẹ ở khung cập nhật */
+@keyframes softpulse{0%,100%{opacity:1}50%{opacity:.55}}
+#rss-status:not(:empty){transition:opacity .3s ease}
 </style>
 </head>
 <body>
