@@ -531,126 +531,29 @@ footer a{color:#86efac}
 <!-- ════ PANEL HOME ════ -->
 <div class="panel on" id="panel-home">
 
-<!-- ════ HERO KIỂU TẠP CHÍ ════ -->
-<div class="mag-hero">
-  <div class="mag-lead" onclick="goTab('article-35')" tabindex="0" role="button" aria-label="Đọc báo cáo KV9">
-    <img class="mag-lead-img" src="img/hero.jpg" alt="Đàn heo chăn nuôi Khu vực 9" loading="lazy">
-    <div class="mag-lead-body">
-      <div class="mag-lead-title">Tổng quan hoạt động chăn nuôi – thú y KV9: Đàn heo vượt 203.000 con, kiểm soát tốt dịch bệnh 6 tháng đầu 2026</div>
-      <div class="mag-lead-sapo">Khu vực 9 tăng trưởng ổn định +5,5% so cùng kỳ; 6 tháng liên tiếp không phát sinh ổ dịch tả heo châu Phi mới. Tiêm phòng FMD đạt 94%, đàn heo công nghệ cao chiếm 92%.</div>
-    </div>
+<!-- ════ BLOG FEED ════ -->
+<!-- Bài nổi bật (báo cáo Trạm) -->
+<a class="mag-lead" style="display:block;color:inherit;margin-bottom:16px;cursor:pointer" onclick="goTab('article-35')" tabindex="0" role="button" aria-label="Đọc báo cáo KV9">
+  <img class="mag-lead-img" src="img/hero.jpg" alt="Đàn heo chăn nuôi Khu vực 9" loading="lazy">
+  <div class="mag-lead-body">
+    <span class="mag-kicker">📋 Báo cáo nổi bật · Trạm KV9</span>
+    <div class="mag-lead-title">Tổng quan hoạt động chăn nuôi – thú y KV9: Đàn heo vượt 203.000 con, kiểm soát tốt dịch bệnh 6 tháng đầu 2026</div>
+    <div class="mag-lead-sapo">Khu vực 9 tăng trưởng ổn định +5,5% so cùng kỳ; 6 tháng liên tiếp không phát sinh ổ dịch tả heo châu Phi mới. Tiêm phòng FMD đạt 94%, đàn heo công nghệ cao chiếm 92%.</div>
   </div>
-  <div class="mag-side">
-    <a class="mag-sec" href="https://chicuccntyhcm.gov.vn/new/2026/06/19/phoi-hop-kiem-tra-kiem-soat-hoat-dong-van-chuyen-dong-vat-san-pham-dong-vat-ra-vao-thanh-pho-ho-chi-minh.aspx" target="_blank">
-      <img class="mag-sec-thumb" src="img/bantin.jpg" alt="" loading="lazy">
-      <div class="mag-sec-body"><div class="mag-sec-k">Chi cục CNTY · 19/06</div><div class="mag-sec-t">Phối hợp kiểm tra, kiểm soát vận chuyển động vật ra vào TP.HCM</div></div>
-    </a>
-    <a class="mag-sec" href="https://mae.gov.vn/bo-truong-trinh-viet-hung-gui-thu-chuc-mung-tap-chi-nong-nghiep-va-moi-truong-nhan-ky-niem-101-nam-ngay-bao-chi-cach-mang-viet-nam-22118.htm" target="_blank">
-      <img class="mag-sec-thumb" src="img/botruong.jpg" alt="" loading="lazy">
-      <div class="mag-sec-body"><div class="mag-sec-k">Bộ NN&MT · 2026</div><div class="mag-sec-t">Bộ trưởng gửi Thư chúc mừng Tạp chí Nông nghiệp & Môi trường</div></div>
-    </a>
-    <a class="mag-sec" href="https://cucthuy.gov.vn/web/guest/news" target="_blank">
-      <img class="mag-sec-thumb" src="img/art1.jpg" alt="Phát triển chăn nuôi" loading="lazy">
-      <div class="mag-sec-body"><div class="mag-sec-k">Cục CN&TY · 12/03</div><div class="mag-sec-t">Đẩy mạnh phòng chống dịch bệnh, phát triển chăn nuôi theo chuỗi giá trị</div></div>
-    </a>
-  </div>
-</div>
+</a>
 
-<!-- DASHBOARD STATS (2 ROW × 4) -->
-<div class="dgrid c4 gap8 mb8">
-  <div class="stat-c"><div class="stat-v">203.157</div><div class="stat-lbl">🐷 Tổng đàn heo</div><div class="stat-sub">BC 35 · T6/2026</div></div>
-  <div class="stat-c"><div class="stat-v">3.592.446</div><div class="stat-lbl">🐔 Gia cầm (con)</div><div class="stat-sub">6T/2026</div></div>
-  <div class="stat-c"><div class="stat-v">94%</div><div class="stat-lbl">💉 Tiêm FMD/LMLM</div><div class="stat-sub">6 tháng 2026</div></div>
-  <div class="stat-c"><div class="stat-v red">0</div><div class="stat-lbl">🚫 Ổ dịch ASF</div><div class="stat-sub">Đã kiểm soát 6T</div></div>
+<!-- Thanh lọc chuyên mục + lưới bài tự cập nhật -->
+<div class="sh"><span class="sh-t">📰 Bài viết mới nhất</span><a class="sh-more" href="#" onclick="goTab('news');return false">Tất cả tin »</a></div>
+<div id="blog-chips" style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px">
+  <button class="sw-btn cur" onclick="filterBlog(this,'all')">Tất cả</button>
+  <button class="sw-btn" onclick="filterBlog(this,'chicuccntyhcm')">🏥 Chi cục CNTY</button>
+  <button class="sw-btn" onclick="filterBlog(this,'cucthuy')">🐄 Cục CN&TY</button>
+  <button class="sw-btn" onclick="filterBlog(this,'mae')">🌿 Bộ NN&MT</button>
 </div>
-<div class="dgrid c4 gap8 mb14">
-  <div class="stat-c"><div class="stat-v">9.006</div><div class="stat-lbl">🐄 Trâu bò</div><div class="stat-sub">T5/2026</div></div>
-  <div class="stat-c"><div class="stat-v">12.712</div><div class="stat-lbl">🐐 Dê (con)</div><div class="stat-sub">6T/2026</div></div>
-  <div class="stat-c"><div class="stat-v">239</div><div class="stat-lbl">🏠 Nhà yến</div><div class="stat-sub">170 hộ nuôi</div></div>
-  <div class="stat-c"><div class="stat-v">+5,5%</div><div class="stat-lbl">📈 Tăng trưởng CN</div><div class="stat-sub">So cùng kỳ 2025</div></div>
-</div>
+<div class="mag-grid" id="blog-grid"><div style="grid-column:1/-1;text-align:center;color:var(--t3);padding:30px 0">⏳ Đang tải bài viết…</div></div>
 
-<!-- TIẾN ĐỘ TIÊM PHÒNG + GIÁ (2 cột ngang) -->
-<div class="dgrid c2 gap10 mb14">
-  <!-- Tiêm phòng -->
-  <div class="card card-p">
-    <div class="sh" style="margin-bottom:10px;padding-bottom:6px"><span class="sh-t">💉 Tiêm phòng KV9 — 6T/2026</span></div>
-    <div class="prog-row">
-      <div class="prog-lbl"><span style="color:var(--t2);font-size:12px">💉 FMD Trâu bò</span><span style="color:var(--p);font-weight:700;font-size:12px">94%</span></div>
-      <div class="prog-bar"><div class="prog-fill" style="width:94%;background:linear-gradient(90deg,var(--p),var(--bl))"></div></div>
-    </div>
-    <div class="prog-row">
-      <div class="prog-lbl"><span style="color:var(--t2);font-size:12px">🐕 Tiêm phòng Dại</span><span style="color:#f5a623;font-weight:700;font-size:12px">32,50%</span></div>
-      <div class="prog-bar"><div class="prog-fill" style="width:32.5%;background:linear-gradient(90deg,#f5a623,#ef4444)"></div></div>
-    </div>
-    <div class="prog-row" style="margin-bottom:0">
-      <div class="prog-lbl"><span style="color:var(--t2);font-size:12px">🏭 Heo CN cao</span><span style="color:var(--p);font-weight:700;font-size:12px">92%</span></div>
-      <div class="prog-bar"><div class="prog-fill" style="width:92%;background:linear-gradient(90deg,var(--gr),var(--p))"></div></div>
-    </div>
-    <div style="margin-top:9px;font-size:10.5px;color:var(--t3);padding-top:8px;border-top:1px solid var(--b1)">Tổng thể KV9: <strong style="color:#f5a623">81%</strong> &nbsp;·&nbsp; Heo CN cao: <strong style="color:var(--p)">186.837 con</strong></div>
-  </div>
-  <!-- Giá thị trường -->
-  <div class="card card-p">
-    <div class="sh" style="margin-bottom:10px;padding-bottom:6px"><span class="sh-t">💰 Giá sản phẩm T6/2026</span><a class="sh-more" href="#" onclick="goTab('stats');return false">Chi tiết »</a></div>
-    <table style="width:100%;border-collapse:collapse;font-size:12px">
-      <tr style="border-bottom:1px solid var(--b1)">
-        <td style="padding:5px 0;color:var(--t2)">🐷 Heo hơi</td>
-        <td style="text-align:right;font-weight:700;color:var(--p)">65.000 đ/kg</td>
-        <td style="text-align:right;font-size:10px;color:#10b981;padding-left:6px">▲ ổn định</td>
-      </tr>
-      <tr style="border-bottom:1px solid var(--b1)">
-        <td style="padding:5px 0;color:var(--t2)">🐔 Gà lông màu</td>
-        <td style="text-align:right;font-weight:700;color:#f5a623">38.000 đ/kg</td>
-        <td style="text-align:right;font-size:10px;color:#ef4444;padding-left:6px">▼ -1.000</td>
-      </tr>
-      <tr style="border-bottom:1px solid var(--b1)">
-        <td style="padding:5px 0;color:var(--t2)">🥚 Trứng gà CN</td>
-        <td style="text-align:right;font-weight:700;color:var(--p)">1.400 đ/quả</td>
-        <td style="text-align:right;font-size:10px;color:var(--t3);padding-left:6px">= Ổn định</td>
-      </tr>
-      <tr>
-        <td style="padding:5px 0;color:var(--t2)">🦆 Vịt thịt</td>
-        <td style="text-align:right;font-weight:700;color:var(--p)">32.000 đ/kg</td>
-        <td style="text-align:right;font-size:10px;color:#10b981;padding-left:6px">▲ +1.000</td>
-      </tr>
-    </table>
-    <div style="margin-top:8px;font-size:10.5px;color:var(--t3);text-align:right"><a href="https://channuoivietnam.com" target="_blank">channuoivietnam.com »</a></div>
-  </div>
-</div>
-
-<!-- TIN NỔI BẬT (lưới thẻ tạp chí) -->
-<div class="sh"><span class="sh-t">🔥 Tin nổi bật</span><a class="sh-more" href="#" onclick="goTab('news');return false">Xem tất cả »</a></div>
-<div class="mag-grid">
-  <a class="mag-card" href="https://chicuccntyhcm.gov.vn/new/2026/06/19/Hoi-nghi-so-ket-tinh-hinh-hoat-dong-linh-vuc-chan-nuoi-va-thu-y-06-thang-dau-nam-2026.aspx" target="_blank">
-    <img class="mag-card-thumb" src="img/hoinghi2.jpg" alt="Hội nghị sơ kết" loading="lazy">
-    <div class="mag-card-body"><div class="mag-sec-k">Chi cục CNTY · 19/06/2026</div><div class="mag-card-title">Hội nghị sơ kết hoạt động chăn nuôi và thú y 6 tháng đầu năm 2026</div></div>
-  </a>
-  <a class="mag-card" href="https://chicuccntyhcm.gov.vn/new/2026/06/03/Tap-huan-phong-chong-benh-Dai.aspx" target="_blank">
-    <img class="mag-card-thumb" src="img/dai.png" alt="Tập huấn phòng chống bệnh Dại" loading="lazy">
-    <div class="mag-card-body"><div class="mag-sec-k">Chi cục CNTY · 03/06/2026</div><div class="mag-card-title">Tập huấn phòng, chống bệnh Dại trên địa bàn</div></div>
-  </a>
-  <a class="mag-card" href="https://chicuccntyhcm.gov.vn/new/2026/05/29/Chan-dung-hai-tan-vit-lau-triet-pha-lo-mo-heo-trai-phep-giua-TPHCM.aspx" target="_blank">
-    <img class="mag-card-thumb" src="img/vit.png" alt="Triệt phá lò mổ, vịt lậu" loading="lazy">
-    <div class="mag-card-body"><div class="mag-sec-k">Chi cục CNTY · 29/05/2026</div><div class="mag-card-title">Chặn đứng 2 tấn vịt lậu, triệt phá lò mổ heo trái phép giữa TP.HCM</div></div>
-  </a>
-</div>
-
-<!-- TIN TỨC MỚI NHẤT -->
-<div class="sh"><span class="sh-t">📰 Tin tức mới nhất</span><a class="sh-more" href="#" onclick="goTab('news');return false">Xem tất cả »</a></div>
-<div class="nlist" id="home-nlist">
-    <div class="nitem" data-s="cucthuy"><div class="nitem-ico">🐄</div><div class="nitem-body"><div class="nitem-title"><a href="https://cucthuy.gov.vn/web/guest/news" target="_blank">Đẩy mạnh phòng, chống dịch bệnh và phát triển chăn nuôi theo chuỗi giá trị bền vững</a></div><div class="nitem-meta">🐄 cucthuy.gov.vn · 12/03/2026</div></div></div>
-    <div class="nitem" data-s="sattp"><div class="nitem-ico">⚠️</div><div class="nitem-body"><div class="nitem-title"><a href="http://sattp.hochiminhcity.gov.vn/ArticleDetail.aspx?NewsID=8085" target="_blank">Thông tin ban đầu vụ việc nghi ngờ ngộ độc thực phẩm tại Trường Tiểu học Đặng Thùy Trâm</a></div><div class="nitem-meta">🍽️ sattp.hochiminhcity.gov.vn · 2026</div></div></div>
-    <div class="nitem" data-s="chinhphu"><div class="nitem-ico">🏛️</div><div class="nitem-body"><div class="nitem-title"><a href="https://tphcm.chinhphu.vn/cong-bo-quyet-dinh-thanh-lap-bao-va-phat-thanh-truyen-hinh-tphcm-102260620095329233.htm" target="_blank">Công bố quyết định thành lập Báo và Phát thanh, Truyền hình TPHCM<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🇻🇳 tphcm.chinhphu.vn · 20/06/2026</div></div></div>
-    <div class="nitem" data-s="hcmcpv"><div class="nitem-ico">🏛️</div><div class="nitem-body"><div class="nitem-title"><a href="https://hcmcpv.org.vn/tin-tuc/dong-chi-le-quoc-phong-su-ra-doi-co-quan-bao-va-phat-thanh-truyen-hinh-tphcm-la-khoi-dau-hanh-trin-1491944120" target="_blank">Đồng chí Lê Quốc Phong: Sự ra đời Cơ quan Báo và Phát thanh, Truyền hình TPHCM là khởi đầu hành trìn<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🎖️ hcmcpv.org.vn · 21/06/2026</div></div></div>
-    <div class="nitem" data-s="sotuphap"><div class="nitem-ico">⚖️</div><div class="nitem-body"><div class="nitem-title"><a href="https://sotuphap.hochiminhcity.gov.vn/tin-tuc-su-kien" target="_blank">Hội đồng phối hợp phổ biến, giáo dục pháp luật Thành phố tổ chức Hội nghị triển khai công tác phổ bi</a></div><div class="nitem-meta">⚖️ sotuphap.hochiminhcity.gov.vn · 18/06/2026</div></div></div>
-    <div class="nitem" data-s="dost"><div class="nitem-ico">🚗</div><div class="nitem-body"><div class="nitem-title"><a href="https://dost.hochiminhcity.gov.vn/hoat-dong-so-khcn/thanh-pho-ho-chi-minh-khao-sat-cong-nghe-xe-tu-hanh-thuc-day-phat-trien-san-pham-cong-nghe-chien-luoc-phuc-vu-xa-hoi/" target="_blank">TP.HCM khảo sát công nghệ xe tự hành, thúc đẩy phát triển sản phẩm công nghệ chiến lược phục vụ xã h</a></div><div class="nitem-meta">🔬 dost.hochiminhcity.gov.vn · 2026</div></div></div>
-    <div class="nitem" data-s="chicuccntyhcm"><div class="nitem-ico">📊</div><div class="nitem-body"><div class="nitem-title"><a href="https://chicuccntyhcm.gov.vn/new/2026/06/19/Hoi-nghi-so-ket-tinh-hinh-hoat-dong-linh-vuc-chan-nuoi-va-thu-y-06-thang-dau-nam-2026.aspx" target="_blank">Hội nghị sơ kết tình hình hoạt động lĩnh vực chăn nuôi và thú y 06 tháng đầu năm 2026<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🏥 Chi cục CNTY HCM · 19/06/2026</div></div></div>
-    <div class="nitem" data-s="mae"><div class="nitem-ico">⛈️</div><div class="nitem-body"><div class="nitem-title"><a href="https://mae.gov.vn/du-bao-bao-mekhala-tiep-tuc-manh-len-va-khong-vao-bien-dong-22116.htm" target="_blank">Dự báo bão Mekhala tiếp tục mạnh lên và không vào Biển Đông<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🌿 mae.gov.vn · 21/06/2026</div></div></div>
-    <div class="nitem" data-s="cucthuy"><div class="nitem-ico">🐄</div><div class="nitem-body"><div class="nitem-title"><a href="https://cucthuy.gov.vn/web/guest/news" target="_blank">Triển lãm và hội thảo quốc tế lần thứ 10 về chăn nuôi, sản xuất sữa, chế biến thịt và nuôi trồng thủ</a></div><div class="nitem-meta">🐄 cucthuy.gov.vn · 2026</div></div></div>
-    <div class="nitem" data-s="sattp"><div class="nitem-ico">⚠️</div><div class="nitem-body"><div class="nitem-title"><a href="http://sattp.hochiminhcity.gov.vn/ArticleDetail.aspx?NewsID=8065" target="_blank">Sở An toàn thực phẩm TP.HCM thông tin kết quả điều tra vụ ngộ độc thực phẩm tại Trường Tiểu học Bình</a></div><div class="nitem-meta">🍽️ sattp.hochiminhcity.gov.vn · 2026</div></div></div>
-    <div class="nitem" data-s="chinhphu"><div class="nitem-ico">🎭</div><div class="nitem-body"><div class="nitem-title"><a href="https://tphcm.chinhphu.vn/lan-toa-gia-tri-ao-dai-tai-ngay-hoi-van-hoa-ao-dai-tphcm-lan-thu-ii-10126062009165274.htm" target="_blank">Lan tỏa giá trị áo dài tại Ngày hội Văn hóa áo dài TPHCM lần thứ II<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🇻🇳 tphcm.chinhphu.vn · 20/06/2026</div></div></div>
-    <div class="nitem" data-s="hcmcpv"><div class="nitem-ico">🏙️</div><div class="nitem-body"><div class="nitem-title"><a href="https://hcmcpv.org.vn/tin-tuc/chu-tich-ubnd-tphcm-nguyen-van-duoc-tang-truong-2-con-so-la-menh-lenh-trach-nhiem-cua-thanh-pho-1491944115" target="_blank">Chủ tịch UBND TPHCM Nguyễn Văn Được: Tăng trưởng 2 con số là mệnh lệnh, trách nhiệm của thành phố<span class="new-b">MỚI</span></a></div><div class="nitem-meta">🎖️ hcmcpv.org.vn · 20/06/2026</div></div></div>
-</div><!-- NLIST-END -->
+<!-- (số liệu & giá đã chuyển vào bài báo cáo / tab Giá sản phẩm) -->
+<!-- (tin tức nay hiển thị ở blog feed phía trên — tự cập nhật từ news.json) -->
 
 <!-- VĂN BẢN PHÁP LUẬT -->
 <!-- VĂN BẢN PHÁP LUẬT header row -->
@@ -1512,6 +1415,38 @@ function startRefreshBar(){
   },1000);
 }
 
+// ───────── BLOG FEED (thẻ bài viết) ─────────
+function blogStyle(src){
+  var M={
+    chicuccntyhcm:{i:'🏥',g:'linear-gradient(135deg,#0a2e14,#1a5c2a)',l:'Chi cục CNTY HCM'},
+    cucthuy:{i:'🐄',g:'linear-gradient(135deg,#0f3d2a,#16a34a)',l:'Cục CN&TY'},
+    mae:{i:'🌿',g:'linear-gradient(135deg,#7a5a12,#d97706)',l:'Bộ NN&MT'},
+    channuoi:{i:'🌾',g:'linear-gradient(135deg,#3a5a0a,#65a30d)',l:'Chăn nuôi VN'},
+    nhachannuoi:{i:'🐄',g:'linear-gradient(135deg,#134e4a,#0d9488)',l:'Tạp chí CNVN'}
+  };
+  return M[src]||{i:'🔔',g:'linear-gradient(135deg,#1e293b,#475569)',l:'Tin tức'};
+}
+function makeBlogCard(it){
+  var st=blogStyle(it.src);
+  var a=document.createElement('a');
+  a.className='mag-card nitem-new'; a.setAttribute('data-s',it.src||'');
+  a.href=it.link; a.target='_blank'; a.rel='noopener';
+  a.style.color='inherit'; a.style.display='block';
+  var ds=fmtDate(it.date);
+  var title=(it.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  a.innerHTML='<div class="mag-card-thumb" style="display:flex;align-items:center;justify-content:center;font-size:44px;background:'+st.g+'">'+st.i+'</div>'+
+    '<div class="mag-card-body"><div class="mag-sec-k">'+(it.label||st.l)+(ds?' · '+ds:'')+'</div>'+
+    '<div class="mag-card-title">'+title+'</div></div>';
+  return a;
+}
+function filterBlog(btn,src){
+  document.querySelectorAll('#blog-grid .mag-card').forEach(function(c){
+    c.style.display=(src==='all'||c.getAttribute('data-s')===src)?'':'none';
+  });
+  document.querySelectorAll('#blog-chips .sw-btn').forEach(function(b){b.classList.remove('cur');});
+  if(btn) btn.classList.add('cur');
+}
+
 // Hiển thị danh sách tin (dùng chung cho news.json và proxy dự phòng)
 function renderItems(rawItems){
   var statusEl=document.getElementById('rss-status');
@@ -1540,19 +1475,9 @@ function renderItems(rawItems){
   if(tsEl) tsEl.textContent=ts;
   if(statusEl) statusEl.innerHTML=(list.length?'✅ Đã cập nhật · ':'⏳ Đang đồng bộ · ')+ts;
   if(list.length){
-    var hn=document.getElementById('home-nlist');
-    if(hn){
-      if(typeof window.__staticHome==='undefined') window.__staticHome=hn.innerHTML;
-      var nrm=function(s){return (s||'').replace(/MỚI/g,'').replace(/\s+/g,' ').trim().toLowerCase();};
-      hn.innerHTML='';
-      var liveSeen={};
-      list.slice(0,8).forEach(function(it){ liveSeen[nrm(it.title)]=1; hn.appendChild(makeNitem(it)); });
-      var tmp=document.createElement('div'); tmp.innerHTML=window.__staticHome;
-      Array.prototype.forEach.call(tmp.querySelectorAll('.nitem'), function(node){
-        var tt=node.querySelector('.nitem-title'); var key=tt?nrm(tt.textContent):'';
-        if(!liveSeen[key]) hn.appendChild(node);
-      });
-    }
+    // Blog feed: đổ bài dạng thẻ vào lưới (tự cập nhật)
+    var bg=document.getElementById('blog-grid');
+    if(bg){ bg.innerHTML=''; list.slice(0,18).forEach(function(it){ bg.appendChild(makeBlogCard(it)); }); }
     var parts=list.slice(0,14).map(function(it){
       var t=(it.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\s+/g,' ').trim().substring(0,72);
       return '<a href="'+it.link+'" target="_blank" rel="noopener">'+(it.icon||'🔔')+' '+t+'</a>';
