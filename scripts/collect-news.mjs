@@ -13,10 +13,7 @@ const SOURCES = [
   { key:'nhachannuoi', label:'Tạp chí Chăn nuôi VN', icon:'🐄', type:'rss',
     url:'https://nhachannuoi.vn/feed/' },
   { key:'mae', label:'Bộ NN&MT', icon:'🌿', type:'html', base:'https://mae.gov.vn',
-    url:'https://mae.gov.vn/', re:/<a[^>]+href="(\/[^"#?]+?-\d{4,}\.htm)"[^>]*>\s*([^<]{18,160}?)\s*<\/a>/gi },
-  { key:'cucthuy', label:'Cục CN&TY', icon:'🐄', type:'html', base:'https://cucthuy.gov.vn',
-    url:'https://cucthuy.gov.vn/web/guest/trang-chu',
-    re:/<a[^>]+href="(https?:\/\/cucthuy\.gov\.vn\/[^"#?]*?\/[^"#?]{12,})"[^>]*>\s*([^<]{18,160}?)\s*<\/a>/gi },
+    url:'https://mae.gov.vn/tin-tuc--su-kien', re:/<a[^>]+href="(\/[^"#?]+?-\d{4,}\.htm)"[^>]*>\s*([^<]{18,160}?)\s*<\/a>/gi },
 ];
 
 async function get(url){
