@@ -1,0 +1,39 @@
+name: Thu thập tin tức tự động
+
+on:
+  schedule:
+    - cron: '17 * * * *'      # mỗi giờ (phút 17)
+  workflow_dispatch:           # cho phép chạy tay
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-news
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Thu thập tin
+        run: node scripts/collect-news.mjs
+
+      - name: Cập nhật news.json nếu có thay đổi
+        run: |
+          git config user.name "kv9-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if [ -n "$(git status --porcelain news.json)" ]; then
+            git add news.json
+            git commit -m "Tự động cập nhật tin tức"
+            git push
+            echo "Đã cập nhật news.json"
+          else
+            echo "Không có tin mới"
+          fi
