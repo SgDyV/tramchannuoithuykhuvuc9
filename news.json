@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-13T18:16:37.240Z",
- "count": 10,
+ "updated": "2026-07-13T21:33:15.115Z",
+ "count": 18,
  "items": [
   {
    "title": "Thông tin việc EU áp dụng hệ thống điện tử đối với thủ tục phi hải quan đối với nông sản nhập khẩu, có hiệu lực đầy đủ từ 17/1/2028",
@@ -81,6 +81,70 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Công khai vi phạm, khắc phục vi phạm các lĩnh vực NN&MT",
+   "link": "https://mae.gov.vn/cong-khai-vi-pham-cac-linh-vuc-nnmt-16435.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Thông tin kết luận thanh tra",
+   "link": "https://mae.gov.vn/cong-khai-thong-tin-ket-luan-thanh-tra-17243.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Lịch tiếp công dân",
+   "link": "https://mae.gov.vn/chi-tiet-thong-bao-bao-cao-1140.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Bộ Nông nghiệp và Môi trường đồng hành tháo gỡ khó khăn, tạo động lực tăng trưởng cho Lâm Đồng",
+   "link": "https://mae.gov.vn/bo-nong-nghiep-va-moi-truong-dong-hanh-thao-go-kho-khan-tao-dong-luc-tang-truong-cho-lam-dong-22254.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Ngành Nông nghiệp và Môi trường tiên phong để đạt tăng trưởng 4%, xuất khẩu vượt 74 tỉ USD",
+   "link": "https://mae.gov.vn/nganh-nong-nghiep-va-moi-truong-tien-phong-de-dat-tang-truong-4-xuat-khau-vuot-74-ti-usd-22214.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Việt Nam - Hà Lan đồng hành quản lý tài nguyên nước, phát triển nông nghiệp bền vững",
+   "link": "https://mae.gov.vn/viet-nam--ha-lan-dong-hanh-quan-ly-tai-nguyen-nuoc-phat-trien-nong-nghiep-ben-vung-22213.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Điều chỉnh quy hoạch sử dụng đất phù hợp mục tiêu tăng trưởng 2 con số",
+   "link": "https://mae.gov.vn/dieu-chinh-quy-hoach-su-dung-dat-phu-hop-muc-tieu-tang-truong-2-con-so-22216.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Sơ kết 1 năm 6 tháng triển khai thực hiện Nghị quyết số 57",
+   "link": "https://mae.gov.vn/so-ket-1-nam-6-thang-trien-khai-thuc-hien-nghi-quyet-so-57-22207.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
   }
  ]
 }
