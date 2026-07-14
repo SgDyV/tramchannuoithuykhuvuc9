@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-14T12:02:35.964Z",
- "count": 10,
+ "updated": "2026-07-14T16:48:25.496Z",
+ "count": 18,
  "items": [
   {
    "title": "Kiểm soát 100% giống thủy sản nhập, xuất tại các cơ sở sản xuất",
@@ -81,6 +81,70 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Công khai vi phạm, khắc phục vi phạm các lĩnh vực NN&MT",
+   "link": "https://mae.gov.vn/cong-khai-vi-pham-cac-linh-vuc-nnmt-16435.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Thông tin kết luận thanh tra",
+   "link": "https://mae.gov.vn/cong-khai-thong-tin-ket-luan-thanh-tra-17243.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Lịch tiếp công dân",
+   "link": "https://mae.gov.vn/chi-tiet-thong-bao-bao-cao-1140.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Việt Nam - Lào tăng cường hợp tác theo hướng thực chất, bền vững",
+   "link": "https://mae.gov.vn/viet-nam--lao-tang-cuong-hop-tac-theo-huong-thuc-chat-ben-vung-22284.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Thủ tướng Lê Minh Hưng làm việc với tỉnh Lào Cai",
+   "link": "https://mae.gov.vn/thu-tuong-le-minh-hung-lam-viec-voi-tinh-lao-cai-22276.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Bộ Nông nghiệp và Môi trường đồng hành tháo gỡ khó khăn, tạo động lực tăng trưởng cho Lâm Đồng",
+   "link": "https://mae.gov.vn/bo-nong-nghiep-va-moi-truong-dong-hanh-thao-go-kho-khan-tao-dong-luc-tang-truong-cho-lam-dong-22254.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Ngành Nông nghiệp và Môi trường tiên phong để đạt tăng trưởng 4%, xuất khẩu vượt 74 tỉ USD",
+   "link": "https://mae.gov.vn/nganh-nong-nghiep-va-moi-truong-tien-phong-de-dat-tang-truong-4-xuat-khau-vuot-74-ti-usd-22214.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Việt Nam - Hà Lan đồng hành quản lý tài nguyên nước, phát triển nông nghiệp bền vững",
+   "link": "https://mae.gov.vn/viet-nam--ha-lan-dong-hanh-quan-ly-tai-nguyen-nuoc-phat-trien-nong-nghiep-ben-vung-22213.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
   }
  ]
 }
