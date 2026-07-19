@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-19T20:10:51.618Z",
- "count": 10,
+ "updated": "2026-07-19T23:40:22.451Z",
+ "count": 18,
  "items": [
   {
    "title": "Kiểm soát 100% giống thủy sản nhập, xuất tại các cơ sở sản xuất",
@@ -81,6 +81,70 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Công khai vi phạm, khắc phục vi phạm các lĩnh vực NN&MT",
+   "link": "https://mae.gov.vn/cong-khai-vi-pham-cac-linh-vuc-nnmt-16435.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Thông tin kết luận thanh tra",
+   "link": "https://mae.gov.vn/cong-khai-thong-tin-ket-luan-thanh-tra-17243.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Lịch tiếp công dân",
+   "link": "https://mae.gov.vn/chi-tiet-thong-bao-bao-cao-1140.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Mọi kiến nghị của doanh nghiệp phải được xử lý đến cùng, công khai kết quả trả lời",
+   "link": "https://mae.gov.vn/moi-kien-nghi-cua-doanh-nghiep-phai-duoc-xu-ly-den-cung-cong-khai-ket-qua-tra-loi-22300.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm: Sơn La cần tập trung vào những động lực có khả năng tạo khác biệt",
+   "link": "https://mae.gov.vn/tong-bi-thu-chu-tich-nuoc-to-lam-son-la-can-tap-trung-vao-nhung-dong-luc-co-kha-nang-tao-khac-biet-22295.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Thủ tướng: Tuyên Quang phải nỗ lực gấp 2-3 lần để bứt phá tăng trưởng",
+   "link": "https://mae.gov.vn/thu-tuong-tuyen-quang-phai-no-luc-gap-23-lan-de-but-pha-tang-truong-22292.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Lạng Sơn phải tăng trưởng trên 13% trong 6 tháng cuối năm để hoàn thành mục tiêu",
+   "link": "https://mae.gov.vn/lang-son-phai-tang-truong-tren-13-trong-6-thang-cuoi-nam-de-hoan-thanh-muc-tieu-22291.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Vinh danh nhiều tập thể, cá nhân Việt Nam - Lào tại Hội nghị cấp Bộ trưởng 2026",
+   "link": "https://mae.gov.vn/vinh-danh-nhieu-tap-the-ca-nhan-viet-nam--lao-tai-hoi-nghi-cap-bo-truong-2026-22285.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
   }
  ]
 }
