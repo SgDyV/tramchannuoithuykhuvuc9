@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-28T08:00:51.366Z",
- "count": 10,
+ "updated": "2026-07-28T16:14:42.026Z",
+ "count": 18,
  "items": [
   {
    "title": "Chi cục Chăn nuôi và Thú y Thành phố Hồ Chí Minh phổ biến thẩm quyền quản lý lĩnh vực chăn nuôi và thú y khi thực hiện chính quyền địa phương 02 cấp",
@@ -81,6 +81,70 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Công khai vi phạm, khắc phục vi phạm các lĩnh vực NN&MT",
+   "link": "https://mae.gov.vn/cong-khai-vi-pham-cac-linh-vuc-nnmt-16435.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Thông tin kết luận thanh tra",
+   "link": "https://mae.gov.vn/cong-khai-thong-tin-ket-luan-thanh-tra-17243.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Lịch tiếp công dân",
+   "link": "https://mae.gov.vn/chi-tiet-thong-bao-bao-cao-1140.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Ủy ban Thường vụ Quốc hội cho ý kiến về định hướng sửa đổi Luật Đất đai",
+   "link": "https://mae.gov.vn/uy-ban-thuong-vu-quoc-hoi-cho-y-kien-ve-dinh-huong-sua-doi-luat-dat-dai-22390.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Đề xuất cấp sổ đỏ cho đất có vi phạm về thủ tục",
+   "link": "https://mae.gov.vn/de-xuat-cap-so-do-cho-dat-co-vi-pham-ve-thu-tuc-22359.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Phát biểu bế mạc Hội nghị Trung ương 3, khóa XIV của Tổng Bí thư, Chủ tịch nước Tô Lâm",
+   "link": "https://mae.gov.vn/phat-bieu-be-mac-hoi-nghi-trung-uong-3-khoa-xiv-cua-tong-bi-thu-chu-tich-nuoc-to-lam-22351.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Trung ương bế mạc Hội nghị lần thứ ba khóa XIV, thông qua nhiều quyết sách lớn",
+   "link": "https://mae.gov.vn/trung-uong-be-mac-hoi-nghi-lan-thu-ba-khoa-xiv-thong-qua-nhieu-quyet-sach-lon-22350.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Khởi động dự án quản lý các chất được kiểm soát theo Nghị định thư Montreal",
+   "link": "https://mae.gov.vn/khoi-dong-du-an-quan-ly-cac-chat-duoc-kiem-soat-theo-nghi-dinh-thu-montreal-22357.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
   }
  ]
 }
