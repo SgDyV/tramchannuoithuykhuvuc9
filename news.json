@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-30T09:45:21.996Z",
- "count": 10,
+ "updated": "2026-07-30T12:06:36.245Z",
+ "count": 18,
  "items": [
   {
    "title": "Chặn heo bẩn từ cửa ngõ",
@@ -81,6 +81,70 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Công khai vi phạm, khắc phục vi phạm các lĩnh vực NN&MT",
+   "link": "https://mae.gov.vn/cong-khai-vi-pham-cac-linh-vuc-nnmt-16435.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Thông tin kết luận thanh tra",
+   "link": "https://mae.gov.vn/cong-khai-thong-tin-ket-luan-thanh-tra-17243.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Lịch tiếp công dân",
+   "link": "https://mae.gov.vn/chi-tiet-thong-bao-bao-cao-1140.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Nhiều định hướng mới về chính sách đất đai",
+   "link": "https://mae.gov.vn/nhieu-dinh-huong-moi-ve-chinh-sach-dat-dai-22404.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Phạt tối đa 100 triệu đồng tổ chức vi phạm hoạt động đo đạc bản đồ",
+   "link": "https://mae.gov.vn/phat-toi-da-100-trieu-dong-to-chuc-vi-pham-hoat-dong-do-dac-ban-do-22395.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Ủy ban Thường vụ Quốc hội cho ý kiến về định hướng sửa đổi Luật Đất đai",
+   "link": "https://mae.gov.vn/uy-ban-thuong-vu-quoc-hoi-cho-y-kien-ve-dinh-huong-sua-doi-luat-dat-dai-22390.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Đề xuất cấp sổ đỏ cho đất có vi phạm về thủ tục",
+   "link": "https://mae.gov.vn/de-xuat-cap-so-do-cho-dat-co-vi-pham-ve-thu-tuc-22359.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Phát biểu bế mạc Hội nghị Trung ương 3, khóa XIV của Tổng Bí thư, Chủ tịch nước Tô Lâm",
+   "link": "https://mae.gov.vn/phat-bieu-be-mac-hoi-nghi-trung-uong-3-khoa-xiv-cua-tong-bi-thu-chu-tich-nuoc-to-lam-22351.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
   }
  ]
 }
