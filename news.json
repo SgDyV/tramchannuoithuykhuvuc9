@@ -1,11 +1,19 @@
 {
- "updated": "2026-08-01T03:54:55.961Z",
+ "updated": "2026-08-01T06:42:57.516Z",
  "count": 18,
  "items": [
   {
    "title": "48 giờ truy tìm chất cấm",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/08/01/48-gio-truy-tim-chat-cam.aspx",
    "date": "Sat, 01 Aug 2026 06:52:00 +0700",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
+  },
+  {
+   "title": "Những người giữ an toàn cho bữa ăn của 14 triệu dân TP.HCM - Kỳ 3: Kiên quyết không để heo nhiễm chất cấm lên bàn ăn",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/01/Nhung-nguoi-giu-an-toan-cho-bua-an-cua-14-trieu-dan-TPHCM-Ky-3-Kien-quyet-khong-de-heo-nhiem-chat-cam-len-ban-an.aspx",
+   "date": "Sat, 01 Aug 2026 06:31:00 +0700",
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
@@ -75,14 +83,6 @@
    "icon": "🏥"
   },
   {
-   "title": "6 tháng đầu năm, TP.HCM xử phạt 147,5 triệu đồng vi phạm lĩnh vực thú y",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/07/18/6-thang-dau-nam-TPHCM-xu-phat-vi-pham-linh-vuc-thu-y.aspx",
-   "date": "Sat, 18 Jul 2026 12:30:00 +0700",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
    "title": "Công khai vi phạm, khắc phục vi phạm các lĩnh vực NN&MT",
    "link": "https://mae.gov.vn/cong-khai-vi-pham-cac-linh-vuc-nnmt-16435.htm",
    "date": "",
@@ -101,6 +101,14 @@
   {
    "title": "Lịch tiếp công dân",
    "link": "https://mae.gov.vn/chi-tiet-thong-bao-bao-cao-1140.htm",
+   "date": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Việt Nam - New Zealand tăng cường hợp tác chuyển đổi xanh, năng lượng tái tạo",
+   "link": "https://mae.gov.vn/viet-nam--new-zealand-tang-cuong-hop-tac-chuyen-doi-xanh-nang-luong-tai-tao-22436.htm",
    "date": "",
    "source": "mae",
    "label": "Bộ NN&MT",
@@ -133,14 +141,6 @@
   {
    "title": "Phạt tối đa 100 triệu đồng tổ chức vi phạm hoạt động đo đạc bản đồ",
    "link": "https://mae.gov.vn/phat-toi-da-100-trieu-dong-to-chuc-vi-pham-hoat-dong-do-dac-ban-do-22395.htm",
-   "date": "",
-   "source": "mae",
-   "label": "Bộ NN&MT",
-   "icon": "🌿"
-  },
-  {
-   "title": "Ủy ban Thường vụ Quốc hội cho ý kiến về định hướng sửa đổi Luật Đất đai",
-   "link": "https://mae.gov.vn/uy-ban-thuong-vu-quoc-hoi-cho-y-kien-ve-dinh-huong-sua-doi-luat-dat-dai-22390.htm",
    "date": "",
    "source": "mae",
    "label": "Bộ NN&MT",
