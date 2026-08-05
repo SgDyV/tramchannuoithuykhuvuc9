@@ -507,6 +507,7 @@ footer a{color:#86efac}
   <button class="nav-a" id="nav-news" onclick="goTab('news')">📰 Tin tức</button>
   <button class="nav-a" id="nav-schedule" onclick="goTab('schedule')">📅 Lịch công tác</button>
   <button class="nav-a" id="nav-stats" onclick="goTab('stats')">💰 Giá sản phẩm</button>
+  <button class="nav-a" id="nav-tracuu" onclick="goTab('tracuu')">📚 Tra cứu</button>
   <button class="nav-a" id="nav-about" onclick="goTab('about')">ℹ️ Giới thiệu</button>
   <button class="nav-a" id="nav-links" onclick="goTab('links')">🔗 Liên kết</button>
   <div class="nav-ctrl">
@@ -553,6 +554,12 @@ footer a{color:#86efac}
 
 <!-- (số liệu & giá đã chuyển vào bài báo cáo / tab Giá sản phẩm) -->
 <!-- (tin tức nay hiển thị ở blog feed phía trên — tự cập nhật từ news.json) -->
+
+</div><!-- /panel-home -->
+
+<!-- ════ PANEL TRA CỨU ════ -->
+<div class="panel" id="panel-tracuu">
+  <div class="all-wrap">
 
 <!-- VĂN BẢN PHÁP LUẬT -->
 <!-- VĂN BẢN PHÁP LUẬT header row -->
@@ -795,7 +802,8 @@ footer a{color:#86efac}
   <a class="qlnk" href="https://sonoivu.hochiminhcity.gov.vn" target="_blank"><span>👥</span><div><b>Sở Nội vụ HCM</b><small>sonoivu.hochiminhcity.gov.vn</small></div></a>
 </div>
 
-</div><!-- /panel-home -->
+  </div><!-- /all-wrap -->
+</div><!-- /panel-tracuu -->
 
 
 <!-- ════ PANEL NEWS ════ -->
@@ -1530,7 +1538,7 @@ fetchAllLive();
 
 (function(){
   var hash=location.hash.replace('#','');
-  var valid=['home','news','schedule','stats','about','links'];
+  var valid=['home','news','schedule','stats','about','links','tracuu'];
   if(hash&&valid.indexOf(hash)>=0) goTab(hash);
 })();
 
