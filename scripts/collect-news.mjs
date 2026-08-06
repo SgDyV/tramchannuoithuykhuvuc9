@@ -32,30 +32,17 @@ function decode(s){
     .replace(/\s+/g,' ').trim();
 }
 
-// Lấy URL ảnh đầu tiên từ một đoạn HTML (đã hoặc chưa escape), trả về URL tuyệt đối
+// Lấy ẢNH NỘI DUNG BÀI (image.axd) — bỏ qua mọi ảnh giao diện (logo/banner/gif).
 function firstImg(html, base){
   if (!html) return '';
   const h = html
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
     .replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"')
     .replace(/&#0?39;|&apos;/g,"'").replace(/&amp;/g,'&');
-  // Ưu tiên ảnh nội dung bài (image.axd), rồi mới tới <img> khác — bỏ logo/banner/giao diện
-  let u = '';
-  let m = h.match(/(image\.axd\?picture=[^"'\s>)]+)/i);
-  if (m) u = m[1];
-  if (!u) {
-    const imgs = h.match(/<img[^>]+src="([^"]+)"/gi) || [];
-    for (const tag of imgs) {
-      const s = (tag.match(/src="([^"]+)"/i) || [])[1] || '';
-      if (s && !/\/pics\/|logo|banner|icon|spacer|\.gif(\?|$)/i.test(s)) { u = s; break; }
-    }
-  }
-  if (!u) return '';
-  u = u.replace(/&amp;/g,'&').trim();
-  if (u.startsWith('//')) u = 'https:' + u;
-  else if (u.startsWith('/')) u = base + u;
-  else if (!/^https?:/i.test(u)) u = base + '/' + u.replace(/^\.?\//,'');
-  return u;
+  const m = h.match(/image\.axd\?picture=[^"'\s>)]+/i);
+  if (!m) return '';
+  const u = m[0].replace(/&amp;/g,'&').replace(/^\//,'');
+  return (base || 'https://chicuccntyhcm.gov.vn') + '/' + u;
 }
 
 function item(src, title, link, date, image){
