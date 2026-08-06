@@ -1,17 +1,12 @@
 // Bộ thu thập tin tức — chạy bởi GitHub Actions (máy chủ, không bị rào CORS).
-// Gom tin từ nhiều nguồn, ghi ra news.json để trang web đọc trực tiếp (cùng nguồn).
+// Gom tin + ẢNH THẬT của từng bài, ghi ra news.json để trang web đọc trực tiếp.
 import { writeFileSync } from 'node:fs';
 
 const UA = 'Mozilla/5.0 (compatible; KV9NewsBot/1.0; +https://sgdyv.github.io/tramchannuoithuykhuvuc9/)';
 
-// type:'rss' -> đọc feed XML | type:'html' -> bóc link bài từ trang danh sách
 const SOURCES = [
   { key:'chicuccntyhcm', label:'Chi cục CNTY HCM', icon:'🏥', type:'rss',
-    url:'https://chicuccntyhcm.gov.vn/syndication.axd' },
-  { key:'channuoi', label:'Chăn nuôi VN', icon:'🌾', type:'rss',
-    url:'https://channuoivietnam.com/feed/' },
-  { key:'nhachannuoi', label:'Tạp chí Chăn nuôi VN', icon:'🐄', type:'rss',
-    url:'https://nhachannuoi.vn/feed/' },
+    base:'https://chicuccntyhcm.gov.vn', url:'https://chicuccntyhcm.gov.vn/syndication.axd' },
   { key:'mae', label:'Bộ NN&MT', icon:'🌿', type:'html', base:'https://mae.gov.vn',
     url:'https://mae.gov.vn/', re:/<a[^>]+href="(\/[^"#?]+?-\d{4,}\.htm)"[^>]*>\s*([^<]{18,160}?)\s*<\/a>/gi },
 ];
@@ -37,8 +32,25 @@ function decode(s){
     .replace(/\s+/g,' ').trim();
 }
 
-function item(src, title, link, date){
-  return { title, link, date: date || '', source: src.key, label: src.label, icon: src.icon };
+// Lấy URL ảnh đầu tiên từ một đoạn HTML (đã hoặc chưa escape), trả về URL tuyệt đối
+function firstImg(html, base){
+  if (!html) return '';
+  const h = html
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+    .replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"')
+    .replace(/&#0?39;|&apos;/g,"'").replace(/&amp;/g,'&');
+  let m = h.match(/<img[^>]+src="([^"]+)"/i) || h.match(/(image\.axd\?picture=[^"'\s>)]+)/i);
+  let u = m ? (m[1] || m[0]) : '';
+  if (!u) return '';
+  u = u.replace(/&amp;/g,'&').trim();
+  if (u.startsWith('//')) u = 'https:' + u;
+  else if (u.startsWith('/')) u = base + u;
+  else if (!/^https?:/i.test(u)) u = base + '/' + u.replace(/^\.?\//,'');
+  return u;
+}
+
+function item(src, title, link, date, image){
+  return { title, link, date: date || '', image: image || '', source: src.key, label: src.label, icon: src.icon };
 }
 
 function parseRss(xml, src){
@@ -50,7 +62,9 @@ function parseRss(xml, src){
     if (!link) { const a = b.match(/<link[^>]+href="([^"]+)"/i); if (a) link = a[1]; }
     link = decode(link);
     const date = decode((b.match(/<(pubDate|updated|published)[^>]*>([\s\S]*?)<\/\1>/i) || [])[2] || '');
-    if (title && /^https?:/.test(link)) out.push(item(src, title, link, date));
+    const desc = (b.match(/<(description|content:encoded|summary)[^>]*>([\s\S]*?)<\/\1>/i) || [])[2] || '';
+    const image = firstImg(desc, src.base || '');
+    if (title && /^https?:/.test(link)) out.push(item(src, title, link, date, image));
   }
   return out;
 }
@@ -62,7 +76,7 @@ function parseHtml(html, src){
     let link = m[1]; const title = decode(m[2]);
     if (link.startsWith('/')) link = src.base + link;
     if (title.length < 18 || seen.has(link)) continue;
-    seen.add(link); out.push(item(src, title, link, ''));
+    seen.add(link); out.push(item(src, title, link, '', ''));
     if (out.length >= 8) break;
   }
   return out;
@@ -79,6 +93,15 @@ for (const src of SOURCES) {
   } catch (e) { console.log(src.key, '-> ERR', e.message); }
 }
 
+// Bổ sung ảnh cho bài của Chi cục còn thiếu (tải trang bài để lấy ảnh đầu)
+for (const it of all) {
+  if (it.image || it.source !== 'chicuccntyhcm') continue;
+  try {
+    const html = await get(it.link);
+    it.image = firstImg(html, 'https://chicuccntyhcm.gov.vn');
+  } catch {}
+}
+
 // bỏ trùng theo link
 const seen = new Set(); const uniq = [];
 for (const it of all) {
@@ -88,4 +111,4 @@ for (const it of all) {
 
 const out = { updated: new Date().toISOString(), count: uniq.length, items: uniq };
 writeFileSync('news.json', JSON.stringify(out, null, 1));
-console.log('TOTAL', uniq.length);
+console.log('TOTAL', uniq.length, '| có ảnh:', uniq.filter(x => x.image).length);

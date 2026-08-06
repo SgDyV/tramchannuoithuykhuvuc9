@@ -1441,7 +1441,8 @@ function makeBlogCard(it){
   a.style.color='inherit'; a.style.display='block';
   var ds=fmtDate(it.date);
   var title=(it.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-  a.innerHTML='<div class="mag-card-thumb" style="display:flex;align-items:center;justify-content:center;font-size:44px;background:'+st.g+'">'+st.i+'</div>'+
+  var imgTag=it.image?('<img src="'+it.image.replace(/"/g,'&quot;')+'" alt="" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover" onerror="this.style.display=\'none\'">'):'';
+  a.innerHTML='<div class="mag-card-thumb" style="position:relative;display:flex;align-items:center;justify-content:center;font-size:44px;background:'+st.g+'">'+st.i+imgTag+'</div>'+
     '<div class="mag-card-body"><div class="mag-sec-k">'+(it.label||st.l)+(ds?' · '+ds:'')+'</div>'+
     '<div class="mag-card-title">'+title+'</div></div>';
   return a;
