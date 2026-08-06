@@ -39,8 +39,17 @@ function firstImg(html, base){
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
     .replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"')
     .replace(/&#0?39;|&apos;/g,"'").replace(/&amp;/g,'&');
-  let m = h.match(/<img[^>]+src="([^"]+)"/i) || h.match(/(image\.axd\?picture=[^"'\s>)]+)/i);
-  let u = m ? (m[1] || m[0]) : '';
+  // Ưu tiên ảnh nội dung bài (image.axd), rồi mới tới <img> khác — bỏ logo/banner/giao diện
+  let u = '';
+  let m = h.match(/(image\.axd\?picture=[^"'\s>)]+)/i);
+  if (m) u = m[1];
+  if (!u) {
+    const imgs = h.match(/<img[^>]+src="([^"]+)"/gi) || [];
+    for (const tag of imgs) {
+      const s = (tag.match(/src="([^"]+)"/i) || [])[1] || '';
+      if (s && !/\/pics\/|logo|banner|icon|spacer|\.gif(\?|$)/i.test(s)) { u = s; break; }
+    }
+  }
   if (!u) return '';
   u = u.replace(/&amp;/g,'&').trim();
   if (u.startsWith('//')) u = 'https:' + u;
