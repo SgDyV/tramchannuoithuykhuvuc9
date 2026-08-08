@@ -2,7 +2,7 @@ name: Thu thập tin tức tự động
 
 on:
   schedule:
-    - cron: '17 * * * *'      # mỗi giờ (phút 17)
+    - cron: '*/30 * * * *'    # mỗi 30 phút
   workflow_dispatch:           # cho phép chạy tay
 
 permissions:

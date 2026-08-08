@@ -9,6 +9,13 @@ const SOURCES = [
     base:'https://chicuccntyhcm.gov.vn', url:'https://chicuccntyhcm.gov.vn/syndication.axd' },
   { key:'mae', label:'Bộ NN&MT', icon:'🌿', type:'html', base:'https://mae.gov.vn',
     url:'https://mae.gov.vn/', re:/<a[^>]+href="(\/[^"#?]+?-\d{4,}\.htm)"[^>]*>\s*([^<]{18,160}?)\s*<\/a>/gi },
+  { key:'channuoi', label:'Chăn nuôi VN', icon:'🌾', type:'rss', base:'https://channuoivietnam.com',
+    url:'https://channuoivietnam.com/feed/' },
+  { key:'nhachannuoi', label:'Tạp chí Chăn nuôi VN', icon:'🐄', type:'rss', base:'https://nhachannuoi.vn',
+    url:'https://nhachannuoi.vn/feed/' },
+  { key:'cucthuy', label:'Cục CN&TY', icon:'🐄', type:'html', base:'https://cucthuy.gov.vn',
+    url:'https://cucthuy.gov.vn/web/guest/tin-tuc-su-kien',
+    re:/<a[^>]+href="(https?:\/\/cucthuy\.gov\.vn\/web\/guest\/-\/[^"#?]{20,})"[^>]*>\s*([^<]{25,160}?)\s*<\/a>/gi },
 ];
 
 async function get(url){
