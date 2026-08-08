@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-07T23:50:45.412Z",
- "count": 10,
+ "updated": "2026-08-08T02:24:17.908Z",
+ "count": 18,
  "items": [
   {
    "title": "Toàn cảnh hành trình chặn đứng 35 tấn heo nhiễm chất cấm vào TP.HCM",
@@ -91,6 +91,78 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Công khai vi phạm, khắc phục vi phạm các lĩnh vực NN&MT",
+   "link": "https://mae.gov.vn/cong-khai-vi-pham-cac-linh-vuc-nnmt-16435.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Thông tin kết luận thanh tra",
+   "link": "https://mae.gov.vn/cong-khai-thong-tin-ket-luan-thanh-tra-17243.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Lịch tiếp công dân",
+   "link": "https://mae.gov.vn/chi-tiet-thong-bao-bao-cao-1140.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Chính phủ đề xuất cắt giảm 40 thủ tục hành chính trong 10 luật của lĩnh vực nông nghiệp và môi trường",
+   "link": "https://mae.gov.vn/chinh-phu-de-xuat-cat-giam-40-thu-tuc-hanh-chinh-trong-10-luat-cua-linh-vuc-nong-nghiep-va-moi-truong-22497.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Nhiệm kỳ Quốc hội khóa XVI phải là nhiệm kỳ của kiến tạo thể chế phát triển",
+   "link": "https://mae.gov.vn/nhiem-ky-quoc-hoi-khoa-xvi-phai-la-nhiem-ky-cua-kien-tao-the-che-phat-trien-22448.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Hoàn thiện cơ chế để huy động nguồn lực xã hội tham gia bảo vệ môi trường",
+   "link": "https://mae.gov.vn/hoan-thien-co-che-de-huy-dong-nguon-luc-xa-hoi-tham-gia-bao-ve-moi-truong-22438.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Việt Nam - New Zealand tăng cường hợp tác chuyển đổi xanh, năng lượng tái tạo",
+   "link": "https://mae.gov.vn/viet-nam--new-zealand-tang-cuong-hop-tac-chuyen-doi-xanh-nang-luong-tai-tao-22436.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Thống nhất đề xuất xây dựng đập dâng trên 3 sông ở Hà Nội",
+   "link": "https://mae.gov.vn/thong-nhat-de-xuat-xay-dung-dap-dang-tren-3-song-o-ha-noi-22426.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
   }
  ]
 }
