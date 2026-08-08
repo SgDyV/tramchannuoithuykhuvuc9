@@ -1450,9 +1450,14 @@ function makeBlogCard(it){
   a.style.color='inherit'; a.style.display='block';
   var ds=fmtDate(it.date);
   var title=(it.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  var esc=(it.image||'').replace(/"/g,'&quot;');
   var isLogo=/s2\/favicons|\.ico(\?|$)/i.test(it.image||'');
-  var imgSt=isLogo?'object-fit:contain;padding:26px;background:rgba(255,255,255,.94)':'object-fit:cover';
-  var imgTag=it.image?('<img src="'+it.image.replace(/"/g,'&quot;')+'" alt="" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;'+imgSt+'" onerror="this.style.display=\'none\'">'):'';
+  var imgTag='';
+  if(it.image && !isLogo){
+    imgTag='<img src="'+esc+'" alt="" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover" onerror="this.style.display=\'none\'">';
+  } else if(it.image && isLogo){
+    imgTag='<img src="'+esc+'" alt="" loading="lazy" style="position:absolute;right:10px;bottom:10px;width:38px;height:38px;border-radius:9px;background:#fff;padding:5px;object-fit:contain;box-shadow:0 2px 8px rgba(0,0,0,.3)" onerror="this.style.display=\'none\'">';
+  }
   a.innerHTML='<div class="mag-card-thumb" style="position:relative;display:flex;align-items:center;justify-content:center;font-size:44px;background:'+st.g+'">'+st.i+imgTag+'</div>'+
     '<div class="mag-card-body"><div class="mag-sec-k">'+(it.label||st.l)+(ds?' · '+ds:'')+'</div>'+
     '<div class="mag-card-title">'+title+'</div></div>';
