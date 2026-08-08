@@ -1506,7 +1506,7 @@ function fetchAllLive(){
     .then(function(j){
       if(j&&j.items&&j.items.length){
         renderItems(j.items.map(function(it){
-          return {title:it.title,link:it.link,date:it.date,icon:it.icon,label:it.label,src:it.source};
+          return {title:it.title,link:it.link,date:it.date,image:it.image,icon:it.icon,label:it.label,src:it.source};
         }));
         startRefreshBar();
         return true;
