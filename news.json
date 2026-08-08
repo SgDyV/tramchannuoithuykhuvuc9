@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-08T05:08:14.977Z",
- "count": 41,
+ "updated": "2026-08-08T12:01:30.487Z",
+ "count": 51,
  "items": [
   {
    "title": "Toàn cảnh hành trình chặn đứng 35 tấn heo nhiễm chất cấm vào TP.HCM",
@@ -93,282 +93,372 @@
    "icon": "🏥"
   },
   {
-   "title": "'Chìa khóa' cho đột phá ngành chăn nuôi và thú y - Báo và Phát thanh, Truyền hình Lạng Sơn",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYWpjU3R5bkluVnN1VHFjMEh2bDFhTzN3UHV1VV9fRWpDVldmSWpGSkgzYzZsMWNQeEFMZnhjR3F3VmNMajF6RXF5SmtqajVHcWkwRklDd0dFUUJXcDVhOU9lWFBSdWVGQ19tdUh1aGxoVENVR1dKNlJKZmdtYVlvcHo0NFNuYmp3?oc=5",
-   "date": "Thu, 06 Aug 2026 01:12:05 GMT",
-   "image": "",
+   "title": "Ấn Độ phát triển vaccine nội địa phòng dịch tả lợn Châu Phi",
+   "link": "https://nongnghiepmoitruong.vn/an-do-phat-trien-vaccine-noi-dia-phong-dich-ta-lon-chau-phi-d825135.html",
+   "date": "Fri, 07 Aug 2026 22:25:33 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thamdth/2026/08/07/5144-screenshot2026-08-041615105i0k-1-nongnghiep-205127.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Bệnh viêm da nổi cục trên bò bùng phát tại Tuyên Quang",
+   "link": "https://nongnghiepmoitruong.vn/benh-viem-da-noi-cuc-tren-bo-bung-phat-tai-tuyen-quang-d824743.html",
+   "date": "Wed, 05 Aug 2026 15:48:56 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/05/0252-1785904444832_2010974245097254076_2671285628698912838_449fa9e90caaac82dbfe58a0fed25f1e-113707_806.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Quảng Ninh chấm dứt điểm giết mổ không đủ điều kiện trước 31/10",
+   "link": "https://nongnghiepmoitruong.vn/quang-ninh-cham-dut-diem-giet-mo-khong-du-dieu-kien-truoc-31-10-d824490.html",
+   "date": "Mon, 03 Aug 2026 20:34:10 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thanhntctv/2026/08/03/0226-1776243026012_1161671265647739435_1161671265647739435_80c06fd4dda42fa9eeba6f1fc15fc30f-nongnghiep-160150.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Chăn nuôi an toàn sinh học: Bắt đầu từ thay đổi tư duy phòng bệnh",
+   "link": "https://nongnghiepmoitruong.vn/chan-nuoi-an-toan-sinh-hoc-bat-dau-tu-thay-doi-tu-duy-phong-benh-d824473.html",
+   "date": "Mon, 03 Aug 2026 17:46:21 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/03/2323-z5888938208018_6f68c48cae306ec03a31d85a5286eda7-nongnghiep-152129.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Nghiên cứu xác nhận vaccine Argentina đạt 100% hiệu quả bảo hộ virus FMD chủng SAT-1",
+   "link": "https://nongnghiepmoitruong.vn/nghien-cuu-xac-nhan-vaccine-argentina-dat-100-hieu-qua-bao-ho-virus-fmd-chung-sat-1-d824421.html",
+   "date": "Mon, 03 Aug 2026 12:50:20 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/03/3505-sat-1-113447_619.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Chợ trâu, bò lớn nhất miền Bắc nhộn nhịp trở lại",
+   "link": "https://nongnghiepmoitruong.vn/cho-trau-bo-lon-nhat-mien-bac-nhon-nhip-tro-lai-d824175.html",
+   "date": "Fri, 31 Jul 2026 19:37:42 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tumn/2026/07/31/5559-muc-so-thi-phien-cho-vung-cao-tien-tinh-bang-quyen-162553_141-142045-nongnghiep-175551.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Hải Phòng từng bước số hóa quy trình kiểm dịch động vật, thủy sản",
+   "link": "https://nongnghiepmoitruong.vn/hai-phong-tung-buoc-so-hoa-quy-trinh-kiem-dich-dong-vat-thuy-san-d824119.html",
+   "date": "Fri, 31 Jul 2026 16:13:44 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/07/31/thu-y-1-142948_809-nongnghiep-145210.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Vùng an toàn dịch bệnh: ‘Lá chắn’ cho chăn nuôi bền vững",
+   "link": "https://nongnghiepmoitruong.vn/vung-an-toan-dich-benh-la-chan-cho-chan-nuoi-ben-vung-d824103.html",
+   "date": "Fri, 31 Jul 2026 15:19:34 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/07/31/5028-z5938452221777_27fd2d6b27a8eccf1a0892d56274385c-nongnghiep-134632.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Phú Thọ chăn nuôi công nghệ cao gắn bảo vệ môi trường",
+   "link": "https://nongnghiepmoitruong.vn/phu-tho-chan-nuoi-cong-nghe-cao-gan-bao-ve-moi-truong-d824807.html",
+   "date": "Thu, 06 Aug 2026 11:42:19 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/06/z8119128311532_71e9a32792d55e29ba0ddd731edaf70b-160228_930-114221.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Gia Lai sắp có thêm trang trại chăn nuôi lợn hơn 3.000 tỷ đồng",
+   "link": "https://nongnghiepmoitruong.vn/gia-lai-sap-co-them-trang-trai-chan-nuoi-lon-hon-3000-ty-dong-d824745.html",
+   "date": "Wed, 05 Aug 2026 15:09:44 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/05/4714-3717-anh-1-113528_725.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Gà đặc sản nghe nhạc, ăn lá thuốc, đẻ trứng thảo dược ở xứ Mường",
+   "link": "https://nongnghiepmoitruong.vn/ga-dac-san-nghe-nhac-an-la-thuoc-de-trung-thao-duoc-o-xu-muong-d824601.html",
+   "date": "Tue, 04 Aug 2026 16:16:00 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/04/ga-den-cao-phong-12-134210_580-161603.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "'Con trâu là đầu cơ nghiệp'",
+   "link": "https://nongnghiepmoitruong.vn/con-trau-la-dau-co-nghiep-d819510.html",
+   "date": "Mon, 03 Aug 2026 18:54:46 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/anhht_tn/2026/07/02/3904-z7995189254203_3121c0023dbbf3acfeefd30a9caf595b-113415_128.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Gà Tiên Yên: Từ giống gà bản địa đến câu chuyện kinh tế nông thôn",
+   "link": "https://nongnghiepmoitruong.vn/ga-tien-yen-tu-giong-ga-ban-dia-den-cau-chuyen-kinh-te-nong-thon-d824163.html",
+   "date": "Sun, 02 Aug 2026 09:55:33 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thanhntctv/2026/07/31/3657-e935fcdad3a268fc31b366-162140_825-150452-nongnghiep-163652.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Bảo tồn và phát triển giống lợn Móng Cái hướng tới chăn nuôi hữu cơ",
+   "link": "https://nongnghiepmoitruong.vn/bao-ton-va-phat-trien-giong-lon-mong-cai-huong-toi-chan-nuoi-huu-co-d824132.html",
+   "date": "Fri, 31 Jul 2026 20:41:31 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/07/31/dsc02319jpg-nongnghiep-145258.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Siết chặt quản lý lò mổ, đặt sức khỏe người dân lên trên hết",
+   "link": "https://nongnghiepmoitruong.vn/siet-chat-quan-ly-lo-mo-dat-suc-khoe-nguoi-dan-len-tren-het-d824033.html",
+   "date": "Fri, 31 Jul 2026 19:25:11 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/cuongvv/2026/07/31/5245-screenshot_20260730_234747_facebook-nongnghiep-005234.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "'Thịt lợn trà xanh - Tinh hoa Thái Nguyên'",
+   "link": "https://nongnghiepmoitruong.vn/thit-lon-tra-xanh--tinh-hoa-thai-nguyen-d823929.html",
+   "date": "Fri, 31 Jul 2026 06:15:29 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/07/30/sequence-0100_10_45_07still023-nongnghiep-155108.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Khoa học công nghệ: Lối ra cho ngành chăn nuôi, thú y",
+   "link": "https://nongnghiepmoitruong.vn/video/khoa-hoc-cong-nghe-loi-ra-cho-nganh-chan-nuoi-thu-y-tv825140.html",
+   "date": "Sat, 08 Aug 2026 17:32:43 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/08/youtube-nongnghiep-172100.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Xây kè, đê ngầm giữ bờ biển Thuận An",
+   "link": "https://nongnghiepmoitruong.vn/xay-ke-de-ngam-giu-bo-bien-thuan-an-d825169.html",
+   "date": "Sat, 08 Aug 2026 16:49:11 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/08/satlo-7-093140_518-164915.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Sun Group tiếp nhận, vận hành khai thác cảng An Thới",
+   "link": "https://nongnghiepmoitruong.vn/sun-group-tiep-nhan-van-hanh-khai-thac-cang-an-thoi-d825162.html",
+   "date": "Sat, 08 Aug 2026 16:47:39 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/chanhdt/2026/08/08/5716-ban-giao-cang-an-thoi-1-073946_392-073948.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Những nếp nhà mới ở rốn lũ Mường Than",
+   "link": "https://nongnghiepmoitruong.vn/video/nhung-nep-nha-moi-o-ron-lu-muong-than-tv825100.html",
+   "date": "Sat, 08 Aug 2026 16:45:27 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/07/can-nha-moi-o-muong-than-nongnghiep-154715.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Agribank Chi nhánh Đắk Lắk bền bỉ vì cộng đồng",
+   "link": "https://nongnghiepmoitruong.vn/agribank-chi-nhanh-dak-lak-ben-bi-vi-cong-dong-d825129.html",
+   "date": "Sat, 08 Aug 2026 16:44:46 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thoth77/2026/08/07/5107-agribank-chi-nhanh-dak-lak-ben-bi-vi-cong-dong-193340_260.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Agribank Bắc Long Anh đồng hành xây dựng hệ sinh thái tài chính số",
+   "link": "https://nongnghiepmoitruong.vn/agribank-bac-long-anh-dong-hanh-xay-dung-he-sinh-thai-tai-chinh-so-d825192.html",
+   "date": "Sat, 08 Aug 2026 16:22:27 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/anhntk/2026/08/08/4932-2hgb6f2dkgjesgu1bwxnndhwrvwanjuzjui4-nongnghiep-134918.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "BSR xuất bán lô nhiên liệu Diesel sinh học B5 đầu tiên từ NMLD Dung Quất",
+   "link": "https://nongnghiepmoitruong.vn/bsr-xuat-ban-lo-nhien-lieu-diesel-sinh-hoc-b5-dau-tien-tu-nmld-dung-quat-d825193.html",
+   "date": "Sat, 08 Aug 2026 16:22:00 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/08/123-1-nongnghiep-135314.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Công ty Nhiệt điện Duyên Hải chủ động bảo đảm nguồn điện cho hệ thống",
+   "link": "https://nongnghiepmoitruong.vn/cong-ty-nhiet-dien-duyen-hai-chu-dong-bao-dam-nguon-dien-cho-he-thong-d825168.html",
+   "date": "Sat, 08 Aug 2026 16:21:35 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/homt/2026/08/08/2913-anh-2-nongnghiep-092855.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Khoa học công nghệ: Lối ra cho ngành chăn nuôi, thú y",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQThrOHRVRHpXNHNhaXRpMDZUUjFXQzA4RlpZelhURk1UUFdKV18zTGFRYXZaQmkyV3VrbFpNTFROS0FYM2FTMzd0SnV2SHVTMVBsTTVWZTNzbmNZSFpNSW9USEVwb1MyOFRfZ0p3djZ2dFlFalJtMWxWcEZzZWtNTm9mWk52SkRRNXg4UnJrVE5KOHlFRS1HRTh4WHlkdUNBUnRxYg?oc=5",
+   "date": "Sat, 08 Aug 2026 10:32:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
    "source": "gnews",
-   "label": "baolangson.vn",
+   "label": "Báo Nông nghiệp và Môi trường",
    "icon": "📰"
   },
   {
-   "title": "Hướng dẫn : Chăn nuôi An toàn sinh học, các hành vi bị nghiêm cấm và mức xử phạt vi phạm hành chính trong chăn nuôi, thú y",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPR0lsLV9aTlQ3NGxhajVMTURrX0duMlBuT0hna3IzSXctTkNpSF9Dc3hSYk5Ybk1DaDdlUk5yRU5kZkVlRkdJTXlRWERLakctVUt1bEZUamdGWnpxNWlPQTg4MkRRdU5zTDdGOVREMUtERGYzVU5sV0dnWFg0WlU2ZmFfY3VCMkx3eUwxa096MkdQREZ2R2FCS0FZNGdrWUpwdWQxSmg4ODJhNkQ5N2VWdzZRWDhjTnZaS2l1cVdQM1M3OUJBZWtGZi1YYkJ5emFyV0Z5bkxZdWdJR25aRHFQWjkyRGdzcFhiZlZKbUFQRzI2TWo2R1dqc1J5QktWRURlMTJjeDF6QWE?oc=5",
-   "date": "Fri, 07 Aug 2026 10:22:20 GMT",
-   "image": "",
+   "title": "'Chìa khóa' cho đột phá ngành chăn nuôi và thú y - Báo và Phát thanh, Truyền hình Lạng Sơn",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYWpjU3R5bkluVnN1VHFjMEh2bDFhTzN3UHV1VV9fRWpDVldmSWpGSkgzYzZsMWNQeEFMZnhjR3F3VmNMajF6RXF5SmtqajVHcWkwRklDd0dFUUJXcDVhOU9lWFBSdWVGQ19tdUh1aGxoVENVR1dKNlJKZmdtYVlvcHo0NFNuYmp3?oc=5",
+   "date": "Thu, 06 Aug 2026 01:12:05 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=baolangson.vn&sz=128",
    "source": "gnews",
-   "label": "kimson.ninhbinh.gov.vn",
+   "label": "Baolangson.vn",
    "icon": "📰"
   },
   {
    "title": "Hướng tới quản trị ngành chăn nuôi và thú y dựa trên dữ liệu",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEU2NWpHQjNZU2hoS1NFckcxcXFGNmtmZnBNdUV6X3NjaVVNeWszTHJyM1VyNy1DbUI2d1h3b0swRklOTE03SHEzMVhET3Z6cjZrSl9lZzBzc0Y3UG9pODc0R1lRNUs1aG1FTzZiTUxHb1dtaGZicW1wN1FHUTNsWkt2SEtHN3psQmI2Qm5uOG5HRjFDMUF2Z1U5NHYxVkZnV0wzUUlHVHQ2RlcyZEZXcg?oc=5",
    "date": "Wed, 05 Aug 2026 01:51:00 GMT",
-   "image": "",
+   "image": "https://www.google.com/s2/favicons?domain=baotintuc.vn&sz=128",
    "source": "gnews",
    "label": "baotintuc.vn",
-   "icon": "📰"
-  },
-  {
-   "title": "Diễn đàn Một sức khỏe tại Vietstock 2026: Hướng tới phát triển ngành chăn nuôi bền vững",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR0t4UGhob19fcTF2Rjh0a0lsaHh1QjZ4RVZEbGYzTE5SbFBfeW9pbG9aQzY5bGdaZGVYUk90LXZ5TFlIN1Jnc3lHR2pEbHJ3bktGaFV6QWRpdlZ3NEJyVjJGNmFfektxNk5XT0JQMUJiZXVuQVZldUNDLUZPdGZWc3FCc3dZck9WOG5Rdm40M0tqQlRJUU5ZYnRLXy1TdUsxcTFvUE5CUUJNSW1Jdldz?oc=5",
-   "date": "Sat, 08 Aug 2026 03:09:10 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "Tạp chí Chăn nuôi Việt Nam",
    "icon": "📰"
   },
   {
    "title": "Khởi tố, bắt tạm giam Chi cục trưởng cùng 5 cán bộ cấp dưới...",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV1VKZ2JuYUJ3X1ZjcXdOREgxN0NWaVBJSU5ENDVEaTI0UU9BYmVFLU5Vak9PR2VidWsxcDBTUGwwRUk3TDlicG5NRDFxQW1UMTZUSm1iRUFSaFhCaHZBLVY0NDBrU1lEcDJlaXN0Rmg3cHdDc29fam5ld29keW5EVEhERU1oNC1vUnRySm05YUVLdm5fSEd1a3pCLU5WYkNCTnhtQXFzbVowZ3Y4QjRWSXFqRkdFbnJGQWZFdENCSTVIMGZ2ZG1qc3BoTTF3c3M?oc=5",
    "date": "Tue, 04 Aug 2026 07:00:00 GMT",
-   "image": "",
+   "image": "https://www.google.com/s2/favicons?domain=xaydungchinhsach.chinhphu.vn&sz=128",
    "source": "gnews",
    "label": "xaydungchinhsach.chinhphu.vn",
+   "icon": "📰"
+  },
+  {
+   "title": "Diễn đàn Một sức khỏe tại Vietstock 2026: Hướng tới phát triển ngành chăn nuôi bền vững",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR0t4UGhob19fcTF2Rjh0a0lsaHh1QjZ4RVZEbGYzTE5SbFBfeW9pbG9aQzY5bGdaZGVYUk90LXZ5TFlIN1Jnc3lHR2pEbHJ3bktGaFV6QWRpdlZ3NEJyVjJGNmFfektxNk5XT0JQMUJiZXVuQVZldUNDLUZPdGZWc3FCc3dZck9WOG5Rdm40M0tqQlRJUU5ZYnRLXy1TdUsxcTFvUE5CUUJNSW1Jdldz?oc=5",
+   "date": "Sat, 08 Aug 2026 03:09:10 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=nhachannuoi.vn&sz=128",
+   "source": "gnews",
+   "label": "Tạp chí Chăn nuôi Việt Nam",
+   "icon": "📰"
+  },
+  {
+   "title": "Hướng dẫn : Chăn nuôi An toàn sinh học, các hành vi bị nghiêm cấm và mức xử phạt vi phạm hành chính trong chăn nuôi, thú y",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPR0lsLV9aTlQ3NGxhajVMTURrX0duMlBuT0hna3IzSXctTkNpSF9Dc3hSYk5Ybk1DaDdlUk5yRU5kZkVlRkdJTXlRWERLakctVUt1bEZUamdGWnpxNWlPQTg4MkRRdU5zTDdGOVREMUtERGYzVU5sV0dnWFg0WlU2ZmFfY3VCMkx3eUwxa096MkdQREZ2R2FCS0FZNGdrWUpwdWQxSmg4ODJhNkQ5N2VWdzZRWDhjTnZaS2l1cVdQM1M3OUJBZWtGZi1YYkJ5emFyV0Z5bkxZdWdJR25aRHFQWjkyRGdzcFhiZlZKbUFQRzI2TWo2R1dqc1J5QktWRURlMTJjeDF6QWE?oc=5",
+   "date": "Fri, 07 Aug 2026 10:22:20 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=kimson.ninhbinh.gov.vn&sz=128",
+   "source": "gnews",
+   "label": "xã Kim Sơn",
    "icon": "📰"
   },
   {
    "title": "Ứng dụng dữ liệu số trong quản trị ngành chăn nuôi và thú y",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzdMNWVLNmRJcnBzUXVhbHdxQkdsUkJYZDVidGItR0p6V3RONWVuVTFsOXA0VTY0b292TjVibnlIOG1QeXBTQ3JpbDhtMHFyQUYxUVcxNksxbUFKb3IzeWwtZkdVLVAwNXpUdG9UYnhIVkRmMG1hTzZCYkU3NXh6WG5nMzFfSFNaSGVhdEJFWTRVWndHOXBKXy1POA?oc=5",
    "date": "Thu, 06 Aug 2026 23:08:00 GMT",
-   "image": "",
+   "image": "https://www.google.com/s2/favicons?domain=thiennhienmoitruong.vn&sz=128",
    "source": "gnews",
    "label": "thiennhienmoitruong.vn",
-   "icon": "📰"
-  },
-  {
-   "title": "Mạnh tay xử lý các vi phạm trong chăn nuôi, thú y",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORURDbHE1RXdDY0xLLWM5SmUzZzNjY05PU3RiblhiRHZPd2tyUlc5Y2xzM2lyQURaUVZtT1hPN2luaHJmMWoyZUpkSkYxcTJReUUxbmxOLUNFNDJMMlpWRktpTTlxSFJDdXpINXpMaTZCRkR0bUdJMTZvUXA0R09QVA?oc=5",
-   "date": "Sun, 02 Aug 2026 23:44:00 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "Báo Đại Đoàn Kết",
    "icon": "📰"
   },
   {
    "title": "Nghị quyết số 68 về phát triển kinh tế tư nhân trong phát triển Chăn nuôi và Thú y",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSTN5TzNqSFZ3TTMtd19BbkJLR011dDM4ZDJ4TGVtUGhpVnFDTE52eUoxRTRHb2NIWjE3STlKMkh5R3ZpRm9qRFJTanZlOGQ1aTVoTmZpX1hqVEhVYTc0aDltaFhZUnMwbzRLVUY2UDd6RFlMazNsM2NnSFVnYjZ5U1Zla2RaTEctcTBzSnBsMzd0RjRmYm1LVlhZZ28xdllPQ3p2ZkxVdllybU11c1U0?oc=5",
    "date": "Fri, 07 Aug 2026 03:54:25 GMT",
-   "image": "",
+   "image": "https://www.google.com/s2/favicons?domain=nnmt.net.vn&sz=128",
    "source": "gnews",
    "label": "nnmt.net.vn",
    "icon": "📰"
   },
   {
+   "title": "Mạnh tay xử lý các vi phạm trong chăn nuôi, thú y",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORURDbHE1RXdDY0xLLWM5SmUzZzNjY05PU3RiblhiRHZPd2tyUlc5Y2xzM2lyQURaUVZtT1hPN2luaHJmMWoyZUpkSkYxcTJReUUxbmxOLUNFNDJMMlpWRktpTTlxSFJDdXpINXpMaTZCRkR0bUdJMTZvUXA0R09QVA?oc=5",
+   "date": "Sun, 02 Aug 2026 23:44:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=daidoanket.vn&sz=128",
+   "source": "gnews",
+   "label": "Báo Đại Đoàn Kết",
+   "icon": "📰"
+  },
+  {
    "title": "Chủ động phòng bệnh dại, giảm nguy cơ tử vong",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNkc1clh0MXh6RVBYckRtZlY5bkd6SkdEcjJrOEYwZFBLcEh1RUpESVh4TnZXcjkyMDc1YUNTOW92Ul9mOFRmeVdEdjJtaW56bm1mUl92dDVVcERWQmgyWmRQSkVFRlNYYVYtcUs2LVJfUEJyTkZTS01PLTl5UWpPT3lR?oc=5",
-   "date": "Sat, 08 Aug 2026 03:06:46 GMT",
-   "image": "",
+   "date": "Sat, 08 Aug 2026 03:09:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=baophutho.vn&sz=128",
    "source": "gnews",
    "label": "Báo Phú Thọ",
    "icon": "📰"
   },
   {
-   "title": "Hội thao Khối thi đua các viện, phân viện Trung ương năm 2026: Phân viện Chăn nuôi và Thú y miền Trung đoạt giải nhất toàn đoàn",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPN3JEY3ZOUlJuVXV6dmU3aFhmSWJYSHFZWlQxZWJXdkpDYXVmRGI2LTBaRUdZXzBjYngxdlhJakNtcFAwN0RqdzJ3bVFxRWMwZGlaVXREQzlOTkY4bFpkbG9PQmRmNjliVlZZUlJTQ2dueWY2VFJVeEhJS21wUXQ5OEJEUml1QVNZM080bnM3bV9na0RaM2hsNS1SZE10SXdRd0p6RU4td2Y2bk01MFU0V1JmSzFDYnBxSUVZbk80RlBoRVA2b2w2eE84Ym5MWWFZbFo1RkVadDktYWdYYWV1UzBqZWxuWGVKVE9hZUk2Z3lQYmNhMl9Wc2dWa2RXdVdiZkFteTRZclZxaFFyQXpuejVnMVNOZk1yQkNOVmxn?oc=5",
-   "date": "Fri, 07 Aug 2026 11:58:00 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "baokhanhhoa.vn",
-   "icon": "📰"
-  },
-  {
-   "title": "Sau vụ 280 con heo nhiễm chất cấm ở TP.HCM, Cục Chăn nuôi và Thú y yêu cầu siết kiểm tra toàn quốc",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY0V5OWVfZXdINGVmdGNfV1Uzd2RVU2xCOTN6akNOLUVuMWtBX3lkcDlUemZzN0d0S1AtSmJqQk5kbEVsUEsxNVJ4NUluZHUxci1NN2xZSFpyZEpPaHlEalgzcU1MTlFTUTdQeFI4RElaa0JDeENaR0hXam9FZWNaUW1FbVg4dGh4X2UxSnNQcE13anNuZmVYV2RiSDdORndGZC1feXViZ0xURTBZeXZRVEVOMWtKT1JodjQ4cXJDbGlqTllkYlk4bGpMb1FVSVdPN0Z4SmpGOWJSazJ0?oc=5",
-   "date": "Sun, 02 Aug 2026 03:12:00 GMT",
-   "image": "",
+   "title": "Lào Cai quy hoạch lại hệ thống giết mổ, tiến tới xóa bỏ các điểm giết mổ tự phát",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX1l0WVJkTF9uV2Y1Z3MzMm0wdS1aUnZPR29ZemdNZ0JCcml5UTZ2aC1QaXJYNjA1NC1mV21SeDgzUkk2emxrcnVEaG05RGo4YUZEQ0s0Wk1vUDAzU21zeDBwUzA0NWRlNEZ5aEFqUVVjWWowVUJ5T25sT0ZpVHNkbDlYTGt1b2ZEX2I0R0VuMjRGUzBYTXhUdU92RVNpaEdKMVdWeEswY0lTODhib2dPRU1KTEpUUVRtSHRGRXV2UEQtYW95?oc=5",
+   "date": "Wed, 05 Aug 2026 03:11:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=thuonghieucongluan.com.vn&sz=128",
    "source": "gnews",
    "label": "thuonghieucongluan.com.vn",
    "icon": "📰"
   },
   {
-   "title": "Công bố Danh mục thủ tục hành chính lĩnh vực Chăn nuôi, Thú y và Thuỷ sản",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQm5JNXpCb1MzRERsdDFUNG82LXMwdHBuY1k3OHRHdlFFREt2cGMxNFlBZDc0VmhhOGRzaE9jdmZFQU9LbWpmVHZJRmFUS1NYT2dYZ0l5aU96d240WWF5WVJ4ZU9Nb0taaldJLWFpakNUaElGcVd4NlRQMHg4SXhOaUN3NUc0MmN6Mm1jUWduM1dWZXBQTVZZSG5RYVlXYUtSMUVKVmMwYVFFcFQzdDJQdU9wUmJfZU5KQUk4VUZiWV9WejhVcFE?oc=5",
-   "date": "Tue, 04 Aug 2026 07:09:00 GMT",
-   "image": "",
+   "title": "Tây Ninh nâng cao năng lực kiểm soát dịch bệnh động vật",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcl9pdmJMOTRtcmhRVWtDVUZ6Q09USjlBTF9OYk5FMjRxZHZRRWJTNE9pQ2x3aE90YkRTdDNUcmxJN01JSXJYX0JZWFhNWVFCaXluZ2dTR1RGRGpLampRUkVXYUwxQmxvUkx3aTh4aWxRNUNnd3ZEeXAwRlBCRi11RlJTYlk?oc=5",
+   "date": "Wed, 05 Aug 2026 15:23:30 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
    "source": "gnews",
-   "label": "hanoi.gov.vn",
-   "icon": "📰"
-  },
-  {
-   "title": "Xóa bỏ rào cản trong lĩnh vực chăn nuôi và thú y",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ3FMWmJkY0d5anpINFpaeVNXQ25pSk9ydEozbjRyd3pHWFFCcE5CN0gtUFhyX0VtOWhaTTBoMHY4Q1MxX092TkFLTFdscUV6TEFRakpRQmhmVG5rZUhqeG9qdFQ2ZXkyUHZQVHRCc3pKZHZCRXd4RFdEWUY0QWplSmZRdDN3LWF0UGc?oc=5",
-   "date": "Wed, 22 Jul 2026 11:51:00 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "Báo Thanh Hóa",
-   "icon": "📰"
-  },
-  {
-   "title": "Vi phạm về điều kiện buôn bán thuốc thú y từ 01/8/2026 xử lý thế nào?",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdEhTZDIzdWRPc29Bbi1sMkI4UUNsMmJyQUtIYnE5UDQ2WjJTSi1ZaDJtMzJqZThhUjlRNnlyQ1U3Rmo5MEdCVkhpTHl4LUs0RUJ3Ym0wWWNqRnNEZ24zRGtuTXc5dHZSOUg2T2lYTXpXUVRWeVJjaVNvaGI5cjhwMmVFMUJGTVc3OVZoT0E4dUxmeFlJT2lvdEZ1Z3BfT2Z2STE3Q2d1R1hXblBhbXRNTEZwVWpPcC1fT3dmV3VNZHpoMnA4?oc=5",
-   "date": "Mon, 03 Aug 2026 02:17:07 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "LuatVietnam",
-   "icon": "📰"
-  },
-  {
-   "title": "Hà Tĩnh tăng cường phòng, chống cúm gia cầm, lở mồm long móng và dịch tả lợn Châu Phi giai đoạn 2026–2030",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbWZ0REZYNWVHTmFHdDZnak1PTkVROXRFTUFQXzNOMjRDLUI0VWRUMWEwVXU0TklBUTNna3M1UHp5NHNCYWlXYVVhSW14azdjOGxQQkk0N3hkSlFJVXhhRXUzLTU4UW43T0hHX2psU2pUTU5WamdOX0ZheFpGdTBxdTdrejJrVXh5cW9KNjYxREEtNEV5cmMxSXVxTGlnTWFYcXVnTlZmVkxxTjJuSUJHNjdMalYwX1RqQ2JYNm0zOHI3eG9mWHpsYTBoaDBReXZlOGc?oc=5",
-   "date": "Fri, 07 Aug 2026 15:42:16 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "Cổng thông tin điện tử tỉnh Hà Tĩnh",
-   "icon": "📰"
-  },
-  {
-   "title": "Đăng ký danh sách tham gia tập huấncông tác phòng, chống dịch bệnh gia súc, gia cầm, động vật thủy sản trên địa bàn tỉnh năm 2026",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSVJfOVN1MkV2TGFsRjJqcXR0NjY5aWNyQVN1Y09SMVRCdHd1YTlSbjMwZ1ZVM1BmZHcteENpWVY5MjZ1UFBMc19TRndVNC1nbW9FSFZXaEFUYnhhS2dVVU45RVh5aTJUVFBYRmFhZkhqUXRQM3ZFRVNuOFhPenFTR1dQNDhHTzg1VEo0cFBEeERuQnhtZ2hQeHlkb0t4Y2VBcURuTHB0RkNKQVR6ajNyMlY0cWNzX2Y1VW1xZWFia0Y1NmI3M0tONlQ0Y2FPd0JYbkNycHdaR0RyV2xXOHZ6NVFoSWQyQjRfWGdqSEdwTS01RlNpQnNzUkFqY0ZYUVozSzlqMWRPZEwzZw?oc=5",
-   "date": "Thu, 06 Aug 2026 10:00:05 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "UBND Xã Thiệu Trung",
-   "icon": "📰"
-  },
-  {
-   "title": "Cà Mau chủ động phòng, chống dịch bệnh trên vật nuôi",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGsxZmVLRnZFOXF3MXpIWlJKdk5tRF81T2UtQ3NudExDQ2Q2OXV2cVNzZ3hzUUpOYnlEVUN6SFZtVU1BblZrWG1CalRWNVZOUWVEX1BCNEpUTV8teVZxZEE0SmxlVmQ0QlZuTS1SdVRHaW1SeEEwcWR0RjFBUHNjVWpiQ3o1cXhRTzRSX0poMVNqVUU0Znc?oc=5",
-   "date": "Tue, 04 Aug 2026 04:28:14 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "BỘ NÔNG NGHIỆP VÀ MÔI TRƯỜNG",
-   "icon": "📰"
-  },
-  {
-   "title": "Phường Hiệp Hòa tiếp tục triển khai tiêm phòng vắc xin gia súc gia cầm đợt I/2026 - Cổng thông tin điện tử Tỉnh Quảng Ninh",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS0pFMEJNSW5KajFZaHg2Y0Qxd05LcmxSQVFHNk54N0NKLUVIUVBWU3g1MWR6RnB4MnpSV1JCNjExT0ttcmlZa29uTkY2YTVPWk5ad2tER1l5ckJfdVNIUGRkOVRUckF4bk5ReEVoTHUtR2REZ3lEaEd2Q1poQUVKOEdn?oc=5",
-   "date": "Wed, 05 Aug 2026 06:25:00 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "Tin tổng hợp",
-   "icon": "📰"
-  },
-  {
-   "title": "Triển khai đồng bộ các giải pháp phòng, chống dịch bệnh gia súc, gia cầm",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZVhsTHpIeHI0VG9PZmhBWGN4VGYtVmxTaWljNlNYcXdPU1BxNFVKQ0tSUTVaRTByOFQ3REduc3pRdmh5WTV6UDBscHhkVTVkWnFMS2FEOVNDR3pVY0RlalJHTTVSeTBTSUFPYXE2NE9mTDlLQ19WbU5ScW52ajNRWHhKRDNBOGpzaXhGbXhDaFpzc1JXZmY0V1hYc1QxTC1KenM0M29vd0dLSG8?oc=5",
-   "date": "Sat, 25 Jul 2026 07:00:00 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "Báo Hà Tĩnh",
-   "icon": "📰"
-  },
-  {
-   "title": "Chủ động kiểm tra, tuyên truyền phòng, chống dịch tả lợn châu Phi, bảo vệ sản xuất chăn nuôi tại xã Long Cốc",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWtRNjh1VDRhakdEaHVnSVFJZjNLU3pBTHJXNzBWVEFWT3V3SWlXZHAtVkZGQmpDLWw5U2hOaW9rZXlFcjllclU0UmNQclhMbnJObVE2MEFIaU9xU2tOclB2QkpjOHFlQVhPOGR0RThuMkJvRDVOdzQtYVhzODBMZF9Qa2lWNUJndDR6d1BPSGhNSHVFX29Rcg?oc=5",
-   "date": "Fri, 07 Aug 2026 03:16:18 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "Công an tỉnh Phú Thọ",
-   "icon": "📰"
-  },
-  {
-   "title": "Xã Vạn Thắng hướng dẫn phòng, chống dịch bệnh trên gia súc, gia cầm",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3VRakpzRXQ0UFZZVGtvdXhhRXJFaGhXOTlQRXR3OXR5T3NCZjNCNkdmMk9MUGRieFhtWkw5VHo4QTQ0X2hxNmx3MHlFcU1zSmt6RGdKazlLemZTOS11RHVaVzBVUXRaZHRTMWQySzZ0bEVia3dtRGRzOGxyUDExVm1FTEE2a0xPM2cxMzZNaWFobUFPYzJqazR5R0F2U0UxdFFHdGJ4c1cxVWc5MWZtb1JZaW5CTGtkLVdZZg?oc=5",
-   "date": "Fri, 24 Jul 2026 14:59:44 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "dangcongsan.vn",
-   "icon": "📰"
-  },
-  {
-   "title": "Tăng cường phòng, chống dịch bệnh cho gia súc, gia cầm",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNkNnWGVwTzNrY1E5OHMtcF9ySVpVRXVDU0dCcXZQaDBmU0t4VlhCWFZoOFpTRzN3LUZydEN6bDM3ZDR2YlJ6SERVYVpkdG9BZDB1aFVNZzhlaGRMQVczT003bzdMcnFsc0xxWkZlbWVFMlhsdWk3WkJUMjNxQkZydWNfOXhRY0VOckFsbmlRdw?oc=5",
-   "date": "Tue, 28 Jul 2026 12:54:00 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "Báo Thanh Hóa",
+   "label": "Vietnam.vn",
    "icon": "📰"
   },
   {
    "title": "Tạo \"lá chắn\" phòng dịch cho đàn gia súc, gia cầm",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeXJUN3JfQ0pSY0dFMDBNZ2I4VElLNGJxdE0wSHZaaU1sNWNtVXdYNk8yclZhenRoOFROazc4M2VmRjVueDJHVDZhcERkZjFGeWhjdW95bHNJZWtVUl93eDhyOWRXNFFEWUtFX2U4VWJ3S2tXYXY2QzZPVHJ5dldOVkRKVERhN1FjTlE?oc=5",
    "date": "Tue, 28 Jul 2026 12:00:00 GMT",
-   "image": "",
+   "image": "https://www.google.com/s2/favicons?domain=hungyen.gov.vn&sz=128",
    "source": "gnews",
    "label": "CỔNG THÔNG TIN ĐIỆN TỬ TỈNH HƯNG YÊN",
    "icon": "📰"
   },
   {
-   "title": "Phúc Thọ đạt kế hoạch tiêm phòng vắc xin cho đàn vật nuôi",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOHp2Q3RueXoyLVY5R1JrNV9ycVdTRDBES2d2REFESjR0UmpBd3JSVVRDLXdNUnc4SERRMXFSYVZyXzdtcHRlWDAyai1LN2hJdzBnZC1fUG5ETEM3QXR3dGt4aFpBVUdGTjdJWWp6WjhXcG1SUjJzWURNSUJIeGhBOVFXTWpaNkxL?oc=5",
-   "date": "Fri, 10 Apr 2026 07:00:00 GMT",
-   "image": "",
+   "title": "Triển khai đồng bộ các giải pháp phòng, chống dịch bệnh gia súc, gia cầm",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZVhsTHpIeHI0VG9PZmhBWGN4VGYtVmxTaWljNlNYcXdPU1BxNFVKQ0tSUTVaRTByOFQ3REduc3pRdmh5WTV6UDBscHhkVTVkWnFMS2FEOVNDR3pVY0RlalJHTTVSeTBTSUFPYXE2NE9mTDlLQ19WbU5ScW52ajNRWHhKRDNBOGpzaXhGbXhDaFpzc1JXZmY0V1hYc1QxTC1KenM0M29vd0dLSG8?oc=5",
+   "date": "Sat, 25 Jul 2026 07:00:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=baohatinh.vn&sz=128",
    "source": "gnews",
-   "label": "Tạp chí Chăn nuôi Việt Nam",
+   "label": "Báo Hà Tĩnh",
    "icon": "📰"
   },
   {
-   "title": "Các địa phương tập trung bảo vệ đàn vật nuôi, chuẩn bị phục vụ Tết",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQkdmdWV5Z29MYzZ5OFRHcjdHRVlwMl83TDZZZ3RGU1NjdlNxTm9KWVdWQ0xid0RyNDF3d1dNOEIzcHhKZ3FqTURTRGVOV3l0LTNOdHVYMHRsWXNMd3ZkVWpmdVd0TllOanEtUzI2bHBHdnkzT2p2UzJXaHp1TmJ4eENKdFBHSGY2b3dvNlloLUFZdndCLUNIb0FFVFktTUdK?oc=5",
-   "date": "Mon, 12 Jan 2026 08:00:00 GMT",
-   "image": "",
+   "title": "Giảm tối thiểu 30% số ổ dịch, tiêm phòng trên 70% tổng đàn gia súc, gia cầm trên địa bàn",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblA0WjhxV3NFckJVYXp4Z1g3T0NoWVVNc1BRdXlwU0dKM0RnQnVEM1I5WXZyNnBjUkp2bFl2aV9vNlY2R2pHTjFWLXRWVEVRWmQ0YXZKdzZsWnhIUWFDYXE1cExEU0haak1fQkd3Z3pJWGEzcm1KY29uMTRGYnltaExERlV6ZFFuczBkdnZoMHVkRGdtNUFCVU1rMG9nTFlEeDMyUnVVMXpVU1dQTlN2LTRmVlpVenoya19Cd1dVRkRVVGFhdnptNElpTkp6RU9IRTV0QmJEYlJONE0tQ0Z4ZngzTDE?oc=5",
+   "date": "Mon, 27 Jul 2026 02:34:28 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=buonmathuot.daklak.gov.vn&sz=128",
    "source": "gnews",
-   "label": "Báo Đà Nẵng",
+   "label": "phường Buôn Ma Thuột",
    "icon": "📰"
   },
   {
-   "title": "Giá heo hơi hôm nay 21/7: Thị trường bất ngờ quay đầu",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUk8tNXdLcC1VNVJrUWdFUTR5YkpUQVpvZ1VwSHc1MUs2V0t5RzI3QV9GZjVtb0haN0JJSy1jMWRuYldHa0F0OFd4WnBKVmlxdHlPRWY0VXNpVGp2VEl5S0ZMQWpPU3hWRTlVT0thRmNYTzMtc3ZycU84akVHX2R0LWpVNUtfR3l5SjRKdENSdjRia3gtNWhv?oc=5",
-   "date": "Tue, 21 Jul 2026 07:00:00 GMT",
-   "image": "",
+   "title": "Hà Nội tháo điểm nghẽn quản lý giết mổ, siết an toàn thực phẩm",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQamt0cjJJZkdrUnJYYUdTRXFHWmRDaVYxaG01dE1IVEVWQ0J6Y2M0YjlyOEZQY2N4NnJicGNWT0tpYUh2SVp1Sy03TWdlMW9zNnBmNzZwaXZKYlg2eUZRcmF1RWNEcXE3bE5FMGlUbDM1R2p5dzRkQUVMWHdBdk9wV09wby1JRGUxRmx2RjlHNURoc0t6VEticG5sZkhYSk0?oc=5",
+   "date": "Sat, 25 Jul 2026 11:30:01 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=moitruong.net.vn&sz=128",
    "source": "gnews",
-   "label": "VietnamBiz",
+   "label": "moitruong.net.vn",
    "icon": "📰"
   },
   {
-   "title": "Tổng giám đốc AVAC Việt Nam kiến nghị về diễn giải kết quả xét nghiệm ổ dịch trong bối cảnh vắc-xin ASF đã được lưu hành tự do",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWk9COUEweXBIdEYtQ2x6ajRkLVRIQllTVm5nUDBvdE5qdVNISzBZTFdhcHZmR3lFZmcxUkJnRVd5MWR5VkJHX0l1NWlpb0owZnM4NS1lZEVMSUw2RUVCTWdVdHpxZHdSamJSN3JGRDNPSDNRMWkxMlBsQzRBM0Y4eVkxVWdIc0lMZFB3c3h5UWROVld6b1hfdU1lLTdTQjhoVnJvb0VicEVjOFRhc0ZHd2VFTXd1TnhuckdDOHgtRXZfU2VzUlYyUlVZalhlX09RblBEZkw1ZmZaTGRtZVpQR2VzSWpoMl9hRkE?oc=5",
-   "date": "Mon, 22 Jun 2026 07:00:00 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "Tạp chí Chăn nuôi Việt Nam",
-   "icon": "📰"
-  },
-  {
-   "title": "Dự báo giá heo hơi ngày 18/7: Có thể xuất hiện điều chỉnh trong cuối tuần",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUNka09LX0loVlUyVUlnVnlGWW1faFA4NTQ0NzV0aXp0WmFhR1Fua0F0Wl9UY3JKWVFmSU42NW55WUhJbXc1NldfbEdKTzFBNkZqSTlfTE5qcUtsR2tCTzE1ZGYwblJFZ21jRVJ5Z2xkdG5YdGgxQl9vWUhnSENBb3Q3Wk5oZm9iUVBmRmhEQ05kZVNYYnZNVDdpUDhFcC1YSUpTWHdZRmpoQ3MzN2g1aE90djY?oc=5",
+   "title": "Xã Phú Xuyên: Tăng cường quản lý, kiểm soát giết mổ gia súc, gia cầm",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2l4TnJ3a09XOU9CNk1wdS1HcFU3TWhiaWp1SWtRV1RrWXdQbXhQTERId0N0ei02b0ZLeENpZ0I3MGxLVUdmSENmRzRnNkVNd3BIYldJNzlranFJem5PdjFDTU91RkI4bjFSUmtWSkhNR1BheHRiWV9kVl9JZ0YxQlFHTzJOTk5iSXFNZVNZZ3dfOXM5d3JmbFU4TlVjNjg?oc=5",
    "date": "Fri, 17 Jul 2026 07:00:00 GMT",
-   "image": "",
+   "image": "https://www.google.com/s2/favicons?domain=hanoimoi.vn&sz=128",
    "source": "gnews",
-   "label": "VietnamBiz",
-   "icon": "📰"
-  },
-  {
-   "title": "Vừa tiêm vaccine, vừa lo!",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hQl9iRnBXTWRVZGZySW1VRThQVXFDUF9KTFF0QXhHT1hkVDBIVFNjMlgwR2NhQXo0aEFyRUtzaWs5UzhJMGxYNHhEU3N4YklRQUNjNzJzWTZMYk9nZmxQUXpRbFZXSDVMYVcwM3RFTlo?oc=5",
-   "date": "Tue, 05 Aug 2025 07:00:00 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "BÁO SÀI GÒN GIẢI PHÓNG",
-   "icon": "📰"
-  },
-  {
-   "title": "Cấp tốc ngăn dịch tả heo châu Phi",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBQTNUTnE4cTJQTGdLR0ptb2ptWno3WjBvMVZ3amgtZU1UdktrLUZiekZJWFNveTZCMGRPclZTTlNxYWU5NHdXcGtyNFVEaVBxQnV0eTV3ZGhuZjczT201SS03OXpJNGswSWlXMzd6eVFTN1JmaU5WQlNHczdFdEE?oc=5",
-   "date": "Tue, 05 Aug 2025 07:00:00 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "Tuổi Trẻ",
-   "icon": "📰"
-  },
-  {
-   "title": "Cần mạnh tay với thực phẩm bẩn",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbXY1c01WcWlFVzRyWEllOG1BUzJSendCWERnbGcteHNEUkp3ZmlHakhwNkdTSmtUWUtXdkVmbFNVS2J0bkhwaHlIRm5DbW01YlRZYXBRTXNxazVPZ0dQZjR0NUE0RUZKbndUc00xbFNzcHdwLUpmZ21XUFUwZnZtSHZtMkF4dDM4MWc?oc=5",
-   "date": "Fri, 03 Apr 2026 07:00:00 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "Báo Đắk Lắk điện tử",
+   "label": "hanoimoi.vn",
    "icon": "📰"
   }
  ]

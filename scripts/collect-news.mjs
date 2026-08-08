@@ -7,20 +7,21 @@ const UA = 'Mozilla/5.0 (compatible; KV9NewsBot/1.0; +https://sgdyv.github.io/tr
 // Truy vấn Google Tin tức (tổng hợp bài từ RẤT NHIỀU báo VN theo chủ đề — không bị chặn).
 const gn = q => 'https://news.google.com/rss/search?q=' + encodeURIComponent(q) + '&hl=vi&gl=VN&ceid=VN:vi';
 
+// Báo Nông nghiệp & Môi trường — RSS theo chuyên mục, MỖI BÀI CÓ ẢNH THẬT + link trực tiếp.
+const nnmt = s => ({ key:'nnmt', label:'Báo Nông nghiệp & Môi trường', icon:'🌾', type:'rss',
+  base:'https://nongnghiepmoitruong.vn', max:8, url:'https://nongnghiepmoitruong.vn/' + s + '.rss' });
+
 const SOURCES = [
   // Nguồn chính: Chi cục CNTY TP.HCM (có RSS + ảnh bài)
   { key:'chicuccntyhcm', label:'Chi cục CNTY HCM', icon:'🏥', type:'rss',
     base:'https://chicuccntyhcm.gov.vn', url:'https://chicuccntyhcm.gov.vn/syndication.axd' },
-  // Bộ NN&MT (quét trang chủ — đôi khi chặn, để thử)
-  { key:'mae', label:'Bộ NN&MT', icon:'🌿', type:'html', base:'https://mae.gov.vn',
-    url:'https://mae.gov.vn/', re:/<a[^>]+href="(\/[^"#?]+?-\d{4,}\.htm)"[^>]*>\s*([^<]{18,160}?)\s*<\/a>/gi },
-  // Google Tin tức — gom tin từ nhiều báo theo chủ đề (mỗi bài giữ tên báo gốc)
-  { key:'gnews', label:'Tin tổng hợp', icon:'📰', type:'rss', base:'', gnews:true, max:14,
-    url:gn('chăn nuôi thú y') },
+  // Báo NN&MT: 3 chuyên mục sát chủ đề — tất cả đều có ảnh bài
+  nnmt('thu-y'), nnmt('chan-nuoi'), nnmt('dich-benh'),
+  // Google Tin tức — gom tin từ nhiều báo theo chủ đề (giữ tên + LOGO báo gốc)
   { key:'gnews', label:'Tin tổng hợp', icon:'📰', type:'rss', base:'', gnews:true, max:10,
-    url:gn('dịch bệnh gia súc gia cầm') },
+    url:gn('chăn nuôi thú y') },
   { key:'gnews', label:'Tin tổng hợp', icon:'📰', type:'rss', base:'', gnews:true, max:8,
-    url:gn('an toàn thực phẩm thịt heo tiêm phòng vắc xin') },
+    url:gn('dịch bệnh gia súc gia cầm an toàn thực phẩm') },
 ];
 
 async function get(url){
@@ -44,17 +45,35 @@ function decode(s){
     .replace(/\s+/g,' ').trim();
 }
 
-// Lấy ẢNH NỘI DUNG BÀI (image.axd) — bỏ qua mọi ảnh giao diện (logo/banner/gif).
+// Lấy ẢNH BÀI: image.axd (Chi cục) -> og:image -> media/enclosure/<img> (bỏ ảnh quảng cáo/giao diện).
 function firstImg(html, base){
   if (!html) return '';
   const h = html
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
     .replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"')
     .replace(/&#0?39;|&apos;/g,"'").replace(/&amp;/g,'&');
-  const m = h.match(/image\.axd\?picture=[^"'\s>)]+/i);
-  if (!m) return '';
-  const u = m[0].replace(/&amp;/g,'&').replace(/^\//,'');
-  return (base || 'https://chicuccntyhcm.gov.vn') + '/' + u;
+  const JUNK = /quang[_-]?cao|\/qc\/|banner|\blogo\b|sprite|placeholder|avatar|no[_-]?image|default|\/ads?[\/_.]/i;
+  const abs = u => {
+    u = (u || '').trim();
+    if (/^https?:\/\//i.test(u)) return u;
+    if (u.startsWith('//')) return 'https:' + u;
+    return (base || 'https://chicuccntyhcm.gov.vn').replace(/\/$/, '') + '/' + u.replace(/^\//, '');
+  };
+  // 1) Chi cục: ảnh nội dung image.axd
+  let m = h.match(/[^"'\s>)]*image\.axd\?picture=[^"'\s>)]+/i);
+  if (m) return abs(m[0]);
+  // 2) og:image — ảnh đại diện bài chuẩn
+  m = h.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)
+   || h.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
+  if (m && !JUNK.test(m[1])) return abs(m[1]);
+  // 3) media:content / enclosure / <img> — lấy ảnh đầu tiên không phải quảng cáo/giao diện
+  const cands = []; let r;
+  const reMedia = /(?:enclosure|media:content|media:thumbnail)[^>]+url=["']([^"']+\.(?:jpe?g|png|webp)[^"']*)["']/ig;
+  while ((r = reMedia.exec(h))) cands.push(r[1]);
+  const reImg = /<img[^>]+src=["']([^"']+\.(?:jpe?g|png|webp)[^"']*)["']/ig;
+  while ((r = reImg.exec(h))) cands.push(r[1]);
+  for (const u of cands) if (!JUNK.test(u)) return abs(u);
+  return '';
 }
 
 function item(src, title, link, date, image){
@@ -71,15 +90,23 @@ function parseRss(xml, src){
     link = decode(link);
     const date = decode((b.match(/<(pubDate|updated|published)[^>]*>([\s\S]*?)<\/\1>/i) || [])[2] || '');
     const desc = (b.match(/<(description|content:encoded|summary)[^>]*>([\s\S]*?)<\/\1>/i) || [])[2] || '';
-    const image = firstImg(desc, src.base || '');
+    const image = firstImg(desc, src.base || '') || firstImg(b, src.base || '');
     if (!title || !/^https?:/.test(link)) continue;
     if (src.gnews) {
       // Tiêu đề Google có dạng "Nội dung - Tên báo" -> tách tên báo làm nhãn
       const i = title.lastIndexOf(' - ');
-      let t = title, paper = src.label;
+      let t = title, paper = '';
       if (i > 12 && title.length - i < 40) { t = title.slice(0, i).trim(); paper = title.slice(i + 3).trim(); }
-      const it = item(src, t, link, date, '');
-      it.label = paper || src.label;
+      // <source url="https://bao.vn">Tên báo</source> -> LOGO nguồn (favicon) + tên đẹp
+      const sm = b.match(/<source[^>]+url="([^"]+)"[^>]*>([\s\S]*?)<\/source>/i);
+      let dom = '', name = paper;
+      if (sm) {
+        dom = sm[1].replace(/^https?:\/\//i, '').replace(/\/.*$/, '').toLowerCase();
+        const sn = decode(sm[2]);
+        if (sn && !/^[a-z0-9.\-]+\.[a-z]{2,}$/i.test(sn)) name = sn;
+      }
+      const it = item(src, t, link, date, dom ? 'https://www.google.com/s2/favicons?domain=' + dom + '&sz=128' : '');
+      it.label = name || paper || dom || src.label;
       out.push(it);
     } else {
       out.push(item(src, title, link, date, image));
