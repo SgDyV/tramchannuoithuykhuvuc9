@@ -4,18 +4,23 @@ import { writeFileSync } from 'node:fs';
 
 const UA = 'Mozilla/5.0 (compatible; KV9NewsBot/1.0; +https://sgdyv.github.io/tramchannuoithuykhuvuc9/)';
 
+// Truy vấn Google Tin tức (tổng hợp bài từ RẤT NHIỀU báo VN theo chủ đề — không bị chặn).
+const gn = q => 'https://news.google.com/rss/search?q=' + encodeURIComponent(q) + '&hl=vi&gl=VN&ceid=VN:vi';
+
 const SOURCES = [
+  // Nguồn chính: Chi cục CNTY TP.HCM (có RSS + ảnh bài)
   { key:'chicuccntyhcm', label:'Chi cục CNTY HCM', icon:'🏥', type:'rss',
     base:'https://chicuccntyhcm.gov.vn', url:'https://chicuccntyhcm.gov.vn/syndication.axd' },
+  // Bộ NN&MT (quét trang chủ — đôi khi chặn, để thử)
   { key:'mae', label:'Bộ NN&MT', icon:'🌿', type:'html', base:'https://mae.gov.vn',
     url:'https://mae.gov.vn/', re:/<a[^>]+href="(\/[^"#?]+?-\d{4,}\.htm)"[^>]*>\s*([^<]{18,160}?)\s*<\/a>/gi },
-  { key:'channuoi', label:'Chăn nuôi VN', icon:'🌾', type:'rss', base:'https://channuoivietnam.com',
-    url:'https://channuoivietnam.com/feed/' },
-  { key:'nhachannuoi', label:'Tạp chí Chăn nuôi VN', icon:'🐄', type:'rss', base:'https://nhachannuoi.vn',
-    url:'https://nhachannuoi.vn/feed/' },
-  { key:'cucthuy', label:'Cục CN&TY', icon:'🐄', type:'html', base:'https://cucthuy.gov.vn',
-    url:'https://cucthuy.gov.vn/web/guest/tin-tuc-su-kien',
-    re:/<a[^>]+href="(https?:\/\/cucthuy\.gov\.vn\/web\/guest\/-\/[^"#?]{20,})"[^>]*>\s*([^<]{25,160}?)\s*<\/a>/gi },
+  // Google Tin tức — gom tin từ nhiều báo theo chủ đề (mỗi bài giữ tên báo gốc)
+  { key:'gnews', label:'Tin tổng hợp', icon:'📰', type:'rss', base:'', gnews:true, max:14,
+    url:gn('chăn nuôi thú y') },
+  { key:'gnews', label:'Tin tổng hợp', icon:'📰', type:'rss', base:'', gnews:true, max:10,
+    url:gn('dịch bệnh gia súc gia cầm') },
+  { key:'gnews', label:'Tin tổng hợp', icon:'📰', type:'rss', base:'', gnews:true, max:8,
+    url:gn('an toàn thực phẩm thịt heo tiêm phòng vắc xin') },
 ];
 
 async function get(url){
@@ -67,7 +72,18 @@ function parseRss(xml, src){
     const date = decode((b.match(/<(pubDate|updated|published)[^>]*>([\s\S]*?)<\/\1>/i) || [])[2] || '');
     const desc = (b.match(/<(description|content:encoded|summary)[^>]*>([\s\S]*?)<\/\1>/i) || [])[2] || '';
     const image = firstImg(desc, src.base || '');
-    if (title && /^https?:/.test(link)) out.push(item(src, title, link, date, image));
+    if (!title || !/^https?:/.test(link)) continue;
+    if (src.gnews) {
+      // Tiêu đề Google có dạng "Nội dung - Tên báo" -> tách tên báo làm nhãn
+      const i = title.lastIndexOf(' - ');
+      let t = title, paper = src.label;
+      if (i > 12 && title.length - i < 40) { t = title.slice(0, i).trim(); paper = title.slice(i + 3).trim(); }
+      const it = item(src, t, link, date, '');
+      it.label = paper || src.label;
+      out.push(it);
+    } else {
+      out.push(item(src, title, link, date, image));
+    }
   }
   return out;
 }
@@ -90,7 +106,7 @@ for (const src of SOURCES) {
   try {
     const txt = await get(src.url);
     if (!txt) { console.log(src.key, '-> 0 (empty)'); continue; }
-    const items = (src.type === 'rss' ? parseRss(txt, src) : parseHtml(txt, src)).slice(0, 10);
+    const items = (src.type === 'rss' ? parseRss(txt, src) : parseHtml(txt, src)).slice(0, src.max || 10);
     items.forEach(it => all.push(it));
     console.log(src.key, '->', items.length);
   } catch (e) { console.log(src.key, '-> ERR', e.message); }
