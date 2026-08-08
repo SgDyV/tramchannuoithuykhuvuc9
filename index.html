@@ -548,7 +548,8 @@ footer a{color:#86efac}
 <div id="blog-chips" style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px">
   <button class="sw-btn cur" onclick="filterBlog(this,'all')">Tất cả</button>
   <button class="sw-btn" onclick="filterBlog(this,'chicuccntyhcm')">🏥 Chi cục CNTY</button>
-  <button class="sw-btn" onclick="filterBlog(this,'mae')">🌿 Bộ NN&MT</button>
+  <button class="sw-btn" onclick="filterBlog(this,'nnmt')">🌾 Báo NN&amp;MT</button>
+  <button class="sw-btn" onclick="filterBlog(this,'gnews')">📰 Tin tổng hợp</button>
 </div>
 <div class="mag-grid" id="blog-grid"><div style="grid-column:1/-1;text-align:center;color:var(--t3);padding:30px 0">⏳ Đang tải bài viết…</div></div>
 
@@ -1494,6 +1495,8 @@ function renderItems(rawItems){
   }
   var topical=uniq.filter(isTopical);
   var list=topical.length?topical:uniq;
+  // Sắp xếp theo NGÀY mới nhất để trộn nguồn tự nhiên (tin không có ngày xuống cuối)
+  list.sort(function(a,b){ return (Date.parse(b.date)||0)-(Date.parse(a.date)||0); });
   var now=new Date();
   var ts=now.getHours().toString().padStart(2,'0')+':'+now.getMinutes().toString().padStart(2,'0');
   if(tsEl) tsEl.textContent=ts;
@@ -1501,7 +1504,7 @@ function renderItems(rawItems){
   if(list.length){
     // Blog feed: đổ bài dạng thẻ vào lưới (tự cập nhật)
     var bg=document.getElementById('blog-grid');
-    if(bg){ bg.innerHTML=''; list.slice(0,18).forEach(function(it){ bg.appendChild(makeBlogCard(it)); }); }
+    if(bg){ bg.innerHTML=''; list.slice(0,36).forEach(function(it){ bg.appendChild(makeBlogCard(it)); }); }
     var parts=list.slice(0,14).map(function(it){
       var t=(it.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\s+/g,' ').trim().substring(0,72);
       return '<a href="'+it.link+'" target="_blank" rel="noopener">'+(it.icon||'🔔')+' '+t+'</a>';
