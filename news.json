@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T22:15:45.486Z",
+ "updated": "2026-08-08T22:53:27.258Z",
  "count": 51,
  "items": [
   {
@@ -309,21 +309,21 @@
    "icon": "🌾"
   },
   {
-   "title": "Khoa học công nghệ: Lối ra cho ngành chăn nuôi, thú y",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQThrOHRVRHpXNHNhaXRpMDZUUjFXQzA4RlpZelhURk1UUFdKV18zTGFRYXZaQmkyV3VrbFpNTFROS0FYM2FTMzd0SnV2SHVTMVBsTTVWZTNzbmNZSFpNSW9USEVwb1MyOFRfZ0p3djZ2dFlFalJtMWxWcEZzZWtNTm9mWk52SkRRNXg4UnJrVE5KOHlFRS1HRTh4WHlkdUNBUnRxYg?oc=5",
-   "date": "Sat, 08 Aug 2026 10:32:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
-   "source": "gnews",
-   "label": "Báo Nông nghiệp và Môi trường",
-   "icon": "📰"
-  },
-  {
    "title": "'Chìa khóa' cho đột phá ngành chăn nuôi và thú y - Báo và Phát thanh, Truyền hình Lạng Sơn",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYWpjU3R5bkluVnN1VHFjMEh2bDFhTzN3UHV1VV9fRWpDVldmSWpGSkgzYzZsMWNQeEFMZnhjR3F3VmNMajF6RXF5SmtqajVHcWkwRklDd0dFUUJXcDVhOU9lWFBSdWVGQ19tdUh1aGxoVENVR1dKNlJKZmdtYVlvcHo0NFNuYmp3?oc=5",
    "date": "Thu, 06 Aug 2026 01:12:05 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baolangson.vn&sz=128",
    "source": "gnews",
    "label": "Baolangson.vn",
+   "icon": "📰"
+  },
+  {
+   "title": "Khoa học công nghệ: Lối ra cho ngành chăn nuôi, thú y",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQThrOHRVRHpXNHNhaXRpMDZUUjFXQzA4RlpZelhURk1UUFdKV18zTGFRYXZaQmkyV3VrbFpNTFROS0FYM2FTMzd0SnV2SHVTMVBsTTVWZTNzbmNZSFpNSW9USEVwb1MyOFRfZ0p3djZ2dFlFalJtMWxWcEZzZWtNTm9mWk52SkRRNXg4UnJrVE5KOHlFRS1HRTh4WHlkdUNBUnRxYg?oc=5",
+   "date": "Sat, 08 Aug 2026 10:32:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
+   "source": "gnews",
+   "label": "nongnghiepmoitruong.vn",
    "icon": "📰"
   },
   {
@@ -408,21 +408,21 @@
    "icon": "📰"
   },
   {
+   "title": "Tây Ninh nâng cao năng lực kiểm soát dịch bệnh động vật",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcl9pdmJMOTRtcmhRVWtDVUZ6Q09USjlBTF9OYk5FMjRxZHZRRWJTNE9pQ2x3aE90YkRTdDNUcmxJN01JSXJYX0JZWFhNWVFCaXluZ2dTR1RGRGpLampRUkVXYUwxQmxvUkx3aTh4aWxRNUNnd3ZEeXAwRlBCRi11RlJTYlk?oc=5",
+   "date": "Wed, 05 Aug 2026 15:23:30 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
+   "source": "gnews",
+   "label": "vietnam.vn",
+   "icon": "📰"
+  },
+  {
    "title": "Tạo \"lá chắn\" phòng dịch cho đàn gia súc, gia cầm",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeXJUN3JfQ0pSY0dFMDBNZ2I4VElLNGJxdE0wSHZaaU1sNWNtVXdYNk8yclZhenRoOFROazc4M2VmRjVueDJHVDZhcERkZjFGeWhjdW95bHNJZWtVUl93eDhyOWRXNFFEWUtFX2U4VWJ3S2tXYXY2QzZPVHJ5dldOVkRKVERhN1FjTlE?oc=5",
    "date": "Tue, 28 Jul 2026 12:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=hungyen.gov.vn&sz=128",
    "source": "gnews",
    "label": "CỔNG THÔNG TIN ĐIỆN TỬ TỈNH HƯNG YÊN",
-   "icon": "📰"
-  },
-  {
-   "title": "Siết kiểm soát dịch bệnh, an toàn thực phẩm từ chuỗi chăn nuôi",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVkp2SkV4WlJIbWtKaDhvTzhwN3ktaDc1TmpEaTNmem9sQmJ6SmdTUTZiOFV2bk9QUGllTkhDU3c4dm5hQ01PYTRneUlJQ0hGUldkZWVNM0kzMmpJLTF2bk13LVFmMzV1Qjh2cG1Bb0hfVFo3alAyNFV0Mk0yZEhhRU1ZNHJWRHpmaEk2UzVKdFFkOUhZQVpqUy1HVTgzd2FVQ2o2MG52dEtGSGdhQVlMUUxB?oc=5",
-   "date": "Tue, 21 Jul 2026 06:03:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=baotintuc.vn&sz=128",
-   "source": "gnews",
-   "label": "baotintuc.vn",
    "icon": "📰"
   },
   {
@@ -435,12 +435,12 @@
    "icon": "📰"
   },
   {
-   "title": "Tây Ninh nâng cao năng lực kiểm soát dịch bệnh động vật",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcl9pdmJMOTRtcmhRVWtDVUZ6Q09USjlBTF9OYk5FMjRxZHZRRWJTNE9pQ2x3aE90YkRTdDNUcmxJN01JSXJYX0JZWFhNWVFCaXluZ2dTR1RGRGpLampRUkVXYUwxQmxvUkx3aTh4aWxRNUNnd3ZEeXAwRlBCRi11RlJTYlk?oc=5",
-   "date": "Wed, 05 Aug 2026 15:23:30 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
+   "title": "Siết kiểm soát dịch bệnh, an toàn thực phẩm từ chuỗi chăn nuôi",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVkp2SkV4WlJIbWtKaDhvTzhwN3ktaDc1TmpEaTNmem9sQmJ6SmdTUTZiOFV2bk9QUGllTkhDU3c4dm5hQ01PYTRneUlJQ0hGUldkZWVNM0kzMmpJLTF2bk13LVFmMzV1Qjh2cG1Bb0hfVFo3alAyNFV0Mk0yZEhhRU1ZNHJWRHpmaEk2UzVKdFFkOUhZQVpqUy1HVTgzd2FVQ2o2MG52dEtGSGdhQVlMUUxB?oc=5",
+   "date": "Tue, 21 Jul 2026 06:03:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=baotintuc.vn&sz=128",
    "source": "gnews",
-   "label": "Vietnam.vn",
+   "label": "baotintuc.vn",
    "icon": "📰"
   },
   {
@@ -449,16 +449,16 @@
    "date": "Mon, 27 Jul 2026 02:34:28 GMT",
    "image": "https://www.google.com/s2/favicons?domain=buonmathuot.daklak.gov.vn&sz=128",
    "source": "gnews",
-   "label": "phường Buôn Ma Thuột",
+   "label": "buonmathuot.daklak.gov.vn",
    "icon": "📰"
   },
   {
-   "title": "Xã Phú Xuyên: Tăng cường quản lý, kiểm soát giết mổ gia súc, gia cầm",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2l4TnJ3a09XOU9CNk1wdS1HcFU3TWhiaWp1SWtRV1RrWXdQbXhQTERId0N0ei02b0ZLeENpZ0I3MGxLVUdmSENmRzRnNkVNd3BIYldJNzlranFJem5PdjFDTU91RkI4bjFSUmtWSkhNR1BheHRiWV9kVl9JZ0YxQlFHTzJOTk5iSXFNZVNZZ3dfOXM5d3JmbFU4TlVjNjg?oc=5",
-   "date": "Fri, 17 Jul 2026 07:00:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=hanoimoi.vn&sz=128",
+   "title": "Hà Nội tháo điểm nghẽn quản lý giết mổ, siết an toàn thực phẩm",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQamt0cjJJZkdrUnJYYUdTRXFHWmRDaVYxaG01dE1IVEVWQ0J6Y2M0YjlyOEZQY2N4NnJicGNWT0tpYUh2SVp1Sy03TWdlMW9zNnBmNzZwaXZKYlg2eUZRcmF1RWNEcXE3bE5FMGlUbDM1R2p5dzRkQUVMWHdBdk9wV09wby1JRGUxRmx2RjlHNURoc0t6VEticG5sZkhYSk0?oc=5",
+   "date": "Sat, 25 Jul 2026 11:30:01 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=moitruong.net.vn&sz=128",
    "source": "gnews",
-   "label": "hanoimoi.vn",
+   "label": "moitruong.net.vn",
    "icon": "📰"
   }
  ]
