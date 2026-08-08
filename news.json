@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-08T11:18:05.025Z",
- "count": 41,
+ "updated": "2026-08-08T11:50:37.145Z",
+ "count": 49,
  "items": [
   {
    "title": "Toàn cảnh hành trình chặn đứng 35 tấn heo nhiễm chất cấm vào TP.HCM",
@@ -93,6 +93,78 @@
    "icon": "🏥"
   },
   {
+   "title": "Công khai vi phạm, khắc phục vi phạm các lĩnh vực NN&MT",
+   "link": "https://mae.gov.vn/cong-khai-vi-pham-cac-linh-vuc-nnmt-16435.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Thông tin kết luận thanh tra",
+   "link": "https://mae.gov.vn/cong-khai-thong-tin-ket-luan-thanh-tra-17243.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Lịch tiếp công dân",
+   "link": "https://mae.gov.vn/chi-tiet-thong-bao-bao-cao-1140.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Chính phủ đề xuất cắt giảm 40 thủ tục hành chính trong 10 luật của lĩnh vực nông nghiệp và môi trường",
+   "link": "https://mae.gov.vn/chinh-phu-de-xuat-cat-giam-40-thu-tuc-hanh-chinh-trong-10-luat-cua-linh-vuc-nong-nghiep-va-moi-truong-22497.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Nhiệm kỳ Quốc hội khóa XVI phải là nhiệm kỳ của kiến tạo thể chế phát triển",
+   "link": "https://mae.gov.vn/nhiem-ky-quoc-hoi-khoa-xvi-phai-la-nhiem-ky-cua-kien-tao-the-che-phat-trien-22448.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Hoàn thiện cơ chế để huy động nguồn lực xã hội tham gia bảo vệ môi trường",
+   "link": "https://mae.gov.vn/hoan-thien-co-che-de-huy-dong-nguon-luc-xa-hoi-tham-gia-bao-ve-moi-truong-22438.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Việt Nam - New Zealand tăng cường hợp tác chuyển đổi xanh, năng lượng tái tạo",
+   "link": "https://mae.gov.vn/viet-nam--new-zealand-tang-cuong-hop-tac-chuyen-doi-xanh-nang-luong-tai-tao-22436.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Thống nhất đề xuất xây dựng đập dâng trên 3 sông ở Hà Nội",
+   "link": "https://mae.gov.vn/thong-nhat-de-xuat-xay-dung-dap-dang-tren-3-song-o-ha-noi-22426.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
    "title": "Khoa học công nghệ: Lối ra cho ngành chăn nuôi, thú y",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQThrOHRVRHpXNHNhaXRpMDZUUjFXQzA4RlpZelhURk1UUFdKV18zTGFRYXZaQmkyV3VrbFpNTFROS0FYM2FTMzd0SnV2SHVTMVBsTTVWZTNzbmNZSFpNSW9USEVwb1MyOFRfZ0p3djZ2dFlFalJtMWxWcEZzZWtNTm9mWk52SkRRNXg4UnJrVE5KOHlFRS1HRTh4WHlkdUNBUnRxYg?oc=5",
    "date": "Sat, 08 Aug 2026 10:32:00 GMT",
@@ -107,7 +179,7 @@
    "date": "Thu, 06 Aug 2026 01:12:05 GMT",
    "image": "",
    "source": "gnews",
-   "label": "baolangson.vn",
+   "label": "Baolangson.vn",
    "icon": "📰"
   },
   {
@@ -170,7 +242,7 @@
    "date": "Sun, 02 Aug 2026 23:44:00 GMT",
    "image": "",
    "source": "gnews",
-   "label": "Báo Đại Đoàn Kết",
+   "label": "daidoanket.vn",
    "icon": "📰"
   },
   {
@@ -192,21 +264,21 @@
    "icon": "📰"
   },
   {
-   "title": "Hội thao Khối thi đua các viện, phân viện Trung ương năm 2026: Phân viện Chăn nuôi và Thú y miền Trung đoạt giải nhất toàn đoàn",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPN3JEY3ZOUlJuVXV6dmU3aFhmSWJYSHFZWlQxZWJXdkpDYXVmRGI2LTBaRUdZXzBjYngxdlhJakNtcFAwN0RqdzJ3bVFxRWMwZGlaVXREQzlOTkY4bFpkbG9PQmRmNjliVlZZUlJTQ2dueWY2VFJVeEhJS21wUXQ5OEJEUml1QVNZM080bnM3bV9na0RaM2hsNS1SZE10SXdRd0p6RU4td2Y2bk01MFU0V1JmSzFDYnBxSUVZbk80RlBoRVA2b2w2eE84Ym5MWWFZbFo1RkVadDktYWdYYWV1UzBqZWxuWGVKVE9hZUk2Z3lQYmNhMl9Wc2dWa2RXdVdiZkFteTRZclZxaFFyQXpuejVnMVNOZk1yQkNOVmxn?oc=5",
-   "date": "Fri, 07 Aug 2026 11:58:00 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "Báo Khánh Hòa",
-   "icon": "📰"
-  },
-  {
    "title": "Xóa bỏ rào cản trong lĩnh vực chăn nuôi và thú y",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ3FMWmJkY0d5anpINFpaeVNXQ25pSk9ydEozbjRyd3pHWFFCcE5CN0gtUFhyX0VtOWhaTTBoMHY4Q1MxX092TkFLTFdscUV6TEFRakpRQmhmVG5rZUhqeG9qdFQ2ZXkyUHZQVHRCc3pKZHZCRXd4RFdEWUY0QWplSmZRdDN3LWF0UGc?oc=5",
    "date": "Wed, 22 Jul 2026 11:51:00 GMT",
    "image": "",
    "source": "gnews",
    "label": "Báo Thanh Hóa",
+   "icon": "📰"
+  },
+  {
+   "title": "Hội thao Khối thi đua các viện, phân viện Trung ương năm 2026: Phân viện Chăn nuôi và Thú y miền Trung đoạt giải nhất toàn đoàn",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPN3JEY3ZOUlJuVXV6dmU3aFhmSWJYSHFZWlQxZWJXdkpDYXVmRGI2LTBaRUdZXzBjYngxdlhJakNtcFAwN0RqdzJ3bVFxRWMwZGlaVXREQzlOTkY4bFpkbG9PQmRmNjliVlZZUlJTQ2dueWY2VFJVeEhJS21wUXQ5OEJEUml1QVNZM080bnM3bV9na0RaM2hsNS1SZE10SXdRd0p6RU4td2Y2bk01MFU0V1JmSzFDYnBxSUVZbk80RlBoRVA2b2w2eE84Ym5MWWFZbFo1RkVadDktYWdYYWV1UzBqZWxuWGVKVE9hZUk2Z3lQYmNhMl9Wc2dWa2RXdVdiZkFteTRZclZxaFFyQXpuejVnMVNOZk1yQkNOVmxn?oc=5",
+   "date": "Fri, 07 Aug 2026 11:58:00 GMT",
+   "image": "",
+   "source": "gnews",
+   "label": "Báo Khánh Hòa",
    "icon": "📰"
   },
   {
