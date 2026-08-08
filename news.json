@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T21:18:24.321Z",
+ "updated": "2026-08-08T21:52:01.932Z",
  "count": 51,
  "items": [
   {
@@ -314,7 +314,7 @@
    "date": "Sat, 08 Aug 2026 10:32:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
    "source": "gnews",
-   "label": "nongnghiepmoitruong.vn",
+   "label": "Báo Nông nghiệp và Môi trường",
    "icon": "📰"
   },
   {
@@ -368,7 +368,7 @@
    "date": "Sat, 08 Aug 2026 03:09:10 GMT",
    "image": "https://www.google.com/s2/favicons?domain=nhachannuoi.vn&sz=128",
    "source": "gnews",
-   "label": "Tạp chí Chăn nuôi Việt Nam",
+   "label": "nhachannuoi.vn",
    "icon": "📰"
   },
   {
@@ -413,7 +413,7 @@
    "date": "Wed, 05 Aug 2026 15:23:30 GMT",
    "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
    "source": "gnews",
-   "label": "vietnam.vn",
+   "label": "Vietnam.vn",
    "icon": "📰"
   },
   {
