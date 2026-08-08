@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-08T05:08:14.977Z",
- "count": 41,
+ "updated": "2026-08-08T06:02:31.206Z",
+ "count": 49,
  "items": [
   {
    "title": "Toàn cảnh hành trình chặn đứng 35 tấn heo nhiễm chất cấm vào TP.HCM",
@@ -93,12 +93,84 @@
    "icon": "🏥"
   },
   {
+   "title": "Công khai vi phạm, khắc phục vi phạm các lĩnh vực NN&MT",
+   "link": "https://mae.gov.vn/cong-khai-vi-pham-cac-linh-vuc-nnmt-16435.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Thông tin kết luận thanh tra",
+   "link": "https://mae.gov.vn/cong-khai-thong-tin-ket-luan-thanh-tra-17243.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Lịch tiếp công dân",
+   "link": "https://mae.gov.vn/chi-tiet-thong-bao-bao-cao-1140.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Chính phủ đề xuất cắt giảm 40 thủ tục hành chính trong 10 luật của lĩnh vực nông nghiệp và môi trường",
+   "link": "https://mae.gov.vn/chinh-phu-de-xuat-cat-giam-40-thu-tuc-hanh-chinh-trong-10-luat-cua-linh-vuc-nong-nghiep-va-moi-truong-22497.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Nhiệm kỳ Quốc hội khóa XVI phải là nhiệm kỳ của kiến tạo thể chế phát triển",
+   "link": "https://mae.gov.vn/nhiem-ky-quoc-hoi-khoa-xvi-phai-la-nhiem-ky-cua-kien-tao-the-che-phat-trien-22448.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Hoàn thiện cơ chế để huy động nguồn lực xã hội tham gia bảo vệ môi trường",
+   "link": "https://mae.gov.vn/hoan-thien-co-che-de-huy-dong-nguon-luc-xa-hoi-tham-gia-bao-ve-moi-truong-22438.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Việt Nam - New Zealand tăng cường hợp tác chuyển đổi xanh, năng lượng tái tạo",
+   "link": "https://mae.gov.vn/viet-nam--new-zealand-tang-cuong-hop-tac-chuyen-doi-xanh-nang-luong-tai-tao-22436.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Thống nhất đề xuất xây dựng đập dâng trên 3 sông ở Hà Nội",
+   "link": "https://mae.gov.vn/thong-nhat-de-xuat-xay-dung-dap-dang-tren-3-song-o-ha-noi-22426.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
    "title": "'Chìa khóa' cho đột phá ngành chăn nuôi và thú y - Báo và Phát thanh, Truyền hình Lạng Sơn",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYWpjU3R5bkluVnN1VHFjMEh2bDFhTzN3UHV1VV9fRWpDVldmSWpGSkgzYzZsMWNQeEFMZnhjR3F3VmNMajF6RXF5SmtqajVHcWkwRklDd0dFUUJXcDVhOU9lWFBSdWVGQ19tdUh1aGxoVENVR1dKNlJKZmdtYVlvcHo0NFNuYmp3?oc=5",
    "date": "Thu, 06 Aug 2026 01:12:05 GMT",
    "image": "",
    "source": "gnews",
-   "label": "baolangson.vn",
+   "label": "Baolangson.vn",
    "icon": "📰"
   },
   {
@@ -107,7 +179,7 @@
    "date": "Fri, 07 Aug 2026 10:22:20 GMT",
    "image": "",
    "source": "gnews",
-   "label": "kimson.ninhbinh.gov.vn",
+   "label": "xã Kim Sơn",
    "icon": "📰"
   },
   {
@@ -170,7 +242,7 @@
    "date": "Sat, 08 Aug 2026 03:06:46 GMT",
    "image": "",
    "source": "gnews",
-   "label": "Báo Phú Thọ",
+   "label": "baophutho.vn",
    "icon": "📰"
   },
   {
@@ -179,7 +251,7 @@
    "date": "Fri, 07 Aug 2026 11:58:00 GMT",
    "image": "",
    "source": "gnews",
-   "label": "baokhanhhoa.vn",
+   "label": "Báo Khánh Hòa",
    "icon": "📰"
   },
   {
@@ -246,12 +318,12 @@
    "icon": "📰"
   },
   {
-   "title": "Phường Hiệp Hòa tiếp tục triển khai tiêm phòng vắc xin gia súc gia cầm đợt I/2026 - Cổng thông tin điện tử Tỉnh Quảng Ninh",
+   "title": "Phường Hiệp Hòa tiếp tục triển khai tiêm phòng vắc xin gia súc gia cầm đợt I/2026",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS0pFMEJNSW5KajFZaHg2Y0Qxd05LcmxSQVFHNk54N0NKLUVIUVBWU3g1MWR6RnB4MnpSV1JCNjExT0ttcmlZa29uTkY2YTVPWk5ad2tER1l5ckJfdVNIUGRkOVRUckF4bk5ReEVoTHUtR2REZ3lEaEd2Q1poQUVKOEdn?oc=5",
    "date": "Wed, 05 Aug 2026 06:25:00 GMT",
    "image": "",
    "source": "gnews",
-   "label": "Tin tổng hợp",
+   "label": "quangninh.gov.vn",
    "icon": "📰"
   },
   {
@@ -359,7 +431,7 @@
    "date": "Tue, 05 Aug 2025 07:00:00 GMT",
    "image": "",
    "source": "gnews",
-   "label": "Tuổi Trẻ",
+   "label": "tuoitre.vn",
    "icon": "📰"
   },
   {
