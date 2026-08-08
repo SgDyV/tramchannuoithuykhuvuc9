@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T06:02:31.206Z",
+ "updated": "2026-08-08T07:26:35.982Z",
  "count": 49,
  "items": [
   {
@@ -242,7 +242,7 @@
    "date": "Sat, 08 Aug 2026 03:06:46 GMT",
    "image": "",
    "source": "gnews",
-   "label": "baophutho.vn",
+   "label": "Báo Phú Thọ",
    "icon": "📰"
   },
   {
@@ -252,15 +252,6 @@
    "image": "",
    "source": "gnews",
    "label": "Báo Khánh Hòa",
-   "icon": "📰"
-  },
-  {
-   "title": "Sau vụ 280 con heo nhiễm chất cấm ở TP.HCM, Cục Chăn nuôi và Thú y yêu cầu siết kiểm tra toàn quốc",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY0V5OWVfZXdINGVmdGNfV1Uzd2RVU2xCOTN6akNOLUVuMWtBX3lkcDlUemZzN0d0S1AtSmJqQk5kbEVsUEsxNVJ4NUluZHUxci1NN2xZSFpyZEpPaHlEalgzcU1MTlFTUTdQeFI4RElaa0JDeENaR0hXam9FZWNaUW1FbVg4dGh4X2UxSnNQcE13anNuZmVYV2RiSDdORndGZC1feXViZ0xURTBZeXZRVEVOMWtKT1JodjQ4cXJDbGlqTllkYlk4bGpMb1FVSVdPN0Z4SmpGOWJSazJ0?oc=5",
-   "date": "Sun, 02 Aug 2026 03:12:00 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "thuonghieucongluan.com.vn",
    "icon": "📰"
   },
   {
@@ -279,6 +270,15 @@
    "image": "",
    "source": "gnews",
    "label": "Báo Thanh Hóa",
+   "icon": "📰"
+  },
+  {
+   "title": "Sau vụ 280 con heo nhiễm chất cấm ở TP.HCM, Cục Chăn nuôi và Thú y yêu cầu siết kiểm tra toàn quốc",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVFlHSTV1R0RvVmprNG1feWJ0SGl1Z2oyeE1SdW9ELVRpMldnb3oycWZHeXhsSl83SzBiT2dtb2d1TmdYeFhqQnpTWGxFNzVUVFZ6Z1d4elM3UTNIcl9ENTVsWFhrR0tUQk96bUlTVm1ZU1NaMUVxMEpOOVNraWdsdktSY25TUUZZaXBmZlVDelBhMnhGbjAtU2dPMUEzcE1xU0dTVVZQemNDa29EVGZjODNsQ0VqVUx3RGlld2dpemNHM0NRMVpYQ2hlTEJ6T2dYeUhuZ01FbC1KWTFxVVhNZ01hOWkwOHRv?oc=5",
+   "date": "Sun, 02 Aug 2026 03:27:00 GMT",
+   "image": "",
+   "source": "gnews",
+   "label": "hangthat.thuonghieucongluan.com.vn",
    "icon": "📰"
   },
   {
@@ -318,12 +318,12 @@
    "icon": "📰"
   },
   {
-   "title": "Phường Hiệp Hòa tiếp tục triển khai tiêm phòng vắc xin gia súc gia cầm đợt I/2026",
+   "title": "Phường Hiệp Hòa tiếp tục triển khai tiêm phòng vắc xin gia súc gia cầm đợt I/2026 - Cổng thông tin điện tử Tỉnh Quảng Ninh",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS0pFMEJNSW5KajFZaHg2Y0Qxd05LcmxSQVFHNk54N0NKLUVIUVBWU3g1MWR6RnB4MnpSV1JCNjExT0ttcmlZa29uTkY2YTVPWk5ad2tER1l5ckJfdVNIUGRkOVRUckF4bk5ReEVoTHUtR2REZ3lEaEd2Q1poQUVKOEdn?oc=5",
    "date": "Wed, 05 Aug 2026 06:25:00 GMT",
    "image": "",
    "source": "gnews",
-   "label": "quangninh.gov.vn",
+   "label": "Tin tổng hợp",
    "icon": "📰"
   },
   {
@@ -395,7 +395,7 @@
    "date": "Tue, 21 Jul 2026 07:00:00 GMT",
    "image": "",
    "source": "gnews",
-   "label": "VietnamBiz",
+   "label": "vietnambiz.vn",
    "icon": "📰"
   },
   {
@@ -413,7 +413,7 @@
    "date": "Fri, 17 Jul 2026 07:00:00 GMT",
    "image": "",
    "source": "gnews",
-   "label": "VietnamBiz",
+   "label": "vietnambiz.vn",
    "icon": "📰"
   },
   {
@@ -431,7 +431,7 @@
    "date": "Tue, 05 Aug 2025 07:00:00 GMT",
    "image": "",
    "source": "gnews",
-   "label": "tuoitre.vn",
+   "label": "Tuổi Trẻ",
    "icon": "📰"
   },
   {
