@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-08T10:00:09.048Z",
- "count": 41,
+ "updated": "2026-08-08T10:34:07.212Z",
+ "count": 49,
  "items": [
   {
    "title": "Toàn cảnh hành trình chặn đứng 35 tấn heo nhiễm chất cấm vào TP.HCM",
@@ -93,6 +93,78 @@
    "icon": "🏥"
   },
   {
+   "title": "Công khai vi phạm, khắc phục vi phạm các lĩnh vực NN&MT",
+   "link": "https://mae.gov.vn/cong-khai-vi-pham-cac-linh-vuc-nnmt-16435.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Thông tin kết luận thanh tra",
+   "link": "https://mae.gov.vn/cong-khai-thong-tin-ket-luan-thanh-tra-17243.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Lịch tiếp công dân",
+   "link": "https://mae.gov.vn/chi-tiet-thong-bao-bao-cao-1140.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Chính phủ đề xuất cắt giảm 40 thủ tục hành chính trong 10 luật của lĩnh vực nông nghiệp và môi trường",
+   "link": "https://mae.gov.vn/chinh-phu-de-xuat-cat-giam-40-thu-tuc-hanh-chinh-trong-10-luat-cua-linh-vuc-nong-nghiep-va-moi-truong-22497.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Nhiệm kỳ Quốc hội khóa XVI phải là nhiệm kỳ của kiến tạo thể chế phát triển",
+   "link": "https://mae.gov.vn/nhiem-ky-quoc-hoi-khoa-xvi-phai-la-nhiem-ky-cua-kien-tao-the-che-phat-trien-22448.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Hoàn thiện cơ chế để huy động nguồn lực xã hội tham gia bảo vệ môi trường",
+   "link": "https://mae.gov.vn/hoan-thien-co-che-de-huy-dong-nguon-luc-xa-hoi-tham-gia-bao-ve-moi-truong-22438.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Việt Nam - New Zealand tăng cường hợp tác chuyển đổi xanh, năng lượng tái tạo",
+   "link": "https://mae.gov.vn/viet-nam--new-zealand-tang-cuong-hop-tac-chuyen-doi-xanh-nang-luong-tai-tao-22436.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
+   "title": "Thống nhất đề xuất xây dựng đập dâng trên 3 sông ở Hà Nội",
+   "link": "https://mae.gov.vn/thong-nhat-de-xuat-xay-dung-dap-dang-tren-3-song-o-ha-noi-22426.htm",
+   "date": "",
+   "image": "",
+   "source": "mae",
+   "label": "Bộ NN&MT",
+   "icon": "🌿"
+  },
+  {
    "title": "'Chìa khóa' cho đột phá ngành chăn nuôi và thú y - Báo và Phát thanh, Truyền hình Lạng Sơn",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYWpjU3R5bkluVnN1VHFjMEh2bDFhTzN3UHV1VV9fRWpDVldmSWpGSkgzYzZsMWNQeEFMZnhjR3F3VmNMajF6RXF5SmtqajVHcWkwRklDd0dFUUJXcDVhOU9lWFBSdWVGQ19tdUh1aGxoVENVR1dKNlJKZmdtYVlvcHo0NFNuYmp3?oc=5",
    "date": "Thu, 06 Aug 2026 01:12:05 GMT",
@@ -161,7 +233,7 @@
    "date": "Sun, 02 Aug 2026 23:44:00 GMT",
    "image": "",
    "source": "gnews",
-   "label": "Báo Đại Đoàn Kết",
+   "label": "daidoanket.vn",
    "icon": "📰"
   },
   {
@@ -170,16 +242,7 @@
    "date": "Sat, 08 Aug 2026 03:09:00 GMT",
    "image": "",
    "source": "gnews",
-   "label": "Báo Phú Thọ",
-   "icon": "📰"
-  },
-  {
-   "title": "Công bố Danh mục thủ tục hành chính lĩnh vực Chăn nuôi, Thú y và Thuỷ sản",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQm5JNXpCb1MzRERsdDFUNG82LXMwdHBuY1k3OHRHdlFFREt2cGMxNFlBZDc0VmhhOGRzaE9jdmZFQU9LbWpmVHZJRmFUS1NYT2dYZ0l5aU96d240WWF5WVJ4ZU9Nb0taaldJLWFpakNUaElGcVd4NlRQMHg4SXhOaUN3NUc0MmN6Mm1jUWduM1dWZXBQTVZZSG5RYVlXYUtSMUVKVmMwYVFFcFQzdDJQdU9wUmJfZU5KQUk4VUZiWV9WejhVcFE?oc=5",
-   "date": "Tue, 04 Aug 2026 07:09:00 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "hanoi.gov.vn",
+   "label": "baophutho.vn",
    "icon": "📰"
   },
   {
@@ -189,6 +252,15 @@
    "image": "",
    "source": "gnews",
    "label": "Báo Khánh Hòa",
+   "icon": "📰"
+  },
+  {
+   "title": "Công bố Danh mục thủ tục hành chính lĩnh vực Chăn nuôi, Thú y và Thuỷ sản",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQm5JNXpCb1MzRERsdDFUNG82LXMwdHBuY1k3OHRHdlFFREt2cGMxNFlBZDc0VmhhOGRzaE9jdmZFQU9LbWpmVHZJRmFUS1NYT2dYZ0l5aU96d240WWF5WVJ4ZU9Nb0taaldJLWFpakNUaElGcVd4NlRQMHg4SXhOaUN3NUc0MmN6Mm1jUWduM1dWZXBQTVZZSG5RYVlXYUtSMUVKVmMwYVFFcFQzdDJQdU9wUmJfZU5KQUk4VUZiWV9WejhVcFE?oc=5",
+   "date": "Tue, 04 Aug 2026 07:09:00 GMT",
+   "image": "",
+   "source": "gnews",
+   "label": "hanoi.gov.vn",
    "icon": "📰"
   },
   {
@@ -210,21 +282,12 @@
    "icon": "📰"
   },
   {
-   "title": "Sau vụ 280 con heo nhiễm chất cấm ở TP.HCM, Cục Chăn nuôi và Thú y yêu cầu siết kiểm tra toàn quốc",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVFlHSTV1R0RvVmprNG1feWJ0SGl1Z2oyeE1SdW9ELVRpMldnb3oycWZHeXhsSl83SzBiT2dtb2d1TmdYeFhqQnpTWGxFNzVUVFZ6Z1d4elM3UTNIcl9ENTVsWFhrR0tUQk96bUlTVm1ZU1NaMUVxMEpOOVNraWdsdktSY25TUUZZaXBmZlVDelBhMnhGbjAtU2dPMUEzcE1xU0dTVVZQemNDa29EVGZjODNsQ0VqVUx3RGlld2dpemNHM0NRMVpYQ2hlTEJ6T2dYeUhuZ01FbC1KWTFxVVhNZ01hOWkwOHRv?oc=5",
-   "date": "Sun, 02 Aug 2026 03:27:00 GMT",
+   "title": "Lâm Đồng siết kiểm soát chất cấm trong chăn nuôi, chặn nguy cơ mất an toàn thực phẩm",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZmpHVW5JeEtSSldwQ1ZJYkNoVXM4OWJWYWg3eVdQbGlNbTViaWkwdFhQOXFIem9EM0NCTHhmd0pZS251c3RuVEgtUGdFTHFZMjNRWExad2hsZEg3OUlYTEJtS0Z2YUxUY2pOTGpSSDRFVS1VSlMzZ1RfR19pcXdhUUVjdi1vS18wRnVBTjRROVdodWNMcGczZzVTLTZnZkR6RG1sdkdQZDZleVdBNEg3eUczbHlGRmxkMUdEQ01hVUM2TlJtS1hEbmhn?oc=5",
+   "date": "Thu, 06 Aug 2026 08:49:00 GMT",
    "image": "",
    "source": "gnews",
-   "label": "hangthat.thuonghieucongluan.com.vn",
-   "icon": "📰"
-  },
-  {
-   "title": "Hà Tĩnh tăng cường phòng, chống cúm gia cầm, lở mồm long móng và dịch tả lợn Châu Phi giai đoạn 2026–2030",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbWZ0REZYNWVHTmFHdDZnak1PTkVROXRFTUFQXzNOMjRDLUI0VWRUMWEwVXU0TklBUTNna3M1UHp5NHNCYWlXYVVhSW14azdjOGxQQkk0N3hkSlFJVXhhRXUzLTU4UW43T0hHX2psU2pUTU5WamdOX0ZheFpGdTBxdTdrejJrVXh5cW9KNjYxREEtNEV5cmMxSXVxTGlnTWFYcXVnTlZmVkxxTjJuSUJHNjdMalYwX1RqQ2JYNm0zOHI3eG9mWHpsYTBoaDBReXZlOGc?oc=5",
-   "date": "Fri, 07 Aug 2026 15:42:16 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "Cổng thông tin điện tử tỉnh Hà Tĩnh",
+   "label": "thuonghieucongluan.com.vn",
    "icon": "📰"
   },
   {
@@ -234,6 +297,15 @@
    "image": "",
    "source": "gnews",
    "label": "Báo Thanh Hóa",
+   "icon": "📰"
+  },
+  {
+   "title": "Hà Tĩnh tăng cường phòng, chống cúm gia cầm, lở mồm long móng và dịch tả lợn Châu Phi giai đoạn 2026–2030",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbWZ0REZYNWVHTmFHdDZnak1PTkVROXRFTUFQXzNOMjRDLUI0VWRUMWEwVXU0TklBUTNna3M1UHp5NHNCYWlXYVVhSW14azdjOGxQQkk0N3hkSlFJVXhhRXUzLTU4UW43T0hHX2psU2pUTU5WamdOX0ZheFpGdTBxdTdrejJrVXh5cW9KNjYxREEtNEV5cmMxSXVxTGlnTWFYcXVnTlZmVkxxTjJuSUJHNjdMalYwX1RqQ2JYNm0zOHI3eG9mWHpsYTBoaDBReXZlOGc?oc=5",
+   "date": "Fri, 07 Aug 2026 15:42:16 GMT",
+   "image": "",
+   "source": "gnews",
+   "label": "Cổng thông tin điện tử tỉnh Hà Tĩnh",
    "icon": "📰"
   },
   {
