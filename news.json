@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-08T10:34:07.212Z",
- "count": 49,
+ "updated": "2026-08-08T11:18:05.025Z",
+ "count": 41,
  "items": [
   {
    "title": "Toàn cảnh hành trình chặn đứng 35 tấn heo nhiễm chất cấm vào TP.HCM",
@@ -93,76 +93,13 @@
    "icon": "🏥"
   },
   {
-   "title": "Công khai vi phạm, khắc phục vi phạm các lĩnh vực NN&MT",
-   "link": "https://mae.gov.vn/cong-khai-vi-pham-cac-linh-vuc-nnmt-16435.htm",
-   "date": "",
+   "title": "Khoa học công nghệ: Lối ra cho ngành chăn nuôi, thú y",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQThrOHRVRHpXNHNhaXRpMDZUUjFXQzA4RlpZelhURk1UUFdKV18zTGFRYXZaQmkyV3VrbFpNTFROS0FYM2FTMzd0SnV2SHVTMVBsTTVWZTNzbmNZSFpNSW9USEVwb1MyOFRfZ0p3djZ2dFlFalJtMWxWcEZzZWtNTm9mWk52SkRRNXg4UnJrVE5KOHlFRS1HRTh4WHlkdUNBUnRxYg?oc=5",
+   "date": "Sat, 08 Aug 2026 10:32:00 GMT",
    "image": "",
-   "source": "mae",
-   "label": "Bộ NN&MT",
-   "icon": "🌿"
-  },
-  {
-   "title": "Thông tin kết luận thanh tra",
-   "link": "https://mae.gov.vn/cong-khai-thong-tin-ket-luan-thanh-tra-17243.htm",
-   "date": "",
-   "image": "",
-   "source": "mae",
-   "label": "Bộ NN&MT",
-   "icon": "🌿"
-  },
-  {
-   "title": "Lịch tiếp công dân",
-   "link": "https://mae.gov.vn/chi-tiet-thong-bao-bao-cao-1140.htm",
-   "date": "",
-   "image": "",
-   "source": "mae",
-   "label": "Bộ NN&MT",
-   "icon": "🌿"
-  },
-  {
-   "title": "Chính phủ đề xuất cắt giảm 40 thủ tục hành chính trong 10 luật của lĩnh vực nông nghiệp và môi trường",
-   "link": "https://mae.gov.vn/chinh-phu-de-xuat-cat-giam-40-thu-tuc-hanh-chinh-trong-10-luat-cua-linh-vuc-nong-nghiep-va-moi-truong-22497.htm",
-   "date": "",
-   "image": "",
-   "source": "mae",
-   "label": "Bộ NN&MT",
-   "icon": "🌿"
-  },
-  {
-   "title": "Nhiệm kỳ Quốc hội khóa XVI phải là nhiệm kỳ của kiến tạo thể chế phát triển",
-   "link": "https://mae.gov.vn/nhiem-ky-quoc-hoi-khoa-xvi-phai-la-nhiem-ky-cua-kien-tao-the-che-phat-trien-22448.htm",
-   "date": "",
-   "image": "",
-   "source": "mae",
-   "label": "Bộ NN&MT",
-   "icon": "🌿"
-  },
-  {
-   "title": "Hoàn thiện cơ chế để huy động nguồn lực xã hội tham gia bảo vệ môi trường",
-   "link": "https://mae.gov.vn/hoan-thien-co-che-de-huy-dong-nguon-luc-xa-hoi-tham-gia-bao-ve-moi-truong-22438.htm",
-   "date": "",
-   "image": "",
-   "source": "mae",
-   "label": "Bộ NN&MT",
-   "icon": "🌿"
-  },
-  {
-   "title": "Việt Nam - New Zealand tăng cường hợp tác chuyển đổi xanh, năng lượng tái tạo",
-   "link": "https://mae.gov.vn/viet-nam--new-zealand-tang-cuong-hop-tac-chuyen-doi-xanh-nang-luong-tai-tao-22436.htm",
-   "date": "",
-   "image": "",
-   "source": "mae",
-   "label": "Bộ NN&MT",
-   "icon": "🌿"
-  },
-  {
-   "title": "Thống nhất đề xuất xây dựng đập dâng trên 3 sông ở Hà Nội",
-   "link": "https://mae.gov.vn/thong-nhat-de-xuat-xay-dung-dap-dang-tren-3-song-o-ha-noi-22426.htm",
-   "date": "",
-   "image": "",
-   "source": "mae",
-   "label": "Bộ NN&MT",
-   "icon": "🌿"
+   "source": "gnews",
+   "label": "Báo Nông nghiệp và Môi trường",
+   "icon": "📰"
   },
   {
    "title": "'Chìa khóa' cho đột phá ngành chăn nuôi và thú y - Báo và Phát thanh, Truyền hình Lạng Sơn",
@@ -170,7 +107,7 @@
    "date": "Thu, 06 Aug 2026 01:12:05 GMT",
    "image": "",
    "source": "gnews",
-   "label": "Baolangson.vn",
+   "label": "baolangson.vn",
    "icon": "📰"
   },
   {
@@ -233,7 +170,7 @@
    "date": "Sun, 02 Aug 2026 23:44:00 GMT",
    "image": "",
    "source": "gnews",
-   "label": "daidoanket.vn",
+   "label": "Báo Đại Đoàn Kết",
    "icon": "📰"
   },
   {
@@ -242,16 +179,7 @@
    "date": "Sat, 08 Aug 2026 03:09:00 GMT",
    "image": "",
    "source": "gnews",
-   "label": "baophutho.vn",
-   "icon": "📰"
-  },
-  {
-   "title": "Ra mắt mô hình “Cơ quan, đơn vị không ma túy” tại Phân viện Chăn nuôi và Thú y miền Trung",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcWpsbjB2ZjM3RG5DSkU3VlVvbTJVMFpiM21YUDNBZXRGRXAwaVFXWXFtM2ptNktxcUdBb2xKQjZReTl2Y21nbDdWUEZDcXJucjRvS1BxUndvczhCSkU1cHoyRUlJVm5wbmlHLTltZkI2OGJqZUc0VWNfVmhZdUpfRVVkX094Qk16ZGhEVG05bkFDZXVPR3RtYnZkRTJPTjJKcXZHUjYxYU9GMlpYSXZqNmNhTDdFOFRLYlhBell3LWZJN04xWlVVV2VRTC0?oc=5",
-   "date": "Tue, 04 Aug 2026 10:38:00 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "Báo Khánh Hòa",
+   "label": "Báo Phú Thọ",
    "icon": "📰"
   },
   {
@@ -261,6 +189,15 @@
    "image": "",
    "source": "gnews",
    "label": "hanoi.gov.vn",
+   "icon": "📰"
+  },
+  {
+   "title": "Hội thao Khối thi đua các viện, phân viện Trung ương năm 2026: Phân viện Chăn nuôi và Thú y miền Trung đoạt giải nhất toàn đoàn",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPN3JEY3ZOUlJuVXV6dmU3aFhmSWJYSHFZWlQxZWJXdkpDYXVmRGI2LTBaRUdZXzBjYngxdlhJakNtcFAwN0RqdzJ3bVFxRWMwZGlaVXREQzlOTkY4bFpkbG9PQmRmNjliVlZZUlJTQ2dueWY2VFJVeEhJS21wUXQ5OEJEUml1QVNZM080bnM3bV9na0RaM2hsNS1SZE10SXdRd0p6RU4td2Y2bk01MFU0V1JmSzFDYnBxSUVZbk80RlBoRVA2b2w2eE84Ym5MWWFZbFo1RkVadDktYWdYYWV1UzBqZWxuWGVKVE9hZUk2Z3lQYmNhMl9Wc2dWa2RXdVdiZkFteTRZclZxaFFyQXpuejVnMVNOZk1yQkNOVmxn?oc=5",
+   "date": "Fri, 07 Aug 2026 11:58:00 GMT",
+   "image": "",
+   "source": "gnews",
+   "label": "Báo Khánh Hòa",
    "icon": "📰"
   },
   {
@@ -275,19 +212,10 @@
   {
    "title": "6 cán bộ Chi cục Chăn nuôi và Thú y vùng 1 bị khởi tố tội nhận hối lộ",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTFp1dGgtODYyVkxtcXVjQ0l2bXRLMlA3ZkNpYjh5QXRDSmJnVjZhemRSNVBBclJMVG9Zb0xQUUlXY1p3Wm5mdkFBQWUyT0ZzSzBFU3lMeENJNjJ3d0dXb1c3OHV6WUF4OGRzaUNlODRNUUNNNVIxbktGY2dycHdGdGU2ZEhFZUdseWNyNU1lQTd1bkowbGJuY2Z1WHlBeFFKczUtTzFKQ3VpQWNjSGxZ?oc=5",
-   "date": "Fri, 31 Jul 2026 11:12:33 GMT",
+   "date": "Fri, 31 Jul 2026 07:00:00 GMT",
    "image": "",
    "source": "gnews",
    "label": "Laodong.vn",
-   "icon": "📰"
-  },
-  {
-   "title": "Lâm Đồng siết kiểm soát chất cấm trong chăn nuôi, chặn nguy cơ mất an toàn thực phẩm",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZmpHVW5JeEtSSldwQ1ZJYkNoVXM4OWJWYWg3eVdQbGlNbTViaWkwdFhQOXFIem9EM0NCTHhmd0pZS251c3RuVEgtUGdFTHFZMjNRWExad2hsZEg3OUlYTEJtS0Z2YUxUY2pOTGpSSDRFVS1VSlMzZ1RfR19pcXdhUUVjdi1vS18wRnVBTjRROVdodWNMcGczZzVTLTZnZkR6RG1sdkdQZDZleVdBNEg3eUczbHlGRmxkMUdEQ01hVUM2TlJtS1hEbmhn?oc=5",
-   "date": "Thu, 06 Aug 2026 08:49:00 GMT",
-   "image": "",
-   "source": "gnews",
-   "label": "thuonghieucongluan.com.vn",
    "icon": "📰"
   },
   {
