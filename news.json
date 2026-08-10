@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T19:27:20.594Z",
+ "updated": "2026-08-10T20:07:12.902Z",
  "count": 51,
  "items": [
   {
@@ -323,7 +323,7 @@
    "date": "Sun, 09 Aug 2026 04:30:05 GMT",
    "image": "https://www.google.com/s2/favicons?domain=trangtraiviet.danviet.vn&sz=128",
    "source": "gnews",
-   "label": "trangtraiviet.danviet.vn",
+   "label": "Trang Trại Việt",
    "icon": "📰"
   },
   {
@@ -336,21 +336,21 @@
    "icon": "📰"
   },
   {
-   "title": "Thái Nguyên đánh thức tiềm năng chăn nuôi bằng công nghệ cao",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFROdWR5cldjaEgwWW9maGZYWXhOSzNSSmxDSWY0c2hwV3ZhLUNWdTBOd0RfdGpQbXpUd0tYM3lkQjBMM3h5YlFRTUlMUU1ubUgxck5zQ1Q3elIzbDE5OWxYRVZYeFJnS00zd25iUVJRWWUybHJaaU52OXN3a0tfZERkYXdpbllxemladGM0NHNBcUluWUM4NEVpb0tNanVOQW1aY2M3SQ?oc=5",
-   "date": "Mon, 10 Aug 2026 13:20:23 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
-   "source": "gnews",
-   "label": "Báo Nông nghiệp và Môi trường",
-   "icon": "📰"
-  },
-  {
    "title": "Hướng tới quản trị ngành chăn nuôi và thú y dựa trên dữ liệu",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEU2NWpHQjNZU2hoS1NFckcxcXFGNmtmZnBNdUV6X3NjaVVNeWszTHJyM1VyNy1DbUI2d1h3b0swRklOTE03SHEzMVhET3Z6cjZrSl9lZzBzc0Y3UG9pODc0R1lRNUs1aG1FTzZiTUxHb1dtaGZicW1wN1FHUTNsWkt2SEtHN3psQmI2Qm5uOG5HRjFDMUF2Z1U5NHYxVkZnV0wzUUlHVHQ2RlcyZEZXcg?oc=5",
    "date": "Wed, 05 Aug 2026 01:51:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baotintuc.vn&sz=128",
    "source": "gnews",
    "label": "baotintuc.vn",
+   "icon": "📰"
+  },
+  {
+   "title": "Thái Nguyên đánh thức tiềm năng chăn nuôi bằng công nghệ cao",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFROdWR5cldjaEgwWW9maGZYWXhOSzNSSmxDSWY0c2hwV3ZhLUNWdTBOd0RfdGpQbXpUd0tYM3lkQjBMM3h5YlFRTUlMUU1ubUgxck5zQ1Q3elIzbDE5OWxYRVZYeFJnS00zd25iUVJRWWUybHJaaU52OXN3a0tfZERkYXdpbllxemladGM0NHNBcUluWUM4NEVpb0tNanVOQW1aY2M3SQ?oc=5",
+   "date": "Mon, 10 Aug 2026 13:20:23 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
+   "source": "gnews",
+   "label": "Báo Nông nghiệp và Môi trường",
    "icon": "📰"
   },
   {
@@ -440,16 +440,7 @@
    "date": "Mon, 27 Jul 2026 02:34:28 GMT",
    "image": "https://www.google.com/s2/favicons?domain=buonmathuot.daklak.gov.vn&sz=128",
    "source": "gnews",
-   "label": "phường Buôn Ma Thuột",
-   "icon": "📰"
-  },
-  {
-   "title": "Hà Nội tháo điểm nghẽn quản lý giết mổ, siết an toàn thực phẩm",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQamt0cjJJZkdrUnJYYUdTRXFHWmRDaVYxaG01dE1IVEVWQ0J6Y2M0YjlyOEZQY2N4NnJicGNWT0tpYUh2SVp1Sy03TWdlMW9zNnBmNzZwaXZKYlg2eUZRcmF1RWNEcXE3bE5FMGlUbDM1R2p5dzRkQUVMWHdBdk9wV09wby1JRGUxRmx2RjlHNURoc0t6VEticG5sZkhYSk0?oc=5",
-   "date": "Sat, 25 Jul 2026 11:30:01 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=moitruong.net.vn&sz=128",
-   "source": "gnews",
-   "label": "moitruong.net.vn",
+   "label": "buonmathuot.daklak.gov.vn",
    "icon": "📰"
   },
   {
@@ -459,6 +450,15 @@
    "image": "https://www.google.com/s2/favicons?domain=hanoimoi.vn&sz=128",
    "source": "gnews",
    "label": "hanoimoi.vn",
+   "icon": "📰"
+  },
+  {
+   "title": "Chủ động phòng, chống dịch bệnh trong chăn nuôi",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdXZ6TXBKT3ZJYURnV05EVl9QOGxzb3cwSVpxSE5qLXRBbV9RVVYxbFRHYVB1U3VzR0JuQ2x3aFVQcm9mdDkyaDJCbUdCdy1HUFJaelJXRWJadGlFaGd4ZWxJRFlGd0RLZUFHeWlrdDAtVGpydDZjTEE3bzRpV2thckEyNlU?oc=5",
+   "date": "Sun, 19 Jul 2026 02:11:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=baophutho.vn&sz=128",
+   "source": "gnews",
+   "label": "Báo Phú Thọ",
    "icon": "📰"
   }
  ]
