@@ -482,6 +482,13 @@ footer a{color:#86efac}
 /* trạng thái đang tải nhấp nháy nhẹ ở khung cập nhật */
 @keyframes softpulse{0%,100%{opacity:1}50%{opacity:.55}}
 #rss-status:not(:empty){transition:opacity .3s ease}
+/* Danh sách văn bản pháp luật */
+.vb-item{display:flex;align-items:center;gap:12px;padding:11px 14px;border:1px solid var(--b1);border-radius:var(--rs);margin-bottom:8px;background:var(--g1);color:inherit;text-decoration:none;transition:border-color .2s,transform .2s,box-shadow .2s;flex-wrap:wrap}
+.vb-item:hover{border-color:var(--p);transform:translateX(3px);box-shadow:var(--sh)}
+.vb-code{flex:0 0 auto;font-weight:700;font-size:11.5px;color:var(--p);background:rgba(5,150,105,.10);border:1px solid rgba(5,150,105,.25);padding:3px 9px;border-radius:6px;white-space:nowrap}
+.vb-title{flex:1 1 240px;font-size:13px;color:var(--t1);line-height:1.45}
+.vb-date{flex:0 0 auto;font-size:11px;color:var(--t3);white-space:nowrap;display:flex;align-items:center;gap:3px}
+[data-theme="dark"] .vb-code{background:rgba(16,185,129,.15);border-color:rgba(16,185,129,.3)}
 </style>
 </head>
 <body>
@@ -558,6 +565,10 @@ footer a{color:#86efac}
 <div class="sh" style="margin-top:22px"><span class="sh-t">🔬 Khoa học – Công nghệ</span><a class="sh-more" href="#" onclick="goTab('khcn');return false">Tất cả bài »</a></div>
 <div class="mag-grid" id="khcn-home"><div style="grid-column:1/-1;text-align:center;color:var(--t3);padding:24px 0">⏳ Đang tải bài khoa học – công nghệ…</div></div>
 
+<!-- ════ VĂN BẢN PHÁP LUẬT MỚI (trang chủ) ════ -->
+<div class="sh" style="margin-top:22px"><span class="sh-t">📜 Văn bản pháp luật mới</span><a class="sh-more" href="https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc" target="_blank" rel="noopener">Tất cả »</a></div>
+<div id="vanban-home"><div style="text-align:center;color:var(--t3);padding:20px 0">⏳ Đang tải văn bản…</div></div>
+
 <!-- (số liệu & giá đã chuyển vào bài báo cáo / tab Giá sản phẩm) -->
 <!-- (tin tức nay hiển thị ở blog feed phía trên — tự cập nhật từ news.json) -->
 
@@ -578,6 +589,8 @@ footer a{color:#86efac}
     <a class="sh-more" href="https://sotuphap.hochiminhcity.gov.vn/web/stp/van-ban-phap-luat" target="_blank">Sở TP »</a>
   </div>
 </div>
+<div id="vanban-tracuu" style="margin-bottom:14px"><div style="text-align:center;color:var(--t3);padding:16px 0">⏳ Đang tải văn bản…</div></div>
+<div class="sh" style="margin-top:4px"><span class="sh-t" style="font-size:13px">🔗 Nguồn tra cứu khác</span></div>
 <div class="vbpl" style="margin-bottom:14px">
   <!-- VBPL-START -->
   <div class="vbpl-grid">
@@ -1628,6 +1641,32 @@ function fetchKHCN(){
     .catch(function(){});
 }
 
+// ═══ VĂN BẢN PHÁP LUẬT MỚI — render từ vanban.json (nguồn: channuoivietnam.com "Văn bản chung") ═══
+function renderVanban(el,items,max){
+  if(!el) return;
+  if(!items||!items.length){ el.innerHTML='<div style="text-align:center;color:var(--t3);padding:16px 0">Chưa tải được văn bản. <a href="https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc" target="_blank" rel="noopener">Xem trực tiếp →</a></div>'; return; }
+  el.innerHTML=items.slice(0,max).map(function(v){
+    var code=(v.code||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    var title=(v.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    var d=fmtDate(v.date);
+    return '<a class="vb-item" href="'+v.link+'" target="_blank" rel="noopener">'+
+      '<span class="vb-code">📄 '+code+'</span>'+
+      '<span class="vb-title">'+title+'</span>'+
+      (d?'<span class="vb-date">🗓️ '+d+'</span>':'')+
+      '</a>';
+  }).join('');
+}
+function fetchVanban(){
+  fetch('vanban.json?t='+Date.now(),{cache:'no-store'})
+    .then(function(r){ return r.ok?r.json():null; })
+    .then(function(j){
+      var items=j&&j.items?j.items:null;
+      renderVanban(document.getElementById('vanban-home'), items, 8);
+      renderVanban(document.getElementById('vanban-tracuu'), items, 12);
+    })
+    .catch(function(){});
+}
+
 function filterNews(btn,src){
   document.querySelectorAll('.nitem').forEach(function(el){
     el.style.display=(src==='all'||el.getAttribute('data-s')===src)?'':'none';
@@ -1639,6 +1678,7 @@ function filterNews(btn,src){
 fetchAllLive();
 fetchPrices();
 fetchKHCN();
+fetchVanban();
 
 (function(){
   var hash=location.hash.replace('#','');

@@ -249,3 +249,46 @@ try {
     }
   }
 } catch (e) { console.log('KHCN ERR', e.message); }
+
+// ═══════════ VĂN BẢN PHÁP LUẬT MỚI (channuoivietnam.com — chuyên mục "Văn bản chung") ═══════════
+const ENT = { amp:'&',lt:'<',gt:'>',quot:'"',apos:"'",nbsp:' ',
+  agrave:'à',aacute:'á',acirc:'â',atilde:'ã',egrave:'è',eacute:'é',ecirc:'ê',igrave:'ì',iacute:'í',
+  ograve:'ò',oacute:'ó',ocirc:'ô',otilde:'õ',ugrave:'ù',uacute:'ú',yacute:'ý',ntilde:'ñ',ccedil:'ç',
+  Agrave:'À',Aacute:'Á',Acirc:'Â',Atilde:'Ã',Egrave:'È',Eacute:'É',Ecirc:'Ê',Igrave:'Ì',Iacute:'Í',
+  Ograve:'Ò',Oacute:'Ó',Ocirc:'Ô',Otilde:'Õ',Ugrave:'Ù',Uacute:'Ú',Yacute:'Ý',ndash:'–',mdash:'—',hellip:'…' };
+function htmlEnt(s){
+  return String(s || '')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n))
+    .replace(/&([a-z]+);/gi, (m, n) => (ENT[n] != null ? ENT[n] : m))
+    .replace(/\s+/g, ' ').trim();
+}
+
+try {
+  const FILE_ID = '35a7576b-70e1-4fcd-844d-142049f7b9bc';
+  const CAT = 'https://channuoivietnam.com/portal-file/' + FILE_ID;
+  const ac = new AbortController();
+  const to = setTimeout(() => ac.abort(), 40000);
+  const r = await fetch('https://channuoivietnam.com/sys_file.ctr/get_list_file/', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', 'User-Agent': UA, 'Referer': 'https://channuoivietnam.com/' },
+    body: JSON.stringify({ id: FILE_ID, page: 1 }),
+    signal: ac.signal
+  }).finally(() => clearTimeout(to));
+  if (!r.ok) { console.log('VANBAN -> HTTP', r.status); }
+  else {
+    const j = await r.json();
+    let list = (j.list_file || []).filter(x => x.name && x.ngay_xuat_ban);
+    list.sort((a, b) => new Date(b.ngay_xuat_ban) - new Date(a.ngay_xuat_ban));
+    const items = list.slice(0, 12).map(x => ({
+      code: String(x.name).replace(/\s+/g, ' ').trim(),
+      title: htmlEnt(x.content),
+      date: x.ngay_xuat_ban,
+      link: CAT,
+      file: x.file_name || ''
+    }));
+    writeFileSync('vanban.json', JSON.stringify({ updated: new Date().toISOString(), category: j.type_name || 'Văn bản chung', source: CAT, count: items.length, items }, null, 1));
+    console.log('VANBAN', items.length, '| mới nhất', list[0] && list[0].ngay_xuat_ban);
+  }
+} catch (e) { console.log('VANBAN ERR', e.message); }
