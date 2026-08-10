@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-10T20:07:12.902Z",
+ "updated": "2026-08-10T21:08:18.965Z",
  "count": 51,
  "items": [
-  {
-   "title": "Hội nghị “Cập nhật các quy định về an toàn thực phẩm và kiểm dịch động, thực vật (SPS) trong Hiệp định thương mại tự do giữa Việt Nam - Liên minh châu Âu (EVFTA), Việt Nam - Vương quốc Anh và Bắc Ai-len (UKVFTA)”",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/10/Hoi-nghi-Cap-nhat-cac-quy-dinh-ve-an-toan-thuc-pham-va-kiem-dich-dong-thuc-vat-(SPS)-trong-Hiep-dinh-thuong-mai-tu-do-giua-Viet-Nam-Lien-minh-chau-Au-(EVFTA)-Viet-Nam-Vuong-quoc-Anh-va-Bac-Ai-len-(UKVFTA).aspx",
-   "date": "Mon, 10 Aug 2026 15:25:00 +0700",
-   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2fHoiNghiSPSHCM1.jpg",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
   {
    "title": "Hội nghị với các Hiệp hội ngành hàng về thúc đẩy xuất khẩu nông, lâm, thủy sản 6 tháng cuối năm 2026",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/08/10/Hoi-nghi-voi-cac-Hiep-hoi-nganh-hang-ve-thuc-day-xuat-khau-nong-lam-thuy-san-6-thang-cuoi-nam-2026.aspx",
    "date": "Mon, 10 Aug 2026 15:25:00 +0700",
    "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2fHoiNghiHiepHoiXuatKhau.jpg",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
+  },
+  {
+   "title": "Hội nghị “Cập nhật các quy định về an toàn thực phẩm và kiểm dịch động, thực vật (SPS) trong Hiệp định thương mại tự do giữa Việt Nam - Liên minh châu Âu (EVFTA), Việt Nam - Vương quốc Anh và Bắc Ai-len (UKVFTA)”",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/10/Hoi-nghi-Cap-nhat-cac-quy-dinh-ve-an-toan-thuc-pham-va-kiem-dich-dong-thuc-vat-(SPS)-trong-Hiep-dinh-thuong-mai-tu-do-giua-Viet-Nam-Lien-minh-chau-Au-(EVFTA)-Viet-Nam-Vuong-quoc-Anh-va-Bac-Ai-len-(UKVFTA).aspx",
+   "date": "Mon, 10 Aug 2026 15:25:00 +0700",
+   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2fHoiNghiSPSHCM1.jpg",
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
@@ -305,7 +305,7 @@
    "date": "Mon, 10 Aug 2026 07:38:47 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baolangson.vn&sz=128",
    "source": "gnews",
-   "label": "Baolangson.vn",
+   "label": "baolangson.vn",
    "icon": "📰"
   },
   {
@@ -323,7 +323,7 @@
    "date": "Sun, 09 Aug 2026 04:30:05 GMT",
    "image": "https://www.google.com/s2/favicons?domain=trangtraiviet.danviet.vn&sz=128",
    "source": "gnews",
-   "label": "Trang Trại Việt",
+   "label": "trangtraiviet.danviet.vn",
    "icon": "📰"
   },
   {
@@ -345,9 +345,9 @@
    "icon": "📰"
   },
   {
-   "title": "Thái Nguyên đánh thức tiềm năng chăn nuôi bằng công nghệ cao",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFROdWR5cldjaEgwWW9maGZYWXhOSzNSSmxDSWY0c2hwV3ZhLUNWdTBOd0RfdGpQbXpUd0tYM3lkQjBMM3h5YlFRTUlMUU1ubUgxck5zQ1Q3elIzbDE5OWxYRVZYeFJnS00zd25iUVJRWWUybHJaaU52OXN3a0tfZERkYXdpbllxemladGM0NHNBcUluWUM4NEVpb0tNanVOQW1aY2M3SQ?oc=5",
-   "date": "Mon, 10 Aug 2026 13:20:23 GMT",
+   "title": "Khoa học công nghệ: Lối ra cho ngành chăn nuôi, thú y",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQThrOHRVRHpXNHNhaXRpMDZUUjFXQzA4RlpZelhURk1UUFdKV18zTGFRYXZaQmkyV3VrbFpNTFROS0FYM2FTMzd0SnV2SHVTMVBsTTVWZTNzbmNZSFpNSW9USEVwb1MyOFRfZ0p3djZ2dFlFalJtMWxWcEZzZWtNTm9mWk52SkRRNXg4UnJrVE5KOHlFRS1HRTh4WHlkdUNBUnRxYg?oc=5",
+   "date": "Sat, 08 Aug 2026 10:32:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
    "source": "gnews",
    "label": "Báo Nông nghiệp và Môi trường",
@@ -408,21 +408,21 @@
    "icon": "📰"
   },
   {
-   "title": "Tây Ninh nâng cao năng lực kiểm soát dịch bệnh động vật",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcl9pdmJMOTRtcmhRVWtDVUZ6Q09USjlBTF9OYk5FMjRxZHZRRWJTNE9pQ2x3aE90YkRTdDNUcmxJN01JSXJYX0JZWFhNWVFCaXluZ2dTR1RGRGpLampRUkVXYUwxQmxvUkx3aTh4aWxRNUNnd3ZEeXAwRlBCRi11RlJTYlk?oc=5",
-   "date": "Wed, 05 Aug 2026 15:23:30 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
-   "source": "gnews",
-   "label": "Vietnam.vn",
-   "icon": "📰"
-  },
-  {
    "title": "Tạo \"lá chắn\" phòng dịch cho đàn gia súc, gia cầm",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeXJUN3JfQ0pSY0dFMDBNZ2I4VElLNGJxdE0wSHZaaU1sNWNtVXdYNk8yclZhenRoOFROazc4M2VmRjVueDJHVDZhcERkZjFGeWhjdW95bHNJZWtVUl93eDhyOWRXNFFEWUtFX2U4VWJ3S2tXYXY2QzZPVHJ5dldOVkRKVERhN1FjTlE?oc=5",
    "date": "Tue, 28 Jul 2026 12:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=hungyen.gov.vn&sz=128",
    "source": "gnews",
    "label": "UBND Tỉnh Hưng Yên",
+   "icon": "📰"
+  },
+  {
+   "title": "Tây Ninh nâng cao năng lực kiểm soát dịch bệnh động vật",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcl9pdmJMOTRtcmhRVWtDVUZ6Q09USjlBTF9OYk5FMjRxZHZRRWJTNE9pQ2x3aE90YkRTdDNUcmxJN01JSXJYX0JZWFhNWVFCaXluZ2dTR1RGRGpLampRUkVXYUwxQmxvUkx3aTh4aWxRNUNnd3ZEeXAwRlBCRi11RlJTYlk?oc=5",
+   "date": "Wed, 05 Aug 2026 15:23:30 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
+   "source": "gnews",
+   "label": "Vietnam.vn",
    "icon": "📰"
   },
   {
@@ -440,7 +440,7 @@
    "date": "Mon, 27 Jul 2026 02:34:28 GMT",
    "image": "https://www.google.com/s2/favicons?domain=buonmathuot.daklak.gov.vn&sz=128",
    "source": "gnews",
-   "label": "buonmathuot.daklak.gov.vn",
+   "label": "phường Buôn Ma Thuột",
    "icon": "📰"
   },
   {
