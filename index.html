@@ -899,29 +899,27 @@ footer a{color:#86efac}
 <!-- ════ PANEL STATS (GIÁ) ════ -->
 <div class="panel" id="panel-stats">
   <div class="stat-grid" style="margin-bottom:14px">
-    <div class="stat-c"><div class="stat-v">60.000</div><div class="stat-lbl">🐷 Heo hơi (đ/kg)</div><div class="stat-sub" style="color:#ef4444">▼ -5.000 · TP.HCM 60.000 đ/kg</div></div>
-    <div class="stat-c"><div class="stat-v amb">42.000</div><div class="stat-lbl">🐔 Gà lông màu (đ/kg)</div><div class="stat-sub" style="color:#ef4444">▼ giảm sâu tháng 8</div></div>
-    <div class="stat-c"><div class="stat-v">1.500</div><div class="stat-lbl">🥚 Trứng gà (đ/quả)</div><div class="stat-sub" style="color:#ef4444">▼ 1.300–1.800 tại trại</div></div>
-    <div class="stat-c"><div class="stat-v">47.000</div><div class="stat-lbl">🦆 Vịt thịt (đ/kg)</div><div class="stat-sub" style="color:#10b981">▲ vịt đẹp &gt;3,3kg</div></div>
+    <div class="stat-c"><div class="stat-v" id="ps-heo-v">62.000</div><div class="stat-lbl">🐷 Heo hơi (đ/kg)</div><div class="stat-sub" id="ps-heo-s" style="color:var(--t3)">= tại công ty</div></div>
+    <div class="stat-c"><div class="stat-v amb" id="ps-ga-v">31.000</div><div class="stat-lbl">🐔 Gà lông màu (đ/kg)</div><div class="stat-sub" id="ps-ga-s" style="color:var(--t3)">= tại công ty</div></div>
+    <div class="stat-c"><div class="stat-v" id="ps-trung-v">2.000</div><div class="stat-lbl">🥚 Trứng gà (đ/quả)</div><div class="stat-sub" id="ps-trung-s" style="color:var(--t3)">= ổn định</div></div>
+    <div class="stat-c"><div class="stat-v" id="ps-vit-v">44.000</div><div class="stat-lbl">🦆 Vịt thịt (đ/kg)</div><div class="stat-sub" id="ps-vit-s" style="color:var(--t3)">= tại công ty</div></div>
   </div>
   <div class="price-tbl">
-    <div class="price-hdr"><span>🐄 Bảng giá sản phẩm chăn nuôi TP.HCM — Tháng 8/2026</span><em>Nguồn: thanhnien.vn, doanhnghiephoinhap.vn · 08/8/2026</em></div>
+    <div class="price-hdr"><span>🐄 Bảng giá sản phẩm chăn nuôi — Chi cục CNTY TP.HCM</span><em id="price-date">Nguồn: chicuccntyhcm.gov.vn · cập nhật 03/8/2026</em></div>
     <div style="overflow-x:auto">
       <table class="ptab">
-        <thead><tr><th>Loại sản phẩm</th><th>Tại công ty/trại</th><th>Tại hộ dân</th><th>Tại CS giết mổ</th><th>So tháng 6</th></tr></thead>
-        <tbody>
-          <tr><td>🐷 Heo hơi</td><td class="pv">60.000 đ/kg</td><td>59.000 – 60.000 đ/kg</td><td>—</td><td style="color:#ef4444;font-weight:600">▼ -5.000</td></tr>
-          <tr><td>🐷 Heo mảnh (móc hàm)</td><td class="pv">78.000 đ/kg</td><td>—</td><td>76.000 – 80.000 đ/kg</td><td style="color:#ef4444;font-weight:600">▼ -7.000</td></tr>
-          <tr><td>🐷 Heo giống (con)</td><td>—</td><td>1.000.000 – 1.300.000 đ/con</td><td>—</td><td style="color:#ef4444;font-weight:600">▼ giảm</td></tr>
-          <tr><td>🐄 Bò hơi</td><td class="pv">90.000 đ/kg</td><td>85.000 – 95.000 đ/kg</td><td>—</td><td style="color:var(--t3)">= Ổn định</td></tr>
-          <tr><td>🐐 Dê hơi</td><td class="pv">110.000 đ/kg</td><td>105.000 – 115.000 đ/kg</td><td>—</td><td style="color:var(--t3)">= Ổn định</td></tr>
-          <tr><td>🐔 Gà lông màu</td><td class="pv">42.000 đ/kg</td><td>38.000 – 42.000 đ/kg</td><td>58.000 đ/kg</td><td style="color:#ef4444;font-weight:600">▼ giảm sâu</td></tr>
-          <tr><td>🐓 Gà lông trắng (CN)</td><td class="pv">27.000 đ/kg</td><td>26.000 – 28.000 đ/kg</td><td>40.000 đ/kg</td><td style="color:#ef4444;font-weight:600">▼ -3.000</td></tr>
-          <tr><td>🐔 Gà ta (bản địa)</td><td>—</td><td>90.000 – 120.000 đ/kg</td><td>—</td><td style="color:var(--t3)">= Ổn định</td></tr>
-          <tr><td>🦆 Vịt thịt</td><td class="pv">47.000 đ/kg</td><td>45.000 – 48.000 đ/kg</td><td>—</td><td style="color:#10b981;font-weight:600">▲ tăng</td></tr>
-          <tr><td>🥚 Trứng gà công nghiệp</td><td colspan="2" class="pv">1.300 – 1.800 đ/quả</td><td>2.400 – 2.800 đ/quả</td><td style="color:#ef4444;font-weight:600">▼ giảm</td></tr>
-          <tr><td>🥚 Trứng vịt</td><td colspan="2" class="pv">1.800 – 2.300 đ/quả</td><td>—</td><td style="color:var(--t3)">= Ổn định</td></tr>
-          <tr><td>🥚 Trứng cút</td><td colspan="2" class="pv">460 đ/quả</td><td>—</td><td style="color:var(--t3)">= Ổn định</td></tr>
+        <thead><tr><th>Loại sản phẩm</th><th>Tại công ty/trại</th><th>Tại hộ dân</th><th>Cơ sở giết mổ</th><th>Xu hướng</th></tr></thead>
+        <tbody id="price-body">
+          <tr><td>🐷 Heo hơi</td><td class="pv">62.000 đ/kg</td><td>60.000 - 64.000 đ/kg</td><td>—</td><td style="color:var(--t3)">= ổn định</td></tr>
+          <tr><td>🐷 Heo mảnh</td><td class="pv">82.000 đ/kg</td><td>—</td><td>—</td><td style="color:var(--t3)">= ổn định</td></tr>
+          <tr><td>🐔 Gà lông màu</td><td class="pv">31.000 đ/kg</td><td>29.000 đ/kg</td><td>60.000 đ/kg</td><td style="color:var(--t3)">= ổn định</td></tr>
+          <tr><td>🐓 Gà lông trắng</td><td class="pv">34.000 đ/kg</td><td>36.000 đ/kg</td><td>45.000 đ/kg</td><td style="color:var(--t3)">= ổn định</td></tr>
+          <tr><td>🐔 Gà đẻ</td><td class="pv">40.000 đ/kg</td><td>—</td><td>80.000 đ/kg</td><td style="color:var(--t3)">= ổn định</td></tr>
+          <tr><td>🦆 Vịt thịt</td><td class="pv">44.000 đ/kg</td><td>45.000 đ/kg</td><td>—</td><td style="color:var(--t3)">= ổn định</td></tr>
+          <tr><td>🦆 Vịt giống</td><td>—</td><td class="pv">26.000 đ/kg</td><td>—</td><td style="color:var(--t3)">= ổn định</td></tr>
+          <tr><td>🥚 Trứng gà</td><td colspan="3" class="pv">2.000 đ/quả</td><td style="color:var(--t3)">= ổn định</td></tr>
+          <tr><td>🥚 Trứng vịt</td><td colspan="3" class="pv">2.600 đ/quả</td><td style="color:var(--t3)">= ổn định</td></tr>
+          <tr><td>🥚 Trứng cút</td><td colspan="3" class="pv">560 đ/quả</td><td style="color:var(--t3)">= ổn định</td></tr>
         </tbody>
       </table>
     </div>
@@ -976,8 +974,8 @@ footer a{color:#86efac}
     </div>
   </div>
   <div class="note-box">
-    <strong>📌 Ghi chú:</strong> Giá sản phẩm chăn nuôi biến động theo thị trường. Số liệu cập nhật <strong>ngày 08/8/2026</strong>, mang tính tham khảo (khảo sát thị trường miền Nam &amp; TP.HCM). Tháng 8/2026 giá heo hơi và gia cầm giảm; vịt thịt tăng nhẹ.
-    Xem giá cập nhật hằng ngày: <a href="https://thanhnien.vn/tai-chinh-kinh-doanh/gia-ca.htm" target="_blank">thanhnien.vn</a> &nbsp;|&nbsp; <a href="https://chicuccntyhcm.gov.vn" target="_blank">chicuccntyhcm.gov.vn</a> &nbsp;|&nbsp; <a href="https://channuoivietnam.com" target="_blank">channuoivietnam.com</a>
+    <strong>📌 Ghi chú:</strong> Bảng giá được <strong>tự động cập nhật</strong> từ trang chủ Chi cục Chăn nuôi và Thú y TP.HCM (mỗi 30 phút). Cột "Xu hướng" so với lần cập nhật liền trước. Giá sản phẩm chăn nuôi biến động theo thị trường, mang tính tham khảo.
+    Nguồn: <a href="https://chicuccntyhcm.gov.vn/default.aspx" target="_blank">chicuccntyhcm.gov.vn</a> &nbsp;|&nbsp; <a href="https://channuoivietnam.com/homepage-index" target="_blank">channuoivietnam.com</a>
   </div>
 </div><!-- /panel-stats -->
 
@@ -1227,7 +1225,7 @@ footer a{color:#86efac}
     <div class="sb-body">
       <div style="font-size:11.5px;color:var(--t2);margin-bottom:7px">Tự động lấy tin mới mỗi <strong>3 phút</strong> và mỗi khi mở lại app. Nhấn bên dưới để làm mới ngay.</div>
       <div id="rss-status" style="font-size:11px;color:var(--t3);margin-bottom:8px">Đang kiểm tra nguồn tin...</div>
-      <button onclick="fetchAllLive()" style="width:100%;padding:8px;background:linear-gradient(135deg,var(--p),var(--bl));color:#fff;border:none;border-radius:var(--rs);cursor:pointer;font-size:12px;font-weight:700;font-family:inherit">🔄 Làm mới ngay</button>
+      <button onclick="fetchAllLive();fetchPrices()" style="width:100%;padding:8px;background:linear-gradient(135deg,var(--p),var(--bl));color:#fff;border:none;border-radius:var(--rs);cursor:pointer;font-size:12px;font-weight:700;font-family:inherit">🔄 Làm mới ngay</button>
       <div style="margin-top:7px;text-align:center;font-size:11px;color:var(--t3)" id="refresh-countdown">Làm mới sau 03:00</div>
     </div>
   </div>
@@ -1546,6 +1544,52 @@ function fetchAllLive(){
     });
 }
 
+// ═══ GIÁ SẢN PHẨM — render động từ prices.json (nguồn: trang chủ Chi cục CNTY HCM) ═══
+function priceIcon(n){
+  if(/heo/i.test(n))return '🐷'; if(/bò/i.test(n))return '🐄'; if(/dê/i.test(n))return '🐐';
+  if(/vịt/i.test(n))return '🦆'; if(/trứng/i.test(n))return '🥚'; if(/gà/i.test(n))return '🐔'; return '•';
+}
+function trendCell(t){
+  if(t==='up')return '<span style="color:#10b981;font-weight:600">▲ tăng</span>';
+  if(t==='down')return '<span style="color:#ef4444;font-weight:600">▼ giảm</span>';
+  return '<span style="color:var(--t3)">= ổn định</span>';
+}
+function setPriceStat(id,it){
+  if(!it)return;
+  var v=document.getElementById(id+'-v'), s=document.getElementById(id+'-s');
+  if(v){ var num=(it.value.match(/[0-9.]+(?:\s*-\s*[0-9.]+)?/)||[it.value])[0]; v.textContent=num; }
+  if(s){ s.textContent=(it.trend==='up'?'▲ tăng':it.trend==='down'?'▼ giảm':'= ổn định'); s.style.color=(it.trend==='up'?'#10b981':it.trend==='down'?'#ef4444':'var(--t3)'); }
+}
+function renderPrices(p){
+  if(!p||!p.items||!p.items.length)return;
+  var g={company:{},farm:{},slaughter:{},egg:{}};
+  p.items.forEach(function(it){ if(g[it.group])g[it.group][it.name]=it; });
+  var order=['Heo hơi','Heo mảnh','Bò hơi','Dê hơi','Gà lông màu','Gà lông trắng','Gà đẻ','Gà ta','Vịt thịt','Vịt giống'];
+  var rows='';
+  order.forEach(function(n){
+    var c=g.company[n],f=g.farm[n],s=g.slaughter[n];
+    if(!c&&!f&&!s)return;
+    var tr=(c&&c.trend)||(f&&f.trend)||(s&&s.trend)||'same';
+    rows+='<tr><td>'+priceIcon(n)+' '+n+'</td><td class="pv">'+(c?c.value:'—')+'</td><td>'+(f?f.value:'—')+'</td><td>'+(s?s.value:'—')+'</td><td>'+trendCell(tr)+'</td></tr>';
+  });
+  ['Trứng gà','Trứng vịt','Trứng cút'].forEach(function(n){
+    var e=g.egg[n]; if(!e)return;
+    rows+='<tr><td>🥚 '+n+'</td><td colspan="3" class="pv">'+e.value+'</td><td>'+trendCell(e.trend)+'</td></tr>';
+  });
+  var body=document.getElementById('price-body'); if(body&&rows)body.innerHTML=rows;
+  var de=document.getElementById('price-date'); if(de)de.textContent='Nguồn: chicuccntyhcm.gov.vn · cập nhật '+(p.date||'—');
+  setPriceStat('ps-heo', g.company['Heo hơi']||g.farm['Heo hơi']);
+  setPriceStat('ps-ga', g.company['Gà lông màu']||g.farm['Gà lông màu']);
+  setPriceStat('ps-trung', g.egg['Trứng gà']);
+  setPriceStat('ps-vit', g.company['Vịt thịt']||g.farm['Vịt thịt']);
+}
+function fetchPrices(){
+  fetch('prices.json?t='+Date.now(),{cache:'no-store'})
+    .then(function(r){ return r.ok?r.json():null; })
+    .then(function(p){ if(p)renderPrices(p); })
+    .catch(function(){});
+}
+
 function filterNews(btn,src){
   document.querySelectorAll('.nitem').forEach(function(el){
     el.style.display=(src==='all'||el.getAttribute('data-s')===src)?'':'none';
@@ -1555,6 +1599,7 @@ function filterNews(btn,src){
 }
 
 fetchAllLive();
+fetchPrices();
 
 (function(){
   var hash=location.hash.replace('#','');

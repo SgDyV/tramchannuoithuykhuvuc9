@@ -1,6 +1,6 @@
 // Bộ thu thập tin tức — chạy bởi GitHub Actions (máy chủ, không bị rào CORS).
 // Gom tin + ẢNH THẬT của từng bài, ghi ra news.json để trang web đọc trực tiếp.
-import { writeFileSync } from 'node:fs';
+import { writeFileSync, readFileSync } from 'node:fs';
 
 const UA = 'Mozilla/5.0 (compatible; KV9NewsBot/1.0; +https://sgdyv.github.io/tramchannuoithuykhuvuc9/)';
 
@@ -158,3 +158,54 @@ for (const it of all) {
 const out = { updated: new Date().toISOString(), count: uniq.length, items: uniq };
 writeFileSync('news.json', JSON.stringify(out, null, 1));
 console.log('TOTAL', uniq.length, '| có ảnh:', uniq.filter(x => x.image).length);
+
+// ═══════════ GIÁ SẢN PHẨM CHĂN NUÔI (nguồn chính thức: trang chủ Chi cục CNTY HCM) ═══════════
+function parsePrices(html){
+  const dec = s => s.replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim();
+  let txt = dec(html);
+  const cut = txt.search(/THĂM DÒ|function showPoll/i); if (cut > 0) txt = txt.slice(0, cut);
+  const dm = txt.match(/tính đến ngày\s*([0-9]{1,2}\/[0-9]{1,2}\/[0-9]{4})/i);
+  const date = dm ? dm[1] : '';
+  const H = {
+    company:  'Giá sản phẩm chăn nuôi tại công ty',
+    farm:     'Giá sản phẩm chăn nuôi tại hộ dân',
+    egg:      'Giá trứng gia cầm',
+    slaughter:'Giá sản phẩm chăn nuôi tại cơ sở giết mổ'
+  };
+  const esc = s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const anyH = '(?:' + Object.values(H).map(esc).join('|') + ')';
+  const items = []; const seen = new Set();
+  for (const key of Object.keys(H)) {
+    const m = txt.match(new RegExp(esc(H[key]) + '([\\s\\S]*?)(?=' + anyH + '|$)', 'i'));
+    if (!m) continue;
+    const ire = /-\s*([^:]+?):\s*([0-9][0-9.\s]*(?:-\s*[0-9.\s]*)?\s*đ\s*\/?\s*(?:kg|quả|con)?)/gi;
+    let r;
+    while ((r = ire.exec(m[1]))) {
+      const name = r[1].trim();
+      const value = r[2].replace(/\s+/g, ' ').replace(/(\d)\s*đ/, '$1 đ').replace(/đ\s*\/\s*/, 'đ/').trim();
+      const num = parseInt(((r[2].match(/[0-9.]+/) || [''])[0]).replace(/\./g, ''), 10) || null;
+      const dk = key + '|' + name;
+      if (name && /[0-9]/.test(value) && !seen.has(dk)) { seen.add(dk); items.push({ group: key, name, value, num }); }
+    }
+  }
+  return { date, items };
+}
+
+try {
+  const ph = await get('https://chicuccntyhcm.gov.vn/default.aspx');
+  const pr = parsePrices(ph);
+  if (pr && pr.items.length >= 6) {
+    // Đọc giá cũ để tính xu hướng ▲▼=
+    let prevMap = {};
+    try { (JSON.parse(readFileSync('prices.json', 'utf8')).items || []).forEach(x => { prevMap[x.group + '|' + x.name] = x.num; }); } catch {}
+    pr.items.forEach(x => {
+      const old = prevMap[x.group + '|' + x.name];
+      x.trend = (old == null || x.num == null || x.num === old) ? 'same' : (x.num > old ? 'up' : 'down');
+    });
+    const pout = { updated: new Date().toISOString(), date: pr.date, source: 'chicuccntyhcm.gov.vn', count: pr.items.length, items: pr.items };
+    writeFileSync('prices.json', JSON.stringify(pout, null, 1));
+    console.log('PRICES', pr.items.length, '| ngày', pr.date);
+  } else {
+    console.log('PRICES -> 0 (không đọc được, giữ prices.json cũ)');
+  }
+} catch (e) { console.log('PRICES ERR', e.message); }

@@ -1,0 +1,127 @@
+{
+ "updated": "2026-08-10T14:36:46.691Z",
+ "date": "03/8/2026",
+ "source": "chicuccntyhcm.gov.vn",
+ "count": 17,
+ "items": [
+  {
+   "group": "company",
+   "name": "Heo hơi",
+   "value": "62.000 đ/kg",
+   "num": 62000,
+   "trend": "same"
+  },
+  {
+   "group": "company",
+   "name": "Heo mảnh",
+   "value": "82.000 đ/kg",
+   "num": 82000,
+   "trend": "same"
+  },
+  {
+   "group": "company",
+   "name": "Gà lông màu",
+   "value": "31.000 đ/kg",
+   "num": 31000,
+   "trend": "same"
+  },
+  {
+   "group": "company",
+   "name": "Gà lông trắng",
+   "value": "34.000 đ/kg",
+   "num": 34000,
+   "trend": "same"
+  },
+  {
+   "group": "company",
+   "name": "Gà đẻ",
+   "value": "40.000 đ/kg",
+   "num": 40000,
+   "trend": "same"
+  },
+  {
+   "group": "company",
+   "name": "Vịt thịt",
+   "value": "44.000 đ/kg",
+   "num": 44000,
+   "trend": "same"
+  },
+  {
+   "group": "farm",
+   "name": "Heo hơi",
+   "value": "60.000 - 64.000 đ/kg",
+   "num": 60000,
+   "trend": "same"
+  },
+  {
+   "group": "farm",
+   "name": "Gà lông màu",
+   "value": "29.000 đ/kg",
+   "num": 29000,
+   "trend": "same"
+  },
+  {
+   "group": "farm",
+   "name": "Gà lông trắng",
+   "value": "36.000 đ/kg",
+   "num": 36000,
+   "trend": "same"
+  },
+  {
+   "group": "farm",
+   "name": "Vịt thịt",
+   "value": "45.000 đ/kg",
+   "num": 45000,
+   "trend": "same"
+  },
+  {
+   "group": "farm",
+   "name": "Vịt giống",
+   "value": "26.000 đ/kg",
+   "num": 26000,
+   "trend": "same"
+  },
+  {
+   "group": "egg",
+   "name": "Trứng gà",
+   "value": "2.000 đ/quả",
+   "num": 2000,
+   "trend": "same"
+  },
+  {
+   "group": "egg",
+   "name": "Trứng vịt",
+   "value": "2.600 đ/kg",
+   "num": 2600,
+   "trend": "same"
+  },
+  {
+   "group": "egg",
+   "name": "Trứng cút",
+   "value": "560 đ/kg",
+   "num": 560,
+   "trend": "same"
+  },
+  {
+   "group": "slaughter",
+   "name": "Gà lông màu",
+   "value": "60.000 đ/kg",
+   "num": 60000,
+   "trend": "same"
+  },
+  {
+   "group": "slaughter",
+   "name": "Gà lông trắng",
+   "value": "45.000 đ/kg",
+   "num": 45000,
+   "trend": "same"
+  },
+  {
+   "group": "slaughter",
+   "name": "Gà đẻ",
+   "value": "80.000 đ/kg",
+   "num": 80000,
+   "trend": "same"
+  }
+ ]
+}
