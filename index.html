@@ -554,6 +554,10 @@ footer a{color:#86efac}
 </div>
 <div class="mag-grid" id="blog-grid"><div style="grid-column:1/-1;text-align:center;color:var(--t3);padding:30px 0">⏳ Đang tải bài viết…</div></div>
 
+<!-- ════ KHOA HỌC – CÔNG NGHỆ (trang chủ) ════ -->
+<div class="sh" style="margin-top:22px"><span class="sh-t">🔬 Khoa học – Công nghệ</span><a class="sh-more" href="#" onclick="goTab('khcn');return false">Tất cả bài »</a></div>
+<div class="mag-grid" id="khcn-home"><div style="grid-column:1/-1;text-align:center;color:var(--t3);padding:24px 0">⏳ Đang tải bài khoa học – công nghệ…</div></div>
+
 <!-- (số liệu & giá đã chuyển vào bài báo cáo / tab Giá sản phẩm) -->
 <!-- (tin tức nay hiển thị ở blog feed phía trên — tự cập nhật từ news.json) -->
 
@@ -1607,15 +1611,19 @@ function fetchKHCN(){
   fetch('khcn.json?t='+Date.now(),{cache:'no-store'})
     .then(function(r){ return r.ok?r.json():null; })
     .then(function(j){
-      var grid=document.getElementById('khcn-grid'); if(!grid) return;
-      if(j&&j.items&&j.items.length){
-        grid.innerHTML='';
-        j.items.forEach(function(it){
-          grid.appendChild(makeBlogCard({title:it.title,link:it.link,date:it.date,image:it.image,icon:it.icon,label:it.label,src:'khcn'}));
+      var grid=document.getElementById('khcn-grid');
+      var home=document.getElementById('khcn-home');
+      var ok=j&&j.items&&j.items.length;
+      function fill(el,max){
+        if(!el) return;
+        if(!ok){ el.innerHTML='<div style="grid-column:1/-1;text-align:center;color:var(--t3);padding:24px 0">Chưa tải được. <a href="https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6" target="_blank" rel="noopener">Xem trực tiếp →</a></div>'; return; }
+        el.innerHTML='';
+        j.items.slice(0,max).forEach(function(it){
+          el.appendChild(makeBlogCard({title:it.title,link:it.link,date:it.date,image:it.image,icon:it.icon,label:it.label,src:'khcn'}));
         });
-      } else {
-        grid.innerHTML='<div style="grid-column:1/-1;text-align:center;color:var(--t3);padding:24px 0">Chưa tải được. <a href="https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6" target="_blank" rel="noopener">Xem trực tiếp →</a></div>';
       }
+      fill(grid,99);   // tab đầy đủ
+      fill(home,6);    // trang chủ: 6 bài mới nhất
     })
     .catch(function(){});
 }
