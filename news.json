@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T17:15:21.458Z",
+ "updated": "2026-08-10T18:10:00.414Z",
  "count": 51,
  "items": [
   {
@@ -305,7 +305,7 @@
    "date": "Mon, 10 Aug 2026 07:38:47 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baolangson.vn&sz=128",
    "source": "gnews",
-   "label": "baolangson.vn",
+   "label": "Baolangson.vn",
    "icon": "📰"
   },
   {
@@ -323,16 +323,7 @@
    "date": "Sun, 09 Aug 2026 04:30:05 GMT",
    "image": "https://www.google.com/s2/favicons?domain=trangtraiviet.danviet.vn&sz=128",
    "source": "gnews",
-   "label": "Trang Trại Việt",
-   "icon": "📰"
-  },
-  {
-   "title": "VSAVA tổ chức chương trình triệt sản miễn phí cho mèo tại TP. Hồ Chí Minh",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTS1JZ1p0MXBJVlByU2hTaTYzcEVBdThjTVdKOFQ4OVFxcC1BVy1BX2RSY1pTYXBJbzF0LVlRR1lpY0dtQ1BGb05UUEk0S1Z6RVJFNjd5bW1VcTFFV2RqVnlFY3F5SGJfNHV3alA1VVdSb0RoU2w3cE1VS0RiMlR3XzBoNFJCaENxQmJkN2d5dlQ0Q1BSOHRqM3d3UXc?oc=5",
-   "date": "Mon, 10 Aug 2026 10:20:24 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=nhachannuoi.vn&sz=128",
-   "source": "gnews",
-   "label": "Tạp chí Chăn nuôi Việt Nam",
+   "label": "trangtraiviet.danviet.vn",
    "icon": "📰"
   },
   {
@@ -342,6 +333,15 @@
    "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
    "source": "gnews",
    "label": "Báo Nông nghiệp và Môi trường",
+   "icon": "📰"
+  },
+  {
+   "title": "VSAVA tổ chức chương trình triệt sản miễn phí cho mèo tại TP. Hồ Chí Minh",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTS1JZ1p0MXBJVlByU2hTaTYzcEVBdThjTVdKOFQ4OVFxcC1BVy1BX2RSY1pTYXBJbzF0LVlRR1lpY0dtQ1BGb05UUEk0S1Z6RVJFNjd5bW1VcTFFV2RqVnlFY3F5SGJfNHV3alA1VVdSb0RoU2w3cE1VS0RiMlR3XzBoNFJCaENxQmJkN2d5dlQ0Q1BSOHRqM3d3UXc?oc=5",
+   "date": "Mon, 10 Aug 2026 10:20:24 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=nhachannuoi.vn&sz=128",
+   "source": "gnews",
+   "label": "Tạp chí Chăn nuôi Việt Nam",
    "icon": "📰"
   },
   {
@@ -431,7 +431,7 @@
    "date": "Sat, 25 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baohatinh.vn&sz=128",
    "source": "gnews",
-   "label": "baohatinh.vn",
+   "label": "Báo Hà Tĩnh",
    "icon": "📰"
   },
   {
