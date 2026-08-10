@@ -286,6 +286,7 @@ try {
       title: htmlEnt(x.content),
       date: x.ngay_xuat_ban,
       link: CAT,
+      pdf: (x.id && x.file_name) ? ('https://channuoivietnam.com/sys_file.ctr/downloadFile?id=' + x.id + '&file_name=' + encodeURIComponent(x.file_name)) : '',
       file: x.file_name || ''
     }));
     writeFileSync('vanban.json', JSON.stringify({ updated: new Date().toISOString(), category: j.type_name || 'Văn bản chung', source: CAT, count: items.length, items }, null, 1));
