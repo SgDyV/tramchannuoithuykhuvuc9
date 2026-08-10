@@ -1,7 +1,7 @@
 /* Service worker — Trạm KV9 PWA
    Chiến lược: network-first cho điều hướng/tài nguyên (luôn lấy bản mới khi có mạng),
    tự động lưu cache để xem được khi offline. */
-const CACHE = 'kv9-cache-v17';
+const CACHE = 'kv9-cache-v18';
 const CORE = [
   './',
   './index.html',

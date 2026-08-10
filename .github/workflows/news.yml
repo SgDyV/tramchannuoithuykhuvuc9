@@ -29,9 +29,9 @@ jobs:
         run: |
           git config user.name "kv9-news-bot"
           git config user.email "actions@users.noreply.github.com"
-          if [ -n "$(git status --porcelain news.json prices.json)" ]; then
-            git add news.json prices.json
-            git commit -m "Tự động cập nhật tin tức & giá sản phẩm"
+          if [ -n "$(git status --porcelain news.json prices.json khcn.json)" ]; then
+            git add news.json prices.json khcn.json
+            git commit -m "Tự động cập nhật tin tức, giá & khoa học công nghệ"
             git push
             echo "Đã cập nhật news.json / prices.json"
           else

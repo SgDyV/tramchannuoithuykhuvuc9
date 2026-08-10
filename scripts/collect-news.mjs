@@ -210,3 +210,42 @@ try {
     console.log('PRICES -> 0 (không đọc được, giữ prices.json cũ)');
   }
 } catch (e) { console.log('PRICES ERR', e.message); }
+
+// ═══════════ KHOA HỌC – CÔNG NGHỆ (channuoivietnam.com — chuyên mục KH&CN) ═══════════
+// API trả toàn bộ danh mục (~47MB) nên chỉ cập nhật tối đa ~1 lần/ngày.
+try {
+  let need = true;
+  try {
+    const old = JSON.parse(readFileSync('khcn.json', 'utf8'));
+    if (old.updated && (Date.now() - new Date(old.updated).getTime()) < 20 * 3600 * 1000) need = false;
+  } catch {}
+  if (!need) {
+    console.log('KHCN -> còn mới (<20h), bỏ qua');
+  } else {
+    const KHCN_ID = 'fca53d3b-2302-4166-abfb-c50364a14fa6';
+    const CAT = 'https://channuoivietnam.com/portal-type-news/' + KHCN_ID;
+    const ac = new AbortController();
+    const to = setTimeout(() => ac.abort(), 90000);
+    const r = await fetch('https://channuoivietnam.com/sys_news.ctr/get_list_news/', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'User-Agent': UA, 'Referer': 'https://channuoivietnam.com/' },
+      body: JSON.stringify({ id: KHCN_ID, page: 1 }),
+      signal: ac.signal
+    }).finally(() => clearTimeout(to));
+    if (!r.ok) { console.log('KHCN -> HTTP', r.status); }
+    else {
+      const j = await r.json();
+      let list = (j.list_news || []).filter(x => x.tieu_de && x.ngay_dang);
+      list.sort((a, b) => new Date(b.ngay_dang) - new Date(a.ngay_dang));
+      const items = list.slice(0, 15).map(x => ({
+        title: String(x.tieu_de).replace(/\s+/g, ' ').trim(),
+        link: CAT,
+        date: x.ngay_dang,
+        image: x.hinh_anh ? ('https://channuoivietnam.com' + (String(x.hinh_anh).startsWith('/') ? x.hinh_anh : '/' + x.hinh_anh)) : '',
+        source: 'khcn', label: 'KH–CN · Chăn nuôi VN', icon: '🔬'
+      }));
+      writeFileSync('khcn.json', JSON.stringify({ updated: new Date().toISOString(), category: j.type_news_name || 'Khoa học công nghệ', source: CAT, count: items.length, items }, null, 1));
+      console.log('KHCN', items.length, '| mới nhất', list[0] && list[0].ngay_dang);
+    }
+  }
+} catch (e) { console.log('KHCN ERR', e.message); }

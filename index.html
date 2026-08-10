@@ -507,6 +507,7 @@ footer a{color:#86efac}
   <button class="nav-a" id="nav-news" onclick="goTab('news')">📰 Tin tức</button>
   <button class="nav-a" id="nav-schedule" onclick="goTab('schedule')">📅 Lịch công tác</button>
   <button class="nav-a" id="nav-stats" onclick="goTab('stats')">💰 Giá sản phẩm</button>
+  <button class="nav-a" id="nav-khcn" onclick="goTab('khcn')">🔬 KH–CN</button>
   <button class="nav-a" id="nav-tracuu" onclick="goTab('tracuu')">📚 Tra cứu</button>
   <button class="nav-a" id="nav-about" onclick="goTab('about')">ℹ️ Giới thiệu</button>
   <button class="nav-a" id="nav-links" onclick="goTab('links')">🔗 Liên kết</button>
@@ -979,6 +980,16 @@ footer a{color:#86efac}
   </div>
 </div><!-- /panel-stats -->
 
+<!-- ════ PANEL KHOA HỌC – CÔNG NGHỆ ════ -->
+<div class="panel" id="panel-khcn">
+  <div class="mag-sec-title" style="display:flex;align-items:center;gap:8px;margin-bottom:4px">🔬 Khoa học – Công nghệ chăn nuôi &amp; thú y</div>
+  <p style="font-size:13px;color:var(--t2);margin:0 0 14px;line-height:1.6">Kết quả nghiên cứu, tiến bộ kỹ thuật, công nghệ mới trong chăn nuôi – thú y. Nguồn: <a href="https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6" target="_blank" rel="noopener">Chăn nuôi Việt Nam – chuyên mục KH&amp;CN</a> · tự động cập nhật.</p>
+  <div class="mag-grid" id="khcn-grid"><div style="grid-column:1/-1;text-align:center;color:var(--t3);padding:30px 0">⏳ Đang tải bài khoa học – công nghệ…</div></div>
+  <div style="text-align:center;margin-top:16px">
+    <a href="https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6" target="_blank" rel="noopener" class="sw-btn" style="display:inline-block;text-decoration:none;padding:9px 18px">Xem tất cả bài KH–CN →</a>
+  </div>
+</div><!-- /panel-khcn -->
+
 <!-- ════ PANEL ABOUT ════ -->
 <div class="panel" id="panel-about">
   <div class="about-card">
@@ -1437,7 +1448,8 @@ function blogStyle(src){
     mae:{i:'🌿',g:'linear-gradient(135deg,#7a5a12,#d97706)',l:'Bộ NN&MT'},
     channuoi:{i:'🌾',g:'linear-gradient(135deg,#3a5a0a,#65a30d)',l:'Chăn nuôi VN'},
     nhachannuoi:{i:'🐄',g:'linear-gradient(135deg,#134e4a,#0d9488)',l:'Tạp chí CNVN'},
-    gnews:{i:'📰',g:'linear-gradient(135deg,#1e3a5f,#2563eb)',l:'Tin tổng hợp'}
+    gnews:{i:'📰',g:'linear-gradient(135deg,#1e3a5f,#2563eb)',l:'Tin tổng hợp'},
+    khcn:{i:'🔬',g:'linear-gradient(135deg,#3b0764,#7c3aed)',l:'KH–CN · Chăn nuôi VN'}
   };
   return M[src]||{i:'🔔',g:'linear-gradient(135deg,#1e293b,#475569)',l:'Tin tức'};
 }
@@ -1590,6 +1602,24 @@ function fetchPrices(){
     .catch(function(){});
 }
 
+// ═══ KHOA HỌC – CÔNG NGHỆ — render bài từ khcn.json (nguồn: channuoivietnam.com) ═══
+function fetchKHCN(){
+  fetch('khcn.json?t='+Date.now(),{cache:'no-store'})
+    .then(function(r){ return r.ok?r.json():null; })
+    .then(function(j){
+      var grid=document.getElementById('khcn-grid'); if(!grid) return;
+      if(j&&j.items&&j.items.length){
+        grid.innerHTML='';
+        j.items.forEach(function(it){
+          grid.appendChild(makeBlogCard({title:it.title,link:it.link,date:it.date,image:it.image,icon:it.icon,label:it.label,src:'khcn'}));
+        });
+      } else {
+        grid.innerHTML='<div style="grid-column:1/-1;text-align:center;color:var(--t3);padding:24px 0">Chưa tải được. <a href="https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6" target="_blank" rel="noopener">Xem trực tiếp →</a></div>';
+      }
+    })
+    .catch(function(){});
+}
+
 function filterNews(btn,src){
   document.querySelectorAll('.nitem').forEach(function(el){
     el.style.display=(src==='all'||el.getAttribute('data-s')===src)?'':'none';
@@ -1600,10 +1630,11 @@ function filterNews(btn,src){
 
 fetchAllLive();
 fetchPrices();
+fetchKHCN();
 
 (function(){
   var hash=location.hash.replace('#','');
-  var valid=['home','news','schedule','stats','about','links','tracuu'];
+  var valid=['home','news','schedule','stats','khcn','about','links','tracuu'];
   if(hash&&valid.indexOf(hash)>=0) goTab(hash);
 })();
 
