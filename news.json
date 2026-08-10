@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-10T06:48:07.087Z",
- "count": 52,
+ "updated": "2026-08-10T08:19:36.380Z",
+ "count": 51,
  "items": [
   {
    "title": "Toàn cảnh hành trình chặn đứng 35 tấn heo nhiễm chất cấm vào TP.HCM",
@@ -165,6 +165,15 @@
    "icon": "🌾"
   },
   {
+   "title": "​Geleximco đề xuất dự án nuôi lợn công nghệ cao 1.463 tỷ đồng tại Bình Khê",
+   "link": "https://nongnghiepmoitruong.vn/geleximco-de-xuat-du-an-nuoi-lon-cong-nghe-cao-1463-ty-dong-tai-binh-khe-d825301.html",
+   "date": "Mon, 10 Aug 2026 14:51:44 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/cuongvv/2026/08/09/2032-img_20260809_231546-nongnghiep-232025.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Phú Thọ chăn nuôi công nghệ cao gắn bảo vệ môi trường",
    "link": "https://nongnghiepmoitruong.vn/phu-tho-chan-nuoi-cong-nghe-cao-gan-bao-ve-moi-truong-d824807.html",
    "date": "Thu, 06 Aug 2026 11:42:19 +0700",
@@ -228,82 +237,64 @@
    "icon": "🌾"
   },
   {
-   "title": "'Thịt lợn trà xanh - Tinh hoa Thái Nguyên'",
-   "link": "https://nongnghiepmoitruong.vn/thit-lon-tra-xanh--tinh-hoa-thai-nguyen-d823929.html",
-   "date": "Fri, 31 Jul 2026 06:15:29 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/07/30/sequence-0100_10_45_07still023-nongnghiep-155108.jpeg",
+   "title": "Nguồn nước về đồng bằng sông Cửu Long tiếp tục thấp",
+   "link": "https://nongnghiepmoitruong.vn/nguon-nuoc-ve-dong-bang-song-cuu-long-tiep-tuc-thap-d825321.html",
+   "date": "Mon, 10 Aug 2026 14:54:02 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thuynt91/2026/08/10/1037-ba-tri-7-nongnghiep-110934.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Cơ hội đẩy mạnh xuất khẩu cá tra khi thiếu hụt cá thịt trắng",
-   "link": "https://nongnghiepmoitruong.vn/co-hoi-day-manh-xuat-khau-ca-tra-khi-thieu-hut-ca-thit-trang-d825220.html",
-   "date": "Mon, 10 Aug 2026 13:17:56 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/sontt/2026/08/10/0848-ca-tra-tim-co-hoi-o-khoang-trong-ca-thit-trang-100807_33-100808.jpg",
+   "title": "OCOP, đặc sản Đà Nẵng lên Grab tìm khách mới",
+   "link": "https://nongnghiepmoitruong.vn/ocop-dac-san-da-nang-len-grab-tim-khach-moi-d825353.html",
+   "date": "Mon, 10 Aug 2026 14:44:05 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/10/dsc_4743-112526_985-144407.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Tôm hùm Việt Nam trước yêu cầu chuẩn hóa từ thị trường nhập khẩu",
-   "link": "https://nongnghiepmoitruong.vn/tom-hum-viet-nam-truoc-yeu-cau-chuan-hoa-tu-thi-truong-nhap-khau-d825191.html",
-   "date": "Mon, 10 Aug 2026 13:16:24 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/sohk/2026/08/08/5358-tom-hum-xanh-135247_168.jpg",
+   "title": "Rác nhựa từ Anh tràn vào vùng nông nghiệp Thổ Nhĩ Kỳ",
+   "link": "https://nongnghiepmoitruong.vn/rac-nhua-tu-anh-tran-vao-vung-nong-nghiep-tho-nhi-ky-d825319.html",
+   "date": "Mon, 10 Aug 2026 14:42:49 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/10/screenshot-2026-08-10-142818-143134_938-144249.jpeg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Chênh lệch giá vàng chỉ còn 6 triệu đồng/lượng, chuyên gia dự báo giá tháng 8",
-   "link": "https://nongnghiepmoitruong.vn/chenh-lech-gia-vang-chi-con-6-trieu-dong-luong-chuyen-gia-du-bao-gia-thang-8-d825356.html",
-   "date": "Mon, 10 Aug 2026 13:15:11 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/10/dsc_0045-nongnghiep-115848.jpg",
+   "title": "Đề xuất lập sàn giao dịch công nghiệp văn hóa",
+   "link": "https://nongnghiepmoitruong.vn/de-xuat-lap-san-giao-dich-cong-nghiep-van-hoa-d825355.html",
+   "date": "Mon, 10 Aug 2026 14:40:44 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/10/758854544_122241183800313134_6441045359742001699_n-115001_37-144044.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Tích cực chăm sóc lúa giai đoạn làm đồng",
-   "link": "https://nongnghiepmoitruong.vn/radio/tich-cuc-cham-soc-lua-giai-doan-lam-dong-d825362.html",
-   "date": "Mon, 10 Aug 2026 13:14:39 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/haodx/2026/08/10/5549-1785748152908_1339323479980538846_g5029947176468051845_df3bad249c08bc7e2005eab25bf6eea7-nongnghiep-125533.jpg",
+   "title": "Tiến Yên Farmstay: Khi đồi chè Tân Cương trở thành điểm đến trải nghiệm",
+   "link": "https://nongnghiepmoitruong.vn/tien-yen-farmstay-khi-doi-che-tan-cuong-tro-thanh-diem-den-trai-nghiem-d824987.html",
+   "date": "Mon, 10 Aug 2026 14:14:05 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/linhlq/2026/08/06/1740-16c059c2-ea57-4299-bc0a-65ac45c6f8fc-nongnghiep-181728.jpeg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Sinh viên khó khăn có thể được vay tới 8 triệu đồng/tháng",
-   "link": "https://nongnghiepmoitruong.vn/sinh-vien-kho-khan-co-the-duoc-vay-toi-8-trieu-dong-thang-d825351.html",
-   "date": "Mon, 10 Aug 2026 12:13:17 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/10/1786336819119_3228596841803213202_3228596841803213202_f6ec529d790629cd2809054e68e1d582-nongnghiep-114713.jpg",
+   "title": "Hà Nội thành lập Sở Văn hóa, Thể Thao và Du lịch",
+   "link": "https://nongnghiepmoitruong.vn/ha-noi-thanh-lap-so-van-hoa-the-thao-va-du-lich-d825352.html",
+   "date": "Mon, 10 Aug 2026 14:00:51 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/hainv72/2026/08/10/0144-screenshot-2026-08-10-112559-112616_10.jpeg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Hoang phí công trình nước sạch tiền tỷ",
-   "link": "https://nongnghiepmoitruong.vn/hoang-phi-cong-trinh-nuoc-sach-tien-ty-d825323.html",
-   "date": "Mon, 10 Aug 2026 11:37:40 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/10/1-095656_523-113741.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Thời tiết nông vụ ngày 10/08/2026: Bắc Bộ, Bắc Trung Bộ nắng nóng",
-   "link": "https://nongnghiepmoitruong.vn/radio/thoi-tiet-nong-vu-ngay-10-08-2026-bac-bo-bac-trung-bo-nang-nong-d825347.html",
-   "date": "Mon, 10 Aug 2026 11:36:41 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/haodx/2026/08/10/5641-mtxd-nang-nong-110623-jpg-nongnghiep-105629.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Đại tá Trịnh Khắc Cường giữ chức Giám đốc Công an tỉnh Lào Cai",
-   "link": "https://nongnghiepmoitruong.vn/dai-ta-trinh-khac-cuong-giu-chuc-giam-doc-cong-an-tinh-lao-cai-d825345.html",
-   "date": "Mon, 10 Aug 2026 11:36:03 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/10/1786332119280_1987875377505196092_2205164884741017904_15e2dd7420f60b72bbf4b5b94421485d-nongnghiep-110840.jpg",
+   "title": "OPES thăng hạng trong Top 10 Công ty bảo hiểm phi nhân thọ uy tín 2026",
+   "link": "https://nongnghiepmoitruong.vn/opes-thang-hang-trong-top-10-cong-ty-bao-hiem-phi-nhan-tho-uy-tin-2026-d825338.html",
+   "date": "Mon, 10 Aug 2026 13:59:49 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/dung91/2026/08/10/2841-b2_anh1-102637_810.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -345,21 +336,21 @@
    "icon": "📰"
   },
   {
-   "title": "Khởi tố, bắt tạm giam Chi cục trưởng cùng 5 cán bộ cấp dưới...",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV1VKZ2JuYUJ3X1ZjcXdOREgxN0NWaVBJSU5ENDVEaTI0UU9BYmVFLU5Vak9PR2VidWsxcDBTUGwwRUk3TDlicG5NRDFxQW1UMTZUSm1iRUFSaFhCaHZBLVY0NDBrU1lEcDJlaXN0Rmg3cHdDc29fam5ld29keW5EVEhERU1oNC1vUnRySm05YUVLdm5fSEd1a3pCLU5WYkNCTnhtQXFzbVowZ3Y4QjRWSXFqRkdFbnJGQWZFdENCSTVIMGZ2ZG1qc3BoTTF3c3M?oc=5",
-   "date": "Tue, 04 Aug 2026 07:00:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=xaydungchinhsach.chinhphu.vn&sz=128",
-   "source": "gnews",
-   "label": "xaydungchinhsach.chinhphu.vn",
-   "icon": "📰"
-  },
-  {
    "title": "Khoa học công nghệ: Lối ra cho ngành chăn nuôi, thú y",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQThrOHRVRHpXNHNhaXRpMDZUUjFXQzA4RlpZelhURk1UUFdKV18zTGFRYXZaQmkyV3VrbFpNTFROS0FYM2FTMzd0SnV2SHVTMVBsTTVWZTNzbmNZSFpNSW9USEVwb1MyOFRfZ0p3djZ2dFlFalJtMWxWcEZzZWtNTm9mWk52SkRRNXg4UnJrVE5KOHlFRS1HRTh4WHlkdUNBUnRxYg?oc=5",
    "date": "Sat, 08 Aug 2026 10:32:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
    "source": "gnews",
    "label": "Báo Nông nghiệp và Môi trường",
+   "icon": "📰"
+  },
+  {
+   "title": "Khởi tố, bắt tạm giam Chi cục trưởng cùng 5 cán bộ cấp dưới...",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV1VKZ2JuYUJ3X1ZjcXdOREgxN0NWaVBJSU5ENDVEaTI0UU9BYmVFLU5Vak9PR2VidWsxcDBTUGwwRUk3TDlicG5NRDFxQW1UMTZUSm1iRUFSaFhCaHZBLVY0NDBrU1lEcDJlaXN0Rmg3cHdDc29fam5ld29keW5EVEhERU1oNC1vUnRySm05YUVLdm5fSEd1a3pCLU5WYkNCTnhtQXFzbVowZ3Y4QjRWSXFqRkdFbnJGQWZFdENCSTVIMGZ2ZG1qc3BoTTF3c3M?oc=5",
+   "date": "Tue, 04 Aug 2026 07:00:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=xaydungchinhsach.chinhphu.vn&sz=128",
+   "source": "gnews",
+   "label": "xaydungchinhsach.chinhphu.vn",
    "icon": "📰"
   },
   {
@@ -431,7 +422,7 @@
    "date": "Sat, 25 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baohatinh.vn&sz=128",
    "source": "gnews",
-   "label": "Báo Hà Tĩnh",
+   "label": "baohatinh.vn",
    "icon": "📰"
   },
   {
