@@ -182,7 +182,8 @@ function parsePrices(html){
     let r;
     while ((r = ire.exec(m[1]))) {
       const name = r[1].trim();
-      const value = r[2].replace(/\s+/g, ' ').replace(/(\d)\s*đ/, '$1 đ').replace(/đ\s*\/\s*/, 'đ/').trim();
+      let value = r[2].replace(/\s+/g, ' ').replace(/(\d)\s*đ/, '$1 đ').replace(/đ\s*\/\s*/, 'đ/').trim();
+      if (key === 'egg') value = value.replace(/đ\/kg/, 'đ/quả');   // nguồn ghi nhầm đơn vị trứng
       const num = parseInt(((r[2].match(/[0-9.]+/) || [''])[0]).replace(/\./g, ''), 10) || null;
       const dk = key + '|' + name;
       if (name && /[0-9]/.test(value) && !seen.has(dk)) { seen.add(dk); items.push({ group: key, name, value, num }); }

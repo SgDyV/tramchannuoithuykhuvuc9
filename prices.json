@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T14:36:46.691Z",
+ "updated": "2026-08-10T14:42:23.898Z",
  "date": "03/8/2026",
  "source": "chicuccntyhcm.gov.vn",
  "count": 17,
@@ -91,14 +91,14 @@
   {
    "group": "egg",
    "name": "Trứng vịt",
-   "value": "2.600 đ/kg",
+   "value": "2.600 đ/quả",
    "num": 2600,
    "trend": "same"
   },
   {
    "group": "egg",
    "name": "Trứng cút",
-   "value": "560 đ/kg",
+   "value": "560 đ/quả",
    "num": 560,
    "trend": "same"
   },
