@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T16:43:55.449Z",
+ "updated": "2026-08-11T17:46:32.088Z",
  "count": 52,
  "items": [
   {
@@ -368,16 +368,7 @@
    "date": "Mon, 10 Aug 2026 09:42:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=anhp.vn&sz=128",
    "source": "gnews",
-   "label": "anhp.vn",
-   "icon": "📰"
-  },
-  {
-   "title": "Hội thảo đầu bờ về phát triển chăn nuôi gia cầm",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16TFE0dGpTUzdmWTVyQkVyQ2hnLXNUekUzTUdUclBHVjk4N3ZCdC1YWUxRYmZvNjRmX1NGbU1aWV9LSWRHenpNQWNXU0xMblVPa1BSX1hoQjN5Mm9KbWVXeThfVENJYjRDb0lpMFNkbllIUjE1OW42b2R3?oc=5",
-   "date": "Tue, 11 Aug 2026 12:14:11 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
-   "source": "gnews",
-   "label": "Vietnam.vn",
+   "label": "An ninh Hải Phòng",
    "icon": "📰"
   },
   {
@@ -387,6 +378,15 @@
    "image": "https://www.google.com/s2/favicons?domain=thiennhienmoitruong.vn&sz=128",
    "source": "gnews",
    "label": "thiennhienmoitruong.vn",
+   "icon": "📰"
+  },
+  {
+   "title": "Hội thảo đầu bờ về phát triển chăn nuôi gia cầm",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16TFE0dGpTUzdmWTVyQkVyQ2hnLXNUekUzTUdUclBHVjk4N3ZCdC1YWUxRYmZvNjRmX1NGbU1aWV9LSWRHenpNQWNXU0xMblVPa1BSX1hoQjN5Mm9KbWVXeThfVENJYjRDb0lpMFNkbllIUjE1OW42b2R3?oc=5",
+   "date": "Tue, 11 Aug 2026 12:14:11 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
+   "source": "gnews",
+   "label": "Vietnam.vn",
    "icon": "📰"
   },
   {
@@ -417,21 +417,21 @@
    "icon": "📰"
   },
   {
-   "title": "Lào Cai quy hoạch lại hệ thống giết mổ, tiến tới xóa bỏ các điểm giết mổ tự phát",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX1l0WVJkTF9uV2Y1Z3MzMm0wdS1aUnZPR29ZemdNZ0JCcml5UTZ2aC1QaXJYNjA1NC1mV21SeDgzUkk2emxrcnVEaG05RGo4YUZEQ0s0Wk1vUDAzU21zeDBwUzA0NWRlNEZ5aEFqUVVjWWowVUJ5T25sT0ZpVHNkbDlYTGt1b2ZEX2I0R0VuMjRGUzBYTXhUdU92RVNpaEdKMVdWeEswY0lTODhib2dPRU1KTEpUUVRtSHRGRXV2UEQtYW95?oc=5",
-   "date": "Wed, 05 Aug 2026 03:11:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=thuonghieucongluan.com.vn&sz=128",
-   "source": "gnews",
-   "label": "thuonghieucongluan.com.vn",
-   "icon": "📰"
-  },
-  {
    "title": "Triển khai đồng bộ các giải pháp phòng, chống dịch bệnh gia súc, gia cầm",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZVhsTHpIeHI0VG9PZmhBWGN4VGYtVmxTaWljNlNYcXdPU1BxNFVKQ0tSUTVaRTByOFQ3REduc3pRdmh5WTV6UDBscHhkVTVkWnFMS2FEOVNDR3pVY0RlalJHTTVSeTBTSUFPYXE2NE9mTDlLQ19WbU5ScW52ajNRWHhKRDNBOGpzaXhGbXhDaFpzc1JXZmY0V1hYc1QxTC1KenM0M29vd0dLSG8?oc=5",
    "date": "Sat, 25 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baohatinh.vn&sz=128",
    "source": "gnews",
    "label": "Báo Hà Tĩnh",
+   "icon": "📰"
+  },
+  {
+   "title": "Lào Cai quy hoạch lại hệ thống giết mổ, tiến tới xóa bỏ các điểm giết mổ tự phát",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX1l0WVJkTF9uV2Y1Z3MzMm0wdS1aUnZPR29ZemdNZ0JCcml5UTZ2aC1QaXJYNjA1NC1mV21SeDgzUkk2emxrcnVEaG05RGo4YUZEQ0s0Wk1vUDAzU21zeDBwUzA0NWRlNEZ5aEFqUVVjWWowVUJ5T25sT0ZpVHNkbDlYTGt1b2ZEX2I0R0VuMjRGUzBYTXhUdU92RVNpaEdKMVdWeEswY0lTODhib2dPRU1KTEpUUVRtSHRGRXV2UEQtYW95?oc=5",
+   "date": "Wed, 05 Aug 2026 03:11:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=thuonghieucongluan.com.vn&sz=128",
+   "source": "gnews",
+   "label": "thuonghieucongluan.com.vn",
    "icon": "📰"
   },
   {
