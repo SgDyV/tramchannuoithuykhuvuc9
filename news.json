@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T20:31:48.632Z",
+ "updated": "2026-08-11T21:33:14.574Z",
  "count": 52,
  "items": [
   {
@@ -341,7 +341,7 @@
    "date": "Tue, 11 Aug 2026 05:42:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baodongthap.vn&sz=128",
    "source": "gnews",
-   "label": "Báo Đồng Tháp",
+   "label": "baodongthap.vn",
    "icon": "📰"
   },
   {
@@ -351,6 +351,15 @@
    "image": "https://www.google.com/s2/favicons?domain=kimson.ninhbinh.gov.vn&sz=128",
    "source": "gnews",
    "label": "xã Kim Sơn",
+   "icon": "📰"
+  },
+  {
+   "title": "Nâng giá trị chăn nuôi để góp sức cho mục tiêu xuất khẩu nông sản 100 tỷ USD",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbVI3OEtzRW1Da0xWWURaYUFLSk9JWmQ3SV9UY016OU1tbzZSSFFDMWJNeGhKRzhsRm5TY2U0UWVna3REdDNwdDdFdEVoWURIWWVtLXlOSVpVOTBqR09VVnNTWlpZU0hxWksybzdGejJNd29EYWlSS2FCTVNYNDVJVXVYNEU2NjB1SjZ4NTZpT0VIT0hOM2V6VU5fX3ZOeUpNQ014WGJ1SFAxZ0pCTVBBSC04WjdqV3RkT0lwUFU3bw?oc=5",
+   "date": "Tue, 11 Aug 2026 08:36:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=baochinhphu.vn&sz=128",
+   "source": "gnews",
+   "label": "baochinhphu.vn",
    "icon": "📰"
   },
   {
@@ -364,9 +373,9 @@
   },
   {
    "title": "Chi cục Thủy sản, Chăn nuôi và Thú y Hải Phòng: Giải quyết 100% hồ sơ thủ tục hành chính trực tuyến, đúng, trước hạn",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNE5USzBBbWV1ZjVESVdkeHFGTUUxTzZGXy1OUTZHX0dyQWxIdG0zWERPLVhVeUhFRThwNmNzZENKOTg4UXJjZmVvd09VU2pDXzMzRVBCTk1aOHhaZnRvRk83YnNOMzYzaHBtWHZIYmZaa0I4d2ZCbGxobm9lcEp4d21ueXhOcG9xbVVZblp0TnpUaWNZb0xDd2JMdllfb0g5RWRUT25KMDU5SUdod3FJbE4wdVBkLW1yZGxXTjE3c0dJSEUzU3NvdGhwTzVHU3lPQnhtX3dCVzAzbmM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM2ZMeGpWTXJhSzlEZGFIMGVXdGNtNDIzQWZid3JLSXhRRVNZNnd3cU1tdDVDcVVBZTI5Y3dkbXYyRnVPS1lLaU9KeVo1anY2QkhYaUI3TzBpanhnajJOaVBxcjFtOWlzaTNjT09DY1dVWWwxTGh5VmNHcC1ycDgtbjdEQmNMYWR3SkFHeUhzWXE0Ml9naDNaeW5TYy1PdEJydGtrbnpfYUh2dGM5a1ZZcUlmT3NyeE9MOWNxRTB1di1oYmU1QnNPamd6X09fd0FrWVNPRGtR?oc=5",
    "date": "Mon, 10 Aug 2026 09:42:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=www.anhp.vn&sz=128",
+   "image": "https://www.google.com/s2/favicons?domain=anhp.vn&sz=128",
    "source": "gnews",
    "label": "An ninh Hải Phòng",
    "icon": "📰"
@@ -387,15 +396,6 @@
    "image": "https://www.google.com/s2/favicons?domain=baotintuc.vn&sz=128",
    "source": "gnews",
    "label": "baotintuc.vn",
-   "icon": "📰"
-  },
-  {
-   "title": "Hội thảo đầu bờ về phát triển chăn nuôi gia cầm",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16TFE0dGpTUzdmWTVyQkVyQ2hnLXNUekUzTUdUclBHVjk4N3ZCdC1YWUxRYmZvNjRmX1NGbU1aWV9LSWRHenpNQWNXU0xMblVPa1BSX1hoQjN5Mm9KbWVXeThfVENJYjRDb0lpMFNkbllIUjE1OW42b2R3?oc=5",
-   "date": "Tue, 11 Aug 2026 12:14:11 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
-   "source": "gnews",
-   "label": "Vietnam.vn",
    "icon": "📰"
   },
   {
@@ -449,7 +449,7 @@
    "date": "Wed, 05 Aug 2026 15:23:30 GMT",
    "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
    "source": "gnews",
-   "label": "Vietnam.vn",
+   "label": "vietnam.vn",
    "icon": "📰"
   },
   {
@@ -467,7 +467,7 @@
    "date": "Sun, 19 Jul 2026 02:11:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baophutho.vn&sz=128",
    "source": "gnews",
-   "label": "baophutho.vn",
+   "label": "Báo Phú Thọ",
    "icon": "📰"
   }
  ]
