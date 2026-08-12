@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T23:12:16.913Z",
+ "updated": "2026-08-12T00:05:12.849Z",
  "count": 52,
  "items": [
   {
@@ -341,16 +341,7 @@
    "date": "Fri, 07 Aug 2026 10:22:20 GMT",
    "image": "https://www.google.com/s2/favicons?domain=kimson.ninhbinh.gov.vn&sz=128",
    "source": "gnews",
-   "label": "xã Kim Sơn",
-   "icon": "📰"
-  },
-  {
-   "title": "Phát triển chăn nuôi gia cầm bền vững và hiệu quả",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRHdPTGJWQXlGcktSU082VW40ZG16MFZYWXA2eTQzZTlQNW03UzdDZUNLX3VyUF9qSFFkTjNDV0toVm5sRW91WGdxdFdaVHVzQkdiX09VUkNkSkRNR2p1OUhobWJfWDFQWk9GVWRXYWRUMWxuanlsLUhDaUllRnBaV3Q2ZGRUWGtQdHFELVBR?oc=5",
-   "date": "Tue, 11 Aug 2026 05:42:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=baodongthap.vn&sz=128",
-   "source": "gnews",
-   "label": "Báo Đồng Tháp",
+   "label": "kimson.ninhbinh.gov.vn",
    "icon": "📰"
   },
   {
@@ -363,12 +354,12 @@
    "icon": "📰"
   },
   {
-   "title": "Chi cục Thủy sản, Chăn nuôi và Thú y Hải Phòng: Giải quyết 100% hồ sơ thủ tục hành chính trực tuyến, đúng, trước hạn",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNE5USzBBbWV1ZjVESVdkeHFGTUUxTzZGXy1OUTZHX0dyQWxIdG0zWERPLVhVeUhFRThwNmNzZENKOTg4UXJjZmVvd09VU2pDXzMzRVBCTk1aOHhaZnRvRk83YnNOMzYzaHBtWHZIYmZaa0I4d2ZCbGxobm9lcEp4d21ueXhOcG9xbVVZblp0TnpUaWNZb0xDd2JMdllfb0g5RWRUT25KMDU5SUdod3FJbE4wdVBkLW1yZGxXTjE3c0dJSEUzU3NvdGhwTzVHU3lPQnhtX3dCVzAzbmM?oc=5",
-   "date": "Mon, 10 Aug 2026 09:42:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=www.anhp.vn&sz=128",
+   "title": "Phát triển chăn nuôi gia cầm bền vững và hiệu quả",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRHdPTGJWQXlGcktSU082VW40ZG16MFZYWXA2eTQzZTlQNW03UzdDZUNLX3VyUF9qSFFkTjNDV0toVm5sRW91WGdxdFdaVHVzQkdiX09VUkNkSkRNR2p1OUhobWJfWDFQWk9GVWRXYWRUMWxuanlsLUhDaUllRnBaV3Q2ZGRUWGtQdHFELVBR?oc=5",
+   "date": "Tue, 11 Aug 2026 05:42:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=baodongthap.vn&sz=128",
    "source": "gnews",
-   "label": "An ninh Hải Phòng",
+   "label": "Báo Đồng Tháp",
    "icon": "📰"
   },
   {
@@ -378,6 +369,15 @@
    "image": "https://www.google.com/s2/favicons?domain=baochinhphu.vn&sz=128",
    "source": "gnews",
    "label": "baochinhphu.vn",
+   "icon": "📰"
+  },
+  {
+   "title": "Chi cục Thủy sản, Chăn nuôi và Thú y Hải Phòng: Giải quyết 100% hồ sơ thủ tục hành chính trực tuyến, đúng, trước hạn",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM2ZMeGpWTXJhSzlEZGFIMGVXdGNtNDIzQWZid3JLSXhRRVNZNnd3cU1tdDVDcVVBZTI5Y3dkbXYyRnVPS1lLaU9KeVo1anY2QkhYaUI3TzBpanhnajJOaVBxcjFtOWlzaTNjT09DY1dVWWwxTGh5VmNHcC1ycDgtbjdEQmNMYWR3SkFHeUhzWXE0Ml9naDNaeW5TYy1PdEJydGtrbnpfYUh2dGM5a1ZZcUlmT3NyeE9MOWNxRTB1di1oYmU1QnNPamd6X09fd0FrWVNPRGtR?oc=5",
+   "date": "Mon, 10 Aug 2026 09:42:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=anhp.vn&sz=128",
+   "source": "gnews",
+   "label": "An ninh Hải Phòng",
    "icon": "📰"
   },
   {
@@ -399,15 +399,6 @@
    "icon": "📰"
   },
   {
-   "title": "Hà Nội siết chặt kiểm dịch, hướng đi nào cho giết mổ nhỏ lẻ?",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNndzdTJSbUM1QTRoU2xpMHBRb3R4VnBxSDBnd3ZJU3F2eEloU1ZiSUtoNXNzYTdtaURGY0VNOVRqYkstQTNHMm9rOTNuaGRZdlpaeXhlZmIwNXIzNVdiY29TcDlFQ3pmbFAwcnE2X0hzbVptaHE5ZjBpdmNiNnVjaWNmMUhIak1GdmNseTNib3dvZW9tMktQZ2JVdC1QS0hFWUFTMXhoMm83R2puRHc?oc=5",
-   "date": "Mon, 10 Aug 2026 09:01:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
-   "source": "gnews",
-   "label": "Báo Nông nghiệp và Môi trường",
-   "icon": "📰"
-  },
-  {
    "title": "Tạo \"lá chắn\" phòng dịch cho đàn gia súc, gia cầm",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeXJUN3JfQ0pSY0dFMDBNZ2I4VElLNGJxdE0wSHZaaU1sNWNtVXdYNk8yclZhenRoOFROazc4M2VmRjVueDJHVDZhcERkZjFGeWhjdW95bHNJZWtVUl93eDhyOWRXNFFEWUtFX2U4VWJ3S2tXYXY2QzZPVHJ5dldOVkRKVERhN1FjTlE?oc=5",
    "date": "Tue, 28 Jul 2026 07:00:00 GMT",
@@ -426,21 +417,21 @@
    "icon": "📰"
   },
   {
+   "title": "Giảm tối thiểu 30% số ổ dịch, tiêm phòng trên 70% tổng đàn gia súc, gia cầm trên địa bàn",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblA0WjhxV3NFckJVYXp4Z1g3T0NoWVVNc1BRdXlwU0dKM0RnQnVEM1I5WXZyNnBjUkp2bFl2aV9vNlY2R2pHTjFWLXRWVEVRWmQ0YXZKdzZsWnhIUWFDYXE1cExEU0haak1fQkd3Z3pJWGEzcm1KY29uMTRGYnltaExERlV6ZFFuczBkdnZoMHVkRGdtNUFCVU1rMG9nTFlEeDMyUnVVMXpVU1dQTlN2LTRmVlpVenoya19Cd1dVRkRVVGFhdnptNElpTkp6RU9IRTV0QmJEYlJONE0tQ0Z4ZngzTDE?oc=5",
+   "date": "Mon, 27 Jul 2026 02:34:28 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=buonmathuot.daklak.gov.vn&sz=128",
+   "source": "gnews",
+   "label": "buonmathuot.daklak.gov.vn",
+   "icon": "📰"
+  },
+  {
    "title": "Lào Cai quy hoạch lại hệ thống giết mổ, tiến tới xóa bỏ các điểm giết mổ tự phát",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX1l0WVJkTF9uV2Y1Z3MzMm0wdS1aUnZPR29ZemdNZ0JCcml5UTZ2aC1QaXJYNjA1NC1mV21SeDgzUkk2emxrcnVEaG05RGo4YUZEQ0s0Wk1vUDAzU21zeDBwUzA0NWRlNEZ5aEFqUVVjWWowVUJ5T25sT0ZpVHNkbDlYTGt1b2ZEX2I0R0VuMjRGUzBYTXhUdU92RVNpaEdKMVdWeEswY0lTODhib2dPRU1KTEpUUVRtSHRGRXV2UEQtYW95?oc=5",
    "date": "Wed, 05 Aug 2026 03:11:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=thuonghieucongluan.com.vn&sz=128",
    "source": "gnews",
    "label": "thuonghieucongluan.com.vn",
-   "icon": "📰"
-  },
-  {
-   "title": "Giảm tối thiểu 30% số ổ dịch, tiêm phòng trên 70% tổng đàn gia súc, gia cầm trên địa bàn",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblA0WjhxV3NFckJVYXp4Z1g3T0NoWVVNc1BRdXlwU0dKM0RnQnVEM1I5WXZyNnBjUkp2bFl2aV9vNlY2R2pHTjFWLXRWVEVRWmQ0YXZKdzZsWnhIUWFDYXE1cExEU0haak1fQkd3Z3pJWGEzcm1KY29uMTRGYnltaExERlV6ZFFuczBkdnZoMHVkRGdtNUFCVU1rMG9nTFlEeDMyUnVVMXpVU1dQTlN2LTRmVlpVenoya19Cd1dVRkRVVGFhdnptNElpTkp6RU9IRTV0QmJEYlJONE0tQ0Z4ZngzTDE?oc=5",
-   "date": "Mon, 27 Jul 2026 02:34:28 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=buonmathuot.daklak.gov.vn&sz=128",
-   "source": "gnews",
-   "label": "phường Buôn Ma Thuột",
    "icon": "📰"
   },
   {
@@ -468,6 +459,15 @@
    "image": "https://www.google.com/s2/favicons?domain=baophutho.vn&sz=128",
    "source": "gnews",
    "label": "Báo Phú Thọ",
+   "icon": "📰"
+  },
+  {
+   "title": "Phòng, chống dịch bệnh cho gia súc - Báo và phát thanh, truyền hình Quảng Trị",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUjEzS2dMMlBGenBKQjJEZVJJSnVVT3h6c0k2SmxHb2t4N1V3cUczVWZQMUQydjc2VmNxS1ROVXlJRmFNVEVxRF93SmV4RjZpbTU2U0x3bkVZU3pqMzFSUjEzUlF5ZjdCTDBvU3pKcmhhc0xIc2haekJYWXNZQm5sMHJNakNDZw?oc=5",
+   "date": "Fri, 19 Jun 2026 07:00:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=baoquangtri.vn&sz=128",
+   "source": "gnews",
+   "label": "Báo và phát thanh, truyền hình Quảng Trị",
    "icon": "📰"
   }
  ]
