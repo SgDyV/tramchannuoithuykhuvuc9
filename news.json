@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T17:24:39.493Z",
+ "updated": "2026-08-12T18:13:18.468Z",
  "count": 52,
  "items": [
   {
@@ -332,16 +332,7 @@
    "date": "Wed, 12 Aug 2026 10:55:04 GMT",
    "image": "https://www.google.com/s2/favicons?domain=vov.vn&sz=128",
    "source": "gnews",
-   "label": "VOV.VN",
-   "icon": "📰"
-  },
-  {
-   "title": "Thu hút doanh nghiệp làm hạt nhân cho chăn nuôi công nghệ cao",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2xkb3VCNTRDNTkyVFdHU3Z5VGI4VUpncUFrYkpqYzhaWGl1MzluNHFIdGhhQkdJVU0zWUxSSGkxVVRRUWZBYlo3TU1Gd004M3Z1MWZjUnhybWVWNkl5akEyR3N0cVZSRl9wWk5MOU85S1VfM0h3ejBqM2tvMEdnYy1CdFlKMUVKRVVEb201WHpsX3B4NmJKN2xGNTcyX2hZamRWSDB3?oc=5",
-   "date": "Wed, 12 Aug 2026 11:40:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=happyvietnam.vnanet.vn&sz=128",
-   "source": "gnews",
-   "label": "Thông tấn xã Việt Nam (TTXVN)",
+   "label": "vov.vn",
    "icon": "📰"
   },
   {
@@ -350,7 +341,16 @@
    "date": "Sun, 09 Aug 2026 04:30:05 GMT",
    "image": "https://www.google.com/s2/favicons?domain=trangtraiviet.danviet.vn&sz=128",
    "source": "gnews",
-   "label": "trangtraiviet.danviet.vn",
+   "label": "Trang Trại Việt",
+   "icon": "📰"
+  },
+  {
+   "title": "Thu hút doanh nghiệp làm hạt nhân cho chăn nuôi công nghệ cao",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2xkb3VCNTRDNTkyVFdHU3Z5VGI4VUpncUFrYkpqYzhaWGl1MzluNHFIdGhhQkdJVU0zWUxSSGkxVVRRUWZBYlo3TU1Gd004M3Z1MWZjUnhybWVWNkl5akEyR3N0cVZSRl9wWk5MOU85S1VfM0h3ejBqM2tvMEdnYy1CdFlKMUVKRVVEb201WHpsX3B4NmJKN2xGNTcyX2hZamRWSDB3?oc=5",
+   "date": "Wed, 12 Aug 2026 11:40:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=happyvietnam.vnanet.vn&sz=128",
+   "source": "gnews",
+   "label": "happyvietnam.vnanet.vn",
    "icon": "📰"
   },
   {
@@ -413,7 +413,7 @@
    "date": "Tue, 28 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=hungyen.gov.vn&sz=128",
    "source": "gnews",
-   "label": "hungyen.gov.vn",
+   "label": "UBND Tỉnh Hưng Yên",
    "icon": "📰"
   },
   {
