@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T14:11:28.035Z",
+ "updated": "2026-08-12T15:26:06.509Z",
  "count": 52,
  "items": [
   {
@@ -314,7 +314,7 @@
    "date": "Wed, 12 Aug 2026 09:01:29 GMT",
    "image": "https://www.google.com/s2/favicons?domain=nhachannuoi.vn&sz=128",
    "source": "gnews",
-   "label": "Tạp chí Chăn nuôi Việt Nam",
+   "label": "nhachannuoi.vn",
    "icon": "📰"
   },
   {
@@ -341,7 +341,7 @@
    "date": "Sun, 09 Aug 2026 04:30:05 GMT",
    "image": "https://www.google.com/s2/favicons?domain=trangtraiviet.danviet.vn&sz=128",
    "source": "gnews",
-   "label": "trangtraiviet.danviet.vn",
+   "label": "Trang Trại Việt",
    "icon": "📰"
   },
   {
@@ -360,15 +360,6 @@
    "image": "https://www.google.com/s2/favicons?domain=bnews.vn&sz=128",
    "source": "gnews",
    "label": "bnews.vn",
-   "icon": "📰"
-  },
-  {
-   "title": "Phát triển chăn nuôi gia cầm bền vững và hiệu quả",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWdQcFozZm9fNnZfR2pmdHpDYzNrLWNPdTltb3VEZWNEQmtPb1otYnBlM21LelJYUkpaRTZybGJFcDJYcEVxM2ZIaWZ5NDdqWGJiUk5hdElXSnZBVmh1cGttUFpfOTY5LWx4UDYzYWN2Qk5NSHZpZEY5cHl4cTZqbWxTbFZfRHBGQlFYbnFGT0wxNnBpN1Axb203MkExTG9fWDh2Ymp1dw?oc=5",
-   "date": "Tue, 11 Aug 2026 15:53:21 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=dangcongsan.vn&sz=128",
-   "source": "gnews",
-   "label": "dangcongsan.vn",
    "icon": "📰"
   },
   {
@@ -396,6 +387,15 @@
    "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
    "source": "gnews",
    "label": "Báo Nông nghiệp và Môi trường",
+   "icon": "📰"
+  },
+  {
+   "title": "Phát triển chăn nuôi gia cầm bền vững và hiệu quả",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWdQcFozZm9fNnZfR2pmdHpDYzNrLWNPdTltb3VEZWNEQmtPb1otYnBlM21LelJYUkpaRTZybGJFcDJYcEVxM2ZIaWZ5NDdqWGJiUk5hdElXSnZBVmh1cGttUFpfOTY5LWx4UDYzYWN2Qk5NSHZpZEY5cHl4cTZqbWxTbFZfRHBGQlFYbnFGT0wxNnBpN1Axb203MkExTG9fWDh2Ymp1dw?oc=5",
+   "date": "Tue, 11 Aug 2026 15:53:21 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=dangcongsan.vn&sz=128",
+   "source": "gnews",
+   "label": "dangcongsan.vn",
    "icon": "📰"
   },
   {
@@ -462,12 +462,12 @@
    "icon": "📰"
   },
   {
-   "title": "Chủ động phòng, chống dịch bệnh trong chăn nuôi",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdXZ6TXBKT3ZJYURnV05EVl9QOGxzb3cwSVpxSE5qLXRBbV9RVVYxbFRHYVB1U3VzR0JuQ2x3aFVQcm9mdDkyaDJCbUdCdy1HUFJaelJXRWJadGlFaGd4ZWxJRFlGd0RLZUFHeWlrdDAtVGpydDZjTEE3bzRpV2thckEyNlU?oc=5",
-   "date": "Sun, 19 Jul 2026 02:11:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=baophutho.vn&sz=128",
+   "title": "Phòng, chống dịch bệnh cho gia súc - Báo và phát thanh, truyền hình Quảng Trị",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUjEzS2dMMlBGenBKQjJEZVJJSnVVT3h6c0k2SmxHb2t4N1V3cUczVWZQMUQydjc2VmNxS1ROVXlJRmFNVEVxRF93SmV4RjZpbTU2U0x3bkVZU3pqMzFSUjEzUlF5ZjdCTDBvU3pKcmhhc0xIc2haekJYWXNZQm5sMHJNakNDZw?oc=5",
+   "date": "Fri, 19 Jun 2026 07:00:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=baoquangtri.vn&sz=128",
    "source": "gnews",
-   "label": "Báo Phú Thọ",
+   "label": "Báo và phát thanh, truyền hình Quảng Trị",
    "icon": "📰"
   }
  ]
