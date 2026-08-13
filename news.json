@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T22:08:16.169Z",
+ "updated": "2026-08-13T23:09:41.212Z",
  "count": 52,
  "items": [
   {
@@ -309,21 +309,21 @@
    "icon": "🌾"
   },
   {
-   "title": "Phê duyệt quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính lĩnh vực Chăn nuôi, Thú y và Thủy sản",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeEZLbVc5WXBDSE9pVzU4cnlUZmpLd1VDSXhiZkVZSXZ1M1p1YXlsbVQ1cTVZMVY2dnRvWGFBV0pMbDlOdEVoT1k3WXctZWp3R3lBT0pHX0NlbjhvMGJScG5rLXBwN01JOWxqRFRUYVVvTjlSZ0l1MDRTbkRCbUZadnZkUVd6YkJmNFRTUTA2YU54QkNNOU1zaUpOMnc5X2pWN3IwQXNMTG9heTRCRUVCWWtzbXIxVVd5c3l4eHlaVEQ4WHdnWENJTGNscEpTWk0?oc=5",
-   "date": "Thu, 13 Aug 2026 13:59:09 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
-   "source": "gnews",
-   "label": "Vietnam.vn",
-   "icon": "📰"
-  },
-  {
    "title": "'Chìa khóa' cho đột phá ngành chăn nuôi và thú y - Báo và Phát thanh, Truyền hình Lạng Sơn",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYWpjU3R5bkluVnN1VHFjMEh2bDFhTzN3UHV1VV9fRWpDVldmSWpGSkgzYzZsMWNQeEFMZnhjR3F3VmNMajF6RXF5SmtqajVHcWkwRklDd0dFUUJXcDVhOU9lWFBSdWVGQ19tdUh1aGxoVENVR1dKNlJKZmdtYVlvcHo0NFNuYmp3?oc=5",
    "date": "Mon, 10 Aug 2026 07:38:47 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baolangson.vn&sz=128",
    "source": "gnews",
    "label": "Baolangson.vn",
+   "icon": "📰"
+  },
+  {
+   "title": "Phê duyệt quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính lĩnh vực Chăn nuôi, Thú y và Thủy sản",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeEZLbVc5WXBDSE9pVzU4cnlUZmpLd1VDSXhiZkVZSXZ1M1p1YXlsbVQ1cTVZMVY2dnRvWGFBV0pMbDlOdEVoT1k3WXctZWp3R3lBT0pHX0NlbjhvMGJScG5rLXBwN01JOWxqRFRUYVVvTjlSZ0l1MDRTbkRCbUZadnZkUVd6YkJmNFRTUTA2YU54QkNNOU1zaUpOMnc5X2pWN3IwQXNMTG9heTRCRUVCWWtzbXIxVVd5c3l4eHlaVEQ4WHdnWENJTGNscEpTWk0?oc=5",
+   "date": "Thu, 13 Aug 2026 13:59:09 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
+   "source": "gnews",
+   "label": "Vietnam.vn",
    "icon": "📰"
   },
   {
@@ -359,7 +359,7 @@
    "date": "Mon, 10 Aug 2026 09:42:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=www.anhp.vn&sz=128",
    "source": "gnews",
-   "label": "An ninh Hải Phòng",
+   "label": "anhp.vn",
    "icon": "📰"
   },
   {
@@ -422,7 +422,7 @@
    "date": "Mon, 27 Jul 2026 02:34:28 GMT",
    "image": "https://www.google.com/s2/favicons?domain=buonmathuot.daklak.gov.vn&sz=128",
    "source": "gnews",
-   "label": "buonmathuot.daklak.gov.vn",
+   "label": "phường Buôn Ma Thuột",
    "icon": "📰"
   },
   {
@@ -467,7 +467,7 @@
    "date": "Wed, 22 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=anhp.vn&sz=128",
    "source": "gnews",
-   "label": "An ninh Hải Phòng",
+   "label": "anhp.vn",
    "icon": "📰"
   }
  ]
