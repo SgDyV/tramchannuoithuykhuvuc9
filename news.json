@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T15:27:59.163Z",
+ "updated": "2026-08-13T16:23:33.021Z",
  "count": 52,
  "items": [
   {
@@ -237,6 +237,24 @@
    "icon": "🌾"
   },
   {
+   "title": "Nước mắt ngày các anh trở về qua những bức di ảnh",
+   "link": "https://nongnghiepmoitruong.vn/nuoc-mat-ngay-cac-anh-tro-ve-qua-nhung-buc-di-anh-d826044.html",
+   "date": "Thu, 13 Aug 2026 22:39:40 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/phuclapdientu/2026/08/13/4902-1786623653085_5740900446723797169_g4205680070176371527_b13b59138c583f6852cf14c815c88d9f-nongnghiep-194818.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Mỹ công bố POR21, thuế chống bán phá giá cá tra Việt Nam tăng mạnh",
+   "link": "https://nongnghiepmoitruong.vn/my-cong-bo-por21-thue-chong-ban-pha-gia-ca-tra-viet-nam-tang-manh-d826051.html",
+   "date": "Thu, 13 Aug 2026 22:38:35 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thamdth/2026/08/13/2839-2024_10_09_09_19_172_f56e7-nongnghiep-212834.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Đại sứ Tshering W. Sherpa: Sự phát triển của quan hệ Ấn - Việt hết sức ấn tượng",
    "link": "https://nongnghiepmoitruong.vn/dai-su-tshering-w-sherpa-su-phat-trien-cua-quan-he-an--viet-het-suc-an-tuong-d826039.html",
    "date": "Thu, 13 Aug 2026 20:47:23 +0700",
@@ -286,24 +304,6 @@
    "link": "https://nongnghiepmoitruong.vn/bac-ninh-tang-cuong-quan-ly-quy-hoach-do-thi-nong-thon-sau-sap-nhap-d826022.html",
    "date": "Thu, 13 Aug 2026 20:27:03 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/13/13-6-173449_56-202704.jpeg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "30 cán bộ lên đường tìm kiếm, quy tập hài cốt liệt sĩ tại Lào",
-   "link": "https://nongnghiepmoitruong.vn/30-can-bo-len-duong-tim-kiem-quy-tap-hai-cot-liet-si-tai-lao-d826020.html",
-   "date": "Thu, 13 Aug 2026 20:26:33 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/13/1786602591012_2611192256539989167_g6412423530129992046_2e608937080ba385d9032dec6136e46d-nongnghiep-173629.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Lạng Sơn xây thêm 10 chuỗi liên kết nông, lâm sản",
-   "link": "https://nongnghiepmoitruong.vn/lang-son-xay-them-10-chuoi-lien-ket-nong-lam-san-d826009.html",
-   "date": "Thu, 13 Aug 2026 20:25:22 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/nghiahv86/2026/08/13/2942-chuoi-lien-ket-69-nongnghiep-162938.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -377,7 +377,7 @@
    "date": "Sat, 08 Aug 2026 10:32:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
    "source": "gnews",
-   "label": "Báo Nông nghiệp và Môi trường",
+   "label": "nongnghiepmoitruong.vn",
    "icon": "📰"
   },
   {
@@ -404,7 +404,7 @@
    "date": "Mon, 10 Aug 2026 09:01:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
    "source": "gnews",
-   "label": "Báo Nông nghiệp và Môi trường",
+   "label": "nongnghiepmoitruong.vn",
    "icon": "📰"
   },
   {
