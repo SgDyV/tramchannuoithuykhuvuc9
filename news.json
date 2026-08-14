@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T10:46:22.901Z",
+ "updated": "2026-08-14T11:35:16.323Z",
  "count": 52,
  "items": [
   {
@@ -390,12 +390,12 @@
    "icon": "📰"
   },
   {
-   "title": "Hướng tới quản trị ngành chăn nuôi và thú y dựa trên dữ liệu",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEU2NWpHQjNZU2hoS1NFckcxcXFGNmtmZnBNdUV6X3NjaVVNeWszTHJyM1VyNy1DbUI2d1h3b0swRklOTE03SHEzMVhET3Z6cjZrSl9lZzBzc0Y3UG9pODc0R1lRNUs1aG1FTzZiTUxHb1dtaGZicW1wN1FHUTNsWkt2SEtHN3psQmI2Qm5uOG5HRjFDMUF2Z1U5NHYxVkZnV0wzUUlHVHQ2RlcyZEZXcg?oc=5",
-   "date": "Wed, 05 Aug 2026 01:51:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=baotintuc.vn&sz=128",
+   "title": "Phát triển chăn nuôi gia cầm bền vững và hiệu quả",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWdQcFozZm9fNnZfR2pmdHpDYzNrLWNPdTltb3VEZWNEQmtPb1otYnBlM21LelJYUkpaRTZybGJFcDJYcEVxM2ZIaWZ5NDdqWGJiUk5hdElXSnZBVmh1cGttUFpfOTY5LWx4UDYzYWN2Qk5NSHZpZEY5cHl4cTZqbWxTbFZfRHBGQlFYbnFGT0wxNnBpN1Axb203MkExTG9fWDh2Ymp1dw?oc=5",
+   "date": "Tue, 11 Aug 2026 15:53:21 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=dangcongsan.vn&sz=128",
    "source": "gnews",
-   "label": "baotintuc.vn",
+   "label": "dangcongsan.vn",
    "icon": "📰"
   },
   {
@@ -414,6 +414,15 @@
    "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
    "source": "gnews",
    "label": "Báo Nông nghiệp và Môi trường",
+   "icon": "📰"
+  },
+  {
+   "title": "Giảm tối thiểu 30% số ổ dịch, tiêm phòng trên 70% tổng đàn gia súc, gia cầm trên địa bàn",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblA0WjhxV3NFckJVYXp4Z1g3T0NoWVVNc1BRdXlwU0dKM0RnQnVEM1I5WXZyNnBjUkp2bFl2aV9vNlY2R2pHTjFWLXRWVEVRWmQ0YXZKdzZsWnhIUWFDYXE1cExEU0haak1fQkd3Z3pJWGEzcm1KY29uMTRGYnltaExERlV6ZFFuczBkdnZoMHVkRGdtNUFCVU1rMG9nTFlEeDMyUnVVMXpVU1dQTlN2LTRmVlpVenoya19Cd1dVRkRVVGFhdnptNElpTkp6RU9IRTV0QmJEYlJONE0tQ0Z4ZngzTDE?oc=5",
+   "date": "Mon, 27 Jul 2026 02:34:28 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=buonmathuot.daklak.gov.vn&sz=128",
+   "source": "gnews",
+   "label": "phường Buôn Ma Thuột",
    "icon": "📰"
   },
   {
@@ -444,12 +453,12 @@
    "icon": "📰"
   },
   {
-   "title": "Tây Ninh nâng cao năng lực kiểm soát dịch bệnh động vật",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcl9pdmJMOTRtcmhRVWtDVUZ6Q09USjlBTF9OYk5FMjRxZHZRRWJTNE9pQ2x3aE90YkRTdDNUcmxJN01JSXJYX0JZWFhNWVFCaXluZ2dTR1RGRGpLampRUkVXYUwxQmxvUkx3aTh4aWxRNUNnd3ZEeXAwRlBCRi11RlJTYlk?oc=5",
-   "date": "Wed, 05 Aug 2026 15:23:30 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
+   "title": "Phòng, chống dịch bệnh gia súc, gia cầm, bảo đảm an toàn thực phẩm dịp Tết",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa0k1WHQwSFdZeVYwY21GNzNmT2lsM2lUMlhxQXAzSnBDNUhnV3dIcWhjVGQ1T3FNOVY5N2pDYTVvQXVTdmRESEFXcWtSMFdOY0dVUFY4a2Q1aFhGVGxtcGZBUXpxbXZ1cXpDLUdMU2QyTkRvTmxHdHMwNnVRTU41MFBfT0JuM1d6M0xpN0pUR0pnczM5Rld5eUdtX2twaUpINmVfb2IxTHdnZExtM3NiT0pFTW1MZkZfNHRhRU5kQQ?oc=5",
+   "date": "Tue, 18 Nov 2025 08:00:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=baotintuc.vn&sz=128",
    "source": "gnews",
-   "label": "Vietnam.vn",
+   "label": "baotintuc.vn",
    "icon": "📰"
   },
   {
@@ -459,15 +468,6 @@
    "image": "https://www.google.com/s2/favicons?domain=baolamdong.vn&sz=128",
    "source": "gnews",
    "label": "Báo Lâm Đồng",
-   "icon": "📰"
-  },
-  {
-   "title": "Đẩy mạnh tuyên truyền phòng, chống các bệnh cúm gia cầm, lở mồm long móng và dịch tả lợn Châu phi giai đoạn 2026 – 2030 trên địa bàn xã Thượng Ninh.",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcXpVcDkxUkVlalZqZXVGaGtOUWNEc0RMVm9PaFVPSEFQVmxaWG41ckZYeHZIclpZMkRzVVJxZmFtZ3JadXQ1aTh6cUhNdWZUY3IzS3NCVkNfcEF1dThlSWJYOWVDNVZGUUhDcWhkakp2U25LbV9xNkgtQ0I2anZKcnd2RDI5Vl8zcV90QWdsTDZXUlpMaUpmc3U0cVBTY3BCRWM1aXJOdWdKc2JIUEtUb3VNcGxjVW5HMmNzRWtzNVYwakM0dFlXc194VGRpYUlPTUFQNWdNbVB1bVVHdDBQQUczT3hNSkR3TnlKaEJXemdORzQ?oc=5",
-   "date": "Thu, 11 Jun 2026 07:00:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=thuongninh.thanhhoa.gov.vn&sz=128",
-   "source": "gnews",
-   "label": "UBND Xã Thượng Ninh",
    "icon": "📰"
   }
  ]
