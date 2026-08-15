@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T14:44:33.473Z",
+ "updated": "2026-08-15T15:09:03.710Z",
  "count": 52,
  "items": [
   {
@@ -237,15 +237,6 @@
    "icon": "🌾"
   },
   {
-   "title": "Phân lân Ninh Bình mang giải pháp dinh dưỡng đến Lễ hội Sầu riêng Đắk Lắk",
-   "link": "https://nongnghiepmoitruong.vn/phan-lan-ninh-binh-mang-giai-phap-dinh-duong-den-le-hoi-sau-rieng-dak-lak-d826319.html",
-   "date": "Sat, 15 Aug 2026 21:34:51 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/15/3655-d1-181309_461.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
    "title": "Nhận định, trực tiếp Sevilla vs Rayo Vallecano giải La Liga trên On Football ngày 16/8/2026",
    "link": "https://nongnghiepmoitruong.vn/nhan-dinh-truc-tiep-sevilla-vs-rayo-vallecano-giai-la-liga-tren-on-football-ngay-16-8-2026-d826264.html",
    "date": "Sat, 15 Aug 2026 20:00:00 +0700",
@@ -304,6 +295,15 @@
    "link": "https://nongnghiepmoitruong.vn/nhan-dinh-truc-tiep-alaves-vs-getafe-giai-la-liga-tren-on-football-ngay-16-8-2026-d826263.html",
    "date": "Sat, 15 Aug 2026 19:00:00 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/15/truc-tiep-bong-da-alaves-vs-getafe-16-8-2026-080335_740-101054.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Việt Nam đề xuất lập mạng lưới khảo nghiệm giống với Trung Quốc",
+   "link": "https://nongnghiepmoitruong.vn/viet-nam-de-xuat-lap-mang-luoi-khao-nghiem-giong-voi-trung-quoc-d826326.html",
+   "date": "Sat, 15 Aug 2026 18:54:54 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/linhnhp/2026/08/15/3338-1786785531365_9016867503508250117_g2844638216368774237_39fa12e95acc61ff7ff477e67b3dc510-182655_114.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -417,15 +417,6 @@
    "icon": "📰"
   },
   {
-   "title": "Triển khai đồng bộ các giải pháp phòng, chống dịch bệnh gia súc, gia cầm",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZVhsTHpIeHI0VG9PZmhBWGN4VGYtVmxTaWljNlNYcXdPU1BxNFVKQ0tSUTVaRTByOFQ3REduc3pRdmh5WTV6UDBscHhkVTVkWnFMS2FEOVNDR3pVY0RlalJHTTVSeTBTSUFPYXE2NE9mTDlLQ19WbU5ScW52ajNRWHhKRDNBOGpzaXhGbXhDaFpzc1JXZmY0V1hYc1QxTC1KenM0M29vd0dLSG8?oc=5",
-   "date": "Sat, 25 Jul 2026 07:00:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=baohatinh.vn&sz=128",
-   "source": "gnews",
-   "label": "Báo Hà Tĩnh",
-   "icon": "📰"
-  },
-  {
    "title": "Lào Cai quy hoạch lại hệ thống giết mổ, tiến tới xóa bỏ các điểm giết mổ tự phát",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX1l0WVJkTF9uV2Y1Z3MzMm0wdS1aUnZPR29ZemdNZ0JCcml5UTZ2aC1QaXJYNjA1NC1mV21SeDgzUkk2emxrcnVEaG05RGo4YUZEQ0s0Wk1vUDAzU21zeDBwUzA0NWRlNEZ5aEFqUVVjWWowVUJ5T25sT0ZpVHNkbDlYTGt1b2ZEX2I0R0VuMjRGUzBYTXhUdU92RVNpaEdKMVdWeEswY0lTODhib2dPRU1KTEpUUVRtSHRGRXV2UEQtYW95?oc=5",
    "date": "Wed, 05 Aug 2026 03:11:00 GMT",
@@ -435,30 +426,12 @@
    "icon": "📰"
   },
   {
-   "title": "Xã Phú Xuyên: Tăng cường quản lý, kiểm soát giết mổ gia súc, gia cầm",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2l4TnJ3a09XOU9CNk1wdS1HcFU3TWhiaWp1SWtRV1RrWXdQbXhQTERId0N0ei02b0ZLeENpZ0I3MGxLVUdmSENmRzRnNkVNd3BIYldJNzlranFJem5PdjFDTU91RkI4bjFSUmtWSkhNR1BheHRiWV9kVl9JZ0YxQlFHTzJOTk5iSXFNZVNZZ3dfOXM5d3JmbFU4TlVjNjg?oc=5",
-   "date": "Fri, 17 Jul 2026 07:00:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=hanoimoi.vn&sz=128",
+   "title": "Triển khai đồng bộ các giải pháp phòng, chống dịch bệnh gia súc, gia cầm",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZVhsTHpIeHI0VG9PZmhBWGN4VGYtVmxTaWljNlNYcXdPU1BxNFVKQ0tSUTVaRTByOFQ3REduc3pRdmh5WTV6UDBscHhkVTVkWnFMS2FEOVNDR3pVY0RlalJHTTVSeTBTSUFPYXE2NE9mTDlLQ19WbU5ScW52ajNRWHhKRDNBOGpzaXhGbXhDaFpzc1JXZmY0V1hYc1QxTC1KenM0M29vd0dLSG8?oc=5",
+   "date": "Sat, 25 Jul 2026 07:00:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=baohatinh.vn&sz=128",
    "source": "gnews",
-   "label": "hanoimoi.vn",
-   "icon": "📰"
-  },
-  {
-   "title": "Phòng, chống dịch bệnh gia súc, gia cầm, bảo đảm an toàn thực phẩm dịp Tết",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa0k1WHQwSFdZeVYwY21GNzNmT2lsM2lUMlhxQXAzSnBDNUhnV3dIcWhjVGQ1T3FNOVY5N2pDYTVvQXVTdmRESEFXcWtSMFdOY0dVUFY4a2Q1aFhGVGxtcGZBUXpxbXZ1cXpDLUdMU2QyTkRvTmxHdHMwNnVRTU41MFBfT0JuM1d6M0xpN0pUR0pnczM5Rld5eUdtX2twaUpINmVfb2IxTHdnZExtM3NiT0pFTW1MZkZfNHRhRU5kQQ?oc=5",
-   "date": "Tue, 18 Nov 2025 08:00:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=baotintuc.vn&sz=128",
-   "source": "gnews",
-   "label": "baotintuc.vn",
-   "icon": "📰"
-  },
-  {
-   "title": "Kiểm soát chặt việc giết mổ gia súc, gia cầm tại cơ sở",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN3N4ZVZETGNCb2JnZXRzZlJSXzJvdXcxdHJrZ1d4ODJpcUtFYWFQSG9JRXpsQkxBM05PVEoyUTV4cmJpdE1CQUdneVlxZGZua1gwNHZxcTNvNkZmb2Nmc3hCMWJOX1VwTm8tc3V6RVhUdTN6ejNkUUlsemlDQUpVcnFoTjczd21SM0UyeXRya1o?oc=5",
-   "date": "Wed, 06 May 2026 07:00:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=baolamdong.vn&sz=128",
-   "source": "gnews",
-   "label": "Báo Lâm Đồng",
+   "label": "Báo Hà Tĩnh",
    "icon": "📰"
   },
   {
@@ -468,6 +441,33 @@
    "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
    "source": "gnews",
    "label": "Vietnam.vn",
+   "icon": "📰"
+  },
+  {
+   "title": "Xã Phú Xuyên: Tăng cường quản lý, kiểm soát giết mổ gia súc, gia cầm",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2l4TnJ3a09XOU9CNk1wdS1HcFU3TWhiaWp1SWtRV1RrWXdQbXhQTERId0N0ei02b0ZLeENpZ0I3MGxLVUdmSENmRzRnNkVNd3BIYldJNzlranFJem5PdjFDTU91RkI4bjFSUmtWSkhNR1BheHRiWV9kVl9JZ0YxQlFHTzJOTk5iSXFNZVNZZ3dfOXM5d3JmbFU4TlVjNjg?oc=5",
+   "date": "Fri, 17 Jul 2026 07:00:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=hanoimoi.vn&sz=128",
+   "source": "gnews",
+   "label": "Báo Hànộimới",
+   "icon": "📰"
+  },
+  {
+   "title": "Chăn nuôi Hải Phòng giữ vững đà tăng trưởng, phát triển theo hướng an toàn và bền vững",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3FidkxzTlhraFF4RUw0a01GMGxPUVRfYW45QnhnQi1kMDhvSHJlSjhrSnR4LTdYbWE1VlF4Rm02M3JvbjFFbHhucTh4aW9UbTVlNXBpVklwRjhRblNBVFpGY1JUSEM0dnFTb1VxTllfeHFxZkc3VlMzWHdySlFaN3UwN3plVlBUaUdraUdDaVBCd1FrZkI2U0VGTE1CMDc3UVNQaUltVjF6NGc4M3llTEM3QQ?oc=5",
+   "date": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=anhp.vn&sz=128",
+   "source": "gnews",
+   "label": "An ninh Hải Phòng",
+   "icon": "📰"
+  },
+  {
+   "title": "Phòng, chống dịch bệnh cho gia súc - Báo và phát thanh, truyền hình Quảng Trị",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUjEzS2dMMlBGenBKQjJEZVJJSnVVT3h6c0k2SmxHb2t4N1V3cUczVWZQMUQydjc2VmNxS1ROVXlJRmFNVEVxRF93SmV4RjZpbTU2U0x3bkVZU3pqMzFSUjEzUlF5ZjdCTDBvU3pKcmhhc0xIc2haekJYWXNZQm5sMHJNakNDZw?oc=5",
+   "date": "Fri, 19 Jun 2026 07:00:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=baoquangtri.vn&sz=128",
+   "source": "gnews",
+   "label": "Báo và phát thanh, truyền hình Quảng Trị",
    "icon": "📰"
   }
  ]
