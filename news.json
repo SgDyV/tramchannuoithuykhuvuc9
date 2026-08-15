@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T09:46:40.164Z",
+ "updated": "2026-08-15T10:10:27.933Z",
  "count": 52,
  "items": [
   {
@@ -311,7 +311,7 @@
   {
    "title": "'Chìa khóa' cho đột phá ngành chăn nuôi và thú y - Báo và Phát thanh, Truyền hình Lạng Sơn",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYWpjU3R5bkluVnN1VHFjMEh2bDFhTzN3UHV1VV9fRWpDVldmSWpGSkgzYzZsMWNQeEFMZnhjR3F3VmNMajF6RXF5SmtqajVHcWkwRklDd0dFUUJXcDVhOU9lWFBSdWVGQ19tdUh1aGxoVENVR1dKNlJKZmdtYVlvcHo0NFNuYmp3?oc=5",
-   "date": "Mon, 10 Aug 2026 07:38:47 GMT",
+   "date": "Fri, 14 Aug 2026 12:17:29 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baolangson.vn&sz=128",
    "source": "gnews",
    "label": "Baolangson.vn",
@@ -368,16 +368,7 @@
    "date": "Mon, 10 Aug 2026 09:42:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=www.anhp.vn&sz=128",
    "source": "gnews",
-   "label": "An ninh Hải Phòng",
-   "icon": "📰"
-  },
-  {
-   "title": "Phú Thọ: Siết chặt quản lý thuốc thú y, bảo vệ ngành chăn nuôi và sức khỏe cộng đồng",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN1hGemZCTkVJSmFKUTZ1c2Rjak0wT3BtSm1saXp0Z3RYQzk3ejRVWFBCYTZVRzZCc2JfZE9RR1dUeGFPM2JNWm9MdVo1cEJXZzdYZm9LbEhWZldpRHA4eDJfbk8tODlIYzIyWFRWei1wWnhkNTRPcjQtZWRvNWZUdVJIb09YZGVqOHdxM2hBSWRHd1VKcjA1elRBcTlRVkRhcDg1ZWZFemJmbGItckpkS1p0M2Q3OVhrUDhCNXhsUS1PeGRvS0xYbw?oc=5",
-   "date": "Sun, 09 Aug 2026 04:30:05 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=trangtraiviet.danviet.vn&sz=128",
-   "source": "gnews",
-   "label": "trangtraiviet.danviet.vn",
+   "label": "anhp.vn",
    "icon": "📰"
   },
   {
@@ -387,6 +378,15 @@
    "image": "https://www.google.com/s2/favicons?domain=xaydungchinhsach.chinhphu.vn&sz=128",
    "source": "gnews",
    "label": "xaydungchinhsach.chinhphu.vn",
+   "icon": "📰"
+  },
+  {
+   "title": "Phú Thọ: Siết chặt quản lý thuốc thú y, bảo vệ ngành chăn nuôi và sức khỏe cộng đồng",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN1hGemZCTkVJSmFKUTZ1c2Rjak0wT3BtSm1saXp0Z3RYQzk3ejRVWFBCYTZVRzZCc2JfZE9RR1dUeGFPM2JNWm9MdVo1cEJXZzdYZm9LbEhWZldpRHA4eDJfbk8tODlIYzIyWFRWei1wWnhkNTRPcjQtZWRvNWZUdVJIb09YZGVqOHdxM2hBSWRHd1VKcjA1elRBcTlRVkRhcDg1ZWZFemJmbGItckpkS1p0M2Q3OVhrUDhCNXhsUS1PeGRvS0xYbw?oc=5",
+   "date": "Sun, 09 Aug 2026 04:30:05 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=trangtraiviet.danviet.vn&sz=128",
+   "source": "gnews",
+   "label": "trangtraiviet.danviet.vn",
    "icon": "📰"
   },
   {
@@ -458,7 +458,7 @@
    "date": "Wed, 22 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=anhp.vn&sz=128",
    "source": "gnews",
-   "label": "An ninh Hải Phòng",
+   "label": "anhp.vn",
    "icon": "📰"
   },
   {
