@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T20:44:25.464Z",
+ "updated": "2026-08-15T21:10:22.955Z",
  "count": 52,
  "items": [
   {
@@ -323,7 +323,7 @@
    "date": "Wed, 12 Aug 2026 09:01:29 GMT",
    "image": "https://www.google.com/s2/favicons?domain=nhachannuoi.vn&sz=128",
    "source": "gnews",
-   "label": "nhachannuoi.vn",
+   "label": "Tạp chí Chăn nuôi Việt Nam",
    "icon": "📰"
   },
   {
@@ -386,7 +386,7 @@
    "date": "Mon, 10 Aug 2026 09:42:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=www.anhp.vn&sz=128",
    "source": "gnews",
-   "label": "An ninh Hải Phòng",
+   "label": "anhp.vn",
    "icon": "📰"
   },
   {
@@ -431,7 +431,7 @@
    "date": "Sat, 25 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baohatinh.vn&sz=128",
    "source": "gnews",
-   "label": "baohatinh.vn",
+   "label": "Báo Hà Tĩnh",
    "icon": "📰"
   },
   {
@@ -467,7 +467,7 @@
    "date": "Wed, 22 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=anhp.vn&sz=128",
    "source": "gnews",
-   "label": "An ninh Hải Phòng",
+   "label": "anhp.vn",
    "icon": "📰"
   }
  ]
