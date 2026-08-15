@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-15T05:14:24.301Z",
- "count": 52,
+ "updated": "2026-08-15T05:47:15.091Z",
+ "count": 51,
  "items": [
   {
    "title": "Hội nghị với các Hiệp hội ngành hàng về thúc đẩy xuất khẩu nông, lâm, thủy sản 6 tháng cuối năm 2026",
@@ -93,6 +93,15 @@
    "icon": "🏥"
   },
   {
+   "title": "Lập biên bản hộ dân giết mổ heo tại nơi không được cấp phép",
+   "link": "https://nongnghiepmoitruong.vn/lap-bien-ban-ho-dan-giet-mo-heo-tai-noi-khong-duoc-cap-phep-d826286.html",
+   "date": "Sat, 15 Aug 2026 12:13:03 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/15/5358-1786756025165_3305396948992095938_3305396948992095938_d0ee9061808e452c60128499800646fe-111120_500.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Dịch bệnh vật nuôi tại Tuyên Quang diễn biến phức tạp",
    "link": "https://nongnghiepmoitruong.vn/dich-benh-vat-nuoi-tai-tuyen-quang-dien-bien-phuc-tap-d826028.html",
    "date": "Thu, 13 Aug 2026 20:17:25 +0700",
@@ -151,24 +160,6 @@
    "link": "https://nongnghiepmoitruong.vn/nghien-cuu-xac-nhan-vaccine-argentina-dat-100-hieu-qua-bao-ho-virus-fmd-chung-sat-1-d824421.html",
    "date": "Mon, 03 Aug 2026 12:50:20 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/03/3505-sat-1-113447_619.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Chợ trâu, bò lớn nhất miền Bắc nhộn nhịp trở lại",
-   "link": "https://nongnghiepmoitruong.vn/cho-trau-bo-lon-nhat-mien-bac-nhon-nhip-tro-lai-d824175.html",
-   "date": "Fri, 31 Jul 2026 19:37:42 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tumn/2026/07/31/5559-muc-so-thi-phien-cho-vung-cao-tien-tinh-bang-quyen-162553_141-142045-nongnghiep-175551.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Hòa Phát bổ sung nguồn cung bò thịt Brahman từ Thái Lan",
-   "link": "https://nongnghiepmoitruong.vn/hoa-phat-bo-sung-nguon-cung-bo-thit-brahman-tu-thai-lan-d826194.html",
-   "date": "Sat, 15 Aug 2026 11:51:57 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/14/nth09059-nongnghiep-162414.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -237,73 +228,73 @@
    "icon": "🌾"
   },
   {
-   "title": "Phường Thanh Xuân xử lý vi phạm tại khu tập thể Ban Cơ yếu Chính phủ",
-   "link": "https://nongnghiepmoitruong.vn/phuong-thanh-xuan-xu-ly-vi-pham-tai-khu-tap-the-ban-co-yeu-chinh-phu-d826228.html",
-   "date": "Sat, 15 Aug 2026 10:48:06 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thangnq91/2026/08/14/4303-tx1-nongnghiep-184254.jpg",
+   "title": "Phú Thọ chăn nuôi công nghệ cao gắn bảo vệ môi trường",
+   "link": "https://nongnghiepmoitruong.vn/phu-tho-chan-nuoi-cong-nghe-cao-gan-bao-ve-moi-truong-d824807.html",
+   "date": "Thu, 06 Aug 2026 11:42:19 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/06/z8119128311532_71e9a32792d55e29ba0ddd731edaf70b-160228_930-114221.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Suối Xú có dấu hiệu ô nhiễm chất dinh dưỡng",
-   "link": "https://nongnghiepmoitruong.vn/suoi-xu-co-dau-hieu-o-nhiem-chat-dinh-duong-d826230.html",
-   "date": "Sat, 15 Aug 2026 10:45:59 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/14/1786709127309_219421750648674261_g6810393602478490205_a571fbb41f520578056dce684642635d-nongnghiep-192718.jpg",
+   "title": "C M xuất khẩu trên 8.000 container sầu riêng mỗi năm vào sâu thị trường Trung Quốc",
+   "link": "https://nongnghiepmoitruong.vn/cm-xuat-khau-tren-8000-container-sau-rieng-moi-nam-vao-sau-thi-truong-trung-quoc-d826172.html",
+   "date": "Sat, 15 Aug 2026 12:12:05 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thoth77/2026/08/14/1924-kho-2-cm-181702_1000.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Tìm lời giải cho bài toán nước ngọt ở vùng đất mặn",
-   "link": "https://nongnghiepmoitruong.vn/video/tim-loi-giai-cho-bai-toan-nuoc-ngot-o-vung-dat-man-tv825776.html",
-   "date": "Sat, 15 Aug 2026 10:43:56 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/12/sequence-0200_56_44_02still005-nongnghiep-171627.jpg",
+   "title": "Đưa nông nghiệp tuần hoàn đến gần người chăn nuôi",
+   "link": "https://nongnghiepmoitruong.vn/dua-nong-nghiep-tuan-hoan-den-gan-nguoi-chan-nuoi-d826291.html",
+   "date": "Sat, 15 Aug 2026 12:11:44 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/15/1764815288588_541563671047964569_541563671047964569_76c04ea969c991ea4e24792f62f1bc8f-113101_1-121144.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Kênh La Khê khơi thông “mạch máu” tiêu nước phía Tây Thủ đô",
-   "link": "https://nongnghiepmoitruong.vn/video/kenh-la-khe-khoi-thong-mach-mau-tieu-nuoc-phia-tay-thu-do-tv826272.html",
-   "date": "Sat, 15 Aug 2026 10:14:27 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/15/sequence-1100_35_25_22still011-nongnghiep-090902.jpg",
+   "title": "Đắk Lắk cần sẵn sàng phương tiện ứng phó trong bối cảnh thiên tai cực đoan",
+   "link": "https://nongnghiepmoitruong.vn/dak-lak-can-san-sang-phuong-tien-ung-pho-trong-boi-canh-thien-tai-cuc-doan-d826292.html",
+   "date": "Sat, 15 Aug 2026 12:10:58 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/hieupt/2026/08/15/4505-6a74a04a8cf5040dc915e237-114450_757.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Giá cao su hôm nay 15/8/2026: Thị trường châu Á suy giảm",
-   "link": "https://nongnghiepmoitruong.vn/gia-cao-su-hom-nay-15-8-2026-thi-truong-chau-a-suy-giam-d826252.html",
-   "date": "Sat, 15 Aug 2026 10:12:52 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2025/02/18/gia-cao-su-hom-nay-221334_545-095147-102945-104428_360-153958.jpeg",
+   "title": "Hòa Phát bổ sung nguồn cung bò thịt Brahman từ Thái Lan",
+   "link": "https://nongnghiepmoitruong.vn/hoa-phat-bo-sung-nguon-cung-bo-thit-brahman-tu-thai-lan-d826194.html",
+   "date": "Sat, 15 Aug 2026 11:51:57 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/14/nth09059-nongnghiep-162414.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Giá lúa gạo hôm nay 15/8/2026: Vẫn giữ đà đi ngang",
-   "link": "https://nongnghiepmoitruong.vn/gia-lua-gao-hom-nay-15-8-2026-van-giu-da-di-ngang-d826253.html",
-   "date": "Sat, 15 Aug 2026 10:12:30 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2025/07/19/gia-lua-gao-hom-nay-2-001351_862-102726.jpeg",
+   "title": "Hàng trăm tổ chức, doanh nghiệp ở Điện Biên chậm nộp Quỹ phòng, chống thiên tai",
+   "link": "https://nongnghiepmoitruong.vn/hang-tram-to-chuc-doanh-nghiep-o-dien-bien-cham-nop-quy-phong-chong-thien-tai-d826200.html",
+   "date": "Sat, 15 Aug 2026 11:46:02 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/14/1786700727912_2999997443478331572_2999997443478331572_1caf82c19813d147f16f5ddb195c7614-nongnghiep-165348.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Phim Tình thâm đối đầu tập 27 trực tiếp THVL1 hôm nay 15/8/2026",
-   "link": "https://nongnghiepmoitruong.vn/phim-tinh-tham-doi-dau-tap-27-truc-tiep-thvl1-hom-nay-15-8-2026-d826254.html",
-   "date": "Sat, 15 Aug 2026 10:12:09 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/15/phim-tinh-tham-doi-dau-tap-27-thvl1-nongnghiep-070234.jpg",
+   "title": "Xuất khẩu rau quả 7 tháng đầu năm đạt gần 4,8 tỷ USD",
+   "link": "https://nongnghiepmoitruong.vn/xuat-khau-rau-qua-7-thang-dau-nam-dat-gan-48-ty-usd-d826282.html",
+   "date": "Sat, 15 Aug 2026 11:43:30 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thamdth/2026/08/15/1424-hiep-hoi-rau-qua-viet-nam-chi-ro-8-diem-nghen-can-da-xuat-khau-172257_616-172259-180856-nongnghiep-101418.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Giá heo hơi hôm nay 15/8/2026: Có nơi mất tới 2.000 đồng",
-   "link": "https://nongnghiepmoitruong.vn/gia-heo-hoi-hom-nay-15-8-2026-co-noi-mat-toi-2000-dong-d826247.html",
-   "date": "Sat, 15 Aug 2026 10:11:46 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/13/gia-heo-hoi-hom-nay-13-6-1-090041_574-075032.jpg",
+   "title": "Giá lúa hè thu tăng, nông dân phấn khởi ‘được mùa, trúng giá’",
+   "link": "https://nongnghiepmoitruong.vn/gia-lua-he-thu-tang-nong-dan-phan-khoi-duoc-mua-trung-gia-d826273.html",
+   "date": "Sat, 15 Aug 2026 11:41:54 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/anhntk/2026/08/15/2009-dsc07945-nongnghiep-091900.jpeg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -327,9 +318,9 @@
    "icon": "📰"
   },
   {
-   "title": "Phát triển chăn nuôi gắn với truy xuất nguồn gốc và liên kết tiêu thụ sản phẩm: Yêu cầu tất yếu",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR20yMWlQQ3dieHNaU2xXYkNaSmU1Y0VUS3JyUHNUZEFnSmUxSjRweHJwaEY3MUdqZ3pVVHNaeERzX2cxVU01eU5mOFRHLXJsTkFRREVhMmlseUlDOXBTcVZBRy1seVkwR3F1YVVqdG9vU0NQTmVDM2kwM1hEMzdQZWJXVWM5aGlqYUdCYm42VnJEYmFTVWtOenNyb2NXSmZuNGJDNWxFc1ZrYU1MaUJma0M0cDFCeVJ6c2c?oc=5",
-   "date": "Sat, 15 Aug 2026 00:23:53 GMT",
+   "title": "Sửa 10 luật về nông nghiệp và môi trường: Đẩy mạnh hậu kiểm trong chăn nuôi, thú y",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWXhSaFdDNHhSdTIyRWpmV3VqUmZJTlM3Zzk1UF9mLTE0OUlld0JwcEJhbmx1SkxLU3dtZFpnakNQTlhCNEd2Sm5iYkRZQTI1RHhtNWR3emNCeHd6QzZHMEM3UUxEd21PMURrU2V2VF9QY29CVFRfVVZUODJtS0ROazhUVmhkVTA2UkVUQjJ6VEpsV0tRa0tKOVhsS0MtS2ozbUhzR1Y5Yw?oc=5",
+   "date": "Wed, 12 Aug 2026 09:01:29 GMT",
    "image": "https://www.google.com/s2/favicons?domain=nhachannuoi.vn&sz=128",
    "source": "gnews",
    "label": "Tạp chí Chăn nuôi Việt Nam",
@@ -350,7 +341,7 @@
    "date": "Thu, 13 Aug 2026 13:59:09 GMT",
    "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
    "source": "gnews",
-   "label": "vietnam.vn",
+   "label": "Vietnam.vn",
    "icon": "📰"
   },
   {
@@ -431,7 +422,7 @@
    "date": "Sat, 25 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baohatinh.vn&sz=128",
    "source": "gnews",
-   "label": "baohatinh.vn",
+   "label": "Báo Hà Tĩnh",
    "icon": "📰"
   },
   {
@@ -440,7 +431,7 @@
    "date": "Wed, 05 Aug 2026 15:23:30 GMT",
    "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
    "source": "gnews",
-   "label": "vietnam.vn",
+   "label": "Vietnam.vn",
    "icon": "📰"
   },
   {
@@ -449,7 +440,7 @@
    "date": "Fri, 17 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=hanoimoi.vn&sz=128",
    "source": "gnews",
-   "label": "Báo Hànộimới",
+   "label": "hanoimoi.vn",
    "icon": "📰"
   },
   {
