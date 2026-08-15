@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T20:09:01.884Z",
+ "updated": "2026-08-15T20:44:25.464Z",
  "count": 52,
  "items": [
   {
@@ -323,7 +323,7 @@
    "date": "Wed, 12 Aug 2026 09:01:29 GMT",
    "image": "https://www.google.com/s2/favicons?domain=nhachannuoi.vn&sz=128",
    "source": "gnews",
-   "label": "Tạp chí Chăn nuôi Việt Nam",
+   "label": "nhachannuoi.vn",
    "icon": "📰"
   },
   {
@@ -431,7 +431,7 @@
    "date": "Sat, 25 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baohatinh.vn&sz=128",
    "source": "gnews",
-   "label": "Báo Hà Tĩnh",
+   "label": "baohatinh.vn",
    "icon": "📰"
   },
   {
