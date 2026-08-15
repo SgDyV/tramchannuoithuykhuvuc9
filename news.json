@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T18:11:19.984Z",
+ "updated": "2026-08-15T18:52:36.378Z",
  "count": 52,
  "items": [
   {
@@ -386,14 +386,14 @@
    "date": "Mon, 10 Aug 2026 09:42:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=www.anhp.vn&sz=128",
    "source": "gnews",
-   "label": "An ninh Hải Phòng",
+   "label": "anhp.vn",
    "icon": "📰"
   },
   {
    "title": "Phát triển chăn nuôi gia cầm bền vững và hiệu quả",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkNVLWdJUWtpMnZzdl9KZ3B0dFU5VS1vdmZNRi11Y080eGNEWUI0Tl9CSy1DMFAyU2t4RzVpbkVTMDExWXhMYnFYNGdaM3pFOG91N3RhdTVQU0d0LTcwRUJJVjBldm5GRUNUaUdVR0YxdGVZbFBZSzQ5cXR1VHp2RlVmR2dINzBuOWl0MXFneWdfcFplZVgtMFNweU1TMU9tcXNtUDNzdDdCMDZ1?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWdQcFozZm9fNnZfR2pmdHpDYzNrLWNPdTltb3VEZWNEQmtPb1otYnBlM21LelJYUkpaRTZybGJFcDJYcEVxM2ZIaWZ5NDdqWGJiUk5hdElXSnZBVmh1cGttUFpfOTY5LWx4UDYzYWN2Qk5NSHZpZEY5cHl4cTZqbWxTbFZfRHBGQlFYbnFGT0wxNnBpN1Axb203MkExTG9fWDh2Ymp1dw?oc=5",
    "date": "Tue, 11 Aug 2026 15:53:21 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=dangcongsan.org.vn&sz=128",
+   "image": "https://www.google.com/s2/favicons?domain=dangcongsan.vn&sz=128",
    "source": "gnews",
    "label": "dangcongsan.vn",
    "icon": "📰"
@@ -458,7 +458,7 @@
    "date": "Wed, 22 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=anhp.vn&sz=128",
    "source": "gnews",
-   "label": "An ninh Hải Phòng",
+   "label": "anhp.vn",
    "icon": "📰"
   },
   {
