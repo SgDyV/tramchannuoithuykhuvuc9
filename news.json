@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T08:13:15.320Z",
+ "updated": "2026-08-15T08:51:09.763Z",
  "count": 51,
  "items": [
   {
@@ -237,6 +237,15 @@
    "icon": "🌾"
   },
   {
+   "title": "Một thập kỷ tiên phong đưa phẫu thuật robot phát triển tại Việt Nam",
+   "link": "https://nongnghiepmoitruong.vn/mot-thap-ky-tien-phong-dua-phau-thuat-robot-phat-trien-tai-viet-nam-d826298.html",
+   "date": "Sat, 15 Aug 2026 15:44:13 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/15/robot-2-133639_638-154414.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Cần Thơ chủ động phòng ngừa, đấu tranh với tội phạm ngay từ cơ sở",
    "link": "https://nongnghiepmoitruong.vn/can-tho-chu-dong-phong-ngua-dau-tranh-voi-toi-pham-ngay-tu-co-so-d826262.html",
    "date": "Sat, 15 Aug 2026 14:18:58 +0700",
@@ -291,15 +300,6 @@
    "icon": "🌾"
   },
   {
-   "title": "C M xuất khẩu trên 8.000 container sầu riêng mỗi năm vào sâu thị trường Trung Quốc",
-   "link": "https://nongnghiepmoitruong.vn/cm-xuat-khau-tren-8000-container-sau-rieng-moi-nam-vao-sau-thi-truong-trung-quoc-d826172.html",
-   "date": "Sat, 15 Aug 2026 12:12:05 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thoth77/2026/08/14/1924-kho-2-cm-181702_1000.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
    "title": "'Chìa khóa' cho đột phá ngành chăn nuôi và thú y - Báo và Phát thanh, Truyền hình Lạng Sơn",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYWpjU3R5bkluVnN1VHFjMEh2bDFhTzN3UHV1VV9fRWpDVldmSWpGSkgzYzZsMWNQeEFMZnhjR3F3VmNMajF6RXF5SmtqajVHcWkwRklDd0dFUUJXcDVhOU9lWFBSdWVGQ19tdUh1aGxoVENVR1dKNlJKZmdtYVlvcHo0NFNuYmp3?oc=5",
    "date": "Mon, 10 Aug 2026 07:38:47 GMT",
@@ -323,7 +323,7 @@
    "date": "Fri, 14 Aug 2026 08:40:01 GMT",
    "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
    "source": "gnews",
-   "label": "Báo Nông nghiệp và Môi trường",
+   "label": "nongnghiepmoitruong.vn",
    "icon": "📰"
   },
   {
@@ -359,7 +359,7 @@
    "date": "Mon, 10 Aug 2026 09:42:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=www.anhp.vn&sz=128",
    "source": "gnews",
-   "label": "An ninh Hải Phòng",
+   "label": "anhp.vn",
    "icon": "📰"
   },
   {
@@ -404,7 +404,7 @@
    "date": "Mon, 10 Aug 2026 09:01:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
    "source": "gnews",
-   "label": "Báo Nông nghiệp và Môi trường",
+   "label": "nongnghiepmoitruong.vn",
    "icon": "📰"
   },
   {
@@ -426,15 +426,6 @@
    "icon": "📰"
   },
   {
-   "title": "Xã Phú Xuyên: Tăng cường quản lý, kiểm soát giết mổ gia súc, gia cầm",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2l4TnJ3a09XOU9CNk1wdS1HcFU3TWhiaWp1SWtRV1RrWXdQbXhQTERId0N0ei02b0ZLeENpZ0I3MGxLVUdmSENmRzRnNkVNd3BIYldJNzlranFJem5PdjFDTU91RkI4bjFSUmtWSkhNR1BheHRiWV9kVl9JZ0YxQlFHTzJOTk5iSXFNZVNZZ3dfOXM5d3JmbFU4TlVjNjg?oc=5",
-   "date": "Fri, 17 Jul 2026 07:00:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=hanoimoi.vn&sz=128",
-   "source": "gnews",
-   "label": "Báo Hànộimới",
-   "icon": "📰"
-  },
-  {
    "title": "Tây Ninh nâng cao năng lực kiểm soát dịch bệnh động vật",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcl9pdmJMOTRtcmhRVWtDVUZ6Q09USjlBTF9OYk5FMjRxZHZRRWJTNE9pQ2x3aE90YkRTdDNUcmxJN01JSXJYX0JZWFhNWVFCaXluZ2dTR1RGRGpLampRUkVXYUwxQmxvUkx3aTh4aWxRNUNnd3ZEeXAwRlBCRi11RlJTYlk?oc=5",
    "date": "Wed, 05 Aug 2026 15:23:30 GMT",
@@ -444,21 +435,30 @@
    "icon": "📰"
   },
   {
+   "title": "Xã Phú Xuyên: Tăng cường quản lý, kiểm soát giết mổ gia súc, gia cầm",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2l4TnJ3a09XOU9CNk1wdS1HcFU3TWhiaWp1SWtRV1RrWXdQbXhQTERId0N0ei02b0ZLeENpZ0I3MGxLVUdmSENmRzRnNkVNd3BIYldJNzlranFJem5PdjFDTU91RkI4bjFSUmtWSkhNR1BheHRiWV9kVl9JZ0YxQlFHTzJOTk5iSXFNZVNZZ3dfOXM5d3JmbFU4TlVjNjg?oc=5",
+   "date": "Fri, 17 Jul 2026 07:00:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=hanoimoi.vn&sz=128",
+   "source": "gnews",
+   "label": "hanoimoi.vn",
+   "icon": "📰"
+  },
+  {
    "title": "Chăn nuôi Hải Phòng giữ vững đà tăng trưởng, phát triển theo hướng an toàn và bền vững",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3FidkxzTlhraFF4RUw0a01GMGxPUVRfYW45QnhnQi1kMDhvSHJlSjhrSnR4LTdYbWE1VlF4Rm02M3JvbjFFbHhucTh4aW9UbTVlNXBpVklwRjhRblNBVFpGY1JUSEM0dnFTb1VxTllfeHFxZkc3VlMzWHdySlFaN3UwN3plVlBUaUdraUdDaVBCd1FrZkI2U0VGTE1CMDc3UVNQaUltVjF6NGc4M3llTEM3QQ?oc=5",
    "date": "Wed, 22 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=anhp.vn&sz=128",
    "source": "gnews",
-   "label": "An ninh Hải Phòng",
+   "label": "anhp.vn",
    "icon": "📰"
   },
   {
-   "title": "Đẩy mạnh tuyên truyền phòng, chống các bệnh cúm gia cầm, lở mồm long móng và dịch tả lợn Châu phi giai đoạn 2026 – 2030 trên địa bàn xã Thượng Ninh.",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcXpVcDkxUkVlalZqZXVGaGtOUWNEc0RMVm9PaFVPSEFQVmxaWG41ckZYeHZIclpZMkRzVVJxZmFtZ3JadXQ1aTh6cUhNdWZUY3IzS3NCVkNfcEF1dThlSWJYOWVDNVZGUUhDcWhkakp2U25LbV9xNkgtQ0I2anZKcnd2RDI5Vl8zcV90QWdsTDZXUlpMaUpmc3U0cVBTY3BCRWM1aXJOdWdKc2JIUEtUb3VNcGxjVW5HMmNzRWtzNVYwakM0dFlXc194VGRpYUlPTUFQNWdNbVB1bVVHdDBQQUczT3hNSkR3TnlKaEJXemdORzQ?oc=5",
-   "date": "Thu, 11 Jun 2026 07:00:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=thuongninh.thanhhoa.gov.vn&sz=128",
+   "title": "Phòng, chống dịch bệnh cho gia súc - Báo và phát thanh, truyền hình Quảng Trị",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUjEzS2dMMlBGenBKQjJEZVJJSnVVT3h6c0k2SmxHb2t4N1V3cUczVWZQMUQydjc2VmNxS1ROVXlJRmFNVEVxRF93SmV4RjZpbTU2U0x3bkVZU3pqMzFSUjEzUlF5ZjdCTDBvU3pKcmhhc0xIc2haekJYWXNZQm5sMHJNakNDZw?oc=5",
+   "date": "Fri, 19 Jun 2026 07:00:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=baoquangtri.vn&sz=128",
    "source": "gnews",
-   "label": "UBND Xã Thượng Ninh",
+   "label": "Báo và phát thanh, truyền hình Quảng Trị",
    "icon": "📰"
   }
  ]
