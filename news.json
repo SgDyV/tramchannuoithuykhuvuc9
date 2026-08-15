@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T15:41:25.126Z",
+ "updated": "2026-08-15T16:09:41.060Z",
  "count": 52,
  "items": [
   {
@@ -237,6 +237,24 @@
    "icon": "🌾"
   },
   {
+   "title": "Agribank sát cánh, nông dân Đà Nẵng vững tin làm giàu trên quê hương",
+   "link": "https://nongnghiepmoitruong.vn/agribank-sat-canh-nong-dan-da-nang-vung-tin-lam-giau-tren-que-huong-d826310.html",
+   "date": "Sat, 15 Aug 2026 22:47:48 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/anhtl87/2026/08/15/5500-dsc_4820-165055_891.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Phân lân Ninh Bình mang giải pháp dinh dưỡng đến Lễ hội Sầu riêng Đắk Lắk",
+   "link": "https://nongnghiepmoitruong.vn/phan-lan-ninh-binh-mang-giai-phap-dinh-duong-den-le-hoi-sau-rieng-dak-lak-d826319.html",
+   "date": "Sat, 15 Aug 2026 21:34:51 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/15/3655-d1-181309_461.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Nhận định, trực tiếp Sevilla vs Rayo Vallecano giải La Liga trên On Football ngày 16/8/2026",
    "link": "https://nongnghiepmoitruong.vn/nhan-dinh-truc-tiep-sevilla-vs-rayo-vallecano-giai-la-liga-tren-on-football-ngay-16-8-2026-d826264.html",
    "date": "Sat, 15 Aug 2026 20:00:00 +0700",
@@ -286,24 +304,6 @@
    "link": "https://nongnghiepmoitruong.vn/giup-nguoi-dan-mien-nui-xu-thanh-giam-ngheo-d826312.html",
    "date": "Sat, 15 Aug 2026 19:13:00 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/15/79ea455e-13e3-4e72-870c-5ddf3c0dff54-nongnghiep-181505.jpeg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Nhận định, trực tiếp Alaves vs Getafe giải La Liga trên On Football ngày 16/8/2026",
-   "link": "https://nongnghiepmoitruong.vn/nhan-dinh-truc-tiep-alaves-vs-getafe-giai-la-liga-tren-on-football-ngay-16-8-2026-d826263.html",
-   "date": "Sat, 15 Aug 2026 19:00:00 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/15/truc-tiep-bong-da-alaves-vs-getafe-16-8-2026-080335_740-101054.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Việt Nam đề xuất lập mạng lưới khảo nghiệm giống với Trung Quốc",
-   "link": "https://nongnghiepmoitruong.vn/viet-nam-de-xuat-lap-mang-luoi-khao-nghiem-giong-voi-trung-quoc-d826326.html",
-   "date": "Sat, 15 Aug 2026 18:54:54 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/linhnhp/2026/08/15/3338-1786785531365_9016867503508250117_g2844638216368774237_39fa12e95acc61ff7ff477e67b3dc510-182655_114.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -386,7 +386,7 @@
    "date": "Sun, 09 Aug 2026 04:30:05 GMT",
    "image": "https://www.google.com/s2/favicons?domain=trangtraiviet.danviet.vn&sz=128",
    "source": "gnews",
-   "label": "Trang Trại Việt",
+   "label": "trangtraiviet.danviet.vn",
    "icon": "📰"
   },
   {
@@ -431,7 +431,7 @@
    "date": "Sat, 25 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baohatinh.vn&sz=128",
    "source": "gnews",
-   "label": "Báo Hà Tĩnh",
+   "label": "baohatinh.vn",
    "icon": "📰"
   },
   {
