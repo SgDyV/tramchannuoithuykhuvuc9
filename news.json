@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T10:11:24.922Z",
+ "updated": "2026-08-16T10:45:22.944Z",
  "count": 52,
  "items": [
   {
@@ -237,33 +237,6 @@
    "icon": "🌾"
   },
   {
-   "title": "Gần 1.800 tàu cá An Giang không đủ điều kiện hoạt động khai thác thủy sản",
-   "link": "https://nongnghiepmoitruong.vn/gan-1800-tau-ca-an-giang-khong-du-dieu-kien-hoat-dong-khai-thac-thuy-san-d826378.html",
-   "date": "Sun, 16 Aug 2026 16:44:10 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/chanhdt/2026/08/16/3615-tau-ca-an-giang-2-103302_656-103302.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Kết nối chuỗi cung ứng sầu riêng Việt Nam - Trung Quốc tại Đắk Lắk",
-   "link": "https://nongnghiepmoitruong.vn/ket-noi-chuoi-cung-ung-sau-rieng-viet-nam--trung-quoc-tai-dak-lak-d826397.html",
-   "date": "Sun, 16 Aug 2026 16:43:08 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thotth/2026/08/16/5219-2aoboqrjmqio7e4vjitew218o1hefcerga4myiss-nongnghiep-155200.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Nhận định, trực tiếp Việt Nam vs Malaysia giải AFF Cup 2026 hôm nay 16/8",
-   "link": "https://nongnghiepmoitruong.vn/nhan-dinh-truc-tiep-viet-nam-vs-malaysia-giai-aff-cup-2026-hom-nay-16-8-d826364.html",
-   "date": "Sun, 16 Aug 2026 16:00:00 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/16/truc-tiep-bong-da-malaysia-vs-viet-nam-16-8-2026-085748_63-093723.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
    "title": "KOC, KOL cần hành trang pháp lý vững vàng trên không gian số",
    "link": "https://nongnghiepmoitruong.vn/koc-kol-can-hanh-trang-phap-ly-vung-vang-tren-khong-gian-so-d826367.html",
    "date": "Sun, 16 Aug 2026 15:35:29 +0700",
@@ -309,21 +282,39 @@
    "icon": "🌾"
   },
   {
+   "title": "Giá đường tăng nhờ kiểm soát đường nhập lậu",
+   "link": "https://nongnghiepmoitruong.vn/gia-duong-tang-nho-kiem-soat-duong-nhap-lau-d824676.html",
+   "date": "Sun, 16 Aug 2026 11:28:50 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/sontt/2026/08/16/1606-xuat-khau-gao-091601_353-091601.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Tăng cường bảo đảm an ninh, trật tự dịp Lễ hội Sầu riêng",
+   "link": "https://nongnghiepmoitruong.vn/tang-cuong-bao-dam-an-ninh-trat-tu-dip-le-hoi-sau-rieng-d826350.html",
+   "date": "Sun, 16 Aug 2026 11:27:55 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thoth77/2026/08/15/3653-an-ninh-1-232821_85.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Phân bón Miền Nam xuất khẩu 300 tấn NPK sang thị trường Nhật Bản",
+   "link": "https://nongnghiepmoitruong.vn/phan-bon-mien-nam-xuat-khau-300-tan-npk-sang-thi-truong-nhat-ban-d826372.html",
+   "date": "Sun, 16 Aug 2026 11:25:44 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/16/0219-pbmn-095057_229.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Hà Nội phê duyệt quy trình thủ tục hành chính lĩnh vực chăn nuôi, thú y",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejYxY3hXWnYteWpxLUVvdVREamV1TXlOUlU5UFJrdFpLd0daMmo5b2QxZ2lEeFFTeG9xSnVKUGxkS0hyb0JmVHpGTlg1eHBzTWwzX0tEQThPTjltT2l3bmd1cDdIYmYzRkRUSEJ5WmwxUnBGWUtWZno3bFQ2S09xMkRLYmg1VzdtazN2ZHctV29jdnBhS2hQVk1BRVpydkx0X1ZQc1ozeGVhOW8?oc=5",
    "date": "Sun, 16 Aug 2026 05:23:01 GMT",
    "image": "https://www.google.com/s2/favicons?domain=moitruong.net.vn&sz=128",
    "source": "gnews",
    "label": "moitruong.net.vn",
-   "icon": "📰"
-  },
-  {
-   "title": "'Chìa khóa' cho đột phá ngành chăn nuôi và thú y - Báo và Phát thanh, Truyền hình Lạng Sơn",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYWpjU3R5bkluVnN1VHFjMEh2bDFhTzN3UHV1VV9fRWpDVldmSWpGSkgzYzZsMWNQeEFMZnhjR3F3VmNMajF6RXF5SmtqajVHcWkwRklDd0dFUUJXcDVhOU9lWFBSdWVGQ19tdUh1aGxoVENVR1dKNlJKZmdtYVlvcHo0NFNuYmp3?oc=5",
-   "date": "Fri, 14 Aug 2026 12:17:29 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=baolangson.vn&sz=128",
-   "source": "gnews",
-   "label": "Baolangson.vn",
    "icon": "📰"
   },
   {
@@ -396,6 +387,15 @@
    "image": "https://www.google.com/s2/favicons?domain=dangcongsan.vn&sz=128",
    "source": "gnews",
    "label": "dangcongsan.vn",
+   "icon": "📰"
+  },
+  {
+   "title": "Hướng dẫn : Chăn nuôi An toàn sinh học, các hành vi bị nghiêm cấm và mức xử phạt vi phạm hành chính trong chăn nuôi, thú y",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPR0lsLV9aTlQ3NGxhajVMTURrX0duMlBuT0hna3IzSXctTkNpSF9Dc3hSYk5Ybk1DaDdlUk5yRU5kZkVlRkdJTXlRWERLakctVUt1bEZUamdGWnpxNWlPQTg4MkRRdU5zTDdGOVREMUtERGYzVU5sV0dnWFg0WlU2ZmFfY3VCMkx3eUwxa096MkdQREZ2R2FCS0FZNGdrWUpwdWQxSmg4ODJhNkQ5N2VWdzZRWDhjTnZaS2l1cVdQM1M3OUJBZWtGZi1YYkJ5emFyV0Z5bkxZdWdJR25aRHFQWjkyRGdzcFhiZlZKbUFQRzI2TWo2R1dqc1J5QktWRURlMTJjeDF6QWE?oc=5",
+   "date": "Fri, 07 Aug 2026 10:22:20 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=kimson.ninhbinh.gov.vn&sz=128",
+   "source": "gnews",
+   "label": "xã Kim Sơn",
    "icon": "📰"
   },
   {
