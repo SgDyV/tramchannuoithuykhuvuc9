@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T13:06:20.888Z",
+ "updated": "2026-08-16T13:49:55.158Z",
  "count": 52,
  "items": [
   {
@@ -426,15 +426,6 @@
    "icon": "📰"
   },
   {
-   "title": "Hà Nội siết chặt kiểm dịch, hướng đi nào cho giết mổ nhỏ lẻ?",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNndzdTJSbUM1QTRoU2xpMHBRb3R4VnBxSDBnd3ZJU3F2eEloU1ZiSUtoNXNzYTdtaURGY0VNOVRqYkstQTNHMm9rOTNuaGRZdlpaeXhlZmIwNXIzNVdiY29TcDlFQ3pmbFAwcnE2X0hzbVptaHE5ZjBpdmNiNnVjaWNmMUhIak1GdmNseTNib3dvZW9tMktQZ2JVdC1QS0hFWUFTMXhoMm83R2puRHc?oc=5",
-   "date": "Mon, 10 Aug 2026 09:01:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=nongnghiepmoitruong.vn&sz=128",
-   "source": "gnews",
-   "label": "Báo Nông nghiệp và Môi trường",
-   "icon": "📰"
-  },
-  {
    "title": "Phòng, chống dịch bệnh gia súc, gia cầm, bảo đảm an toàn thực phẩm dịp Tết",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa0k1WHQwSFdZeVYwY21GNzNmT2lsM2lUMlhxQXAzSnBDNUhnV3dIcWhjVGQ1T3FNOVY5N2pDYTVvQXVTdmRESEFXcWtSMFdOY0dVUFY4a2Q1aFhGVGxtcGZBUXpxbXZ1cXpDLUdMU2QyTkRvTmxHdHMwNnVRTU41MFBfT0JuM1d6M0xpN0pUR0pnczM5Rld5eUdtX2twaUpINmVfb2IxTHdnZExtM3NiT0pFTW1MZkZfNHRhRU5kQQ?oc=5",
    "date": "Tue, 18 Nov 2025 08:00:00 GMT",
@@ -468,6 +459,15 @@
    "image": "https://www.google.com/s2/favicons?domain=baolamdong.vn&sz=128",
    "source": "gnews",
    "label": "Báo Lâm Đồng",
+   "icon": "📰"
+  },
+  {
+   "title": "Tây Ninh nâng cao năng lực kiểm soát dịch bệnh động vật",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcl9pdmJMOTRtcmhRVWtDVUZ6Q09USjlBTF9OYk5FMjRxZHZRRWJTNE9pQ2x3aE90YkRTdDNUcmxJN01JSXJYX0JZWFhNWVFCaXluZ2dTR1RGRGpLampRUkVXYUwxQmxvUkx3aTh4aWxRNUNnd3ZEeXAwRlBCRi11RlJTYlk?oc=5",
+   "date": "Wed, 05 Aug 2026 15:23:30 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
+   "source": "gnews",
+   "label": "Vietnam.vn",
    "icon": "📰"
   }
  ]
