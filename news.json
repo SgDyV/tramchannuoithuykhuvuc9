@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T06:18:48.246Z",
+ "updated": "2026-08-16T07:06:20.865Z",
  "count": 52,
  "items": [
   {
@@ -332,7 +332,7 @@
    "date": "Wed, 12 Aug 2026 09:01:29 GMT",
    "image": "https://www.google.com/s2/favicons?domain=nhachannuoi.vn&sz=128",
    "source": "gnews",
-   "label": "Tạp chí Chăn nuôi Việt Nam",
+   "label": "nhachannuoi.vn",
    "icon": "📰"
   },
   {
@@ -413,7 +413,7 @@
    "date": "Tue, 28 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=hungyen.gov.vn&sz=128",
    "source": "gnews",
-   "label": "UBND Tỉnh Hưng Yên",
+   "label": "hungyen.gov.vn",
    "icon": "📰"
   },
   {
