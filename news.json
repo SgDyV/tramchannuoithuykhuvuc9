@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T05:20:14.345Z",
+ "updated": "2026-08-16T05:49:54.827Z",
  "count": 52,
  "items": [
   {
@@ -309,6 +309,15 @@
    "icon": "🌾"
   },
   {
+   "title": "Hà Nội phê duyệt quy trình thủ tục hành chính lĩnh vực chăn nuôi, thú y",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejYxY3hXWnYteWpxLUVvdVREamV1TXlOUlU5UFJrdFpLd0daMmo5b2QxZ2lEeFFTeG9xSnVKUGxkS0hyb0JmVHpGTlg1eHBzTWwzX0tEQThPTjltT2l3bmd1cDdIYmYzRkRUSEJ5WmwxUnBGWUtWZno3bFQ2S09xMkRLYmg1VzdtazN2ZHctV29jdnBhS2hQVk1BRVpydkx0X1ZQc1ozeGVhOW8?oc=5",
+   "date": "Sun, 16 Aug 2026 05:23:01 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=moitruong.net.vn&sz=128",
+   "source": "gnews",
+   "label": "moitruong.net.vn",
+   "icon": "📰"
+  },
+  {
    "title": "'Chìa khóa' cho đột phá ngành chăn nuôi và thú y - Báo và Phát thanh, Truyền hình Lạng Sơn",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYWpjU3R5bkluVnN1VHFjMEh2bDFhTzN3UHV1VV9fRWpDVldmSWpGSkgzYzZsMWNQeEFMZnhjR3F3VmNMajF6RXF5SmtqajVHcWkwRklDd0dFUUJXcDVhOU9lWFBSdWVGQ19tdUh1aGxoVENVR1dKNlJKZmdtYVlvcHo0NFNuYmp3?oc=5",
    "date": "Fri, 14 Aug 2026 12:17:29 GMT",
@@ -390,15 +399,6 @@
    "icon": "📰"
   },
   {
-   "title": "Vụ buôn lậu thủy sản trị giá 1.000 tỷ: Khởi tố Chi cục trưởng Chăn nuôi và Thú y vùng I",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ192b3NIRkR2Z21jT1Y4SERpc2JOcFktRjlJakRnNHNDUzNNLWNKU3pXNkU0eEdINktXczEtWEVNckRGejd2N21NMzVULVlVeXBiMURHRXQ2ZXdOVkxJTkVmMkM2SzZuSDVULUpnQkRGdWl6RVFxVnljZ2Uyd3dwZG95S1NNcWQtT2YzMjVMQ2pnLU4zOEVJQTJTalJXSmhkVE9BYnVmcXJvWHJNcU1aSzZkMFBCXzg5TVhtb1hBWQ?oc=5",
-   "date": "Fri, 31 Jul 2026 07:00:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=tienphong.vn&sz=128",
-   "source": "gnews",
-   "label": "tienphong.vn",
-   "icon": "📰"
-  },
-  {
    "title": "Hành trình vì hàng triệu bữa ăn an toàn: “Bức tường” bảo vệ hơn 14 triệu dân",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaFk2UlBEUEJCN1NJcmFhU290aTFWbkE3UnRQWGgxWmdOOVV2QTZIT1pFR29tVlpaMVg1QXpzMkh6aml4ekNFYVp1YVpOMEZGQnhXcjJWaG5OQ1pkdkdBUE9jRnB1dUdPUTQ3MnJ6UnRkWkZhcVppSzdtU3M2LVlmUm9OalY0djU0V0dYZmJwSXhEUDZKVk8xdWl0elZkMnN5ejdsSjZWTDY4ejN1REtLczFFeVBmbk1uS1NtVDJhaHJXNkxEbFk2RA?oc=5",
    "date": "Sun, 16 Aug 2026 02:59:00 GMT",
@@ -422,7 +422,7 @@
    "date": "Sat, 25 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baohatinh.vn&sz=128",
    "source": "gnews",
-   "label": "Báo Hà Tĩnh",
+   "label": "baohatinh.vn",
    "icon": "📰"
   },
   {
