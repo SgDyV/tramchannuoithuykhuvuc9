@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T16:47:04.130Z",
+ "updated": "2026-08-16T17:09:49.078Z",
  "count": 52,
  "items": [
   {
@@ -237,15 +237,6 @@
    "icon": "🌾"
   },
   {
-   "title": "Lạng Sơn trang bị nghiệp vụ cho cán bộ làm công tác giảm nghèo",
-   "link": "https://nongnghiepmoitruong.vn/lang-son-trang-bi-nghiep-vu-cho-can-bo-lam-cong-tac-giam-ngheo-d826419.html",
-   "date": "Sun, 16 Aug 2026 22:37:29 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/nghiahv86/2026/08/16/3112-2822-mih-69-nongnghiep-202745.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
    "title": "Đắk Lắk lập Kỷ lục Guinness với đoàn 525 xe bán tải chở sầu riêng",
    "link": "https://nongnghiepmoitruong.vn/dak-lak-lap-ky-luc-guinness-voi-doan-525-xe-ban-tai-cho-sau-rieng-d826394.html",
    "date": "Sun, 16 Aug 2026 20:34:11 +0700",
@@ -309,6 +300,15 @@
    "icon": "🌾"
   },
   {
+   "title": "Tử vi 12 cung hoàng đạo ngày 17/8/2026: Ma Kết - Sư Tử thuận lợi",
+   "link": "https://nongnghiepmoitruong.vn/tu-vi-12-cung-hoang-dao-ngay-17-8-2026-ma-ket--su-tu-thuan-loi-d826362.html",
+   "date": "Sun, 16 Aug 2026 17:58:23 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/16/tu-vi-12-cung-hoang-dao-hom-nay-17-8-2026-084733_912-175823.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Hà Nội phê duyệt quy trình thủ tục hành chính lĩnh vực chăn nuôi, thú y",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejYxY3hXWnYteWpxLUVvdVREamV1TXlOUlU5UFJrdFpLd0daMmo5b2QxZ2lEeFFTeG9xSnVKUGxkS0hyb0JmVHpGTlg1eHBzTWwzX0tEQThPTjltT2l3bmd1cDdIYmYzRkRUSEJ5WmwxUnBGWUtWZno3bFQ2S09xMkRLYmg1VzdtazN2ZHctV29jdnBhS2hQVk1BRVpydkx0X1ZQc1ozeGVhOW8?oc=5",
    "date": "Sun, 16 Aug 2026 05:23:01 GMT",
@@ -350,7 +350,7 @@
    "date": "Thu, 13 Aug 2026 13:59:09 GMT",
    "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
    "source": "gnews",
-   "label": "Vietnam.vn",
+   "label": "vietnam.vn",
    "icon": "📰"
   },
   {
@@ -467,7 +467,7 @@
    "date": "Wed, 05 Aug 2026 15:23:30 GMT",
    "image": "https://www.google.com/s2/favicons?domain=www.vietnam.vn&sz=128",
    "source": "gnews",
-   "label": "Vietnam.vn",
+   "label": "vietnam.vn",
    "icon": "📰"
   }
  ]
