@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T07:06:20.865Z",
+ "updated": "2026-08-16T07:51:11.423Z",
  "count": 52,
  "items": [
   {
@@ -237,6 +237,15 @@
    "icon": "🌾"
   },
   {
+   "title": "Sinh học góp phần bảo đảm an ninh lương thực, bảo vệ môi trường",
+   "link": "https://nongnghiepmoitruong.vn/sinh-hoc-gop-phan-bao-dam-an-ninh-luong-thuc-bao-ve-moi-truong-d826383.html",
+   "date": "Sun, 16 Aug 2026 13:22:19 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/hieupt/2026/08/16/2534-tnb-45314-01-112414_668.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Giá đường tăng nhờ kiểm soát đường nhập lậu",
    "link": "https://nongnghiepmoitruong.vn/gia-duong-tang-nho-kiem-soat-duong-nhap-lau-d824676.html",
    "date": "Sun, 16 Aug 2026 11:28:50 +0700",
@@ -277,15 +286,6 @@
    "link": "https://nongnghiepmoitruong.vn/xay-dung-quoc-gia-bien-manh-bai-2-khai-thac-mo-vang-dien-gio-ngoai-khoi-d825369.html",
    "date": "Sun, 16 Aug 2026 10:29:12 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/10/95f744c1-6c53-4cf1-b5ba-3ad2525b1be9-112255_627-065550-nongnghiep-133930.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Đắk Lắk: Điểm hẹn kết nối chuỗi cung ứng sầu riêng Việt Nam - Trung Quốc",
-   "link": "https://nongnghiepmoitruong.vn/video/dak-lak-diem-hen-ket-noi-chuoi-cung-ung-sau-rieng-viet-nam--trung-quoc-tv826308.html",
-   "date": "Sun, 16 Aug 2026 10:26:55 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/15/1920-x-1080px-nongnghiep-162410.jpeg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -372,21 +372,21 @@
    "icon": "📰"
   },
   {
-   "title": "Hướng tới quản trị ngành chăn nuôi và thú y dựa trên dữ liệu",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEU2NWpHQjNZU2hoS1NFckcxcXFGNmtmZnBNdUV6X3NjaVVNeWszTHJyM1VyNy1DbUI2d1h3b0swRklOTE03SHEzMVhET3Z6cjZrSl9lZzBzc0Y3UG9pODc0R1lRNUs1aG1FTzZiTUxHb1dtaGZicW1wN1FHUTNsWkt2SEtHN3psQmI2Qm5uOG5HRjFDMUF2Z1U5NHYxVkZnV0wzUUlHVHQ2RlcyZEZXcg?oc=5",
-   "date": "Wed, 05 Aug 2026 01:51:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=baotintuc.vn&sz=128",
-   "source": "gnews",
-   "label": "baotintuc.vn",
-   "icon": "📰"
-  },
-  {
    "title": "Khởi tố, bắt tạm giam Chi cục trưởng cùng 5 cán bộ cấp dưới...",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV1VKZ2JuYUJ3X1ZjcXdOREgxN0NWaVBJSU5ENDVEaTI0UU9BYmVFLU5Vak9PR2VidWsxcDBTUGwwRUk3TDlicG5NRDFxQW1UMTZUSm1iRUFSaFhCaHZBLVY0NDBrU1lEcDJlaXN0Rmg3cHdDc29fam5ld29keW5EVEhERU1oNC1vUnRySm05YUVLdm5fSEd1a3pCLU5WYkNCTnhtQXFzbVowZ3Y4QjRWSXFqRkdFbnJGQWZFdENCSTVIMGZ2ZG1qc3BoTTF3c3M?oc=5",
    "date": "Tue, 04 Aug 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=xaydungchinhsach.chinhphu.vn&sz=128",
    "source": "gnews",
    "label": "xaydungchinhsach.chinhphu.vn",
+   "icon": "📰"
+  },
+  {
+   "title": "Hướng tới quản trị ngành chăn nuôi và thú y dựa trên dữ liệu",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEU2NWpHQjNZU2hoS1NFckcxcXFGNmtmZnBNdUV6X3NjaVVNeWszTHJyM1VyNy1DbUI2d1h3b0swRklOTE03SHEzMVhET3Z6cjZrSl9lZzBzc0Y3UG9pODc0R1lRNUs1aG1FTzZiTUxHb1dtaGZicW1wN1FHUTNsWkt2SEtHN3psQmI2Qm5uOG5HRjFDMUF2Z1U5NHYxVkZnV0wzUUlHVHQ2RlcyZEZXcg?oc=5",
+   "date": "Wed, 05 Aug 2026 01:51:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=baotintuc.vn&sz=128",
+   "source": "gnews",
+   "label": "baotintuc.vn",
    "icon": "📰"
   },
   {
