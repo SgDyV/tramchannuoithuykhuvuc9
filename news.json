@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T21:08:48.776Z",
+ "updated": "2026-08-16T21:40:06.972Z",
  "count": 52,
  "items": [
   {
@@ -449,7 +449,7 @@
    "date": "Fri, 17 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=hanoimoi.vn&sz=128",
    "source": "gnews",
-   "label": "hanoimoi.vn",
+   "label": "Báo Hànộimới",
    "icon": "📰"
   },
   {
@@ -458,7 +458,7 @@
    "date": "Wed, 06 May 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baolamdong.vn&sz=128",
    "source": "gnews",
-   "label": "baolamdong.vn",
+   "label": "Báo Lâm Đồng",
    "icon": "📰"
   },
   {
