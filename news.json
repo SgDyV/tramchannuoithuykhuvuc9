@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T19:48:23.783Z",
+ "updated": "2026-08-17T20:13:13.936Z",
  "count": 52,
  "items": [
   {
@@ -395,7 +395,7 @@
    "date": "Fri, 31 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=tienphong.vn&sz=128",
    "source": "gnews",
-   "label": "Báo điện tử Tiền Phong",
+   "label": "tienphong.vn",
    "icon": "📰"
   },
   {
@@ -453,21 +453,21 @@
    "icon": "📰"
   },
   {
+   "title": "TPHCM: Phát hiện các vụ vận chuyển, giết mổ gia cầm, gia súc bị nhiễm bệnh",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNGR4ZUZ6aHNGa0FvemlPVER4czNmMFJjUXBhM0VQdlllMlYtaml1VWx6YUZjYXg1Y096RUxrckw0enhWZ2RxTzh4QVNveXprblc2NWxvV0FyQ2hCRXVEMVRhR1ZFNmx6TDk5ajNEYVVNVFFJNnJPRHBrNVVKdk0zWHU5SnlhTjhvRmtZMmN6STBqNURQVjl0TFZMbDZWeVJvRW1FQ2ZiYjhWZVlWTXExTQ?oc=5",
+   "date": "Tue, 04 Aug 2026 07:00:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=www.sggp.org.vn&sz=128",
+   "source": "gnews",
+   "label": "BÁO SÀI GÒN GIẢI PHÓNG",
+   "icon": "📰"
+  },
+  {
    "title": "Kiểm soát chặt việc giết mổ gia súc, gia cầm tại cơ sở",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN3N4ZVZETGNCb2JnZXRzZlJSXzJvdXcxdHJrZ1d4ODJpcUtFYWFQSG9JRXpsQkxBM05PVEoyUTV4cmJpdE1CQUdneVlxZGZua1gwNHZxcTNvNkZmb2Nmc3hCMWJOX1VwTm8tc3V6RVhUdTN6ejNkUUlsemlDQUpVcnFoTjczd21SM0UyeXRya1o?oc=5",
    "date": "Wed, 06 May 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=baolamdong.vn&sz=128",
    "source": "gnews",
    "label": "Báo Lâm Đồng",
-   "icon": "📰"
-  },
-  {
-   "title": "Đẩy mạnh tuyên truyền phòng, chống các bệnh cúm gia cầm, lở mồm long móng và dịch tả lợn Châu phi giai đoạn 2026 – 2030 trên địa bàn xã Thượng Ninh.",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcXpVcDkxUkVlalZqZXVGaGtOUWNEc0RMVm9PaFVPSEFQVmxaWG41ckZYeHZIclpZMkRzVVJxZmFtZ3JadXQ1aTh6cUhNdWZUY3IzS3NCVkNfcEF1dThlSWJYOWVDNVZGUUhDcWhkakp2U25LbV9xNkgtQ0I2anZKcnd2RDI5Vl8zcV90QWdsTDZXUlpMaUpmc3U0cVBTY3BCRWM1aXJOdWdKc2JIUEtUb3VNcGxjVW5HMmNzRWtzNVYwakM0dFlXc194VGRpYUlPTUFQNWdNbVB1bVVHdDBQQUczT3hNSkR3TnlKaEJXemdORzQ?oc=5",
-   "date": "Thu, 11 Jun 2026 07:00:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=thuongninh.thanhhoa.gov.vn&sz=128",
-   "source": "gnews",
-   "label": "UBND Xã Thượng Ninh",
    "icon": "📰"
   }
  ]
