@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T20:49:30.868Z",
+ "updated": "2026-08-17T21:14:45.251Z",
  "count": 52,
  "items": [
   {
@@ -336,15 +336,6 @@
    "icon": "📰"
   },
   {
-   "title": "Thúc đẩy chăn nuôi an toàn, ứng dụng khoa học - công nghệ",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU2xJdjBiUS11ZERXUDlmZEliQzJpam9WNGk1X1dILWJDdnZPZVF3WjVNMjlzS2VEOFJ3WG56bDJMTzVFVHlpNFo4X0t0N3k1aDFobmZ6bURqZDZVakZoekp5Rl9qSDc0eUZVVDVPUjZMS1pCeWhNQUVwQThaM0dnUmQtOXgtU2N2dmsxdnlwWWZ6cnpRa1Rr?oc=5",
-   "date": "Mon, 17 Aug 2026 01:02:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=baocantho.com.vn&sz=128",
-   "source": "gnews",
-   "label": "Báo Cần Thơ",
-   "icon": "📰"
-  },
-  {
    "title": "Khởi tố, bắt tạm giam Chi cục trưởng cùng 5 cán bộ cấp dưới...",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV1VKZ2JuYUJ3X1ZjcXdOREgxN0NWaVBJSU5ENDVEaTI0UU9BYmVFLU5Vak9PR2VidWsxcDBTUGwwRUk3TDlicG5NRDFxQW1UMTZUSm1iRUFSaFhCaHZBLVY0NDBrU1lEcDJlaXN0Rmg3cHdDc29fam5ld29keW5EVEhERU1oNC1vUnRySm05YUVLdm5fSEd1a3pCLU5WYkNCTnhtQXFzbVowZ3Y4QjRWSXFqRkdFbnJGQWZFdENCSTVIMGZ2ZG1qc3BoTTF3c3M?oc=5",
    "date": "Tue, 04 Aug 2026 07:00:00 GMT",
@@ -360,6 +351,15 @@
    "image": "https://www.google.com/s2/favicons?domain=baotintuc.vn&sz=128",
    "source": "gnews",
    "label": "baotintuc.vn",
+   "icon": "📰"
+  },
+  {
+   "title": "Thúc đẩy chăn nuôi an toàn, ứng dụng khoa học - công nghệ",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU2xJdjBiUS11ZERXUDlmZEliQzJpam9WNGk1X1dILWJDdnZPZVF3WjVNMjlzS2VEOFJ3WG56bDJMTzVFVHlpNFo4X0t0N3k1aDFobmZ6bURqZDZVakZoekp5Rl9qSDc0eUZVVDVPUjZMS1pCeWhNQUVwQThaM0dnUmQtOXgtU2N2dmsxdnlwWWZ6cnpRa1Rr?oc=5",
+   "date": "Mon, 17 Aug 2026 01:02:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=baocantho.com.vn&sz=128",
+   "source": "gnews",
+   "label": "Báo Cần Thơ",
    "icon": "📰"
   },
   {
@@ -422,7 +422,7 @@
    "date": "Tue, 28 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=hungyen.gov.vn&sz=128",
    "source": "gnews",
-   "label": "UBND Tỉnh Hưng Yên",
+   "label": "hungyen.gov.vn",
    "icon": "📰"
   },
   {
