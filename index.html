@@ -1481,12 +1481,15 @@ function makeBlogCard(it){
   a.style.color='inherit'; a.style.display='block';
   var ds=fmtDate(it.date);
   var title=(it.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-  var esc=(it.image||'').replace(/"/g,'&quot;');
-  var isLogo=/s2\/favicons|\.ico(\?|$)/i.test(it.image||'');
+  var imgUrl=it.image||'';
+  // Không có ảnh bài gốc -> dùng LOGO nguồn (favicon theo tên miền) làm huy hiệu, tránh thẻ trống
+  if(!imgUrl && it.link){ try{ imgUrl='https://www.google.com/s2/favicons?domain='+new URL(it.link).hostname+'&sz=128'; }catch(e){} }
+  var esc=imgUrl.replace(/"/g,'&quot;');
+  var isLogo=/s2\/favicons|\.ico(\?|$)/i.test(imgUrl);
   var imgTag='';
-  if(it.image && !isLogo){
+  if(imgUrl && !isLogo){
     imgTag='<img src="'+esc+'" alt="" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover" onerror="this.style.display=\'none\'">';
-  } else if(it.image && isLogo){
+  } else if(imgUrl && isLogo){
     imgTag='<img src="'+esc+'" alt="" loading="lazy" style="position:absolute;right:10px;bottom:10px;width:38px;height:38px;border-radius:9px;background:#fff;padding:5px;object-fit:contain;box-shadow:0 2px 8px rgba(0,0,0,.3)" onerror="this.style.display=\'none\'">';
   }
   a.innerHTML='<div class="mag-card-thumb" style="position:relative;display:flex;align-items:center;justify-content:center;font-size:44px;background:'+st.g+'">'+st.i+imgTag+'</div>'+
