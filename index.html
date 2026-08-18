@@ -1541,7 +1541,9 @@ function renderItems(rawItems){
   if(list.length){
     // Blog feed: đổ bài dạng thẻ vào lưới (tự cập nhật)
     var bg=document.getElementById('blog-grid');
-    if(bg){ bg.innerHTML=''; list.slice(0,48).forEach(function(it){ bg.appendChild(makeBlogCard(it)); }); }
+    // Lưới bài chỉ hiển thị tin CÓ ẢNH GỐC (bỏ tin thông báo không ảnh) để feed sạch
+    var grid=list.filter(hasRealImg); if(!grid.length) grid=list;
+    if(bg){ bg.innerHTML=''; grid.slice(0,48).forEach(function(it){ bg.appendChild(makeBlogCard(it)); }); }
     var parts=list.slice(0,14).map(function(it){
       var t=(it.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\s+/g,' ').trim().substring(0,72);
       return '<a href="'+it.link+'" target="_blank" rel="noopener">'+(it.icon||'🔔')+' '+t+'</a>';
