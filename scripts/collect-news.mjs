@@ -9,19 +9,14 @@ const gn = q => 'https://news.google.com/rss/search?q=' + encodeURIComponent(q) 
 
 // Báo Nông nghiệp & Môi trường — RSS theo chuyên mục, MỖI BÀI CÓ ẢNH THẬT + link trực tiếp.
 const nnmt = s => ({ key:'nnmt', label:'Báo Nông nghiệp & Môi trường', icon:'🌾', type:'rss',
-  base:'https://nongnghiepmoitruong.vn', max:8, url:'https://nongnghiepmoitruong.vn/' + s + '.rss' });
+  base:'https://nongnghiepmoitruong.vn', max:10, url:'https://nongnghiepmoitruong.vn/' + s + '.rss' });
 
 const SOURCES = [
   // Nguồn chính: Chi cục CNTY TP.HCM (có RSS + ảnh bài)
   { key:'chicuccntyhcm', label:'Chi cục CNTY HCM', icon:'🏥', type:'rss',
     base:'https://chicuccntyhcm.gov.vn', url:'https://chicuccntyhcm.gov.vn/syndication.axd' },
-  // Báo NN&MT: 3 chuyên mục sát chủ đề — tất cả đều có ảnh bài
-  nnmt('thu-y'), nnmt('chan-nuoi'), nnmt('dich-benh'),
-  // Google Tin tức — gom tin từ nhiều báo theo chủ đề (giữ tên + LOGO báo gốc)
-  { key:'gnews', label:'Tin tổng hợp', icon:'📰', type:'rss', base:'', gnews:true, max:10,
-    url:gn('chăn nuôi thú y') },
-  { key:'gnews', label:'Tin tổng hợp', icon:'📰', type:'rss', base:'', gnews:true, max:8,
-    url:gn('dịch bệnh gia súc gia cầm an toàn thực phẩm') },
+  // Báo NN&MT: các chuyên mục sát chủ đề — TẤT CẢ đều có ẢNH BÀI THẬT
+  nnmt('thu-y'), nnmt('chan-nuoi'), nnmt('dich-benh'), nnmt('thi-truong'), nnmt('thuy-san'),
 ];
 
 async function get(url){
