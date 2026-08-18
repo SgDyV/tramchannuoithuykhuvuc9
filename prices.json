@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T14:39:31.212Z",
+ "updated": "2026-08-18T14:58:20.541Z",
  "date": "10/8/2026",
  "source": "chicuccntyhcm.gov.vn",
  "count": 17,
@@ -9,7 +9,7 @@
    "name": "Heo hơi",
    "value": "61.000 đ/kg",
    "num": 61000,
-   "trend": "down"
+   "trend": "same"
   },
   {
    "group": "company",
@@ -23,14 +23,14 @@
    "name": "Gà lông màu",
    "value": "30.000 đ/kg",
    "num": 30000,
-   "trend": "down"
+   "trend": "same"
   },
   {
    "group": "company",
    "name": "Gà lông trắng",
    "value": "33.000 đ/kg",
    "num": 33000,
-   "trend": "down"
+   "trend": "same"
   },
   {
    "group": "company",
@@ -51,42 +51,42 @@
    "name": "Heo hơi",
    "value": "56.000 - 57.000 đ/kg",
    "num": 56000,
-   "trend": "down"
+   "trend": "same"
   },
   {
    "group": "farm",
    "name": "Gà lông màu",
    "value": "24.000 đ/kg",
    "num": 24000,
-   "trend": "down"
+   "trend": "same"
   },
   {
    "group": "farm",
    "name": "Gà lông trắng",
    "value": "38.000 đ/kg",
    "num": 38000,
-   "trend": "up"
+   "trend": "same"
   },
   {
    "group": "farm",
    "name": "Vịt thịt",
    "value": "47.000 đ/kg",
    "num": 47000,
-   "trend": "up"
+   "trend": "same"
   },
   {
    "group": "farm",
    "name": "Vịt giống",
    "value": "25.000-26.000 đ/kg",
    "num": 25000,
-   "trend": "down"
+   "trend": "same"
   },
   {
    "group": "egg",
    "name": "Trứng gà",
    "value": "2.050 đ/quả",
    "num": 2050,
-   "trend": "up"
+   "trend": "same"
   },
   {
    "group": "egg",
@@ -114,14 +114,14 @@
    "name": "Gà lông trắng",
    "value": "44.000 đ/kg",
    "num": 44000,
-   "trend": "down"
+   "trend": "same"
   },
   {
    "group": "slaughter",
    "name": "Gà đẻ",
    "value": "82.000 đ/kg",
    "num": 82000,
-   "trend": "up"
+   "trend": "same"
   }
  ]
 }
