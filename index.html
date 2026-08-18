@@ -492,7 +492,9 @@ footer a{color:#86efac}
 .vb-dl{flex:0 0 auto;display:inline-flex;align-items:center;gap:4px;font-size:11.5px;font-weight:700;color:#fff;background:linear-gradient(135deg,var(--p),var(--bl));padding:6px 12px;border-radius:7px;text-decoration:none;white-space:nowrap;transition:filter .2s,transform .15s}
 .vb-dl:hover{filter:brightness(1.08);transform:translateY(-1px)}
 [data-theme="dark"] .vb-code{background:rgba(16,185,129,.15);border-color:rgba(16,185,129,.3)}
-/* Tổng hợp nhiều báo */
+/* Tổng hợp nhiều báo — nhánh phụ trong khối Bản tin */
+.bc-subhead{display:flex;align-items:center;gap:8px;font-size:12.5px;font-weight:700;color:var(--t2);margin:18px 0 10px;padding-top:14px;border-top:1px dashed var(--b1)}
+.bc-subhead::after{content:"";flex:1;height:1px;background:var(--b1)}
 #baochi-list{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:8px}
 @media(max-width:640px){#baochi-list{grid-template-columns:1fr}}
 .bc-item{display:flex;align-items:center;gap:9px;padding:9px 12px;border:1px solid var(--b1);border-radius:var(--rs);background:var(--g1);text-decoration:none;transition:border-color .2s,box-shadow .2s;min-width:0}
@@ -565,7 +567,7 @@ footer a{color:#86efac}
 </a>
 
 <!-- Thanh lọc chuyên mục + lưới bài tự cập nhật -->
-<div class="sh"><span class="sh-t">📰 Bài viết mới nhất</span><a class="sh-more" href="#" onclick="goTab('news');return false">Tất cả tin »</a></div>
+<div class="sh"><span class="sh-t">📰 Bản tin mới nhất</span><a class="sh-more" href="#" onclick="goTab('news');return false">Tất cả tin »</a></div>
 <div id="blog-chips" style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px">
   <button class="sw-btn cur" onclick="filterBlog(this,'all')">Tất cả</button>
   <button class="sw-btn" onclick="filterBlog(this,'chicuccntyhcm')">🏥 Chi cục CNTY</button>
@@ -573,8 +575,8 @@ footer a{color:#86efac}
 </div>
 <div class="mag-grid" id="blog-grid"><div style="grid-column:1/-1;text-align:center;color:var(--t3);padding:30px 0">⏳ Đang tải bài viết…</div></div>
 
-<!-- ════ TỔNG HỢP NHIỀU BÁO (Google Tin tức) ════ -->
-<div class="sh" style="margin-top:22px"><span class="sh-t">📰 Tổng hợp nhiều báo</span><span class="sh-more" style="cursor:default">chăn nuôi · thú y</span></div>
+<!-- Nhánh phụ trong CÙNG khối Bản tin: điểm tin tổng hợp từ nhiều báo -->
+<div class="bc-subhead">📰 Thêm tin từ nhiều báo</div>
 <div id="baochi-list"><div style="text-align:center;color:var(--t3);padding:16px 0">⏳ Đang tổng hợp tin từ nhiều báo…</div></div>
 
 <!-- ════ KHOA HỌC – CÔNG NGHỆ (trang chủ) ════ -->
