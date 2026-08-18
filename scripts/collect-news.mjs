@@ -17,6 +17,11 @@ const SOURCES = [
     base:'https://chicuccntyhcm.gov.vn', url:'https://chicuccntyhcm.gov.vn/syndication.axd' },
   // Báo NN&MT: các chuyên mục sát chủ đề — TẤT CẢ đều có ẢNH BÀI THẬT
   nnmt('thu-y'), nnmt('chan-nuoi'), nnmt('dich-benh'), nnmt('thi-truong'), nnmt('thuy-san'),
+  // Google Tin tức — TỔNG HỢP NHIỀU BÁO (hiển thị riêng dạng danh sách tiêu đề + tên/logo báo)
+  { key:'gnews', label:'Tin tổng hợp', icon:'📰', type:'rss', base:'', gnews:true, max:12,
+    url:gn('chăn nuôi thú y') },
+  { key:'gnews', label:'Tin tổng hợp', icon:'📰', type:'rss', base:'', gnews:true, max:10,
+    url:gn('dịch bệnh gia súc gia cầm an toàn thực phẩm') },
 ];
 
 async function get(url){

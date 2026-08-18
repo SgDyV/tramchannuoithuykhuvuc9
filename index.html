@@ -492,6 +492,16 @@ footer a{color:#86efac}
 .vb-dl{flex:0 0 auto;display:inline-flex;align-items:center;gap:4px;font-size:11.5px;font-weight:700;color:#fff;background:linear-gradient(135deg,var(--p),var(--bl));padding:6px 12px;border-radius:7px;text-decoration:none;white-space:nowrap;transition:filter .2s,transform .15s}
 .vb-dl:hover{filter:brightness(1.08);transform:translateY(-1px)}
 [data-theme="dark"] .vb-code{background:rgba(16,185,129,.15);border-color:rgba(16,185,129,.3)}
+/* Tổng hợp nhiều báo */
+#baochi-list{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:8px}
+@media(max-width:640px){#baochi-list{grid-template-columns:1fr}}
+.bc-item{display:flex;align-items:center;gap:9px;padding:9px 12px;border:1px solid var(--b1);border-radius:var(--rs);background:var(--g1);text-decoration:none;transition:border-color .2s,box-shadow .2s;min-width:0}
+.bc-item:hover{border-color:var(--p);box-shadow:var(--sh)}
+.bc-logo{flex:0 0 auto;width:22px;height:22px;border-radius:5px;background:#fff;padding:2px;object-fit:contain;border:1px solid var(--b1)}
+.bc-main{min-width:0;flex:1 1 auto}
+.bc-title{font-size:12.5px;color:var(--t1);line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.bc-meta{font-size:10.5px;color:var(--p);font-weight:700;margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bc-meta .bc-dt{color:var(--t3);font-weight:400}
 </style>
 </head>
 <body>
@@ -562,6 +572,10 @@ footer a{color:#86efac}
   <button class="sw-btn" onclick="filterBlog(this,'nnmt')">🌾 Báo NN&amp;MT</button>
 </div>
 <div class="mag-grid" id="blog-grid"><div style="grid-column:1/-1;text-align:center;color:var(--t3);padding:30px 0">⏳ Đang tải bài viết…</div></div>
+
+<!-- ════ TỔNG HỢP NHIỀU BÁO (Google Tin tức) ════ -->
+<div class="sh" style="margin-top:22px"><span class="sh-t">📰 Tổng hợp nhiều báo</span><span class="sh-more" style="cursor:default">chăn nuôi · thú y</span></div>
+<div id="baochi-list"><div style="text-align:center;color:var(--t3);padding:16px 0">⏳ Đang tổng hợp tin từ nhiều báo…</div></div>
 
 <!-- ════ KHOA HỌC – CÔNG NGHỆ (trang chủ) ════ -->
 <div class="sh" style="margin-top:22px"><span class="sh-t">🔬 Khoa học – Công nghệ</span><a class="sh-more" href="#" onclick="goTab('khcn');return false">Tất cả bài »</a></div>
@@ -1503,6 +1517,24 @@ function filterBlog(btn,src){
   document.querySelectorAll('#blog-chips .sw-btn').forEach(function(b){b.classList.remove('cur');});
   if(btn) btn.classList.add('cur');
 }
+// TỔNG HỢP NHIỀU BÁO — danh sách tiêu đề từ Google Tin tức (tên + logo báo gốc)
+function renderBaochi(items){
+  var el=document.getElementById('baochi-list'); if(!el) return;
+  var g=(items||[]).filter(function(x){return (x.src||x.source)==='gnews';});
+  if(!g.length){ el.innerHTML='<div style="grid-column:1/-1;text-align:center;color:var(--t3);padding:14px 0">Chưa có tin tổng hợp.</div>'; return; }
+  g.sort(function(a,b){ return (Date.parse(b.date)||0)-(Date.parse(a.date)||0); });
+  el.innerHTML=g.slice(0,14).map(function(it){
+    var title=(it.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    var fav=(it.image||'').replace(/"/g,'&quot;');
+    var src=(it.label||'Báo').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    var d=fmtDate(it.date);
+    return '<a class="bc-item" href="'+it.link+'" target="_blank" rel="noopener">'+
+      (fav?'<img class="bc-logo" src="'+fav+'" alt="" loading="lazy" onerror="this.style.display=\'none\'">':'')+
+      '<span class="bc-main"><span class="bc-title">'+title+'</span>'+
+      '<span class="bc-meta">'+src+(d?' <span class="bc-dt">· '+d+'</span>':'')+'</span></span>'+
+      '</a>';
+  }).join('');
+}
 
 // Hiển thị danh sách tin (dùng chung cho news.json và proxy dự phòng)
 function renderItems(rawItems){
@@ -1544,6 +1576,7 @@ function renderItems(rawItems){
     // Lưới bài chỉ hiển thị tin CÓ ẢNH GỐC (bỏ tin thông báo không ảnh) để feed sạch
     var grid=list.filter(hasRealImg); if(!grid.length) grid=list;
     if(bg){ bg.innerHTML=''; grid.slice(0,48).forEach(function(it){ bg.appendChild(makeBlogCard(it)); }); }
+    renderBaochi(uniq);
     var parts=list.slice(0,14).map(function(it){
       var t=(it.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\s+/g,' ').trim().substring(0,72);
       return '<a href="'+it.link+'" target="_blank" rel="noopener">'+(it.icon||'🔔')+' '+t+'</a>';
