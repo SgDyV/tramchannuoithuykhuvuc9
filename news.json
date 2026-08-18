@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T06:21:31.193Z",
+ "updated": "2026-08-18T07:11:27.014Z",
  "count": 52,
  "items": [
   {
@@ -237,6 +237,33 @@
    "icon": "🌾"
   },
   {
+   "title": "Khoảng trống quản lý khai thác khoáng sản tại Hà Tĩnh: [Bài 2] Khai thác không theo thiết kế, nguy cơ mất an toàn",
+   "link": "https://nongnghiepmoitruong.vn/khoang-trong-quan-ly-khai-thac-khoang-san-tai-ha-tinh-bai-2-khai-thac-khong-theo-thiet-ke-nguy-co-mat-an-toan-d824345.html",
+   "date": "Tue, 18 Aug 2026 14:07:41 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/02/mo-da-hong-son-nongnghiep-173522.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Thủ tướng Lê Minh Hưng viếng nguyên Thủ tướng Trung Quốc Chu Dung Cơ",
+   "link": "https://nongnghiepmoitruong.vn/thu-tuong-le-minh-hung-vieng-nguyen-thu-tuong-trung-quoc-chu-dung-co-d826701.html",
+   "date": "Tue, 18 Aug 2026 13:50:14 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tungdd/2026/08/18/0014-1-nongnghiep-125858.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Rộn ràng gian hàng Phân bón Miền Nam tại Đắk Lắk",
+   "link": "https://nongnghiepmoitruong.vn/ron-rang-gian-hang-phan-bon-mien-nam-tai-dak-lak-d826694.html",
+   "date": "Tue, 18 Aug 2026 13:18:31 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/18/4121-4057-ron-rang-gian-hang-phan-bon-mien-nam-tai-dak-lak-123704_258.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Đưa cây sen khỏi sản xuất manh mún",
    "link": "https://nongnghiepmoitruong.vn/dua-cay-sen-khoi-san-xuat-manh-mun-d826687.html",
    "date": "Tue, 18 Aug 2026 12:44:07 +0700",
@@ -282,39 +309,12 @@
    "icon": "🌾"
   },
   {
-   "title": "Gần 3.000 tăng ni, phật tử lan tỏa thông điệp phóng sinh có trách nhiệm",
-   "link": "https://nongnghiepmoitruong.vn/video/gan-3000-tang-ni-phat-tu-lan-toa-thong-diep-phong-sinh-co-trach-nhiem-tv826506.html",
-   "date": "Tue, 18 Aug 2026 10:52:25 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/khangna/2026/08/17/0032-2aoboqrvfuzksuut7butirffhtsft9cqkcuakki8-nongnghiep-120029.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Phát triển các mô hình khuyến nông giúp bà con thoát nghèo",
-   "link": "https://nongnghiepmoitruong.vn/video/phat-trien-cac-mo-hinh-khuyen-nong-giup-ba-con-thoat-ngheo-tv826415.html",
-   "date": "Tue, 18 Aug 2026 10:39:57 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/18/untitled-nongnghiep-100515.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Cảnh báo lũ trên các sông dâng cao 2-5 m do mưa lớn",
-   "link": "https://nongnghiepmoitruong.vn/canh-bao-lu-tren-cac-song-dang-cao-2-5-m-do-mua-lon-d826670.html",
-   "date": "Tue, 18 Aug 2026 10:38:31 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/lyntk92/2026/08/18/0041-anh-nguyen-nga-son-la-nongnghiep-100032.jpeg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
    "title": "Hà Nội phê duyệt 65 quy trình thủ tục hành chính lĩnh vực chăn nuôi, thú y và thủy sản",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTlaOTdWamVzbGN4aGhrY3NCZERfb25Pdi1RNVp3MnRtcVJPYm9SMjhydkVLdUtlZ0pLUjRjUTA3YW0tZERsS2JfSVM0ODU4MklRZDJ2elBMNUczY1RwM3dYTF9DV1lyYXR4eHFvbWFwUUNwNnBsM3Q1bzhCV1NSdGZNRUszcTN6RnQzbW9FeHVpSWRUR3dMaHpiRUpqZUNDTzZKeXNpa3ItVm1iTEE?oc=5",
    "date": "Sun, 16 Aug 2026 23:03:19 GMT",
    "image": "https://www.google.com/s2/favicons?domain=nhachannuoi.vn&sz=128",
    "source": "gnews",
-   "label": "Tạp chí Chăn nuôi Việt Nam",
+   "label": "nhachannuoi.vn",
    "icon": "📰"
   },
   {
@@ -324,6 +324,15 @@
    "image": "https://www.google.com/s2/favicons?domain=moitruong.net.vn&sz=128",
    "source": "gnews",
    "label": "moitruong.net.vn",
+   "icon": "📰"
+  },
+  {
+   "title": "5 tháng phát hiện 80 con heo nhiễm dịch tả châu Phi, tiêu hủy 50.000kg thịt",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1hRYXFGblZkS0ZUVkdaMVhxbDEtem16MWJSLXh0dlNKazRMZXlMZGNWZl9rWHdyN291Q3ZVbWxhZjdBaXNJelpDS0VQQk1wZ2NMRHZwdjN1UlJjQWtPbG5TMHQxV2NxTUNidUNfNjhiQmwya0ZNZVNqNEszbmZpMUlfSllvOURSTWRfcDRFcnpJa0gzN2o4WU12QmpZT1RWWC1aUS1PNGhwUW9KV1pCMlpUa3I1Zw?oc=5",
+   "date": "Tue, 18 Aug 2026 06:28:56 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=dantri.com.vn&sz=128",
+   "source": "gnews",
+   "label": "Báo Dân trí",
    "icon": "📰"
   },
   {
@@ -390,15 +399,6 @@
    "icon": "📰"
   },
   {
-   "title": "Vụ buôn lậu thủy sản trị giá 1.000 tỷ: Khởi tố Chi cục trưởng Chăn nuôi và Thú y vùng I",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ192b3NIRkR2Z21jT1Y4SERpc2JOcFktRjlJakRnNHNDUzNNLWNKU3pXNkU0eEdINktXczEtWEVNckRGejd2N21NMzVULVlVeXBiMURHRXQ2ZXdOVkxJTkVmMkM2SzZuSDVULUpnQkRGdWl6RVFxVnljZ2Uyd3dwZG95S1NNcWQtT2YzMjVMQ2pnLU4zOEVJQTJTalJXSmhkVE9BYnVmcXJvWHJNcU1aSzZkMFBCXzg5TVhtb1hBWQ?oc=5",
-   "date": "Fri, 31 Jul 2026 07:00:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=tienphong.vn&sz=128",
-   "source": "gnews",
-   "label": "Báo điện tử Tiền Phong",
-   "icon": "📰"
-  },
-  {
    "title": "Mỗi ngày TP.HCM giết mổ hơn 858 tấn thịt, kiểm soát an toàn thực phẩm ra sao?",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSklsTnc0SGk3SlpfVU45dFUtOXVhV3VpMWF1SW03M2d5b01EYXhKVTdWazFWNXV1SV9kNUxQM2VuTzZrMmRZcHd1OFdoVjFkRl9EbG1MMVY2V193U09VVDczTGFYNVQ0cDREeE14c0hxX3VlY2Q1OGNLcU56QUZ1TUtDOVpidlZQbGU2eHRZdXJRUnkyUU5xYWxvQkFUdkNXamVxY3gweFlQMVA1NTVhX3Zhckh0Wl9qWGc?oc=5",
    "date": "Tue, 18 Aug 2026 05:17:00 GMT",
@@ -444,15 +444,6 @@
    "icon": "📰"
   },
   {
-   "title": "Xã Phú Xuyên: Tăng cường quản lý, kiểm soát giết mổ gia súc, gia cầm",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2l4TnJ3a09XOU9CNk1wdS1HcFU3TWhiaWp1SWtRV1RrWXdQbXhQTERId0N0ei02b0ZLeENpZ0I3MGxLVUdmSENmRzRnNkVNd3BIYldJNzlranFJem5PdjFDTU91RkI4bjFSUmtWSkhNR1BheHRiWV9kVl9JZ0YxQlFHTzJOTk5iSXFNZVNZZ3dfOXM5d3JmbFU4TlVjNjg?oc=5",
-   "date": "Fri, 17 Jul 2026 07:00:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=hanoimoi.vn&sz=128",
-   "source": "gnews",
-   "label": "Báo Hànộimới",
-   "icon": "📰"
-  },
-  {
    "title": "Chăn nuôi Hải Phòng giữ vững đà tăng trưởng, phát triển theo hướng an toàn và bền vững",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3FidkxzTlhraFF4RUw0a01GMGxPUVRfYW45QnhnQi1kMDhvSHJlSjhrSnR4LTdYbWE1VlF4Rm02M3JvbjFFbHhucTh4aW9UbTVlNXBpVklwRjhRblNBVFpGY1JUSEM0dnFTb1VxTllfeHFxZkc3VlMzWHdySlFaN3UwN3plVlBUaUdraUdDaVBCd1FrZkI2U0VGTE1CMDc3UVNQaUltVjF6NGc4M3llTEM3QQ?oc=5",
    "date": "Wed, 22 Jul 2026 07:00:00 GMT",
@@ -468,6 +459,15 @@
    "image": "https://www.google.com/s2/favicons?domain=thuongninh.thanhhoa.gov.vn&sz=128",
    "source": "gnews",
    "label": "UBND Xã Thượng Ninh",
+   "icon": "📰"
+  },
+  {
+   "title": "Phòng, chống dịch bệnh cho gia súc - Báo và phát thanh, truyền hình Quảng Trị",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUjEzS2dMMlBGenBKQjJEZVJJSnVVT3h6c0k2SmxHb2t4N1V3cUczVWZQMUQydjc2VmNxS1ROVXlJRmFNVEVxRF93SmV4RjZpbTU2U0x3bkVZU3pqMzFSUjEzUlF5ZjdCTDBvU3pKcmhhc0xIc2haekJYWXNZQm5sMHJNakNDZw?oc=5",
+   "date": "Fri, 19 Jun 2026 07:00:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=baoquangtri.vn&sz=128",
+   "source": "gnews",
+   "label": "Báo và phát thanh, truyền hình Quảng Trị",
    "icon": "📰"
   }
  ]
