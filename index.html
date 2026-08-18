@@ -575,10 +575,6 @@ footer a{color:#86efac}
 </div>
 <div class="mag-grid" id="blog-grid"><div style="grid-column:1/-1;text-align:center;color:var(--t3);padding:30px 0">⏳ Đang tải bài viết…</div></div>
 
-<!-- Nhánh phụ trong CÙNG khối Bản tin: điểm tin tổng hợp từ nhiều báo -->
-<div class="bc-subhead">📰 Thêm tin từ nhiều báo</div>
-<div id="baochi-list"><div style="text-align:center;color:var(--t3);padding:16px 0">⏳ Đang tổng hợp tin từ nhiều báo…</div></div>
-
 <!-- ════ KHOA HỌC – CÔNG NGHỆ (trang chủ) ════ -->
 <div class="sh" style="margin-top:22px"><span class="sh-t">🔬 Khoa học – Công nghệ</span><a class="sh-more" href="#" onclick="goTab('khcn');return false">Tất cả bài »</a></div>
 <div class="mag-grid" id="khcn-home"><div style="grid-column:1/-1;text-align:center;color:var(--t3);padding:24px 0">⏳ Đang tải bài khoa học – công nghệ…</div></div>
@@ -1578,7 +1574,6 @@ function renderItems(rawItems){
     // Lưới bài chỉ hiển thị tin CÓ ẢNH GỐC (bỏ tin thông báo không ảnh) để feed sạch
     var grid=list.filter(hasRealImg); if(!grid.length) grid=list;
     if(bg){ bg.innerHTML=''; grid.slice(0,48).forEach(function(it){ bg.appendChild(makeBlogCard(it)); }); }
-    renderBaochi(uniq);
     var parts=list.slice(0,14).map(function(it){
       var t=(it.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\s+/g,' ').trim().substring(0,72);
       return '<a href="'+it.link+'" target="_blank" rel="noopener">'+(it.icon||'🔔')+' '+t+'</a>';
