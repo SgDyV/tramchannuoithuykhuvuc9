@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T03:13:44.378Z",
+ "updated": "2026-08-18T04:03:28.917Z",
  "count": 42,
  "items": [
   {
@@ -332,7 +332,7 @@
    "date": "Tue, 28 Jul 2026 07:00:00 GMT",
    "image": "https://www.google.com/s2/favicons?domain=hungyen.gov.vn&sz=128",
    "source": "gnews",
-   "label": "UBND Tỉnh Hưng Yên",
+   "label": "hungyen.gov.vn",
    "icon": "📰"
   },
   {
@@ -342,6 +342,15 @@
    "image": "https://www.google.com/s2/favicons?domain=baohatinh.vn&sz=128",
    "source": "gnews",
    "label": "Báo Hà Tĩnh",
+   "icon": "📰"
+  },
+  {
+   "title": "Xã Phú Xuyên: Tăng cường quản lý, kiểm soát giết mổ gia súc, gia cầm",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2l4TnJ3a09XOU9CNk1wdS1HcFU3TWhiaWp1SWtRV1RrWXdQbXhQTERId0N0ei02b0ZLeENpZ0I3MGxLVUdmSENmRzRnNkVNd3BIYldJNzlranFJem5PdjFDTU91RkI4bjFSUmtWSkhNR1BheHRiWV9kVl9JZ0YxQlFHTzJOTk5iSXFNZVNZZ3dfOXM5d3JmbFU4TlVjNjg?oc=5",
+   "date": "Fri, 17 Jul 2026 07:00:00 GMT",
+   "image": "https://www.google.com/s2/favicons?domain=hanoimoi.vn&sz=128",
+   "source": "gnews",
+   "label": "Báo Hànộimới",
    "icon": "📰"
   },
   {
@@ -369,15 +378,6 @@
    "image": "https://www.google.com/s2/favicons?domain=baoquangtri.vn&sz=128",
    "source": "gnews",
    "label": "Báo và phát thanh, truyền hình Quảng Trị",
-   "icon": "📰"
-  },
-  {
-   "title": "Kiểm tra công tác kiểm soát giết mổ động vật, an toàn thực phẩm tại các xã: Hoài Đức, Liên Minh",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU3V6YjRIN1JIc0FGREVmYlY4SEpFN0JJVkZFbnkwbllsVmNwSGxEaVNVSllXVTlicEVnbFhnbm1JcG9YRld3bHVUR2xHeHpRX0ZMUUwtNlR6b3lpSU5hc3FWTzNnekxxV3J1YW5wRTROSENZYm8tM2FTY01sQjNZM3hMYms1aXBCWXdfNmFqdzc2YXExV1lrWG41a2pmNGxJRnBNcXhfNnlBd3FFMXpHaVlhaFpwbEM0ejNuTlVZVjVEY00?oc=5",
-   "date": "Thu, 04 Jun 2026 07:00:00 GMT",
-   "image": "https://www.google.com/s2/favicons?domain=hanoimoi.vn&sz=128",
-   "source": "gnews",
-   "label": "Báo Hànộimới",
    "icon": "📰"
   }
  ]
