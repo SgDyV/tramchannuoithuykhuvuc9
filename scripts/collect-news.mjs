@@ -15,8 +15,9 @@ const SOURCES = [
   // Nguồn chính: Chi cục CNTY TP.HCM (có RSS + ảnh bài)
   { key:'chicuccntyhcm', label:'Chi cục CNTY HCM', icon:'🏥', type:'rss',
     base:'https://chicuccntyhcm.gov.vn', url:'https://chicuccntyhcm.gov.vn/syndication.axd' },
-  // Báo NN&MT: các chuyên mục sát chủ đề — TẤT CẢ đều có ẢNH BÀI THẬT
+  // Báo NN&MT: nhiều chuyên mục — TẤT CẢ đều có ẢNH BÀI THẬT (lọc chủ đề ở phía web)
   nnmt('thu-y'), nnmt('chan-nuoi'), nnmt('dich-benh'), nnmt('thi-truong'), nnmt('thuy-san'),
+  nnmt('thoi-su'), nnmt('nong-thon-moi'), nnmt('moi-truong'),
 ];
 
 async function get(url){
