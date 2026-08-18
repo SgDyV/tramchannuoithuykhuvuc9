@@ -239,7 +239,8 @@ try {
       list.sort((a, b) => new Date(b.ngay_dang) - new Date(a.ngay_dang));
       const items = list.slice(0, 15).map(x => ({
         title: String(x.tieu_de).replace(/\s+/g, ' ').trim(),
-        link: CAT,
+        // Dẫn thẳng tới BÀI GỐC (trang chi tiết), không phải trang chuyên mục
+        link: x.id ? ('https://channuoivietnam.com/portal-news-detail/' + x.id) : CAT,
         date: x.ngay_dang,
         image: x.hinh_anh ? ('https://channuoivietnam.com' + (String(x.hinh_anh).startsWith('/') ? x.hinh_anh : '/' + x.hinh_anh)) : '',
         source: 'khcn', label: 'KH–CN · Chăn nuôi VN', icon: '🔬'
