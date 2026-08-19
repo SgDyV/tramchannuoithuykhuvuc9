@@ -1,7 +1,25 @@
 {
- "updated": "2026-08-19T03:15:38.020Z",
+ "updated": "2026-08-19T04:04:31.905Z",
  "count": 88,
  "items": [
+  {
+   "title": "Hành trình chặn đứng thực phẩm bẩn vào TP.HCM",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/19/Hanh-trinh-chan-dung-thuc-pham-ban-vao-TPHCM.aspx",
+   "date": "Wed, 19 Aug 2026 10:30:00 +0700",
+   "image": "",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
+  },
+  {
+   "title": "Bữa ăn an toàn: Nền tảng xây dựng thương hiệu thực phẩm bền vững",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/19/Bua-an-an-toan-Nen-tang-xay-dung-thuong-hieu-thuc-pham-ben-vung.aspx",
+   "date": "Wed, 19 Aug 2026 09:24:00 +0700",
+   "image": "",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
+  },
   {
    "title": "TP.HCM phát hiện, tiêu hủy nhiều lô thịt heo, gà nhiễm chất cấm",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/08/19/TPHCM-phat-hien-tieu-huy-nhieu-lo-thit-heo-ga-nhiem-chat-cam.aspx",
@@ -70,24 +88,6 @@
    "link": "https://chicuccntyhcm.gov.vn/new/2026/08/10/Hoi-nghi-Cap-nhat-cac-quy-dinh-ve-an-toan-thuc-pham-va-kiem-dich-dong-thuc-vat-(SPS)-trong-Hiep-dinh-thuong-mai-tu-do-giua-Viet-Nam-Lien-minh-chau-Au-(EVFTA)-Viet-Nam-Vuong-quoc-Anh-va-Bac-Ai-len-(UKVFTA).aspx",
    "date": "Mon, 10 Aug 2026 15:25:00 +0700",
    "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2fHoiNghiSPSHCM1.jpg",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
-   "title": "Hội nghị với các Hiệp hội ngành hàng về thúc đẩy xuất khẩu nông, lâm, thủy sản 6 tháng cuối năm 2026",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/10/Hoi-nghi-voi-cac-Hiep-hoi-nganh-hang-ve-thuc-day-xuat-khau-nong-lam-thuy-san-6-thang-cuoi-nam-2026.aspx",
-   "date": "Mon, 10 Aug 2026 15:25:00 +0700",
-   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2fHoiNghiHiepHoiXuatKhau.jpg",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
-   "title": "Thông báo quy định về biện pháp SPS của Thành viên Tổ chức Thương mại Thế giới (WTO) (từ ngày 16/7/2026 - ngày 31/7/2026)",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/10/Thong-bao-quy-dinh-ve-bien-phap-SPS-cua-Thanh-vien-To-chuc-Thuong-mai-The-gioi-(WTO)-(tu-ngay-16-7-2026-ngay-31-7-2026).aspx",
-   "date": "Mon, 10 Aug 2026 15:24:00 +0700",
-   "image": "",
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
@@ -273,6 +273,42 @@
    "icon": "🌾"
   },
   {
+   "title": "Malaysia tăng cường ứng phó 'siêu El Niño' và khói mù",
+   "link": "https://nongnghiepmoitruong.vn/malaysia-tang-cuong-ung-pho-sieu-el-nio-va-khoi-mu-d826871.html",
+   "date": "Wed, 19 Aug 2026 10:59:47 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/19/screenshot-2026-08-19-101246-101441_332-105948.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Vì sao Diamond Sky hút khách ngay khi mở bán?",
+   "link": "https://nongnghiepmoitruong.vn/vi-sao-diamond-sky-hut-khach-ngay-khi-mo-ban-d826731.html",
+   "date": "Wed, 19 Aug 2026 10:59:15 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/18/3-nongnghiep-144914.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Nghiên cứu Anh chỉ ra khoảng trống pháp lý bảo vệ nguồn lợi thủy sản",
+   "link": "https://nongnghiepmoitruong.vn/nghien-cuu-anh-chi-ra-khoang-trong-phap-ly-bao-ve-nguon-loi-thuy-san-d826886.html",
+   "date": "Wed, 19 Aug 2026 10:58:10 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/19/screenshot-2026-08-19-104711-104906_301-105810.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Quốc hội xem xét 7 nhóm chính sách lớn trong sửa đổi Luật Đất đai",
+   "link": "https://nongnghiepmoitruong.vn/quoc-hoi-xem-xet-7-nhom-chinh-sach-lon-trong-sua-doi-luat-dat-dai-d826872.html",
+   "date": "Wed, 19 Aug 2026 10:22:58 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/trungkd81/2026/08/19/5106-1787103908332_2050130540205699015_2050130540205699015_b0afc9280f566efeaba90efeee01a142-094851_503.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Giá cà phê hôm nay 19/8/2026: Thế giới tăng mạnh thêm hơn 2,3%",
    "link": "https://nongnghiepmoitruong.vn/gia-ca-phe-hom-nay-19-8-2026-the-gioi-tang-manh-them-hon-23-d826831.html",
    "date": "Wed, 19 Aug 2026 10:06:25 +0700",
@@ -322,42 +358,6 @@
    "link": "https://nongnghiepmoitruong.vn/phai-co-tiem-luc-va-suc-manh-de-bao-ve-hoa-binh-d826870.html",
    "date": "Wed, 19 Aug 2026 09:50:46 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tungdd/2026/08/19/4017-1-nongnghiep-093247.jpeg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Thủ tướng làm việc về 12 dự án luật, nghị quyết dự kiến trình Quốc hội",
-   "link": "https://nongnghiepmoitruong.vn/thu-tuong-lam-viec-ve-12-du-an-luat-nghi-quyet-du-kien-trinh-quoc-hoi-d826861.html",
-   "date": "Wed, 19 Aug 2026 09:37:04 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tungdd/2026/08/19/1559-2-nongnghiep-091452.jpeg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "BIC ra mắt bộ đôi bảo hiểm cho hộ kinh doanh và người lao động",
-   "link": "https://nongnghiepmoitruong.vn/bic-ra-mat-bo-doi-bao-hiem-cho-ho-kinh-doanh-va-nguoi-lao-dong-d826683.html",
-   "date": "Wed, 19 Aug 2026 09:33:56 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/18/3732-1036-bic-110754_878.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "EU đối mặt khủng hoảng lương thực do nắng nóng kỷ lục",
-   "link": "https://nongnghiepmoitruong.vn/eu-doi-mat-khung-hoang-luong-thuc-do-nang-nong-ky-luc-d826852.html",
-   "date": "Wed, 19 Aug 2026 09:33:22 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/hunglq/2026/08/19/0814-ecad4ec2-4f22-4511-8e98-c51ffd7f9e29_437fc09f-nongnghiep-070748.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Đội tuyển Việt Nam cảnh giác trước khả năng tấn công biên của Malaysia",
-   "link": "https://nongnghiepmoitruong.vn/doi-tuyen-viet-nam-canh-giac-truoc-kha-nang-tan-cong-bien-cua-malaysia-d826797.html",
-   "date": "Wed, 19 Aug 2026 09:32:36 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/hainv72/2026/08/19/4034-hlv-kim-nongnghiep-190940.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -543,6 +543,15 @@
    "icon": "🌾"
   },
   {
+   "title": "Thủ tướng làm việc về 12 dự án luật, nghị quyết dự kiến trình Quốc hội",
+   "link": "https://nongnghiepmoitruong.vn/thu-tuong-lam-viec-ve-12-du-an-luat-nghi-quyet-du-kien-trinh-quoc-hoi-d826861.html",
+   "date": "Wed, 19 Aug 2026 10:20:58 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tungdd/2026/08/19/1559-2-nongnghiep-091452.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Viện Mekong công bố hai giống lúa mới vừa được công nhận lưu hành",
    "link": "https://nongnghiepmoitruong.vn/vien-mekong-cong-bo-hai-giong-lua-moi-vua-duoc-cong-nhan-luu-hanh-d826809.html",
    "date": "Wed, 19 Aug 2026 08:41:17 +0700",
@@ -601,15 +610,6 @@
    "link": "https://nongnghiepmoitruong.vn/loi-cam-on-tu-dien-dan-carbon-viet-nam-2026-tu-chinh-sach-den-hanh-dong-d826772.html",
    "date": "Tue, 18 Aug 2026 18:14:15 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/18/thu-truong-bo-nong-nghiep-va-moi-truong-le-cong-thanh-nhin-nhan-thi-truong-carbon-van-la-linh-vuc-moi-doi-voi-viet-nam-163954_44-181415.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "An toàn thực phẩm từ trang trại đến bàn ăn",
-   "link": "https://nongnghiepmoitruong.vn/an-toan-thuc-pham-tu-trang-trai-den-ban-an-d826684.html",
-   "date": "Tue, 18 Aug 2026 15:58:45 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thuynt/2026/08/18/0758-5-thu-yjpg-nongnghiep-150749.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
