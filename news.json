@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T10:20:18.481Z",
+ "updated": "2026-08-20T10:53:52.710Z",
  "count": 88,
  "items": [
   {
@@ -183,6 +183,15 @@
    "icon": "🌾"
   },
   {
+   "title": "Hỗ trợ 20 triệu đồng cơ sở chăn nuôi được cấp VietGAHP",
+   "link": "https://nongnghiepmoitruong.vn/ho-tro-20-trieu-dong-co-so-chan-nuoi-duoc-cap-vietgahp-d826999.html",
+   "date": "Thu, 20 Aug 2026 17:30:45 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/20/0128-anh-chan-nuoi-nongnghiep-122806.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "'Có Sunjin - Sợ gì nóng' đồng hành hơn 1.000 trang trại giảm stress nhiệt cho heo",
    "link": "https://nongnghiepmoitruong.vn/co-sunjin--so-gi-nong-dong-hanh-hon-1000-trang-trai-giam-stress-nhiet-cho-heo-d826997.html",
    "date": "Thu, 20 Aug 2026 08:40:57 +0700",
@@ -264,10 +273,64 @@
    "icon": "🌾"
   },
   {
-   "title": "​Geleximco đề xuất dự án nuôi lợn công nghệ cao 1.463 tỷ đồng tại Bình Khê",
-   "link": "https://nongnghiepmoitruong.vn/geleximco-de-xuat-du-an-nuoi-lon-cong-nghe-cao-1463-ty-dong-tai-binh-khe-d825301.html",
-   "date": "Mon, 10 Aug 2026 14:51:44 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/cuongvv/2026/08/09/2032-img_20260809_231546-nongnghiep-232025.jpg",
+   "title": "Tử vi 12 cung hoàng đạo ngày 21/8/2026: Bạch Dương - Ma Kết khởi sắc",
+   "link": "https://nongnghiepmoitruong.vn/tu-vi-12-cung-hoang-dao-ngay-21-8-2026-bach-duong--ma-ket-khoi-sac-d827202.html",
+   "date": "Thu, 20 Aug 2026 17:50:00 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/20/tu-vi-12-cung-hoang-dao-hom-nay-21-8-2026-160640_935-162444.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "11 dự án mở hướng đi mới cho kinh tế tuần hoàn nhựa",
+   "link": "https://nongnghiepmoitruong.vn/11-du-an-mo-huong-di-moi-cho-kinh-te-tuan-hoan-nhua-d827156.html",
+   "date": "Thu, 20 Aug 2026 17:48:23 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/duyenht92/2026/08/20/3150-11-du-an-mo-huong-di-moi-cho-kinh-te-tuan-hoan-nhua-153132_223.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "10 dự án áp dụng ‘luồng xanh 24h’ để kịp khởi công tháng 9/2026",
+   "link": "https://nongnghiepmoitruong.vn/10-du-an-ap-dung-luong-xanh-24h-de-kip-khoi-cong-thang-9-2026-d827204.html",
+   "date": "Thu, 20 Aug 2026 17:42:29 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/20/khu-cong-nghiep-thuan-thanh-iii-nongnghiep-160126.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Khánh thành văn phòng ILRI tại Thái Nguyên",
+   "link": "https://nongnghiepmoitruong.vn/khanh-thanh-van-phong-ilri-tai-thai-nguyen-d827111.html",
+   "date": "Thu, 20 Aug 2026 17:41:24 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/20/khanh-thanh-van-phong-ilri-tai-thai-nguyen-113046_484-174128.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Petrovietnam: Giữ lửa truyền thống, kiến tạo tương lai",
+   "link": "https://nongnghiepmoitruong.vn/petrovietnam-giu-lua-truyen-thong-kien-tao-tuong-lai-d827212.html",
+   "date": "Thu, 20 Aug 2026 17:37:11 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thuyptt90/2026/08/20/4903-nghi-quyet-80-nqtw-va-hanh-trinh-nang-tam-van-hoa-petrovietnam-bien-van-hoa-thanh-suc-manh-noi-sinh-trong-ky-nguyen-moi-20260224201004-164526_234.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Khoảng trống quản lý khai thác khoáng sản tại Hà Tĩnh: [Bài 4] Đường nát, cây chết, người lo âu!",
+   "link": "https://nongnghiepmoitruong.vn/khoang-trong-quan-ly-khai-thac-khoang-san-tai-ha-tinh-bai-4-duong-nat-cay-chet-nguoi-lo-au-d824342.html",
+   "date": "Thu, 20 Aug 2026 17:35:21 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/ngant/2026/08/02/0354-mo-cty-an-binh3-da-dung-5-nongnghiep-170345.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "LPBank lọt Top 6 ngân hàng tư nhân nộp ngân sách lớn nhất Việt Nam",
+   "link": "https://nongnghiepmoitruong.vn/lpbank-lot-top-6-ngan-hang-tu-nhan-nop-ngan-sach-lon-nhat-viet-nam-d827213.html",
+   "date": "Thu, 20 Aug 2026 17:29:53 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/20/5918-lpbank-vntax-3-164922_366.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -286,78 +349,6 @@
    "link": "https://nongnghiepmoitruong.vn/xay-dung-quoc-gia-bien-manh-bai-cuoi-quan-ly-thong-nhat-hien-dai-ben-vung-d825375.html",
    "date": "Thu, 20 Aug 2026 16:38:57 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/giangdt83/2026/08/10/0718-petro-171330_506-072413-nongnghiep-140714.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Trực tiếp phim Phù sa tập 3 trên VTV1 hôm nay 20/8/2026",
-   "link": "https://nongnghiepmoitruong.vn/truc-tiep-phim-phu-sa-tap-3-tren-vtv1-hom-nay-20-8-2026-d827067.html",
-   "date": "Thu, 20 Aug 2026 16:26:26 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/20/truc-tiep-phim-phu-sa-tap-3-tren-vtv1-hom-nay-20-8-2026-153044_166-162627.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Trực tiếp Lửa trắng tập 19 trên VTV3 hôm nay 20/8/2026",
-   "link": "https://nongnghiepmoitruong.vn/truc-tiep-lua-trang-tap-19-tren-vtv3-hom-nay-20-8-2026-d827069.html",
-   "date": "Thu, 20 Aug 2026 16:25:10 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/20/truc-tiep-lua-trang-tap-19-tren-vtv3-hom-nay-20-8-2026-153726_603.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Dự báo thời tiết ngày mai 21/8/2026: Tin áp thấp nhiệt đới mới nhất",
-   "link": "https://nongnghiepmoitruong.vn/du-bao-thoi-tiet-ngay-mai-21-8-2026-tin-ap-thap-nhiet-doi-moi-nhat-d827071.html",
-   "date": "Thu, 20 Aug 2026 16:21:36 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/20/thoi-tiet-dem-nay-va-ngay-mai-21-8-2026-233033_636-162238.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Bắc Ninh khởi động dự án canh tác lúa thân thiện với môi trường",
-   "link": "https://nongnghiepmoitruong.vn/bac-ninh-khoi-dong-du-an-canh-tac-lua-than-thien-voi-moi-truong-d827190.html",
-   "date": "Thu, 20 Aug 2026 16:20:31 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/20/hnd-bac-ninh-nongnghiep-161057.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Bắc Ninh còn 252 dự án chậm đưa đất vào sử dụng",
-   "link": "https://nongnghiepmoitruong.vn/bac-ninh-con-252-du-an-cham-dua-dat-vao-su-dung-d827193.html",
-   "date": "Thu, 20 Aug 2026 16:08:00 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/20/252-du-an-cham-dua-dat-vao-su-dung-o-bac-ninh-152106_650-152107-160801.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Giá xăng, dầu cùng tăng, có loại tăng hơn 1.300 đồng/lít",
-   "link": "https://nongnghiepmoitruong.vn/gia-xang-dau-cung-tang-co-loai-tang-hon-1300-dong-lit-d827187.html",
-   "date": "Thu, 20 Aug 2026 16:05:57 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thamdth/2026/08/20/1919-gia-xang-dau-hom-nay-17743220961181634935823-nongnghiep-151914.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Giá chênh vàng trong nước 'rơi về đáy' 3,3 triệu đồng/lượng, bạc còn 7,5 triệu/kg",
-   "link": "https://nongnghiepmoitruong.vn/gia-chenh-vang-trong-nuoc-roi-ve-day-33-trieu-dong-luong-bac-con-75-trieu-luong-d827164.html",
-   "date": "Thu, 20 Aug 2026 17:19:30 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/20/phu-quy-1-nongnghiep-141005.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Hà Nội, an toàn thực phẩm trong kỷ nguyên số từ chiến lược đến hành động",
-   "link": "https://nongnghiepmoitruong.vn/ha-noi-an-toan-thuc-pham-trong-ky-nguyen-so-tu-chien-luoc-den-hanh-dong-d827182.html",
-   "date": "Thu, 20 Aug 2026 15:44:17 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tuongdt/2026/08/20/0323-dsc_0747-150229_516.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -633,6 +624,24 @@
    "icon": "🌾"
   },
   {
+   "title": "Bắc Ninh khởi động dự án canh tác lúa thân thiện với môi trường",
+   "link": "https://nongnghiepmoitruong.vn/bac-ninh-khoi-dong-du-an-canh-tac-lua-than-thien-voi-moi-truong-d827190.html",
+   "date": "Thu, 20 Aug 2026 16:20:31 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/20/hnd-bac-ninh-nongnghiep-161057.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Hà Nội, an toàn thực phẩm trong kỷ nguyên số từ chiến lược đến hành động",
+   "link": "https://nongnghiepmoitruong.vn/ha-noi-an-toan-thuc-pham-trong-ky-nguyen-so-tu-chien-luoc-den-hanh-dong-d827182.html",
+   "date": "Thu, 20 Aug 2026 15:44:17 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tuongdt/2026/08/20/0323-dsc_0747-150229_516.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Đà Nẵng: Chuyển đổi số OCOP hướng đến hiệu quả kinh tế",
    "link": "https://nongnghiepmoitruong.vn/da-nang-chuyen-doi-so-ocop-huong-den-hieu-qua-kinh-te-d827134.html",
    "date": "Thu, 20 Aug 2026 15:31:50 +0700",
@@ -781,15 +790,6 @@
    "link": "https://nongnghiepmoitruong.vn/khoi-thong-tiem-nang-tin-chi-cac-bon-o-tp-hue-d826899.html",
    "date": "Wed, 19 Aug 2026 14:56:38 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/19/carbon-1-110839_674-145639.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Nhà đầu tư cần gì ở dự án các-bon?",
-   "link": "https://nongnghiepmoitruong.vn/nha-dau-tu-can-gi-o-du-an-cac-bon-d826894.html",
-   "date": "Wed, 19 Aug 2026 14:41:25 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thuynt91/2026/08/19/2553-bidoup-14-nongnghiep-112545.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
