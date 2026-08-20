@@ -1,7 +1,34 @@
 {
- "updated": "2026-08-20T08:02:09.666Z",
- "count": 89,
+ "updated": "2026-08-20T09:02:47.268Z",
+ "count": 86,
  "items": [
+  {
+   "title": "TPHCM tăng cường kiểm soát dịch bệnh trên đàn vật nuôi cao điểm mùa mưa bão",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/20/TPHCM-tang-cuong-kiem-soat-dich-benh-tren-dan-vat-nuoi-cao-diem-mua-mua-bao.aspx",
+   "date": "Thu, 20 Aug 2026 15:20:00 +0700",
+   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2fTangCuongKSDichBenh1.png",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
+  },
+  {
+   "title": "TPHCM tập trung nâng cao tỷ lệ bao phủ vaccine cho vật nuôi",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/20/TPHCM-tap-trung-nang-cao-ty-le-bao-phu-vaccine-cho-vat-nuoi.aspx",
+   "date": "Thu, 20 Aug 2026 09:38:00 +0700",
+   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2fNangCaoTyLeBaoPhuVacxin.png",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
+  },
+  {
+   "title": "TPHCM hỗ trợ tiêm vắc-xin miễn phí, để tạo miễn dịch bảo vệ đàn vật nuôi",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/20/TPHCM-ho-tro-tiem-vac-xin-mien-phi-de-tao-mien-dich-bao-ve-dan-vat-nuoi.aspx",
+   "date": "Thu, 20 Aug 2026 09:24:00 +0700",
+   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2ftphcmhotrotiemvacxin1.png",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
+  },
   {
    "title": "An toàn thực phẩm phải được kiểm soát từ đầu đến cuối chuỗi",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/08/19/An-toan-thuc-pham-phai-duoc-kiem-soat-tu-dau-den-cuoi-chuoi.aspx",
@@ -61,33 +88,6 @@
    "link": "https://chicuccntyhcm.gov.vn/new/2026/08/18/Chinh-thuc-phat-dong-chuong-trinh-Hanh-trinh-vi-hang-trieu-bua-an-an-toan.aspx",
    "date": "Tue, 18 Aug 2026 14:44:00 +0700",
    "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2fHanhTrinhVihangTrieuBuaAnGD.png",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
-   "title": "TPHCM: Tiêu hủy gần 50 tấn động vật không bảo đảm vệ sinh thú y",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/18/TPHCM-Tieu-huy-gan-50-tan-dong-vat-khong-bao-dam-ve-sinh-thu-y.aspx",
-   "date": "Tue, 18 Aug 2026 14:43:00 +0700",
-   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2fTieuHuy50tandongvat1.png",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
-   "title": "Lập biên bản hộ dân giết mổ heo tại nơi không được cấp phép",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/18/Lap-bien-ban-ho-dan-giet-mo-heo-tai-noi-khong-duoc-cap-phep.aspx",
-   "date": "Tue, 18 Aug 2026 07:40:00 +0700",
-   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2fHoDanGietMoKoGiayPhep1.png",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
-   "title": "Tiêm vaccine tạo 'lá chắn' bảo vệ đàn vật nuôi",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/18/Tiem-vaccine-tao-la-chan-bao-ve-dan-vat-nuoi.aspx",
-   "date": "Tue, 18 Aug 2026 07:33:00 +0700",
-   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2fTiemVacxin1.png",
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
@@ -273,10 +273,64 @@
    "icon": "🌾"
   },
   {
+   "title": "Hà Nội, an toàn thực phẩm trong kỷ nguyên số từ chiến lược đến hành động",
+   "link": "https://nongnghiepmoitruong.vn/ha-noi-an-toan-thuc-pham-trong-ky-nguyen-so-tu-chien-luoc-den-hanh-dong-d827182.html",
+   "date": "Thu, 20 Aug 2026 15:44:17 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tuongdt/2026/08/20/0323-dsc_0747-150229_516.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Khuyến nông bám vùng trồng từ trước đến sau khi cấp mã",
+   "link": "https://nongnghiepmoitruong.vn/khuyen-nong-bam-vung-trong-tu-truoc-den-sau-khi-cap-ma-d827168.html",
+   "date": "Thu, 20 Aug 2026 15:42:53 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thangnb/2026/08/20/3354-le-quoc-thanh-143315_467.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Nông dân Nghệ An nhọc nhằn khi mưa lũ tràn về",
+   "link": "https://nongnghiepmoitruong.vn/nong-dan-nghe-an-nhoc-nhan-khi-mua-lu-tran-ve-d827166.html",
+   "date": "Thu, 20 Aug 2026 15:41:41 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/20/thanh-vinh-4-142703_175-154143.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "NSMO tăng cường quản trị phụ tải, bảo đảm cung ứng điện",
+   "link": "https://nongnghiepmoitruong.vn/nsmo-tang-cuong-quan-tri-phu-tai-bao-dam-cung-ung-dien-d827159.html",
+   "date": "Thu, 20 Aug 2026 15:32:29 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/20/2-140922_298-153230.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Đà Nẵng: Chuyển đổi số OCOP hướng đến hiệu quả kinh tế",
+   "link": "https://nongnghiepmoitruong.vn/da-nang-chuyen-doi-so-ocop-huong-den-hieu-qua-kinh-te-d827134.html",
+   "date": "Thu, 20 Aug 2026 15:31:50 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/20/z7090128032023_e7ea9ccc629e80d5504d1387e4eb993a-122250_69-153153.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "TP.HCM cảnh báo văn bản giả mạo về sắp xếp đơn vị hành chính cấp xã",
+   "link": "https://nongnghiepmoitruong.vn/tphcm-canh-bao-van-ban-gia-mao-ve-sap-xep-don-vi-hanh-chinh-cap-xa-d827105.html",
+   "date": "Thu, 20 Aug 2026 15:30:51 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/20/gia-nongnghiep-103531.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Thêm 401 vùng trồng, 166 cơ sở đóng gói sầu riêng được Trung Quốc phê duyệt",
    "link": "https://nongnghiepmoitruong.vn/them-401-vung-trong-166-co-so-dong-goi-sau-rieng-duoc-trung-quoc-phe-duyet-d827173.html",
-   "date": "Thu, 20 Aug 2026 14:52:45 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/nghienmx/2026/08/20/5224-2aoboqsoeudilvsbnkttwvszzerhmhvbhxyn0wps-143435_287.jpg",
+   "date": "Thu, 20 Aug 2026 15:52:43 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/nghienmx/2026/08/20/5240-them-401-vung-trong-166-co-so-dong-goi-sau-rieng-duoc-trung-quoc-phe-duyet-155226_823.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -304,60 +358,6 @@
    "link": "https://nongnghiepmoitruong.vn/can-bang-nguon-nuoc-vu-gia--thu-bon-giua-lu-va-han-d827140.html",
    "date": "Thu, 20 Aug 2026 14:30:45 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thuynt91/2026/08/20/2048-0-1727406266-1-nongnghiep-132043.jpeg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Đào núi, bắc cầu làm cao tốc Chợ Mới - Bắc Kạn",
-   "link": "https://nongnghiepmoitruong.vn/dao-nui-bac-cau-lam-cao-toc-cho-moi--bac-kan-d827115.html",
-   "date": "Thu, 20 Aug 2026 14:29:36 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tumn/2026/08/20/1127-8-nongnghiep-111121.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Giữ rừng để giữ sinh kế: Câu chuyện Bản Thổ",
-   "link": "https://nongnghiepmoitruong.vn/tri-thuc-nong-dan/giu-rung-de-giu-sinh-ke-cau-chuyen-ban-tho-d827044.html",
-   "date": "Thu, 20 Aug 2026 14:28:03 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/19/1787135170542_1850396145707661374_4649316469491058966_4d4de49ca2f14f0929caef8eadb22165-nongnghiep-190018.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "EVNNPC bảo đảm cấp điện dịp Quốc khánh 2/9",
-   "link": "https://nongnghiepmoitruong.vn/evnnpc-bao-dam-cap-dien-dip-quoc-khanh-2-9-d827117.html",
-   "date": "Thu, 20 Aug 2026 14:23:42 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/20/1-1-105529_349-142346.jpeg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Thí điểm tưới tiêu, bón phân chính xác để sản xuất cà phê bền vững",
-   "link": "https://nongnghiepmoitruong.vn/thi-diem-tuoi-tieu-bon-phan-chinh-xac-de-san-xuat-ca-phe-ben-vung-d827095.html",
-   "date": "Thu, 20 Aug 2026 14:22:36 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/20/screenshot-2026-08-20-094609-nongnghiep-094805.jpeg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Mưa lớn gây ngập, sạt lở, chia cắt nhiều khu vực ở Nghệ An",
-   "link": "https://nongnghiepmoitruong.vn/mua-lon-gay-ngap-sat-lo-chia-cat-nhieu-khu-vuc-o-nghe-an-d827146.html",
-   "date": "Thu, 20 Aug 2026 14:21:05 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/20/anh-3-nongnghiep-130215.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Tổng Bí thư,Chủ tịch nước Tô Lâm: Hiểu sâu hơn, làm giàu thêm mạch nguồn lịch sử và văn hóa",
-   "link": "https://nongnghiepmoitruong.vn/tong-bi-thuchu-tich-nuoc-to-lam-hieu-sau-hon-lam-giau-them-mach-nguon-lich-su-va-van-hoa-d827138.html",
-   "date": "Thu, 20 Aug 2026 14:17:57 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/hainv72/2026/08/20/3905-2aoboqsafmhrxgyxf3eusl6nlz3ivp3ottoxjku8-124709_217.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -615,15 +615,6 @@
    "icon": "🌾"
   },
   {
-   "title": "Công nghệ giúp thủy sản giảm kháng sinh, tận dụng phụ phẩm",
-   "link": "https://nongnghiepmoitruong.vn/cong-nghe-giup-thuy-san-giam-khang-sinh-tan-dung-phu-pham-d826972.html",
-   "date": "Wed, 19 Aug 2026 17:40:37 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/19/norway-160-152415_35-174037.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
    "title": "Quy chế hoạt động mới của Hội đồng OCOP cấp Trung ương",
    "link": "https://nongnghiepmoitruong.vn/quy-che-hoat-dong-moi-cua-hoi-dong-ocop-cap-trung-uong-d827084.html",
    "date": "Thu, 20 Aug 2026 11:07:49 +0700",
@@ -691,24 +682,6 @@
    "link": "https://nongnghiepmoitruong.vn/bac-ninh-dua-tin-dung-den-gan-hon-voi-nong-dan-d826802.html",
    "date": "Tue, 18 Aug 2026 21:25:03 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/18/1787025054665_7982635814662175048_7982635814662175048_d8851fcc43501ad8b32c433a5c125a4f-201851_864-212503.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Khánh Hòa hướng dẫn tiêu chí môi trường nông thôn mới giai đoạn 2026-2030",
-   "link": "https://nongnghiepmoitruong.vn/khanh-hoa-huong-dan-tieu-chi-moi-truong-nong-thon-moi-giai-doan-2026-2030-d826692.html",
-   "date": "Tue, 18 Aug 2026 15:19:30 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/sohk/2026/08/18/3125-khanh-hoa-bao-ve-moi-truong-113050_768.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Đưa cây sen khỏi sản xuất manh mún",
-   "link": "https://nongnghiepmoitruong.vn/dua-cay-sen-khoi-san-xuat-manh-mun-d826687.html",
-   "date": "Tue, 18 Aug 2026 12:44:07 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/18/dua-cay-sen-khoi-cach-lam-manh-mun-112007_238-124408.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"

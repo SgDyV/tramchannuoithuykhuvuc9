@@ -1,9 +1,126 @@
 {
- "updated": "2026-08-19T12:20:13.865Z",
+ "updated": "2026-08-20T09:03:05.032Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Giảm sử dụng kháng sinh đối với thú non",
+   "link": "https://channuoivietnam.com/portal-news-detail/36263",
+   "date": "2026-08-20T16:02:37+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2018%2f10%2fKH.-giam-khang-sinh-thu-non.gif",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Những nghiên cứu mới về “tính thân thiện” và “thói gây hấn” của loài chó",
+   "link": "https://channuoivietnam.com/portal-news-detail/33940",
+   "date": "2026-08-20T16:00:37+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2018%2f03%2fKH.-cho-1.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Đối xử nhân đạo với động vật",
+   "link": "https://channuoivietnam.com/portal-news-detail/43907",
+   "date": "2026-08-20T16:00:24+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c43907edit.png&v=275ff1fc-bbb9-4ad2-bd61-0d448f1e0517",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Hiểu về stress nhiệt và chống oxy hoá",
+   "link": "https://channuoivietnam.com/portal-news-detail/47689",
+   "date": "2026-08-20T15:59:52+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f11%2fKH.-Stress-nhie%cc%a3%cc%82t.jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Nghiên cứu sử dụng thiết bị sắc ký lỏng HPLC 1200 để phân tích aflatoxin trong nông sản thực phẩm",
+   "link": "https://channuoivietnam.com/portal-news-detail/44943",
+   "date": "2026-08-20T15:59:32+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f07%2fKH.-Aflatoxin.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Sử dụng hàm hồi quy phi tuyến tính mô tả sinh trưởng của bò lai F1 (Brahman x lai Sind, Red Angus x lai Sind, BBB x lai Sind)",
+   "link": "https://channuoivietnam.com/portal-news-detail/59337",
+   "date": "2026-08-20T15:59:05+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c59337edit.png&v=7fa9216a-5de7-4faa-9c6c-12bed8559f38",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Hiệu quả của ß-mannanase trong thức ăn của gà đẻ trứng thương phẩm",
+   "link": "https://channuoivietnam.com/portal-news-detail/097cc4e6-ff19-443b-ac50-35ea46ef853e",
+   "date": "2026-08-20T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c919b341e-b782-4a3b-aa58-cfba6308395e.png&v=7279cd93-3978-47f9-9dba-227d1defb7a0",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Một số vấn đề cần lưu ý khi chăn nuôi gà sao thịt",
+   "link": "https://channuoivietnam.com/portal-news-detail/110a0ea3-2e84-4245-bc85-29ecffa4e61d",
+   "date": "2026-08-20T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c85e496d6-eb93-4da2-a453-add2a3f4610c.png&v=8a11734d-c8a4-4a8a-94b6-75c91cc460cc",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Phân tích tính đa dạng di truyền của gà Cáy Củm bằng chỉ thị microsatellite",
+   "link": "https://channuoivietnam.com/portal-news-detail/57219d1e-9555-4a9f-9585-f8ef0fa38b5e",
+   "date": "2026-08-20T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c84dce232-8dee-4704-848d-0d2859095a74.png&v=31f2c916-1bcb-495f-8818-0a65612c1805",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Mối liên kết giữa đa hình của gen PIT-1 và MC4R với khả năng sinh trưởng và một số chỉ tiêu chất lượng thịt ở giống lợn Duroc",
+   "link": "https://channuoivietnam.com/portal-news-detail/ae9efa25-0900-42c8-a0b9-f2b2056a20e0",
+   "date": "2026-08-20T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c7e1c3366-0df1-4dfe-a93b-e0352d7dadb2.png&v=d95d231b-645f-4fd3-9109-0a83b1fe6e06",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Sinh trưởng và năng suất sinh khối qua các lứa thu cắt trong năm của một số giống cỏ hòa thảo",
+   "link": "https://channuoivietnam.com/portal-news-detail/b40bc45a-74e1-434a-a8ac-b475b2b03ad4",
+   "date": "2026-08-20T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cdaafaa26-bf53-4ccf-abd9-933c13c9c94b.png&v=02b6dcda-399e-47b6-8b1e-471a4eee3b48",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Sử dụng các thành phần dinh dưỡng hiệu quả để giảm chi phí sản xuất và nâng cao chất lượng thức ăn chăn nuôi",
+   "link": "https://channuoivietnam.com/portal-news-detail/c9896077-0213-4ca3-9da8-6dab67c139e2",
+   "date": "2026-08-20T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c03523dd7-fbf6-43cb-a289-073e35c50ff6.png&v=21805428-7653-461f-b08f-3ea5476ae5fa",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Tỷ lệ chết trên heo nái: Diễn ra như thế nào và xảy ra trên loại heo nái nào? (1/2)",
+   "link": "https://channuoivietnam.com/portal-news-detail/7c6f2b46-cd81-4b2d-88af-8fedb0e770ef",
+   "date": "2026-08-19T20:17:42.267+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c7c6f2b46-cd81-4b2d-88af-8fedb0e770efedit.png&v=2b35b295-eb78-4eda-9f2b-96876c053937",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Nghiên cứu khả năng ứng dụng lycopen trích ly từ bã cà chua trong bảo quản thịt lợn",
    "link": "https://channuoivietnam.com/portal-news-detail/56785",
@@ -18,123 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/36295",
    "date": "2026-08-19T16:01:40+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c36295edit.png&v=f4fd71bd-3c96-4a9f-b05f-c4397e2bc69b",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Bệnh nấm phổi trên gia cầm và cách phòng trị",
-   "link": "https://channuoivietnam.com/portal-news-detail/33876",
-   "date": "2026-08-19T15:59:46+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c33876edit.png&v=c10dba74-0498-45b0-a363-ab227b9c3f41",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Đánh giá phẩm chất tinh dịch lợn Piétrain kháng stress nhập từ Bỉ",
-   "link": "https://channuoivietnam.com/portal-news-detail/46441",
-   "date": "2026-08-19T15:59:21+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c46441edit.png&v=a97ef88c-5725-47d5-8b7c-65763d659b46",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Nghiên cứu đáp ứng miễn dịch của chuột Babl/C với kháng nguyên tiên mao của vi khuẩn E.coli O157:H7",
-   "link": "https://channuoivietnam.com/portal-news-detail/47229",
-   "date": "2026-08-19T15:59:18+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c47229edit.png&v=162cf9ff-5a5f-43ed-867d-528da638d5a1",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng lysine tiêu hóa trong khẩu phần đến năng suất và chất lượng trứng của gà ISA Brown",
-   "link": "https://channuoivietnam.com/portal-news-detail/5300d8f2-3bbb-4f97-9fd4-584001c243d3",
-   "date": "2026-08-19T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c75676e44-de30-46a5-8038-54bf1bd737c4.png&v=1c8e54d7-ddc5-4a2d-b9c2-d47ba6e07da0",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Mất cân bằng đạm - năng lượng: Bạn đang vứt bao nhiêu tiền qua mỗi bao cám?",
-   "link": "https://channuoivietnam.com/portal-news-detail/59334",
-   "date": "2026-08-19T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c59334edit.png&v=0e9c856f-6406-41f0-8860-c6411eee8f30",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của lượng thức ăn đến khả năng sinh sản của gà Cáy Củm",
-   "link": "https://channuoivietnam.com/portal-news-detail/b95c5afb-231a-45b0-9f71-5a3fd5360686",
-   "date": "2026-08-19T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cc402d843-cec6-4b49-aa32-287f77751d6f.png&v=44eb2e32-d66a-45ab-b98f-36a72de4edfb",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Đánh giá chất lượng của vỏ quả chanh leo ủ chua nuôi bò vắt sữa bằng phương pháp in vitro",
-   "link": "https://channuoivietnam.com/portal-news-detail/c9c8e5b3-8c3c-4e72-914f-a42029415579",
-   "date": "2026-08-19T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cc9c8e5b3-8c3c-4e72-914f-a42029415579edit.png&v=37080a53-cdf5-4743-8a2d-e3e009cab8bc",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của các mức bã bia tươi trong khẩu phần đến khả năng sinh trưởng và sức sản xuất thịt của lợn lai Duroc x (Pietrain x Móng cái)",
-   "link": "https://channuoivietnam.com/portal-news-detail/d0f3ed48-6704-4aa7-8778-85ad38d70917",
-   "date": "2026-08-19T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c4a83ccf4-b1a7-45bb-b57b-f757e761dc72.png&v=02e8bfa2-1bf0-460e-9411-ae7f91b25249",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Sử dụng năng lượng hợp lý - Dưỡng chất đắt đỏ nhất trong thức ăn chăn nuôi",
-   "link": "https://channuoivietnam.com/portal-news-detail/f6712443-0d26-472b-ab1f-7cf557f132fa",
-   "date": "2026-08-19T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cf5a2f180-541a-4c55-83d6-9c88294242f1.png&v=898a2da0-7678-4690-9bb5-5fa3f59c208f",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Đóng góp của công nghệ GM trong chăn nuôi",
-   "link": "https://channuoivietnam.com/portal-news-detail/fd064cf9-cc42-4f6b-b169-16f772e60123",
-   "date": "2026-08-19T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c29d8f94b-633f-4523-b105-e1bf47425764.png&v=213b027f-542b-4c8e-a135-5032a5679693",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Khả năng sinh trưởng và tiêu tốn thức ăn của lợn Pietrain kháng stress",
-   "link": "https://channuoivietnam.com/portal-news-detail/56753",
-   "date": "2026-08-18T16:30:30+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f01%2fUnknown-7.jpeg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Xây dựng chiến lược để giảm chi phí thức ăn chăn nuôi",
-   "link": "https://channuoivietnam.com/portal-news-detail/28798",
-   "date": "2026-08-18T16:01:59+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f09%2fKH.-Khau-phan-TACN.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ứng dụng trí tuệ nhân tạo trong chăn nuôi heo tại Trung Quốc",
-   "link": "https://channuoivietnam.com/portal-news-detail/33871",
-   "date": "2026-08-18T16:00:40+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2018%2f08%2fKH.-Tri-tue-NT.jpg",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
