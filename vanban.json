@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-22T13:06:40.794Z",
+ "updated": "2026-08-22T13:49:01.717Z",
  "category": "Văn bản chung",
  "source": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
  "count": 12,
  "items": [
   {
-   "code": "1466/QĐ-TTg",
-   "title": "Phê duyệt Kế hoạch phát triển công nghiệp sinh học ngành nông nghiệp và môi trường.",
-   "date": "2026-07-31T00:00:00+07:00",
+   "code": "02/2026/VBHN-NĐ-BTP",
+   "title": "Quy định chi tiết Luật Xử lý vi phạm hành chính về thẩm quyền xử phạt vi phạm hành chính.",
+   "date": "2026-08-21T00:00:00+07:00",
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=6368f225-7c73-40fc-871f-3b2366d72b7a&file_name=Q%C4%911466.pdf",
-   "file": "Qđ1466.pdf"
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=d0d9d262-cd4f-4179-8e88-ad3ad375a1a2&file_name=N%C4%9002.pdf",
+   "file": "NĐ02.pdf"
   },
   {
    "code": "2833/CNTY-KD&TYCĐ",
@@ -19,6 +19,14 @@
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
    "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=8ac8473c-3a3e-498b-92ab-197b75554f25&file_name=VB2833.pdf",
    "file": "VB2833.pdf"
+  },
+  {
+   "code": "1466/QĐ-TTg",
+   "title": "Phê duyệt Kế hoạch phát triển công nghiệp sinh học ngành nông nghiệp và môi trường.",
+   "date": "2026-07-31T00:00:00+07:00",
+   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=6368f225-7c73-40fc-871f-3b2366d72b7a&file_name=Q%C4%911466.pdf",
+   "file": "Qđ1466.pdf"
   },
   {
    "code": "294/2026/NĐ-CP",
@@ -91,14 +99,6 @@
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
    "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=39dbce51-02fa-45cd-b26a-b6dc4c3e747b&file_name=N%C4%90246.pdf",
    "file": "NĐ246.pdf"
-  },
-  {
-   "code": "70/VBHN-BNNMT",
-   "title": "Quy định về chăn nuôi động vật khác thuộc Danh mục động vật khác được phép chăn nuôi và truy xuất nguồn gốc sản phẩm chăn nuôi.",
-   "date": "2026-06-18T00:00:00+07:00",
-   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=89b9fbba-9b4a-463a-829e-5ab1716a0179&file_name=VBHN70.pdf",
-   "file": "VBHN70.pdf"
   }
  ]
 }
