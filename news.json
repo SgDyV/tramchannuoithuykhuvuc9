@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-23T07:08:02.520Z",
- "count": 84,
+ "updated": "2026-08-23T07:53:39.731Z",
+ "count": 85,
  "items": [
   {
    "title": "TPHCM xác định khu vực được phép chăn nuôi theo mật độ",
@@ -273,24 +273,6 @@
    "icon": "🌾"
   },
   {
-   "title": "Khám bệnh, cấp thuốc miễn phí cho 300 người dân ở Châu Thới",
-   "link": "https://nongnghiepmoitruong.vn/kham-benh-cap-thuoc-mien-phi-cho-300-nguoi-dan-o-chau-thoi-d827546.html",
-   "date": "Sun, 23 Aug 2026 14:04:43 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/23/js9a3008-170601_90-140445.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Quốc lộ 4B sụt lún, xe tải trọng lớn không được qua",
-   "link": "https://nongnghiepmoitruong.vn/quoc-lo-4b-sut-lun-xe-tai-trong-lon-khong-duoc-qua-d827619.html",
-   "date": "Sun, 23 Aug 2026 14:03:57 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/nghiahv86/2026/08/23/4102-dd-nongnghiep-124057.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
    "title": "80 hộ dân Bắc Ninh được di dời khỏi vùng ngập lũ",
    "link": "https://nongnghiepmoitruong.vn/80-ho-dan-bac-ninh-duoc-di-doi-khoi-vung-ngap-lu-d827620.html",
    "date": "Sun, 23 Aug 2026 12:34:00 +0700",
@@ -358,6 +340,24 @@
    "link": "https://nongnghiepmoitruong.vn/mua-lu-o-lang-son-lam-mot-nguoi-chet-gan-2400-nha-ngap-nuoc-d827603.html",
    "date": "Sun, 23 Aug 2026 09:29:33 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/nghiahv86/2026/08/23/1408-tkhe-nongnghiep-091404.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Trao xe đạp, học bổng tiếp sức đến trường tại Quảng Trị",
+   "link": "https://nongnghiepmoitruong.vn/trao-xe-dap-hoc-bong-tiep-suc-den-truong-tai-quang-tri-d827586.html",
+   "date": "Sun, 23 Aug 2026 09:05:38 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/22/1787401111556_5638854954021487570_g6412423530129992046_5f13419f518dbb45c5102cdb6f499df7-nongnghiep-223004.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Thí điểm tích hợp thông tin sổ đỏ lên VneID đạt kết quả tích cực",
+   "link": "https://nongnghiepmoitruong.vn/thi-diem-tich-hop-thong-tin-so-do-len-vneid-dat-ket-qua-tich-cuc-d827540.html",
+   "date": "Sun, 23 Aug 2026 09:03:36 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/22/67-nongnghiep-164435.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -574,6 +574,15 @@
    "link": "https://nongnghiepmoitruong.vn/kien-quyet-di-doi-dan-khoi-vung-nguy-hiem-d827564.html",
    "date": "Sat, 22 Aug 2026 20:27:40 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/nghiahv86/2026/08/22/4352-thoc-69-nongnghiep-194347.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Bảo vệ sản xuất nông nghiệp, môi trường trước bão số 4",
+   "link": "https://nongnghiepmoitruong.vn/bao-ve-san-xuat-nong-nghiep-moi-truong-truoc-bao-so-4-d827566.html",
+   "date": "Sat, 22 Aug 2026 20:27:03 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/22/nuoi-trong-thuy-san-192507_763-202703.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
