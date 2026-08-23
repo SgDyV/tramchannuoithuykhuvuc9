@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-23T15:10:05.043Z",
- "count": 87,
+ "updated": "2026-08-23T15:43:13.103Z",
+ "count": 89,
  "items": [
   {
    "title": "TPHCM xác định khu vực được phép chăn nuôi theo mật độ",
@@ -273,6 +273,15 @@
    "icon": "🌾"
   },
   {
+   "title": "Di dời người dân khỏi vùng sạt lở, ngập úng",
+   "link": "https://nongnghiepmoitruong.vn/di-doi-nguoi-dan-khoi-vung-sat-lo-ngap-ung-d827681.html",
+   "date": "Sun, 23 Aug 2026 22:00:56 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/nghienmx/2026/08/23/0045-783510666_122135029791175134_8751957516727287890_n-204517_124-215818.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Tầm nhìn mới cho di sản và con người xứ Thanh",
    "link": "https://nongnghiepmoitruong.vn/tam-nhin-moi-cho-di-san-va-con-nguoi-xu-thanh-d827628.html",
    "date": "Sun, 23 Aug 2026 21:04:28 +0700",
@@ -329,7 +338,7 @@
   {
    "title": "Mưa lớn bủa vây Hải Phòng, hơn 5.500ha lúa và hoa màu bị ngập",
    "link": "https://nongnghiepmoitruong.vn/mua-lon-bua-vay-hai-phong-hon-5500ha-lua-va-hoa-mau-bi-ngap-d827676.html",
-   "date": "Sun, 23 Aug 2026 21:01:14 +0700",
+   "date": "Sun, 23 Aug 2026 22:01:25 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/23/mua-lon-bua-vay-hon-5500-ha-cay-trong-o-hai-phong-ngap-trong-nuoc-194152_93-210114.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
@@ -349,15 +358,6 @@
    "link": "https://nongnghiepmoitruong.vn/bao-so-4-manh-len-cap-9-giat-cap-11-va-gay-mua-lon-het-ngay-mai-d827671.html",
    "date": "Sun, 23 Aug 2026 19:56:32 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/lyntk92/2026/08/23/5334-tn37-nongnghiep-185318.jpeg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Bảo tồn nguồn gen cây trâm rừng",
-   "link": "https://nongnghiepmoitruong.vn/tri-thuc-nong-dan/bao-ton-nguon-gen-cay-tram-rung-d827005.html",
-   "date": "Sun, 23 Aug 2026 19:36:49 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/23/cay-tram-rung-1-165814_158-193649.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -601,6 +601,24 @@
    "link": "https://nongnghiepmoitruong.vn/khuyen-cao-nguoi-dan-can-trong-khi-di-qua-cau-tran-d827626.html",
    "date": "Sun, 23 Aug 2026 14:06:07 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tumn/2026/08/23/5027-1787464106570_5449369601713159881_5449369601713159881_0ae66a0d266ad5cb2acf4d69f956e5fb-nongnghiep-125020.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Quốc lộ 4B sụt lún, xe tải trọng lớn không được qua",
+   "link": "https://nongnghiepmoitruong.vn/quoc-lo-4b-sut-lun-xe-tai-trong-lon-khong-duoc-qua-d827619.html",
+   "date": "Sun, 23 Aug 2026 14:03:57 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/nghiahv86/2026/08/23/4102-dd-nongnghiep-124057.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "80 hộ dân Bắc Ninh được di dời khỏi vùng ngập lũ",
+   "link": "https://nongnghiepmoitruong.vn/80-ho-dan-bac-ninh-duoc-di-doi-khoi-vung-ngap-lu-d827620.html",
+   "date": "Sun, 23 Aug 2026 12:34:00 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/23/z8183216408005_30962241c95bcd61c7ad562b1cc67eb0-nongnghiep-113031.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
