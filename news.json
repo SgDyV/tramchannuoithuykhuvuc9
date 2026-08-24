@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-24T13:27:44.954Z",
- "count": 90,
+ "updated": "2026-08-24T14:09:24.137Z",
+ "count": 87,
  "items": [
   {
    "title": "Thông báo quy định về biện pháp SPS của Thành viên Tổ chức Thương mại Thế giới (WTO) (từ ngày 01/8/2026 - ngày 15/8/2026)",
@@ -93,6 +93,15 @@
    "icon": "🏥"
   },
   {
+   "title": "2 xã ở Tuyên Quang công bố hết dịch cúm gia cầm A/H5N1",
+   "link": "https://nongnghiepmoitruong.vn/2-xa-o-tuyen-quang-cong-bo-het-dich-cum-gia-cam-a-h5n1-d827832.html",
+   "date": "Mon, 24 Aug 2026 19:36:25 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thanhdv/2026/08/24/1432-1787569930977_2010974245097254076_2671285628698912838_8404c231bd9d3f795746a5a2c3abebbc-181321_678.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Triệt sản miễn phí cho 100 chú mèo",
    "link": "https://nongnghiepmoitruong.vn/triet-san-mien-phi-cho-100-chu-meo-d827569.html",
    "date": "Mon, 24 Aug 2026 10:56:23 +0700",
@@ -169,15 +178,6 @@
    "link": "https://nongnghiepmoitruong.vn/nghien-cuu-xac-nhan-vaccine-argentina-dat-100-hieu-qua-bao-ho-virus-fmd-chung-sat-1-d824421.html",
    "date": "Mon, 03 Aug 2026 12:50:20 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/03/3505-sat-1-113447_619.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Chợ trâu, bò lớn nhất miền Bắc nhộn nhịp trở lại",
-   "link": "https://nongnghiepmoitruong.vn/cho-trau-bo-lon-nhat-mien-bac-nhon-nhip-tro-lai-d824175.html",
-   "date": "Fri, 31 Jul 2026 19:37:42 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tumn/2026/07/31/5559-muc-so-thi-phien-cho-vung-cao-tien-tinh-bang-quyen-162553_141-142045-nongnghiep-175551.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -277,15 +277,6 @@
    "link": "https://nongnghiepmoitruong.vn/ha-noi-cong-khai-loat-du-an-vi-pham-dat-dai-d827828.html",
    "date": "Mon, 24 Aug 2026 19:36:53 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/dung91/2026/08/24/5501-42-175027_365.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "2 xã ở Tuyên Quang công bố hết dịch cúm gia cầm A/H5N1",
-   "link": "https://nongnghiepmoitruong.vn/2-xa-o-tuyen-quang-cong-bo-het-dich-cum-gia-cam-a-h5n1-d827832.html",
-   "date": "Mon, 24 Aug 2026 19:36:25 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thanhdv/2026/08/24/1432-1787569930977_2010974245097254076_2671285628698912838_8404c231bd9d3f795746a5a2c3abebbc-181321_678.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -543,6 +534,51 @@
    "icon": "🌾"
   },
   {
+   "title": "Việt Nam đề nghị Bờ Biển Ngà tăng cường nhập khẩu gạo và hạt điều",
+   "link": "https://nongnghiepmoitruong.vn/viet-nam-de-nghi-bo-bien-nga-tang-cuong-nhap-khau-gao-va-hat-dieu-d827848.html",
+   "date": "Mon, 24 Aug 2026 20:56:05 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/chiqk/2026/08/24/1252-screenshot-2026-08-24-195534-nongnghiep-201142.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Cảnh báo sóng to, gió lớn trên biển đến hết tháng 8",
+   "link": "https://nongnghiepmoitruong.vn/canh-bao-song-to-gio-lon-tren-bien-den-het-thang-8-d827811.html",
+   "date": "Mon, 24 Aug 2026 18:40:40 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/song-to-gio-lon-ttxvn-nongnghiep-165054.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Việt Nam có thêm 2 thành phố là Quảng Ninh và Bắc Ninh",
+   "link": "https://nongnghiepmoitruong.vn/viet-nam-co-them-2-thanh-pho-la-quang-ninh-va-bac-ninh-d827829.html",
+   "date": "Mon, 24 Aug 2026 18:30:23 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tungdd/2026/08/24/4953-dji_0690jpg-nongnghiep-174907.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Chuẩn bị điều kiện để thi hành luật, nghị quyết ngay khi có hiệu lực",
+   "link": "https://nongnghiepmoitruong.vn/chuan-bi-dieu-kien-de-thi-hanh-luat-nghi-quyet-ngay-khi-co-hieu-luc-d827830.html",
+   "date": "Mon, 24 Aug 2026 18:29:25 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/1-nongnghiep-175735.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Việt Nam - Trung Quốc thúc đẩy hợp tác nông nghiệp, thương mại và đầu tư",
+   "link": "https://nongnghiepmoitruong.vn/viet-nam--trung-quoc-thuc-day-hop-tac-nong-nghiep-thuong-mai-va-dau-tu-d827816.html",
+   "date": "Mon, 24 Aug 2026 18:21:39 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/trungkd81/2026/08/24/1735-bonnmt_pic_sua-lai-164822_350-164824.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Hành lang kinh tế 5 tỉnh Việt - Trung mở rộng không gian hợp tác",
    "link": "https://nongnghiepmoitruong.vn/hanh-lang-kinh-te-5-tinh-viet--trung-mo-rong-khong-gian-hop-tac-d827773.html",
    "date": "Mon, 24 Aug 2026 15:46:06 +0700",
@@ -565,69 +601,6 @@
    "link": "https://nongnghiepmoitruong.vn/khoi-dong-vu-thu-dong-bang-cong-nghe-va-tu-duy-san-xuat-xanh-d827775.html",
    "date": "Mon, 24 Aug 2026 15:25:03 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/vulh/2026/08/24/3929-anh-3jpg-nongnghiep-143920.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Lũ trên địa bàn Lạng Sơn, Bắc Ninh, Cao Bằng, Thái Nguyên vẫn cao",
-   "link": "https://nongnghiepmoitruong.vn/lu-tren-dia-ban-lang-son-bac-ninh-cao-bang-thai-nguyen-van-cao-d827746.html",
-   "date": "Mon, 24 Aug 2026 13:59:57 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/2aoboqtxapieroj36gqkwarcclchzecy3shuv8j23-nongnghiep-114858.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Quốc hội thông qua Luật sửa đổi 10 luật về nông nghiệp và môi trường",
-   "link": "https://nongnghiepmoitruong.vn/quoc-hoi-thong-qua-luat-sua-doi-10-luat-ve-nong-nghiep-va-moi-truong-d827738.html",
-   "date": "Mon, 24 Aug 2026 11:12:32 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tungdd/2026/08/24/0857-2aoboqtgdsyle8kgddughawgwbne7ks9p2kdhndm-nongnghiep-110523.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Lũ trên sông Cầu vượt báo động 2 và đang tiếp tục lên",
-   "link": "https://nongnghiepmoitruong.vn/lu-tren-song-cau-vuot-bao-dong-2-va-dang-tiep-tuc-len-d827710.html",
-   "date": "Mon, 24 Aug 2026 09:39:08 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tumn/2026/08/24/1018-18c55390-7c92-401e-b172-e557d7a05ef1-nongnghiep-091012.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Mưa bão giảm dần, vùng mưa lớn dịch xuống Ninh Bình, Thanh Hóa, Nghệ An",
-   "link": "https://nongnghiepmoitruong.vn/mua-bao-giam-dan-vung-mua-lon-dich-xuong-ninh-binh-thanh-hoa-nghe-an-d827705.html",
-   "date": "Mon, 24 Aug 2026 09:26:05 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/screenshot-2026-08-24-083752-nongnghiep-083940.jpeg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Mưa lớn kéo dài, phải xả lũ 50 hồ chứa",
-   "link": "https://nongnghiepmoitruong.vn/mua-lon-keo-dai-phai-xa-lu-50-ho-chua-d827689.html",
-   "date": "Mon, 24 Aug 2026 07:48:33 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/23/img_20260823_230221-nongnghiep-230438.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "TP.HCM đảm bảo an toàn hồ đập: [Bài 2] Xử lý nghiêm vi phạm tồn đọng",
-   "link": "https://nongnghiepmoitruong.vn/tphcm-dam-bao-an-toan-ho-dap-bai-2-xu-ly-nghiem-vi-pham-ton-dong-d826826.html",
-   "date": "Mon, 24 Aug 2026 06:32:38 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/18/ho-chua-7-nongnghiep-223910.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Siết trách nhiệm người đứng đầu trong ứng phó mưa lũ",
-   "link": "https://nongnghiepmoitruong.vn/siet-trach-nhiem-nguoi-dung-dau-trong-ung-pho-mua-lu-d827688.html",
-   "date": "Mon, 24 Aug 2026 06:30:55 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/nghiahv86/2026/08/23/5058-cong-dien-69-nongnghiep-224254.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
