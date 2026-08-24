@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-24T03:28:37.474Z",
- "count": 88,
+ "updated": "2026-08-24T04:13:25.501Z",
+ "count": 89,
  "items": [
   {
    "title": "Siết phòng dịch, đảm bảo nguồn cung thực phẩm cuối năm",
@@ -93,6 +93,15 @@
    "icon": "🏥"
   },
   {
+   "title": "Triệt sản miễn phí cho 100 chú mèo",
+   "link": "https://nongnghiepmoitruong.vn/triet-san-mien-phi-cho-100-chu-meo-d827569.html",
+   "date": "Mon, 24 Aug 2026 10:56:23 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/sontt/2026/08/24/0210-triet-san-mien-phi-cho-meo-093546_151-093546.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Lập biên bản hộ dân giết mổ heo tại nơi không được cấp phép",
    "link": "https://nongnghiepmoitruong.vn/lap-bien-ban-ho-dan-giet-mo-heo-tai-noi-khong-duoc-cap-phep-d826286.html",
    "date": "Sat, 15 Aug 2026 18:36:54 +0700",
@@ -169,15 +178,6 @@
    "link": "https://nongnghiepmoitruong.vn/cho-trau-bo-lon-nhat-mien-bac-nhon-nhip-tro-lai-d824175.html",
    "date": "Fri, 31 Jul 2026 19:37:42 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tumn/2026/07/31/5559-muc-so-thi-phien-cho-vung-cao-tien-tinh-bang-quyen-162553_141-142045-nongnghiep-175551.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Hải Phòng từng bước số hóa quy trình kiểm dịch động vật, thủy sản",
-   "link": "https://nongnghiepmoitruong.vn/hai-phong-tung-buoc-so-hoa-quy-trinh-kiem-dich-dong-vat-thuy-san-d824119.html",
-   "date": "Fri, 31 Jul 2026 16:13:44 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/07/31/thu-y-1-142948_809-nongnghiep-145210.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -273,91 +273,82 @@
    "icon": "🌾"
   },
   {
-   "title": "Giá cao su hôm nay 24/8/2026: Mở đầu tuần mới tích cực",
-   "link": "https://nongnghiepmoitruong.vn/gia-cao-su-hom-nay-24-8-2026-mo-dau-tuan-moi-tich-cuc-d827717.html",
-   "date": "Mon, 24 Aug 2026 10:10:50 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2025/02/28/gia-cao-su-hom-nay-093416_21-110440-081811.jpg",
+   "title": "Khuyến nông đưa Đề án 1 triệu ha lúa ra đồng ruộng",
+   "link": "https://nongnghiepmoitruong.vn/video/khuyen-nong-dua-de-an-1-trieu-ha-lua-ra-dong-ruong-tv827551.html",
+   "date": "Mon, 24 Aug 2026 11:09:47 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/quangcn/2026/08/24/0744-img_0835jpg-nongnghiep-173951.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Giá lúa gạo hôm nay 24/8/2026: Quay đầu giảm tới 200 đồng",
-   "link": "https://nongnghiepmoitruong.vn/gia-lua-gao-hom-nay-24-8-2026-quay-dau-giam-toi-200-dong-d827720.html",
-   "date": "Mon, 24 Aug 2026 10:10:31 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2024/11/21/gia-lua-gao-hom-nay-212304_785-061856-103024.jpeg",
+   "title": "Phát hiện thực phẩm không an toàn phải báo người mua trong 24 giờ",
+   "link": "https://nongnghiepmoitruong.vn/phat-hien-thuc-pham-khong-an-toan-phai-bao-nguoi-mua-trong-24-gio-d827719.html",
+   "date": "Mon, 24 Aug 2026 11:09:10 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/24/an-toan-thuc-pham-khi-nguoi-dan-thay-doi-nhan-thuc-va-he-thong-hanh-dong-173241_11-110910.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Giá cà phê hôm nay 24/8/2026: Cao nhất ở mốc 96.500 đ/kg",
-   "link": "https://nongnghiepmoitruong.vn/gia-ca-phe-hom-nay-24-8-2026-cao-nhat-o-moc-96500-d-kg-d827712.html",
-   "date": "Mon, 24 Aug 2026 10:02:32 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2025/03/09/gia-ca-phe-hom-nay_nongnghiep-074101_940-090231-094627-114617-100435-103307-102802-100015-130236.jpg",
+   "title": "Van Phuc City - Khi 'nơi đáng sống' trở thành sân khấu quốc gia",
+   "link": "https://nongnghiepmoitruong.vn/van-phuc-city--khi-noi-dang-song-tro-thanh-san-khau-quoc-gia-d827693.html",
+   "date": "Mon, 24 Aug 2026 11:08:07 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/k14-54-1787492529583-1787492529756832830473-nongnghiep-024208.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Đưa vị nước mắm quê nhà vươn xa",
-   "link": "https://nongsanviet.nongnghiepmoitruong.vn/dua-vi-nuoc-mam-que-nha-vuon-xa-d827100.html",
-   "date": "Mon, 24 Aug 2026 09:44:58 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/doanhtq/2026/08/24/4452-1787193571245_4762409857832940594_4762409857832940594_h-101214_673-101215-nongnghiep-094446.jpg",
+   "title": "Giữ giá trị ở lại vùng nguyên liệu: [Bài 1] Hành trình của hạt cà phê",
+   "link": "https://nongnghiepmoitruong.vn/giu-gia-tri-o-lai-vung-nguyen-lieu-bai-1-hanh-trinh-cua-hat-ca-phe-d826382.html",
+   "date": "Mon, 24 Aug 2026 11:07:40 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/16/1786195180924_4678033189719058296_4678033189719058296_fd0344320e58afdfa71390fa18d728ff-nongnghiep-130611.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Bảng giá vàng 9999 24K 18K SJC DOJI PNJ hôm nay 24/8/2026",
-   "link": "https://nongnghiepmoitruong.vn/bang-gia-vang-9999-24k-18k-sjc-doji-pnj-hom-nay-24-8-2026-d827715.html",
-   "date": "Mon, 24 Aug 2026 09:43:33 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2025/03/01/gia-vang-hom-nay-22-9-2020_nongnghiep-071835_878-100054-074921-061532-101503-094925-102715-074414.jpg",
+   "title": "Sa Pa khai hội Mùa thu 2026: Lan tỏa sắc vàng miền di sản",
+   "link": "https://nongnghiepmoitruong.vn/sa-pa-khai-hoi-mua-thu-2026-lan-toa-sac-vang-mien-di-san-d827686.html",
+   "date": "Mon, 24 Aug 2026 11:07:04 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/23/1787496016162_1987875377505196092_3393720038208725682_85b8b9be6662367f91a62d8eddfc6524-nongnghiep-221136.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Phục hồi tự nhiên giúp đất chống chịu thời tiết cực đoan",
-   "link": "https://nongnghiepmoitruong.vn/phuc-hoi-tu-nhien-giup-dat-chong-chiu-thoi-tiet-cuc-doan-d827700.html",
-   "date": "Mon, 24 Aug 2026 09:40:01 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/danmt91/2026/08/24/3733-screenshot_1787535427-nongnghiep-083724.jpeg",
+   "title": "Trung Quốc sơ tán hàng chục nghìn người do bão Narra gây mưa lớn",
+   "link": "https://nongnghiepmoitruong.vn/trung-quoc-so-tan-hang-chuc-nghin-nguoi-do-bao-narra-gay-mua-lon-d827737.html",
+   "date": "Mon, 24 Aug 2026 11:01:07 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/24/trung-quoc-so-tan-hang-chuc-nghin-nguoi-do-bao-narra-gay-mua-lon-105755_804-110107.jpeg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Lũ trên sông Cầu vượt báo động 2 và đang tiếp tục lên",
-   "link": "https://nongnghiepmoitruong.vn/lu-tren-song-cau-vuot-bao-dong-2-va-dang-tiep-tuc-len-d827710.html",
-   "date": "Mon, 24 Aug 2026 09:39:08 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tumn/2026/08/24/1018-18c55390-7c92-401e-b172-e557d7a05ef1-nongnghiep-091012.jpg",
+   "title": "Hà Nội báo động lũ cấp II trên sông Tích, sông Cầu",
+   "link": "https://nongnghiepmoitruong.vn/ha-noi-bao-dong-lu-cap-ii-tren-song-tich-song-cau-d827730.html",
+   "date": "Mon, 24 Aug 2026 11:00:39 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/da-phuc-nongnghiep-103421.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Mưa bão giảm dần, vùng mưa lớn dịch xuống Ninh Bình, Thanh Hóa, Nghệ An",
-   "link": "https://nongnghiepmoitruong.vn/mua-bao-giam-dan-vung-mua-lon-dich-xuong-ninh-binh-thanh-hoa-nghe-an-d827705.html",
-   "date": "Mon, 24 Aug 2026 09:26:05 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/screenshot-2026-08-24-083752-nongnghiep-083940.jpeg",
+   "title": "Phim Tình thâm đối đầu tập 34 trực tiếp THVL1 hôm nay 24/8/2026",
+   "link": "https://nongnghiepmoitruong.vn/phim-tinh-tham-doi-dau-tap-34-truc-tiep-thvl1-hom-nay-24-8-2026-d827725.html",
+   "date": "Mon, 24 Aug 2026 10:50:07 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/phim-tinh-tham-doi-dau-tap-34-thvl1-nongnghiep-101421.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Thời tiết nông vụ ngày 24/08/2026: Vùng mưa dịch dần về duyên hải Bắc Bộ",
-   "link": "https://nongnghiepmoitruong.vn/radio/thoi-tiet-nong-vu-ngay-24-08-2026-vung-mua-dich-dan-ve-duyen-hai-bac-bo-d827711.html",
-   "date": "Mon, 24 Aug 2026 09:25:08 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/haodx/2026/08/24/0358-1787536922788_2301534382904250552_86324597339409530_689e7793b416aaf1736d7d286ada8750-nongnghiep-090247.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Trại lạnh khuyến nông giúp nuôi gà giảm chi phí",
-   "link": "https://nongnghiepmoitruong.vn/video/trai-lanh-khuyen-nong-giup-nuoi-ga-giam-chi-phi-tv827404.html",
-   "date": "Mon, 24 Aug 2026 09:08:47 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/21/25305865-6fe4-4f82-bcc9-84040b3844d1-nongnghiep-185023.jpeg",
+   "title": "Phim Mùa hè năm ấy tập 8 trực tiếp VTV3 hôm nay 24/8/2026",
+   "link": "https://nongnghiepmoitruong.vn/phim-mua-he-nam-ay-tap-8-truc-tiep-vtv3-hom-nay-24-8-2026-d827704.html",
+   "date": "Mon, 24 Aug 2026 10:46:30 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/phim-mua-he-nam-ay-tap-8-vtv3-nongnghiep-083119.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -453,6 +444,15 @@
    "icon": "🌾"
   },
   {
+   "title": "Nuôi ngao ứng dụng khoa học kỹ thuật, hướng tới phát triển bền vững",
+   "link": "https://nongnghiepmoitruong.vn/nuoi-ngao-ung-dung-khoa-hoc-ky-thuat-huong-toi-phat-trien-ben-vung-d827662.html",
+   "date": "Mon, 24 Aug 2026 08:48:10 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/23/anh-1-nongnghiep-164639.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Hướng đi mới cho nuôi trồng thủy sản bằng lồng bè HDPE",
    "link": "https://nongnghiepmoitruong.vn/huong-di-moi-cho-nuoi-trong-thuy-san-bang-long-be-hdpe-d827481.html",
    "date": "Mon, 24 Aug 2026 06:36:16 +0700",
@@ -534,10 +534,19 @@
    "icon": "🌾"
   },
   {
-   "title": "Gia Lai vừa siết quản lý đội tàu vừa ổn định đời sống ngư dân",
-   "link": "https://nongnghiepmoitruong.vn/gia-lai-vua-siet-quan-ly-doi-tau-vua-on-dinh-doi-song-ngu-dan-d826689.html",
-   "date": "Tue, 18 Aug 2026 15:54:28 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/phucpm/2026/08/18/0146-4-110850_570.jpg",
+   "title": "Lũ trên sông Cầu vượt báo động 2 và đang tiếp tục lên",
+   "link": "https://nongnghiepmoitruong.vn/lu-tren-song-cau-vuot-bao-dong-2-va-dang-tiep-tuc-len-d827710.html",
+   "date": "Mon, 24 Aug 2026 09:39:08 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tumn/2026/08/24/1018-18c55390-7c92-401e-b172-e557d7a05ef1-nongnghiep-091012.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Mưa bão giảm dần, vùng mưa lớn dịch xuống Ninh Bình, Thanh Hóa, Nghệ An",
+   "link": "https://nongnghiepmoitruong.vn/mua-bao-giam-dan-vung-mua-lon-dich-xuong-ninh-binh-thanh-hoa-nghe-an-d827705.html",
+   "date": "Mon, 24 Aug 2026 09:26:05 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/screenshot-2026-08-24-083752-nongnghiep-083940.jpeg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
