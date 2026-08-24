@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-24T05:07:38.811Z",
- "count": 88,
+ "updated": "2026-08-24T05:59:31.079Z",
+ "count": 89,
  "items": [
   {
    "title": "Siết phòng dịch, đảm bảo nguồn cung thực phẩm cuối năm",
@@ -273,24 +273,6 @@
    "icon": "🌾"
   },
   {
-   "title": "Nông sản sạch Cao Bằng vươn ra thị trường lớn",
-   "link": "https://nongnghiepmoitruong.vn/nong-san-sach-cao-bang-vuon-ra-thi-truong-lon-d827593.html",
-   "date": "Mon, 24 Aug 2026 11:26:23 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tumn/2026/08/23/0720-hong-tra-2-510x340-nongnghiep-130716.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Quốc hội thông qua Luật sửa đổi 10 luật về nông nghiệp và môi trường",
-   "link": "https://nongnghiepmoitruong.vn/quoc-hoi-thong-qua-luat-sua-doi-10-luat-ve-nong-nghiep-va-moi-truong-d827738.html",
-   "date": "Mon, 24 Aug 2026 11:12:32 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tungdd/2026/08/24/0857-2aoboqtgdsyle8kgddughawgwbne7ks9p2kdhndm-nongnghiep-110523.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
    "title": "Khuyến nông đưa Đề án 1 triệu ha lúa ra đồng ruộng",
    "link": "https://nongnghiepmoitruong.vn/video/khuyen-nong-dua-de-an-1-trieu-ha-lua-ra-dong-ruong-tv827551.html",
    "date": "Mon, 24 Aug 2026 11:09:47 +0700",
@@ -349,6 +331,24 @@
    "link": "https://nongnghiepmoitruong.vn/ha-noi-bao-dong-lu-cap-ii-tren-song-tich-song-cau-d827730.html",
    "date": "Mon, 24 Aug 2026 11:00:39 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/da-phuc-nongnghiep-103421.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Phim Tình thâm đối đầu tập 34 trực tiếp THVL1 hôm nay 24/8/2026",
+   "link": "https://nongnghiepmoitruong.vn/phim-tinh-tham-doi-dau-tap-34-truc-tiep-thvl1-hom-nay-24-8-2026-d827725.html",
+   "date": "Mon, 24 Aug 2026 10:50:07 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/phim-tinh-tham-doi-dau-tap-34-thvl1-nongnghiep-101421.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Phim Mùa hè năm ấy tập 8 trực tiếp VTV3 hôm nay 24/8/2026",
+   "link": "https://nongnghiepmoitruong.vn/phim-mua-he-nam-ay-tap-8-truc-tiep-vtv3-hom-nay-24-8-2026-d827704.html",
+   "date": "Mon, 24 Aug 2026 10:46:30 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/phim-mua-he-nam-ay-tap-8-vtv3-nongnghiep-083119.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -610,6 +610,15 @@
    "link": "https://nongnghiepmoitruong.vn/mua-lon-bua-vay-hai-phong-hon-5500ha-lua-va-hoa-mau-bi-ngap-d827676.html",
    "date": "Sun, 23 Aug 2026 22:01:25 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/23/mua-lon-bua-vay-hon-5500-ha-cay-trong-o-hai-phong-ngap-trong-nuoc-194152_93-210114.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Bão số 4 mạnh lên cấp 9, giật cấp 11 và gây mưa lớn hết ngày mai",
+   "link": "https://nongnghiepmoitruong.vn/bao-so-4-manh-len-cap-9-giat-cap-11-va-gay-mua-lon-het-ngay-mai-d827671.html",
+   "date": "Sun, 23 Aug 2026 19:56:32 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/lyntk92/2026/08/23/5334-tn37-nongnghiep-185318.jpeg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
