@@ -1,7 +1,34 @@
 {
- "updated": "2026-08-24T07:51:05.883Z",
+ "updated": "2026-08-24T08:33:48.787Z",
  "count": 88,
  "items": [
+  {
+   "title": "Thông báo quy định về biện pháp SPS của Thành viên Tổ chức Thương mại Thế giới (WTO) (từ ngày 01/8/2026 - ngày 15/8/2026)",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/24/Thong-bao-quy-dinh-ve-bien-phap-SPS-cua-Thanh-vien-To-chuc-Thuong-mai-The-gioi-(WTO)-(tu-ngay-01-8-2026-ngay-15-8-2026).aspx",
+   "date": "Mon, 24 Aug 2026 14:58:00 +0700",
+   "image": "",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
+  },
+  {
+   "title": "Chi cục Chăn nuôi và Thú y TPHCM tham gia Đoàn giám sát về an toàn thực phẩm của Thường trực HĐND Thành phố",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/24/Chi-cuc-Chan-nuoi-va-Thu-y-TPHCM-tham-gia-Doan-giam-sat-ve-an-toan-thuc-pham-cua-Thuong-truc-HDND-Thanh-pho.aspx",
+   "date": "Mon, 24 Aug 2026 14:57:00 +0700",
+   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2fCCCNTYTiepDoanGiamSat1.jpg",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
+  },
+  {
+   "title": "Quyết định số 63/2026/QĐ-UBND về quy định mật độ chăn nuôi trên địa bàn Thành phố Hồ Chí Minh đến năm 2030",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/24/Quyet-dinh-so-63-2026-QD-UBND-ve-quy-dinh-mat-do-chan-nuoi-tren-dia-ban-Thanh-pho-Ho-Chi-Minh-den-nam-2030.aspx",
+   "date": "Mon, 24 Aug 2026 14:56:00 +0700",
+   "image": "",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
+  },
   {
    "title": "Siết phòng dịch, đảm bảo nguồn cung thực phẩm cuối năm",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/08/24/Siet-phong-dich-dam-bao-nguon-cung-thuc-pham-cuoi-nam.aspx",
@@ -61,33 +88,6 @@
    "link": "https://chicuccntyhcm.gov.vn/new/2026/08/20/TPHCM-tang-cuong-kiem-soat-dich-benh-tren-dan-vat-nuoi-cao-diem-mua-mua-bao.aspx",
    "date": "Thu, 20 Aug 2026 15:20:00 +0700",
    "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2fTangCuongKSDichBenh1.png",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
-   "title": "TPHCM tập trung nâng cao tỷ lệ bao phủ vaccine cho vật nuôi",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/20/TPHCM-tap-trung-nang-cao-ty-le-bao-phu-vaccine-cho-vat-nuoi.aspx",
-   "date": "Thu, 20 Aug 2026 09:38:00 +0700",
-   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2fNangCaoTyLeBaoPhuVacxin.png",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
-   "title": "TPHCM hỗ trợ tiêm vắc-xin miễn phí, để tạo miễn dịch bảo vệ đàn vật nuôi",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/20/TPHCM-ho-tro-tiem-vac-xin-mien-phi-de-tao-mien-dich-bao-ve-dan-vat-nuoi.aspx",
-   "date": "Thu, 20 Aug 2026 09:24:00 +0700",
-   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2ftphcmhotrotiemvacxin1.png",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
-   "title": "An toàn thực phẩm phải được kiểm soát từ đầu đến cuối chuỗi",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/19/An-toan-thuc-pham-phai-duoc-kiem-soat-tu-dau-den-cuoi-chuoi.aspx",
-   "date": "Wed, 19 Aug 2026 15:31:00 +0700",
-   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f8%2fAnToanThucPhamPhaiKiemSoat.png",
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
@@ -273,82 +273,91 @@
    "icon": "🌾"
   },
   {
-   "title": "Nông sản sạch Cao Bằng vươn ra thị trường lớn",
-   "link": "https://nongnghiepmoitruong.vn/nong-san-sach-cao-bang-vuon-ra-thi-truong-lon-d827593.html",
-   "date": "Mon, 24 Aug 2026 11:26:23 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tumn/2026/08/23/0720-hong-tra-2-510x340-nongnghiep-130716.jpg",
+   "title": "Đắk Lắk tăng tốc số hóa vùng trồng sầu riêng",
+   "link": "https://nongnghiepmoitruong.vn/dak-lak-tang-toc-so-hoa-vung-trong-sau-rieng-d827549.html",
+   "date": "Mon, 24 Aug 2026 15:26:13 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thoth77/2026/08/22/2944-so-hoa-1-172117_715.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Quốc hội thông qua Luật sửa đổi 10 luật về nông nghiệp và môi trường",
-   "link": "https://nongnghiepmoitruong.vn/quoc-hoi-thong-qua-luat-sua-doi-10-luat-ve-nong-nghiep-va-moi-truong-d827738.html",
-   "date": "Mon, 24 Aug 2026 11:12:32 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tungdd/2026/08/24/0857-2aoboqtgdsyle8kgddughawgwbne7ks9p2kdhndm-nongnghiep-110523.jpg",
+   "title": "Tuổi trẻ Điện Biên tiếp sức chiến sĩ tìm kiếm, quy tập hài cốt liệt sĩ",
+   "link": "https://nongnghiepmoitruong.vn/tuoi-tre-dien-bien-tiep-suc-chien-si-tim-kiem-quy-tap-hai-cot-liet-si-d827718.html",
+   "date": "Mon, 24 Aug 2026 15:25:51 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/779261987_1545432567629871_6654901059152635556_n-nongnghiep-095852.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Khuyến nông đưa Đề án 1 triệu ha lúa ra đồng ruộng",
-   "link": "https://nongnghiepmoitruong.vn/video/khuyen-nong-dua-de-an-1-trieu-ha-lua-ra-dong-ruong-tv827551.html",
-   "date": "Mon, 24 Aug 2026 11:09:47 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/quangcn/2026/08/24/0744-img_0835jpg-nongnghiep-173951.jpg",
+   "title": "Cần Thơ có quy định mới về quản lý chất thải",
+   "link": "https://nongnghiepmoitruong.vn/can-tho-co-quy-dinh-moi-ve-quan-ly-chat-thai-d827714.html",
+   "date": "Mon, 24 Aug 2026 15:25:23 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/1787537856849_7137196628475576754_7137196628475576754_4e68885a8694723fcece96c48eebdc62-nongnghiep-092304.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Phát hiện thực phẩm không an toàn phải báo người mua trong 24 giờ",
-   "link": "https://nongnghiepmoitruong.vn/phat-hien-thuc-pham-khong-an-toan-phai-bao-nguoi-mua-trong-24-gio-d827719.html",
-   "date": "Mon, 24 Aug 2026 11:09:10 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/24/an-toan-thuc-pham-khi-nguoi-dan-thay-doi-nhan-thuc-va-he-thong-hanh-dong-173241_11-110910.jpg",
+   "title": "Khởi động vụ thu đông bằng công nghệ và tư duy sản xuất xanh",
+   "link": "https://nongnghiepmoitruong.vn/khoi-dong-vu-thu-dong-bang-cong-nghe-va-tu-duy-san-xuat-xanh-d827775.html",
+   "date": "Mon, 24 Aug 2026 15:25:03 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/vulh/2026/08/24/3929-anh-3jpg-nongnghiep-143920.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Van Phuc City - Khi 'nơi đáng sống' trở thành sân khấu quốc gia",
-   "link": "https://nongnghiepmoitruong.vn/van-phuc-city--khi-noi-dang-song-tro-thanh-san-khau-quoc-gia-d827693.html",
-   "date": "Mon, 24 Aug 2026 11:08:07 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/k14-54-1787492529583-1787492529756832830473-nongnghiep-024208.jpg",
+   "title": "Ghi nhận hai loài san hô quý hiếm ở khu bảo tồn biển Cà Mau",
+   "link": "https://nongnghiepmoitruong.vn/ghi-nhan-hai-loai-san-ho-quy-hiem-o-khu-bao-ton-bien-ca-mau-d827696.html",
+   "date": "Mon, 24 Aug 2026 15:24:42 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/24/1787535311918_1773144149673275711_7600126956579545821_7c9f733aadca08b89815a4306b66ba7c-083709_906-152442.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Giữ giá trị ở lại vùng nguyên liệu: [Bài 1] Hành trình của hạt cà phê",
-   "link": "https://nongnghiepmoitruong.vn/giu-gia-tri-o-lai-vung-nguyen-lieu-bai-1-hanh-trinh-cua-hat-ca-phe-d826382.html",
-   "date": "Mon, 24 Aug 2026 11:07:40 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/16/1786195180924_4678033189719058296_4678033189719058296_fd0344320e58afdfa71390fa18d728ff-nongnghiep-130611.jpg",
+   "title": "Chính phủ định hướng chiến lược Tập đoàn Hóa chất Việt Nam",
+   "link": "https://nongnghiepmoitruong.vn/chinh-phu-dinh-huong-chien-luoc-tap-doan-hoa-chat-viet-nam-d827766.html",
+   "date": "Mon, 24 Aug 2026 14:39:55 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/24/3707-qua-trinh-phat-trien-dong-thoi-gan-voi-yeu-cau-an-toan-hoa-chat-bao-ve-moi-truong-tiet-kiem-tai-nguyen-kinh-te-tuan-hoan-va-muc-tieu-phat-thai-rong-bang-0-141434_986.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Sa Pa khai hội Mùa thu 2026: Lan tỏa sắc vàng miền di sản",
-   "link": "https://nongnghiepmoitruong.vn/sa-pa-khai-hoi-mua-thu-2026-lan-toa-sac-vang-mien-di-san-d827686.html",
-   "date": "Mon, 24 Aug 2026 11:07:04 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/23/1787496016162_1987875377505196092_3393720038208725682_85b8b9be6662367f91a62d8eddfc6524-nongnghiep-221136.jpg",
+   "title": "Nhường đất làm đường 925B, người dân Vị Thủy đồng thuận bàn giao mặt bằng",
+   "link": "https://nongnghiepmoitruong.vn/nhuong-dat-lam-duong-925b-nguoi-dan-vi-thuy-dong-thuan-ban-giao-mat-bang-d827053.html",
+   "date": "Mon, 24 Aug 2026 14:31:54 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/19/nhuong-dat-lam-duong-925b-nguoi-dan-vi-thuy-dong-thuan-ban-giao-mat-bang-203727_616-203730.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Trung Quốc sơ tán hàng chục nghìn người do bão Narra gây mưa lớn",
-   "link": "https://nongnghiepmoitruong.vn/trung-quoc-so-tan-hang-chuc-nghin-nguoi-do-bao-narra-gay-mua-lon-d827737.html",
-   "date": "Mon, 24 Aug 2026 11:01:07 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/24/trung-quoc-so-tan-hang-chuc-nghin-nguoi-do-bao-narra-gay-mua-lon-105755_804-110107.jpeg",
+   "title": "Những 'rốn ngập' Hà Nội đang khô dần",
+   "link": "https://nongnghiepmoitruong.vn/nhung-ron-ngap-ha-noi-dang-kho-dan-d827734.html",
+   "date": "Mon, 24 Aug 2026 14:02:41 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/1787543153207_279965217616281124_4436749741323513940_421736dbf65790bc930c270aa7fbfbb4-nongnghiep-110209.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
   },
   {
-   "title": "Hà Nội báo động lũ cấp II trên sông Tích, sông Cầu",
-   "link": "https://nongnghiepmoitruong.vn/ha-noi-bao-dong-lu-cap-ii-tren-song-tich-song-cau-d827730.html",
-   "date": "Mon, 24 Aug 2026 11:00:39 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/da-phuc-nongnghiep-103421.jpg",
+   "title": "Năm 2026 nhiều khả năng là năm nóng nhất lịch sử",
+   "link": "https://nongnghiepmoitruong.vn/nam-2026-nhieu-kha-nang-la-nam-nong-nhat-lich-su-d827729.html",
+   "date": "Mon, 24 Aug 2026 14:01:50 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/24/screenshot-2026-08-24-104623-104822_566-140151.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Lũ trên địa bàn Lạng Sơn, Bắc Ninh, Cao Bằng, Thái Nguyên vẫn cao",
+   "link": "https://nongnghiepmoitruong.vn/lu-tren-dia-ban-lang-son-bac-ninh-cao-bang-thai-nguyen-van-cao-d827746.html",
+   "date": "Mon, 24 Aug 2026 13:59:57 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/2aoboqtxapieroj36gqkwarcclchzecy3shuv8j23-nongnghiep-114858.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -534,10 +543,10 @@
    "icon": "🌾"
   },
   {
-   "title": "Lũ trên địa bàn Lạng Sơn, Bắc Ninh, Cao Bằng, Thái Nguyên vẫn cao",
-   "link": "https://nongnghiepmoitruong.vn/lu-tren-dia-ban-lang-son-bac-ninh-cao-bang-thai-nguyen-van-cao-d827746.html",
-   "date": "Mon, 24 Aug 2026 13:59:57 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/2aoboqtxapieroj36gqkwarcclchzecy3shuv8j23-nongnghiep-114858.jpg",
+   "title": "Quốc hội thông qua Luật sửa đổi 10 luật về nông nghiệp và môi trường",
+   "link": "https://nongnghiepmoitruong.vn/quoc-hoi-thong-qua-luat-sua-doi-10-luat-ve-nong-nghiep-va-moi-truong-d827738.html",
+   "date": "Mon, 24 Aug 2026 11:12:32 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tungdd/2026/08/24/0857-2aoboqtgdsyle8kgddughawgwbne7ks9p2kdhndm-nongnghiep-110523.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -700,15 +709,6 @@
    "link": "https://nongnghiepmoitruong.vn/ha-noi-an-toan-thuc-pham-trong-ky-nguyen-so-tu-chien-luoc-den-hanh-dong-d827182.html",
    "date": "Thu, 20 Aug 2026 15:44:17 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tuongdt/2026/08/20/0323-dsc_0747-150229_516.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Những 'rốn ngập' Hà Nội đang khô dần",
-   "link": "https://nongnghiepmoitruong.vn/nhung-ron-ngap-ha-noi-dang-kho-dan-d827734.html",
-   "date": "Mon, 24 Aug 2026 14:02:41 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/1787543153207_279965217616281124_4436749741323513940_421736dbf65790bc930c270aa7fbfbb4-nongnghiep-110209.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
