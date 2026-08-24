@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-24T00:33:02.851Z",
- "count": 90,
+ "updated": "2026-08-24T02:14:50.835Z",
+ "count": 86,
  "items": [
   {
    "title": "TPHCM xác định khu vực được phép chăn nuôi theo mật độ",
@@ -534,10 +534,19 @@
    "icon": "🌾"
   },
   {
-   "title": "Vĩnh Long chủ động phòng dịch, bảo vệ vùng nuôi thủy sản",
-   "link": "https://nongnghiepmoitruong.vn/vinh-long-chu-dong-phong-dich-bao-ve-vung-nuoi-thuy-san-d826457.html",
-   "date": "Mon, 17 Aug 2026 16:23:26 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/17/ho-nuoi-thuy-san-thuong-xuyen-kiem-tra-long-be-nham-phat-hien-xu-ly-kip-thoi-dich-benh-tren-thuy-san-nuoi-080901_516.jpg",
+   "title": "Mưa lớn kéo dài, phải xả lũ 50 hồ chứa",
+   "link": "https://nongnghiepmoitruong.vn/mua-lon-keo-dai-phai-xa-lu-50-ho-chua-d827689.html",
+   "date": "Mon, 24 Aug 2026 07:48:33 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/23/img_20260823_230221-nongnghiep-230438.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Siết trách nhiệm người đứng đầu trong ứng phó mưa lũ",
+   "link": "https://nongnghiepmoitruong.vn/siet-trach-nhiem-nguoi-dung-dau-trong-ung-pho-mua-lu-d827688.html",
+   "date": "Mon, 24 Aug 2026 06:30:55 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/nghiahv86/2026/08/23/5058-cong-dien-69-nongnghiep-224254.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -601,33 +610,6 @@
    "link": "https://nongnghiepmoitruong.vn/bo-doi-cao-bang-vuot-lu-ho-tro-nguoi-dan-d827659.html",
    "date": "Sun, 23 Aug 2026 17:57:17 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tumn/2026/08/23/4038-1787475012539_2566738837333338359_g2361988125960745646_7534880ec96e074f37ef5ba598d2698d-nongnghiep-164033.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Quảng Ninh chưa ghi nhận thiệt hại về người do bão số 4",
-   "link": "https://nongnghiepmoitruong.vn/quang-ninh-chua-ghi-nhan-thiet-hai-ve-nguoi-do-bao-so-4-d827656.html",
-   "date": "Sun, 23 Aug 2026 17:13:27 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/23/img_1787477145325_1787477428238-nongnghiep-163233.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Bảo vệ các trọng điểm đê điều xung yếu trước lũ lớn",
-   "link": "https://nongnghiepmoitruong.vn/bao-ve-cac-trong-diem-de-dieu-xung-yeu-truoc-lu-lon-d827633.html",
-   "date": "Sun, 23 Aug 2026 14:55:04 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/23/lu-song-luc-nam-song-thuong-1-134855_648-145506.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Mở 5 cửa xả tràn hồ Núi Cốc",
-   "link": "https://nongnghiepmoitruong.vn/mo-5-cua-xa-tran-ho-nui-coc-d827637.html",
-   "date": "Sun, 23 Aug 2026 14:17:17 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tumn/2026/08/23/0848-1787468718355_6595268560013068782_6595268560013068782_59a027376745e71a2194e57671fcf656-nongnghiep-140842.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -790,24 +772,6 @@
    "link": "https://nongnghiepmoitruong.vn/viet-nam-gioi-thieu-11-du-an-doi-moi-sang-tao-tai-innoex-2026-d827352.html",
    "date": "Fri, 21 Aug 2026 15:39:33 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/linhnhp/2026/08/21/1610-01fde260-b3ff-4b0c-adb3-04d2bb97fc99-151328_297.jpeg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Thanh Hóa chủ động gia cố ‘lá chắn’ đê điều, hồ đập",
-   "link": "https://nongnghiepmoitruong.vn/thanh-hoa-chu-dong-gia-co-la-chan-de-dieu-ho-dap-d827288.html",
-   "date": "Fri, 21 Aug 2026 11:48:29 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tiepld86/2026/08/21/4855-hai-tien-nongnghiep-074851.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Hưng Yên đầu tư hạ tầng công nghiệp theo hướng giảm phát thải",
-   "link": "https://nongnghiepmoitruong.vn/hung-yen-dau-tu-ha-tang-cong-nghiep-theo-huong-giam-phat-thai-d826950.html",
-   "date": "Fri, 21 Aug 2026 10:15:32 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/21/mo-co-che-thuc-day-phat-trien-ha-tang-cong-nghiep-xanh-144538_830-144538-101533.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
