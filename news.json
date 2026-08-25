@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T02:10:41.853Z",
+ "updated": "2026-08-25T03:23:33.857Z",
  "count": 89,
  "items": [
   {
@@ -453,6 +453,15 @@
    "icon": "🌾"
   },
   {
+   "title": "Phát hiện, xử lý thủ đoạn 'gửi' VMS để đối phó giám sát tàu cá",
+   "link": "https://nongnghiepmoitruong.vn/phat-hien-xu-ly-thu-doan-gui-vms-de-doi-pho-giam-sat-tau-ca-d827759.html",
+   "date": "Tue, 25 Aug 2026 06:15:34 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/25/2aoboqttqyyolg6isbvbyuo9oh33i1vx2emwasjo-122845_926-061536.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Ba ngày bão tại Cô Tô và những gì biển muốn dạy chúng ta",
    "link": "https://nongnghiepmoitruong.vn/ba-ngay-bao-tai-co-to--nhung-gi-bien-muon-day-chung-ta-d827761.html",
    "date": "Mon, 24 Aug 2026 21:56:42 +0700",
@@ -534,10 +543,19 @@
    "icon": "🌾"
   },
   {
-   "title": "Gấp rút hợp nhất cơ sở dữ liệu nghề cá phục vụ chống khai thác IUU",
-   "link": "https://nongnghiepmoitruong.vn/gap-rut-hop-nhat-co-so-du-lieu-nghe-ca-phuc-vu-chong-khai-thac-iuu-d827335.html",
-   "date": "Fri, 21 Aug 2026 15:12:04 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/21/1787292618217_1940324687411168189_5726673613015155241_afa9fd460e151a77593c35cc48c57f98-nongnghiep-141924.jpg",
+   "title": "TIN BUỒN",
+   "link": "https://nongnghiepmoitruong.vn/tin-buon-d827886.html",
+   "date": "Tue, 25 Aug 2026 09:07:27 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/25/nvnb_vuhuusu-1-nongnghiep-084016.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Việt Nam - New Zealand tăng cường hợp tác nông nghiệp, chuẩn bị cho APEC 2027",
+   "link": "https://nongnghiepmoitruong.vn/viet-nam--new-zealand-tang-cuong-hop-tac-nong-nghiep-chuan-bi-cho-apec-2027-d827879.html",
+   "date": "Tue, 25 Aug 2026 09:21:38 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/nghienmx/2026/08/25/2005-bt-bat-tay-063034_793-063034-073136.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -601,24 +619,6 @@
    "link": "https://nongnghiepmoitruong.vn/canh-bao-song-to-gio-lon-tren-bien-den-het-thang-8-d827811.html",
    "date": "Mon, 24 Aug 2026 18:40:40 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/song-to-gio-lon-ttxvn-nongnghiep-165054.jpeg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Việt Nam có thêm 2 thành phố là Quảng Ninh và Bắc Ninh",
-   "link": "https://nongnghiepmoitruong.vn/viet-nam-co-them-2-thanh-pho-la-quang-ninh-va-bac-ninh-d827829.html",
-   "date": "Mon, 24 Aug 2026 18:30:23 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tungdd/2026/08/24/4953-dji_0690jpg-nongnghiep-174907.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Chuẩn bị điều kiện để thi hành luật, nghị quyết ngay khi có hiệu lực",
-   "link": "https://nongnghiepmoitruong.vn/chuan-bi-dieu-kien-de-thi-hanh-luat-nghi-quyet-ngay-khi-co-hieu-luc-d827830.html",
-   "date": "Mon, 24 Aug 2026 18:29:25 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/1-nongnghiep-175735.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -714,6 +714,33 @@
    "icon": "🌾"
   },
   {
+   "title": "Sơn La điều chỉnh giá tối đa xử lý chất thải rắn sinh hoạt",
+   "link": "https://nongnghiepmoitruong.vn/son-la-dieu-chinh-gia-toi-da-xu-ly-chat-thai-ran-sinh-hoat-d827695.html",
+   "date": "Tue, 25 Aug 2026 08:57:19 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/ngantt89/2026/08/24/5325-img_0966-nongnghiep-065321.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Cần hóa giải sức ép với ngành nhựa từ sửa đổi Luật Bảo vệ môi trường",
+   "link": "https://nongnghiepmoitruong.vn/can-hoa-giai-suc-ep-voi-nganh-nhua-tu-sua-doi-luat-bao-ve-moi-truong-d827744.html",
+   "date": "Tue, 25 Aug 2026 06:14:33 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/24/nhua-tai-che-nongnghiep-131302.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "Số hóa vườn cây đưa trái Việt đi xa",
+   "link": "https://nongnghiepmoitruong.vn/so-hoa-vuon-cay-dua-trai-viet-di-xa-d827398.html",
+   "date": "Tue, 25 Aug 2026 06:10:02 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/sangnm/2026/08/21/1508-3-nongnghiep-181503.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Sơn La lan tỏa chuỗi hành động vì môi trường xanh",
    "link": "https://nongnghiepmoitruong.vn/son-la-lan-toa-chuoi-hanh-dong-vi-moi-truong-xanh-d827867.html",
    "date": "Tue, 25 Aug 2026 06:06:29 +0700",
@@ -772,33 +799,6 @@
    "link": "https://nongnghiepmoitruong.vn/de-xuat-chu-tich-ubnd-cap-tinh-phe-duyet-cap-tin-chi-cac-bon-d827537.html",
    "date": "Mon, 24 Aug 2026 06:35:21 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/22/anh-minh-hoa-co2-nongnghiep-164514.jpeg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Động lực tài chính quan trọng cho giảm phát thải",
-   "link": "https://nongnghiepmoitruong.vn/dong-luc-tai-chinh-quan-trong-cho-giam-phat-thai-d826932.html",
-   "date": "Sun, 23 Aug 2026 15:14:53 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/08/19/z4708298604203_31ae197eb7699aa5a0c5a1b00553135b-nongnghiep-151547.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Bắc Ninh khẩn trương ứng phó mưa lũ, bảo đảm an toàn đê điều",
-   "link": "https://nongnghiepmoitruong.vn/bac-ninh-khan-truong-ung-pho-mua-lu-bao-dam-an-toan-de-dieu-d827636.html",
-   "date": "Sun, 23 Aug 2026 15:11:02 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/23/z8180656282703_7da92f6b76612b1396b583497e27e2aa-135636_313-151103.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "Tây Ninh 'siết' nguồn thải, phạt doanh nghiệp tiền tỷ",
-   "link": "https://nongnghiepmoitruong.vn/tay-ninh-siet-nguon-thai-phat-doanh-nghiep-tien-ty-d827602.html",
-   "date": "Sun, 23 Aug 2026 14:28:47 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/08/23/2aoboqtraayvnhoicqtm7k76fbkvnywozsjmzr8k-084419_741-142848.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
