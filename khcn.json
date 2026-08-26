@@ -1,9 +1,63 @@
 {
- "updated": "2026-08-25T11:20:43.518Z",
+ "updated": "2026-08-26T07:36:27.892Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Nghiên cứu thu nhận dịch chiết giàu acid amin từ nhộng tằm bằng enzym",
+   "link": "https://channuoivietnam.com/portal-news-detail/215cbd1c-8705-493b-91ac-b9cfc114b1e1",
+   "date": "2026-08-26T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cfbd1bc21-85c6-420b-a1d6-247b99892cc4.png&v=76eacbeb-8fc5-4ce5-82e6-f3b227402993",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Phân lập và khảo sát một số đặc điểm sinh học của vi khuẩn Avian pathogenic escherichia coli (Apec) ở gà",
+   "link": "https://channuoivietnam.com/portal-news-detail/28988196-ca32-4235-a271-1d8901e5fcf9",
+   "date": "2026-08-26T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c3b82020d-9bb7-4054-99a5-e45d8b587501.png&v=5caf9c14-da0c-415f-9255-4efe876e25e9",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Đặc điểm phân tử mannan binding lectin serine protease 3 ở lợn",
+   "link": "https://channuoivietnam.com/portal-news-detail/85ac87b0-a001-4e81-a771-c767ed30902e",
+   "date": "2026-08-26T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c8e36efad-f159-4972-b614-b0c221897087.png&v=51626609-283b-4259-9e1d-fc35ffaa621e",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Sử dụng phương pháp loop-mediated isothermal amplification (LAMP) để phát hiện Salmonella spp. từ trứng gà",
+   "link": "https://channuoivietnam.com/portal-news-detail/89058ea0-960f-474c-bb49-947a085d83a5",
+   "date": "2026-08-26T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c9bd0170e-0a99-4fd7-ac79-302d363babf2.png&v=d79712eb-20fe-425a-8081-4ef6d02c0813",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Quan hệ giữa nhiệt độ và ẩm độ với các chỉ tiêu sinh lý của cừu Phan Rang",
+   "link": "https://channuoivietnam.com/portal-news-detail/99fcdc5d-db48-4096-8433-375ebaa96b54",
+   "date": "2026-08-26T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cb011cb9b-5513-48b3-828b-e12987d5323d.png&v=7da93d5b-55d7-4acc-aca8-aa2dc23a2200",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Mức ăn thích hợp trong giai đoạn hậu bị nuôi gà Lạc Sơn sinh sản",
+   "link": "https://channuoivietnam.com/portal-news-detail/a5ff5d33-ba5b-4a9a-ae89-9975187eb8f7",
+   "date": "2026-08-26T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c4f98599e-9267-4bcd-9fee-038d6225933e.png&v=a72123f3-805a-4754-a07f-6ee37d3f7d71",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Kết quả phân lập và xác định tỷ lệ nhiễm Mycoplasma gallisepticum và Salmonella typhimurium ở vịt bằng kháng nguyên tự chế",
    "link": "https://channuoivietnam.com/portal-news-detail/59381",
@@ -81,60 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/a155e1ce-5dc5-461a-b48e-391c8979a1a5",
    "date": "2026-08-25T00:00:00+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5ca155e1ce-5dc5-461a-b48e-391c8979a1a5edit.png&v=2a3b909d-2d5d-44ab-9e97-3a7df55677b7",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Khảo sát ảnh hưởng của tỏi tươi đến sự sinh trưởng phát triển và tỷ lệ bệnh về đường hô hấp của gà Nòi lai trong giai đoạn từ 5 đến 12 tuần tuổi",
-   "link": "https://channuoivietnam.com/portal-news-detail/c86b9b1f-ca47-45e4-90d4-1f5a289005c4",
-   "date": "2026-08-25T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c03b22924-6f8a-41f6-bb4e-e9446442ac35.png&v=3b7263a4-cd24-4e54-b74e-8a312a67f21d",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Côn trùng biến đổi gen - Triển vọng và nguy cơ",
-   "link": "https://channuoivietnam.com/portal-news-detail/d2a20866-27bd-44b4-9371-d52c4b3cc958",
-   "date": "2026-08-25T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c92d5163d-3c9f-4e4c-9d0c-8ec3a2a6a012.png&v=da6d69b5-4572-487a-99aa-47742adec185",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của chế phẩm Asead đến khả năng sinh trưởng và hình thái lông nhung ruột của gà lai F1 (trống Ri × mái Lương Phượng)",
-   "link": "https://channuoivietnam.com/portal-news-detail/e96f0dbd-bd15-4517-9911-62bf98aeafac",
-   "date": "2026-08-25T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cfe70b4fb-ba48-4fe3-b881-148e18c556c0.png&v=ff544882-b8d6-4f6c-93b8-892e371772fa",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Phân lập và phân tích đặc điểm di truyền của virus Tembusu (flavivirus) trên vịt",
-   "link": "https://channuoivietnam.com/portal-news-detail/eb13267d-7000-485e-8e2c-ad6287e1ca53",
-   "date": "2026-08-25T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c13624d73-4a39-4f2b-b965-552a543528a1.png&v=f23fa2b8-0078-4011-9d13-b8e20d4a36a3",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Khả năng sinh trưởng, năng suất và chất lượng thịt gà Tiên Yên nuôi bằng khẩu phần tự trộn từ 13 tuần đến xuất bán",
-   "link": "https://channuoivietnam.com/portal-news-detail/59369",
-   "date": "2026-08-24T17:15:54+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f06%2fScreenshot-2023-06-13-at-15.16.28.png",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Cải tiến trong quản lý phân lỏng: hệ thống sàn chuồng di động",
-   "link": "https://channuoivietnam.com/portal-news-detail/56823",
-   "date": "2026-08-24T17:00:51+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c56823edit.png&v=e5168a17-4283-4069-a12b-26c28a2f7120",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
