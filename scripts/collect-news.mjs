@@ -124,36 +124,50 @@ function parseHtml(html, src){
   return out;
 }
 
-const all = [];
-for (const src of SOURCES) {
+// Thu thập SONG SONG tất cả nguồn (nhanh hơn nhiều so với tuần tự)
+const results = await Promise.all(SOURCES.map(async (src) => {
   try {
     const txt = await get(src.url);
-    if (!txt) { console.log(src.key, '-> 0 (empty)'); continue; }
+    if (!txt) { console.log(src.key, '-> 0 (empty)'); return []; }
     const items = (src.type === 'rss' ? parseRss(txt, src) : parseHtml(txt, src)).slice(0, src.max || 10);
-    items.forEach(it => all.push(it));
     console.log(src.key, '->', items.length);
-  } catch (e) { console.log(src.key, '-> ERR', e.message); }
-}
+    return items;
+  } catch (e) { console.log(src.key, '-> ERR', e.message); return []; }
+}));
+const all = results.flat();
 
-// Bổ sung ảnh cho bài của Chi cục còn thiếu (tải trang bài để lấy ảnh đầu)
+// Bổ sung ảnh cho bài Chi cục còn thiếu (song song)
+await Promise.all(all.map(async (it) => {
+  if (it.image || it.source !== 'chicuccntyhcm') return;
+  try { it.image = firstImg(await get(it.link), 'https://chicuccntyhcm.gov.vn'); } catch {}
+}));
+
+// Lọc CHỦ ĐỀ (chăn nuôi–thú y–ATTP–nông nghiệp) — giữ toàn bộ tin Chi cục (nguồn của Trạm)
+const MULTI = ['chăn nuôi','thú y','gia súc','gia cầm','vật nuôi','động vật','an toàn thực phẩm','thực phẩm','dịch bệnh','dịch tả','lở mồm','bệnh dại','tiêm phòng','giết mổ','kiểm dịch','thức ăn chăn nuôi','nông nghiệp','thủy sản','nông lâm','bò sữa','vệ sinh thú y','vắc xin','vaccine'];
+const SINGLE = new Set(['heo','bò','gà','vịt','ngan','dê','trâu','yến','thịt','trứng','cúm','asf','lmlm','tôm','cá']);
+const isTopical = t => {
+  t = (t || '').toLowerCase();
+  if (MULTI.some(k => t.includes(k))) return true;
+  return t.replace(/[^0-9a-zà-ỹđ]+/g, ' ').split(' ').some(w => SINGLE.has(w));
+};
+
+// Bỏ trùng theo LINK và theo TIÊU ĐỀ chuẩn hoá (bắt bài trùng giữa các chuyên mục)
+const norm = s => (s || '').toLowerCase().replace(/[^0-9a-zà-ỹđ]+/g, ' ').replace(/\s+/g, ' ').trim();
+const seenLink = new Set(), seenTitle = new Set(), uniq = [];
 for (const it of all) {
-  if (it.image || it.source !== 'chicuccntyhcm') continue;
-  try {
-    const html = await get(it.link);
-    it.image = firstImg(html, 'https://chicuccntyhcm.gov.vn');
-  } catch {}
+  if (it.source !== 'chicuccntyhcm' && !isTopical(it.title)) continue;
+  const lk = (it.link || '').toLowerCase(), tk = norm(it.title);
+  if ((lk && seenLink.has(lk)) || (tk && seenTitle.has(tk))) continue;
+  if (lk) seenLink.add(lk); if (tk) seenTitle.add(tk);
+  uniq.push(it);
 }
+// Sắp sẵn: ưu tiên bài CÓ ẢNH GỐC, rồi theo NGÀY mới nhất
+const realImg = x => x.image && !/s2\/favicons|\.ico/i.test(x.image);
+uniq.sort((a, b) => (realImg(b) ? 1 : 0) - (realImg(a) ? 1 : 0) || (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
 
-// bỏ trùng theo link
-const seen = new Set(); const uniq = [];
-for (const it of all) {
-  const k = (it.link || it.title).toLowerCase();
-  if (!seen.has(k)) { seen.add(k); uniq.push(it); }
-}
-
-const out = { updated: new Date().toISOString(), count: uniq.length, items: uniq };
+const out = { updated: new Date().toISOString(), count: Math.min(uniq.length, 60), items: uniq.slice(0, 60) };
 writeFileSync('news.json', JSON.stringify(out, null, 1));
-console.log('TOTAL', uniq.length, '| có ảnh:', uniq.filter(x => x.image).length);
+console.log('TOTAL', out.count, '| có ảnh gốc:', out.items.filter(realImg).length);
 
 // ═══════════ GIÁ SẢN PHẨM CHĂN NUÔI (nguồn chính thức: trang chủ Chi cục CNTY HCM) ═══════════
 function parsePrices(html){
