@@ -76,6 +76,34 @@
   },
   {
    "group": "farm",
+   "name": "Heo hơi",
+   "value": "54.000 - 58.000 đ/kg",
+   "num": 54000,
+   "trend": "same"
+  },
+  {
+   "group": "farm",
+   "name": "Gà lông màu",
+   "value": "29.000 đ/kg",
+   "num": 29000,
+   "trend": "same"
+  },
+  {
+   "group": "farm",
+   "name": "Gà lông trắng",
+   "value": "37.000 đ/kg",
+   "num": 37000,
+   "trend": "same"
+  },
+  {
+   "group": "farm",
+   "name": "Vịt thịt",
+   "value": "45.000 đ/kg",
+   "num": 45000,
+   "trend": "same"
+  },
+  {
+   "group": "farm",
    "name": "Vịt giống",
    "value": "23.000-26.000 đ/kg",
    "num": 23000,
