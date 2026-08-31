@@ -1,9 +1,126 @@
 {
- "updated": "2026-08-30T15:08:53.819Z",
+ "updated": "2026-08-31T14:11:59.698Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Nghiên cứu một số biến đổi bệnh lý và đặc tính sinh học của Feline panleukopenia virus phân lập trên mèo",
+   "link": "https://channuoivietnam.com/portal-news-detail/59460",
+   "date": "2026-08-31T17:16:44+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c59460edit.png&v=ea047d6c-5657-4a19-a12b-6b27bad3f3d1",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Đường đưa vacxin và đáp ứng miễn dịch của gà đối với virus gây bệnh Newcastle và viêm phế quản truyền nhiễm",
+   "link": "https://channuoivietnam.com/portal-news-detail/56840",
+   "date": "2026-08-31T17:00:28+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c56840edit.png&v=72f0d064-222c-4385-ba7e-02b62e409f47",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Phương pháp xác định giới tính gà ngay từ trong trứng",
+   "link": "https://channuoivietnam.com/portal-news-detail/36809",
+   "date": "2026-08-31T16:02:28+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c36809edit.png&v=be9385c4-86c3-453b-9daf-fdf9afe4c646",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "6 vai trò khác nhau của kẽm trong cơ thể heo",
+   "link": "https://channuoivietnam.com/portal-news-detail/34120",
+   "date": "2026-08-31T16:00:37+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c34120edit.png&v=9fc82a3c-5333-4e26-ad5d-f21e873b9e0b",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Kiểm soát sức khỏe ruột gia cầm cho năng suất tối đa",
+   "link": "https://channuoivietnam.com/portal-news-detail/47643",
+   "date": "2026-08-31T15:59:55+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f11%2fKH.-Ga-thit.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Hãy nghĩ về sữa đầu, chứ không phải kháng sinh, để chống lại tiêu chảy trên bê con",
+   "link": "https://channuoivietnam.com/portal-news-detail/46250",
+   "date": "2026-08-31T15:59:08+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f08%2fKH.-Be-bu-sua..jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Nghiên cứu sản xuất bột protein từ lòng trắng trứng vịt muối",
+   "link": "https://channuoivietnam.com/portal-news-detail/1d245991-f959-4929-b3f1-0ee34c5e94e1",
+   "date": "2026-08-31T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c1d245991-f959-4929-b3f1-0ee34c5e94e1edit.png&v=30a5acde-4be7-4359-b424-5eb2b290d535",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Ảnh hưởng vị trí phân bố ô chuồng trong trại kín thông gió lên năng suất sinh sản của gà mái đẻ",
+   "link": "https://channuoivietnam.com/portal-news-detail/28750475-0847-4ea7-b196-de25dec60bdb",
+   "date": "2026-08-31T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c28750475-0847-4ea7-b196-de25dec60bdbedit.png&v=a0aa240f-7717-4151-a54d-1dc02271455c",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Chẩn đoán phân tử PRRS: Khi giải trình tự 4% hệ gen là chưa đủ",
+   "link": "https://channuoivietnam.com/portal-news-detail/4d436929-d236-488b-b321-b301e0a0982c",
+   "date": "2026-08-31T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c93a7f466-0e3d-49ae-a303-a226ace476a8.png&v=75cee38c-7092-4c03-a995-896511ba93f5",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Liên quan giữa kiểu gen leptin và Insulin-like growth factor 1 với khả năng sinh sản của bò sữa",
+   "link": "https://channuoivietnam.com/portal-news-detail/8643d3c3-5b50-4023-94c9-d73dfa0833a0",
+   "date": "2026-08-31T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c47d4bd5a-ea91-4e7e-a9bd-e363111eb8b2.png&v=681e4ebf-f433-4af4-bf2f-68ad4bddba0d",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Những điểm kiểm soát chất lượng chính trong các nhà máy thức ăn chăn nuôi",
+   "link": "https://channuoivietnam.com/portal-news-detail/cd7f475f-14ca-4bc9-8517-d7942590ffad",
+   "date": "2026-08-31T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c36866997-74d1-4fc1-9f85-3b1aa4a56bd2.png&v=69dbc603-fae6-4070-9658-9eaeef93487e",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Phòng ngừa bệnh hô hấp trên vật nuôi trong mùa thu - đông",
+   "link": "https://channuoivietnam.com/portal-news-detail/e5cb0369-4b0a-4d39-bda7-fb1de82db862",
+   "date": "2026-08-31T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cd002ebf9-51aa-40a0-b741-86dd0f8d9a55.png&v=047c770c-a732-4899-86b5-980f5abb8144",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Quy trình MCREBEL trong kiểm soát trại nổ dịch tai xanh",
+   "link": "https://channuoivietnam.com/portal-news-detail/f308a30a-906e-4588-8aa6-6aaeb6c631be",
+   "date": "2026-08-31T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cf308a30a-906e-4588-8aa6-6aaeb6c631beedit.png&v=282ea6e4-7fca-4ed1-98b1-ae0cbf492479",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Khảo sát hàm lượng polyphenol, hoạt tính chống oxy hóa và kháng khuẩn trên vi khuẩn Escherichia coli ATCC 25922 của một số loài thảo dược",
    "link": "https://channuoivietnam.com/portal-news-detail/59450",
@@ -18,123 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/41101",
    "date": "2026-08-30T16:07:19+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f03%2fKH.-hygiene1.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Dinh dưỡng heo nái: Những điểm quan trọng trong giai đoạn chuyển tiếp",
-   "link": "https://channuoivietnam.com/portal-news-detail/54863",
-   "date": "2026-08-30T16:05:56+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2022%2f07%2fdinh-duong-heo-nai-nhung-diem-quan-trong-trong-giai-doan-chuyen-tiep-3491.png",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Một số bệnh sinh sản thường gặp vào mùa hè ở lợn đực giống",
-   "link": "https://channuoivietnam.com/portal-news-detail/18021",
-   "date": "2026-08-30T16:00:34+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c18021edit.png&v=add0576a-e375-4bc5-8ff7-69421ed4eafe",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Xu hướng nghiên cứu hiện tại và chương trình nghiên cứu trong tương lai về lĩnh vực chăn nuôi ở khu vực Châu Á",
-   "link": "https://channuoivietnam.com/portal-news-detail/44480",
-   "date": "2026-08-30T15:59:57+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c44480edit.png&v=b178575b-8818-4069-979c-356f900e96ef",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Tầm quan trọng của lượng sữa từ heo mẹ và lượng cám ăn vào",
-   "link": "https://channuoivietnam.com/portal-news-detail/47832",
-   "date": "2026-08-30T15:59:57+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f11%2fKH.-Heo-con-theo-me.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Các nguyên nhân gây què gia cầm (tác nhân vi khuẩn)",
-   "link": "https://channuoivietnam.com/portal-news-detail/46288",
-   "date": "2026-08-30T15:59:11+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f08%2fKH.-Ga-trang.jpeg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Các kỹ thuật tốt nhất hiện có để giảm phát thải trong chăn nuôi heo",
-   "link": "https://channuoivietnam.com/portal-news-detail/04bbc3da-bb29-441b-9a6a-2d1cf34ebbf4",
-   "date": "2026-08-30T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c09a5988d-238d-4247-9382-b8043b34e30d.png&v=0151edd9-21c9-4502-92f6-c40dbb44a2b3",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Phúc lợi công nhân trong ngành gia cầm: Nền tảng của phúc lợi động vật và sản xuất bền vững",
-   "link": "https://channuoivietnam.com/portal-news-detail/326b3a55-a0ea-4655-b260-188dbb22241e",
-   "date": "2026-08-30T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c22278b6c-5e85-496f-b761-fb1d27c476d4.png&v=74320651-3eb2-42be-957c-995788400571",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Chiến lược dinh dưỡng để duy trì năng suất cao cho gia súc và gia cầm trong mùa lạnh",
-   "link": "https://channuoivietnam.com/portal-news-detail/a67df6f7-2bad-4002-8f07-cfa3dbdb313f",
-   "date": "2026-08-30T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c81afef5f-44e2-4c5b-8650-fe77f82f60c7.png&v=20a55465-2684-41be-aae7-0b3c1dd8e069",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Hiệu quả của propylene glycol trong phòng và trị bệnh xeton huyết ở bò sữa trong giai đoạn khai thác sữa",
-   "link": "https://channuoivietnam.com/portal-news-detail/cf456752-6bc4-412d-89c7-e6eaed694449",
-   "date": "2026-08-30T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c7b2f86a5-35ec-4a87-9dfd-09fed9bbb6f2.png&v=3c2d3e58-241c-4925-a732-4bfa0370d563",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của bột cỏ Đậu biếc (Clitoria ternatea) trong khẩu phần đến năng suất và chất lượng trứng gà Tàu vàng",
-   "link": "https://channuoivietnam.com/portal-news-detail/d226506c-8181-4e8a-bb4e-cb89cc015ba1",
-   "date": "2026-08-30T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c18646a3d-f6be-4c0e-87da-48e41e413b00.png&v=c51db161-d166-42e8-abeb-9cb51badb84e",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Tận dụng phế thải từ quả điều làm thức ăn chăn nuôi",
-   "link": "https://channuoivietnam.com/portal-news-detail/e87392c4-eed5-40a5-a706-1df9cc5ff17e",
-   "date": "2026-08-30T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cd69693e3-d2e9-4928-8438-dd9e311e93c5.png&v=7af3dcb5-1478-43fe-86e2-368025bb7597",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của việc bổ sung probiotics lên sự sinh trưởng của heo con cai sữa",
-   "link": "https://channuoivietnam.com/portal-news-detail/59439",
-   "date": "2026-08-29T17:16:46+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c59439edit.png&v=4b7eca4a-a152-47ad-8076-9fcd32242989",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Khảo sát hàm lượng mỡ giắt, dày cơ thăn và dày mỡ lưng của một số nhóm bò lai hướng thịt",
-   "link": "https://channuoivietnam.com/portal-news-detail/56795",
-   "date": "2026-08-29T17:16:05+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c56795edit.png&v=71403c6f-e2f9-4fde-9c6d-63bc7ad8fed1",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
