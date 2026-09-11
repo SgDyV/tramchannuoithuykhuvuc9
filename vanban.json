@@ -1,9 +1,17 @@
 {
- "updated": "2026-09-11T09:13:29.527Z",
+ "updated": "2026-09-11T13:41:22.949Z",
  "category": "Văn bản chung",
  "source": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
  "count": 12,
  "items": [
+  {
+   "code": "3510/QĐ-BNNMT",
+   "title": "Công bố thủ tục hành chính bị bãi bỏ lĩnh vực chăn nuôi và thú y thuộc phạm vi chức năng quản lý của Bộ Nông nghiệp và Môi trường.",
+   "date": "2026-09-09T00:00:00+07:00",
+   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=ee71b218-28ae-4744-8f5f-3da6340e60b5&file_name=3501-Q%C4%90-BNNMT.pdf",
+   "file": "3501-QĐ-BNNMT.pdf"
+  },
   {
    "code": "346/2026/NĐ-CP",
    "title": "Sửa đổi, bổ sung một số điều của Nghị định số 58/2018/NĐ-CP ngày 18 tháng 4 năm 2018 của Chính phủ về bảo hiểm nông nghiệp.",
@@ -11,6 +19,14 @@
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
    "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=f6e59524-7787-4644-8af1-17a8a4be75fa&file_name=ND346.pdf",
    "file": "ND346.pdf"
+  },
+  {
+   "code": "3463/QĐ-BNNMT",
+   "title": "Quy trình nội bộ giải quyết thủ tục hành chính trong lĩnh vực bảo tồn thiên nhiên và đa dạng sinh học của Bộ Nông nghiệp và Môi trường.",
+   "date": "2026-09-03T00:00:00+07:00",
+   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=4c0bea12-c0f0-4b6f-9433-70892f74c4af&file_name=Quye%CC%82%CC%81t%20%C4%91i%CC%A3nh%204346-Q%C4%90-BNNMT.pdf",
+   "file": "Quyết định 4346-QĐ-BNNMT.pdf"
   },
   {
    "code": "02/2026/VBHN-NĐ-BTP",
@@ -83,22 +99,6 @@
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
    "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=43becbb8-87a7-45f6-a89b-b4c5567b3c3f&file_name=ND263.pdf",
    "file": "ND263.pdf"
-  },
-  {
-   "code": "85/2026/TT-BTC",
-   "title": "Quy định về phân loại hàng hoá, phân tích để phân loại hàng hoá xuất khẩu, nhập khẩu.",
-   "date": "2026-06-30T00:00:00+07:00",
-   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=edb752a1-017c-4ab6-8945-2e676f44041b&file_name=TT85.pdf",
-   "file": "TT85.pdf"
-  },
-  {
-   "code": "27/2026/TT-BNNMT",
-   "title": "Danh mục sản phẩm, hàng hóa có mức độ rủi ro trung bình, mức độ rủi ro cao thuộc trách nhiệm quản lý của Bộ Nông nghiệp và Môi trường.",
-   "date": "2026-06-30T00:00:00+07:00",
-   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=273ee6e0-e872-4207-9271-abc9402f5d84&file_name=TT27.pdf",
-   "file": "TT27.pdf"
   }
  ]
 }
