@@ -18,11 +18,23 @@ const SOURCES = [
   // Báo NN&MT: nhiều chuyên mục — TẤT CẢ đều có ẢNH BÀI THẬT (lọc chủ đề ở phía web)
   nnmt('thu-y'), nnmt('chan-nuoi'), nnmt('dich-benh'), nnmt('thi-truong'), nnmt('thuy-san'),
   nnmt('thoi-su'), nnmt('nong-thon-moi'), nnmt('moi-truong'), nnmt('khoa-hoc-cong-nghe'), nnmt('trong-trot'),
-  // Báo lớn (nguồn khác) — quét chuyên mục kinh tế, LỌC CHỦ ĐỀ chăn nuôi–thú y, đều có ẢNH THẬT
+  // Báo lớn (nhiều nguồn khác) — quét chuyên mục kinh tế/đời sống/sức khỏe, LỌC CHỦ ĐỀ chăn nuôi–thú y, đều có ẢNH THẬT
   { key:'vnexpress', label:'VnExpress', icon:'📰', type:'rss', max:60,
     base:'https://vnexpress.net', url:'https://vnexpress.net/rss/kinh-doanh.rss' },
+  { key:'vnexpress', label:'VnExpress', icon:'📰', type:'rss', max:60,
+    base:'https://vnexpress.net', url:'https://vnexpress.net/rss/khoa-hoc-cong-nghe.rss' },
   { key:'thanhnien', label:'Báo Thanh Niên', icon:'📰', type:'rss', max:50,
     base:'https://thanhnien.vn', url:'https://thanhnien.vn/rss/kinh-te.rss' },
+  { key:'dantri', label:'Báo Dân Trí', icon:'📰', type:'rss', max:100,
+    base:'https://dantri.com.vn', url:'https://dantri.com.vn/rss/kinh-doanh.rss' },
+  { key:'dantri', label:'Báo Dân Trí', icon:'📰', type:'rss', max:100,
+    base:'https://dantri.com.vn', url:'https://dantri.com.vn/rss/suc-khoe.rss' },
+  { key:'vietnamplus', label:'VietnamPlus (TTXVN)', icon:'📰', type:'rss', max:50,
+    base:'https://www.vietnamplus.vn', url:'https://www.vietnamplus.vn/rss/kinhte.rss' },
+  { key:'tienphong', label:'Báo Tiền Phong', icon:'📰', type:'rss', max:50,
+    base:'https://tienphong.vn', url:'https://tienphong.vn/rss/kinh-te-3.rss' },
+  { key:'znews', label:'ZNews', icon:'📰', type:'rss', max:50,
+    base:'https://znews.vn', url:'https://znews.vn/rss/kinh-doanh-tai-chinh.rss' },
 ];
 
 async function get(url){
@@ -149,7 +161,7 @@ await Promise.all(all.map(async (it) => {
 
 // Lọc CHỦ ĐỀ (chăn nuôi–thú y–ATTP–nông nghiệp) — giữ toàn bộ tin Chi cục (nguồn của Trạm)
 const MULTI = ['chăn nuôi','thú y','gia súc','gia cầm','vật nuôi','động vật','an toàn thực phẩm','thực phẩm','dịch bệnh','dịch tả','lở mồm','bệnh dại','tiêm phòng','giết mổ','kiểm dịch','thức ăn chăn nuôi','nông nghiệp','thủy sản','nông lâm','bò sữa','vệ sinh thú y','vắc xin','vaccine'];
-const SINGLE = new Set(['heo','bò','gà','vịt','ngan','dê','trâu','yến','thịt','trứng','cúm','asf','lmlm','tôm','cá']);
+const SINGLE = new Set(['heo','lợn','bò','gà','vịt','ngan','dê','trâu','yến','thịt','trứng','cúm','asf','lmlm','tôm']);
 const isTopical = t => {
   t = (t || '').toLowerCase();
   if (MULTI.some(k => t.includes(k))) return true;

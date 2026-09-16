@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-16T15:03:59.551Z",
- "count": 45,
+ "updated": "2026-09-16T16:37:04.671Z",
+ "count": 60,
  "items": [
   {
    "title": "6 người bị chó nghi mắc bệnh dại tấn công",
@@ -21,6 +21,15 @@
    "icon": "🌾"
   },
   {
+   "title": "54 người tử vong vì bệnh dại từ đầu năm",
+   "link": "https://dantri.com.vn/suc-khoe/54-nguoi-tu-vong-vi-benh-dai-tu-dau-nam-20260916155951188.htm",
+   "date": "Wed, 16 Sep 2026 18:44:22 +0700",
+   "image": "https://icdn.dantri.com.vn/2023/09/28/benhdai1-crop-1695875014151.jpeg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
    "title": "Chăn nuôi Đồng Nai tìm cơ hội hợp tác với Hoa Kỳ về giống, công nghệ",
    "link": "https://nongnghiepmoitruong.vn/chan-nuoi-dong-nai-tim-co-hoi-hop-tac-voi-hoa-ky-ve-giong-cong-nghe-d831389.html",
    "date": "Wed, 16 Sep 2026 17:11:34 +0700",
@@ -28,6 +37,15 @@
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
+  },
+  {
+   "title": "Siết chặt kiểm soát, bảo đảm an toàn thực phẩm dịp Tết Trung thu",
+   "link": "https://www.vietnamplus.vn/siet-chat-kiem-soat-bao-dam-an-toan-thuc-pham-dip-tet-trung-thu-post1136557.vnp",
+   "date": "Wed, 16 Sep 2026 17:08:33 +07:00",
+   "image": "https://media.vietnamplus.vn/images/lFuaSJ54A9Yx0v5wBTS36VzkIicGemi0nzWG_8j4TbwtANztEUSm4o9zFcl-7Pmd6S_WEIv3iKvIWkU7EEdwsnIAzdJjPir8-1bgsRgsqj-0vaGYPwDOmvmxrEZlMrODE2HDqyWK0PdT_QVA9XUoPM21f-uQGuqGjlbopAI1anM/ttxvn-qltt-ha-noi-tang-cuong-kiem-tra-kiem-soat-thi-truong-dip-trung-thu-2026-9018385.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
   },
   {
    "title": "Vực dậy sau thất bại với giống gà đen H'Mông",
@@ -66,6 +84,24 @@
    "icon": "🌾"
   },
   {
+   "title": "Thứ trưởng Bộ Y tế: Sốt rét giảm, nguy cơ dịch bệnh mới lại tăng",
+   "link": "https://dantri.com.vn/suc-khoe/thu-truong-bo-y-te-sot-ret-giam-nguy-co-dich-benh-moi-lai-tang-20260916124858349.htm",
+   "date": "Wed, 16 Sep 2026 13:38:00 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/16/thu-truong-byt-do-xuan-tuyen-1789537433485.jpg?watermark=v1",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Bộ Nông nghiệp khuyến cáo 'nóng' khi Úc dừng nhập bưởi Việt Nam",
+   "link": "https://tienphong.vn/bo-nong-nghiep-khuyen-cao-nong-khi-uc-dung-nhap-buoi-viet-nam-post1876777.tpo",
+   "date": "Wed, 16 Sep 2026 13:26:50 +07:00",
+   "image": "https://cdn.tienphong.vn/images/KCTeIbVb0PG0gWP1KDt6KVJFwC7MMBkOkSEX0wCGvucJX_WoPRioQRExvVX9aPZzQTejus6cNe_c4D7129Nni57JxMjGHKrEhpbnUAPyqObsva8TPAQS64EYt_1EmMdfqptrfJn3U-BFgXWs7bbehPKRcyFYTaeP9xXovucvndWDlj5quTTZSlDCXhaHrsqR4wUmgbgvk1j0tac_4223JmKQQR6EEV90cOkbr_YyTenrMEPuFcXZFS-nZfDk_UdvuRKFi_MS92WK-RTCTp8wWKlSo9207yW0LEfdKYHL72zSIAn-Knv4AoYH1Ukq8igw8Mp-qVYE8YAbWQhCfn8A_g/114936vi-sao-qua-chanh-khong-hat-trai-thanh-long-trai-sau-rieng-qua-buoi-da-xanh-la-trai-cay-viet-nam-lai-len-may-bay-xuat-khau-sang-cac-quoc-gia-vung-trung-dong-voi-san-luong-lon-hon-truoc-chien-tranh-my-iran.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
    "title": "Biến một tấn rác thực phẩm thành hơn 300 kWh điện",
    "link": "https://nongnghiepmoitruong.vn/bien-mot-tan-rac-thuc-pham-thanh-hon-300-kwh-dien-d831307.html",
    "date": "Wed, 16 Sep 2026 12:36:26 +0700",
@@ -75,22 +111,76 @@
    "icon": "🌾"
   },
   {
-   "title": "Xuất khẩu cá tra sang Hoa Kỳ giảm gần 14% do áp lực thuế quan",
-   "link": "https://nongnghiepmoitruong.vn/xuat-khau-ca-tra-sang-hoa-ky-giam-gan-14-do-ap-luc-thue-quan-d831287.html",
-   "date": "Wed, 16 Sep 2026 11:34:22 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/content/2026/09/16/dinh-vi-diem-nong-gay-that-thoat-chuoi-ca-tra-va-giai-phap-tu-aciar-114717_347-101249_268-113423.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
+   "title": "Thịt heo, trái cây Việt lép vế trên 'sân nhà'",
+   "link": "https://znews.vn/thit-heo-trai-cay-viet-lep-ve-tren-san-nha-post1683571.html",
+   "date": "Wed, 16 Sep 2026 10:42:58 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/vpcvodbp/2026_09_16/thit_heo_uyen_phuong_1.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
   },
   {
-   "title": "Hà Nội chấm dứt hoạt động giết mổ nhỏ lẻ",
-   "link": "https://nongnghiepmoitruong.vn/ha-noi-cham-dut-hoat-dong-giet-mo-nho-le-d831292.html",
-   "date": "Wed, 16 Sep 2026 11:04:12 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/tuongdt/2026/09/16/2155-dsc_0391-101443_649.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
+   "title": "Xuất siêu nông lâm thủy sản đạt 14,25 tỷ USD trong 8 tháng",
+   "link": "https://www.vietnamplus.vn/xuat-sieu-nong-lam-thuy-san-dat-1425-ty-usd-trong-8-thang-post1136430.vnp",
+   "date": "Wed, 16 Sep 2026 09:03:27 +07:00",
+   "image": "https://media.vietnamplus.vn/images/lFuaSJ54A9Yx0v5wBTS36bXbzc1GlE7xNJLAZpVQX88bwDLAsXz6msBaCPDrO8uY/ttxvn-hoaquaxuatkhau.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Thịt lợn, trái cây Việt lép vế trên 'sân nhà'",
+   "link": "https://tienphong.vn/thit-lon-trai-cay-viet-lep-ve-tren-san-nha-post1876557.tpo",
+   "date": "Wed, 16 Sep 2026 05:37:00 +07:00",
+   "image": "https://cdn.tienphong.vn/images/coQdZIGmAqWwQj5wnjvbn73k5dPSK2E6_-xQIqPOPfp0jR-rtK-_4WOlsZ04eZOqhiGKNln-E0GlLqCvFvxzBqgSxC7azKMb6N4FKC4_r3ZqXr_Z5qNUKvygbQPKWYD6ZrzqTzr_DGRwPkXZE-5_1F63hMF1plLsniuxInDZ9JA/tp-c_1789461938065-2151371512137825466-484046697057078230-7efc0a6742b7d5e6fcd0a341c2360020.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Xem khu đất 'kim cương' của Tổng Công ty Thủy sản Việt Nam",
+   "link": "https://tienphong.vn/xem-khu-dat-kim-cuong-cua-tong-cong-ty-thuy-san-viet-nam-post1876540.tpo",
+   "date": "Wed, 16 Sep 2026 05:35:00 +07:00",
+   "image": "https://cdn.tienphong.vn/images/XepSKXLNFWTd6KW33QuMovpnZBRd_y0Q8ZA2Dk6t15zh6kvTnGlXM7UTo5hd_rY_/5.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Triển vọng hợp tác Việt-Trung về ứng dụng công nghệ cao trong nông nghiệp",
+   "link": "https://www.vietnamplus.vn/trien-vong-hop-tac-viet-trung-ve-ung-dung-cong-nghe-cao-trong-nong-nghiep-post1136381.vnp",
+   "date": "Tue, 15 Sep 2026 20:33:39 +07:00",
+   "image": "https://media.vietnamplus.vn/images/_RfA0Lv7xigOosrBfIuLk39eaWMGgVmwo3xrJG2zmAxMRYZNvAKvK-0zWuQLqrmJp09rG_5wsyA3cseXkCDO-g/ttxvn-nong-nghiep-1.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Thịt bò H'Mông có gì ngon mà giá hơn 1 triệu đồng/kg, sánh ngang bò Wagyu?",
+   "link": "https://dantri.com.vn/kinh-doanh/thit-bo-hmong-co-gi-ngon-ma-gia-hon-1-trieu-dongkg-sanh-ngang-bo-wagyu-20260915145331750.htm",
+   "date": "Tue, 15 Sep 2026 15:27:45 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/15/1-cropped-1789458277417.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Chuyên gia tuổi thọ chỉ ra 4 thực phẩm quen thuộc của người sống thọ",
+   "link": "https://dantri.com.vn/suc-khoe/chuyen-gia-tuoi-tho-chi-ra-4-thuc-pham-quen-thuoc-cua-nguoi-song-tho-20260915132847325.htm",
+   "date": "Tue, 15 Sep 2026 14:55:39 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/15/minestrone2321116x9-cropped-1789453591440.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Hơn 40 người nghi ngộ độc thực phẩm sau khi ăn bánh mì ở tiệm mới mở",
+   "link": "https://dantri.com.vn/suc-khoe/hon-40-nguoi-nghi-ngo-doc-thuc-pham-sau-khi-an-banh-mi-o-tiem-moi-mo-20260915102138137.htm",
+   "date": "Tue, 15 Sep 2026 12:07:18 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/15/bac-si-kiem-tra-suc-khoe-cac-benh-nhan-edited-1789441749559.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Thiếu cán bộ thú y, cơ sở khó chủ động phòng dịch",
@@ -120,13 +210,13 @@
    "icon": "🌾"
   },
   {
-   "title": "Tây Ninh xây dựng nông nghiệp xanh làm nền tảng cho nông thôn mới bền vững",
-   "link": "https://nongnghiepmoitruong.vn/tay-ninh-xay-dung-nong-nghiep-xanh-lam-nen-tang-cho-nong-thon-moi-ben-vung-d830999.html",
-   "date": "Mon, 14 Sep 2026 17:14:21 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/news/2026/09/14/2-nongnghiep-151214.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
+   "title": "Những thực phẩm quen thuộc có thể liên quan đến mất ngủ, ác mộng",
+   "link": "https://dantri.com.vn/suc-khoe/nhung-thuc-pham-quen-thuoc-co-the-lien-quan-den-mat-ngu-ac-mong-20260909140857807.htm",
+   "date": "Sun, 13 Sep 2026 13:22:00 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/09/vi-sao-nguoi-trung-nien-de-mat-ngu-va-cach-khac-phuc-hieu-qua-169251117092842401-1788937411588.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Cua tuyết, tôm hùm Canada tăng mạnh vào Việt Nam",
@@ -138,6 +228,60 @@
    "icon": "📰"
   },
   {
+   "title": "Số công nhân may mặc nhập viện nghi ngộ độc thực phẩm tăng lên 174",
+   "link": "https://dantri.com.vn/suc-khoe/so-cong-nhan-may-mac-nhap-vien-nghi-ngo-doc-thuc-pham-tang-len-174-20260912145821172.htm",
+   "date": "Sat, 12 Sep 2026 17:32:35 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/12/suc-khoe-174-cong-nhan-nhap-vien-nghi-ngo-doc-thuc-pham-edited-1789199091761.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Bé gái 4 tuổi tử vong vì bệnh dại, từng thường xuyên ôm ấp, ngủ cùng mèo",
+   "link": "https://dantri.com.vn/suc-khoe/be-gai-4-tuoi-tu-vong-vi-benh-dai-tung-thuong-xuyen-om-ap-ngu-cung-meo-20260911142438454.htm",
+   "date": "Sat, 12 Sep 2026 17:09:25 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/12/178919259372669809720552045357536980972055204535753e866c6e5c07749414e34b66dad8eeddc-1789194880742.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Phát hiện u buồng trứng nhưng bỏ tái khám 10 năm, người phụ nữ lâm nguy",
+   "link": "https://dantri.com.vn/suc-khoe/phat-hien-u-buong-trung-nhung-bo-tai-kham-10-nam-nguoi-phu-nu-lam-nguy-20260912140807714.htm",
+   "date": "Sat, 12 Sep 2026 14:28:15 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/12/cat-ctc-109fsfs8-1789196623937.png",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "3 loại cá giàu omega-3, ít xương nhiều thịt",
+   "link": "https://dantri.com.vn/suc-khoe/3-loai-ca-giau-omega-3-it-xuong-nhieu-thit-20260910072433925.htm",
+   "date": "Sat, 12 Sep 2026 07:25:20 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/10/ca-thu-tuoi-1kg-141-edited-1788999696594.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Bị chó cắn 2 lần không tiêm vắc xin, bé trai 6 tuổi tử vong vì bệnh dại",
+   "link": "https://dantri.com.vn/suc-khoe/bi-cho-can-2-lan-khong-tiem-vac-xin-be-trai-6-tuoi-tu-vong-vi-benh-dai-20260911175906559.htm",
+   "date": "Fri, 11 Sep 2026 19:55:22 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/09/17889486287782202558536049234873707710781911480937418958c106e36146a91a3783f9239854f-1788949767104.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Hàng chục công nhân may mặc nhập viện cấp cứu, nghi ngộ độc thực phẩm",
+   "link": "https://dantri.com.vn/suc-khoe/hang-chuc-cong-nhan-may-mac-nhap-vien-cap-cuu-nghi-ngo-doc-thuc-pham-20260911161950464.htm",
+   "date": "Fri, 11 Sep 2026 16:51:21 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/11/thoi-su-nhieu-cong-nhan-nhap-vien-nghi-ngo-doc-edited-1789117931005.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
    "title": "Cắt giảm, đơn giản hóa nhiều thủ tục hành chính trong chăn nuôi, thú y",
    "link": "https://nongnghiepmoitruong.vn/cat-giam-don-gian-hoa-nhieu-thu-tuc-hanh-chinh-trong-chan-nuoi-thu-y-d830603.html",
    "date": "Fri, 11 Sep 2026 15:02:36 +0700",
@@ -145,6 +289,15 @@
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
+  },
+  {
+   "title": "Bé trai 3 tuổi vỡ thể thủy tinh do que xiên thịt đâm vào mắt",
+   "link": "https://dantri.com.vn/suc-khoe/be-trai-3-tuoi-vo-the-thuy-tinh-do-que-xien-thit-dam-vao-mat-20260911141004874.htm",
+   "date": "Fri, 11 Sep 2026 14:20:25 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/11/mat1-cropped-1789110187964.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Thanh lọc cơ thể cho đàn heo để chất thải không gây ô nhiễm",
@@ -196,15 +349,6 @@
    "link": "https://nongnghiepmoitruong.vn/nuoi-tom-su-ung-dung-che-pham-sinh-hoc-cho-hieu-qua-tich-cuc-d829720.html",
    "date": "Thu, 10 Sep 2026 07:55:16 +0700",
    "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/benlc/2026/09/09/1055-1788486575757_124270349679675933_124270349679675933_9f1da0fa635ef4b6da32d04d34b57f09-102145_885-102145.jpg",
-   "source": "nnmt",
-   "label": "Báo Nông nghiệp & Môi trường",
-   "icon": "🌾"
-  },
-  {
-   "title": "'Lọc' tàu cá nguy cơ vi phạm ngay từ bờ",
-   "link": "https://nongnghiepmoitruong.vn/loc-tau-ca-nguy-co-vi-pham-ngay-tu-bo-d829992.html",
-   "date": "Wed, 09 Sep 2026 06:42:55 +0700",
-   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thamdth/2026/09/08/5443-tau-ca-7-115629_906-115633-144427-nongnghiep-105439.jpg",
    "source": "nnmt",
    "label": "Báo Nông nghiệp & Môi trường",
    "icon": "🌾"
@@ -264,6 +408,15 @@
    "icon": "🏥"
   },
   {
+   "title": "Khoa học và phúc lợi động vật là nền tảng phát triển thú y thú nhỏ",
+   "link": "https://nongnghiepmoitruong.vn/khoa-hoc-va-phuc-loi-dong-vat-la-nen-tang-phat-trien-thu-y-thu-nho-d828554.html",
+   "date": "Fri, 28 Aug 2026 16:11:18 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/28/4655-pgs-ts-nguyen-tat-toan-142922_731.jpeg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
    "title": "Lễ kết nạp đảng viên mới - dấu mốc quan trọng, Bước ngoặt đánh dấu sự trưởng thành",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/08/28/Le-ket-nap-dang-vien-moi-dau-moc-quan-trong-Buoc-ngoat-danh-dau-su-truong-thanh.aspx",
    "date": "Fri, 28 Aug 2026 14:10:00 +0700",
@@ -271,6 +424,24 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Ngành gia cầm chuyển từ lợi thế chi phí sang cạnh tranh giá trị",
+   "link": "https://nongnghiepmoitruong.vn/nganh-gia-cam-chuyen-tu-loi-the-chi-phi-sang-canh-tranh-gia-tri-d827917.html",
+   "date": "Tue, 25 Aug 2026 17:30:16 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/huannn/2026/08/25/0836-dsc_4162-103909_156.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
+  },
+  {
+   "title": "2 xã ở Tuyên Quang công bố hết dịch cúm gia cầm A/H5N1",
+   "link": "https://nongnghiepmoitruong.vn/2-xa-o-tuyen-quang-cong-bo-het-dich-cum-gia-cam-a-h5n1-d827832.html",
+   "date": "Mon, 24 Aug 2026 19:36:25 +0700",
+   "image": "https://t.ex-cdn.com/nongnghiepmoitruong.vn/480w/files/thanhdv/2026/08/24/1432-1787569930977_2010974245097254076_2671285628698912838_8404c231bd9d3f795746a5a2c3abebbc-181321_678.jpg",
+   "source": "nnmt",
+   "label": "Báo Nông nghiệp & Môi trường",
+   "icon": "🌾"
   },
   {
    "title": "Chi cục Chăn nuôi và Thú y TPHCM tham gia Đoàn giám sát về an toàn thực phẩm của Thường trực HĐND Thành phố",
@@ -336,6 +507,15 @@
    "icon": "🌾"
   },
   {
+   "title": "Sanest Mooncake 2026: Tinh hoa yến sào trong món quà mùa trăng",
+   "link": "https://tienphong.vn/sanest-mooncake-2026-tinh-hoa-yen-sao-trong-mon-qua-mua-trang-post1876812.tpo",
+   "date": "Wed, 16 Sep 2026 13:58:15 +07:00",
+   "image": "",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
    "title": "Thông báo về việc thực hiện kiểm tra nhà nước Về an toàn thực phẩm nhập khẩu",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/08/26/Thong-bao-ve-viec-thuc-hien-kiem-tra-nha-nuoc-Ve-an-toan-thuc-pham-nhap-khau.aspx",
    "date": "Wed, 26 Aug 2026 11:01:00 +0700",
@@ -357,24 +537,6 @@
    "title": "Quyết định số 63/2026/QĐ-UBND về quy định mật độ chăn nuôi trên địa bàn Thành phố Hồ Chí Minh đến năm 2030",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/08/24/Quyet-dinh-so-63-2026-QD-UBND-ve-quy-dinh-mat-do-chan-nuoi-tren-dia-ban-Thanh-pho-Ho-Chi-Minh-den-nam-2030.aspx",
    "date": "Mon, 24 Aug 2026 14:56:00 +0700",
-   "image": "",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
-   "title": "Siết phòng dịch, đảm bảo nguồn cung thực phẩm cuối năm",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/24/Siet-phong-dich-dam-bao-nguon-cung-thuc-pham-cuoi-nam.aspx",
-   "date": "Mon, 24 Aug 2026 09:54:00 +0700",
-   "image": "",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
-   "title": "Thông báo danh sách cơ sở sản xuất thực phẩm được Bộ An toàn thực phẩm và Dược phẩm Hàn Quốc lựa chọn kiểm tra tại chỗ năm 2026",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/20/Thong-bao-danh-sach-co-so-san-xuat-thuc-pham-duoc-Bo-An-toan-thuc-pham-va-Duoc-pham-Han-Quoc-lua-chon-kiem-tra-tai-cho-nam-2026.aspx",
-   "date": "Thu, 20 Aug 2026 15:36:00 +0700",
    "image": "",
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
