@@ -17,7 +17,12 @@ const SOURCES = [
     base:'https://chicuccntyhcm.gov.vn', url:'https://chicuccntyhcm.gov.vn/syndication.axd' },
   // Báo NN&MT: nhiều chuyên mục — TẤT CẢ đều có ẢNH BÀI THẬT (lọc chủ đề ở phía web)
   nnmt('thu-y'), nnmt('chan-nuoi'), nnmt('dich-benh'), nnmt('thi-truong'), nnmt('thuy-san'),
-  nnmt('thoi-su'), nnmt('nong-thon-moi'), nnmt('moi-truong'),
+  nnmt('thoi-su'), nnmt('nong-thon-moi'), nnmt('moi-truong'), nnmt('khoa-hoc-cong-nghe'), nnmt('trong-trot'),
+  // Báo lớn (nguồn khác) — quét chuyên mục kinh tế, LỌC CHỦ ĐỀ chăn nuôi–thú y, đều có ẢNH THẬT
+  { key:'vnexpress', label:'VnExpress', icon:'📰', type:'rss', max:60,
+    base:'https://vnexpress.net', url:'https://vnexpress.net/rss/kinh-doanh.rss' },
+  { key:'thanhnien', label:'Báo Thanh Niên', icon:'📰', type:'rss', max:50,
+    base:'https://thanhnien.vn', url:'https://thanhnien.vn/rss/kinh-te.rss' },
 ];
 
 async function get(url){
