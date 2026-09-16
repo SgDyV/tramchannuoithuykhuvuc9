@@ -227,10 +227,10 @@ try {
   let need = true;
   try {
     const old = JSON.parse(readFileSync('khcn.json', 'utf8'));
-    if (old.updated && (Date.now() - new Date(old.updated).getTime()) < 20 * 3600 * 1000) need = false;
+    if (old.updated && (Date.now() - new Date(old.updated).getTime()) < 4 * 3600 * 1000) need = false;
   } catch {}
   if (!need) {
-    console.log('KHCN -> còn mới (<20h), bỏ qua');
+    console.log('KHCN -> còn mới (<4h), bỏ qua');
   } else {
     const KHCN_ID = 'fca53d3b-2302-4166-abfb-c50364a14fa6';
     const CAT = 'https://channuoivietnam.com/portal-type-news/' + KHCN_ID;
