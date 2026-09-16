@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T05:25:06.343Z",
+ "updated": "2026-09-16T10:07:10.286Z",
  "category": "Văn bản chung",
  "source": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
  "count": 12,
@@ -13,7 +13,15 @@
    "file": "CV3582.pdf"
   },
   {
-   "code": "3510/QĐ-BNNMT",
+   "code": "355/2026/NĐ-CP",
+   "title": "Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Môi trường.",
+   "date": "2026-09-11T00:00:00+07:00",
+   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=4809ba54-1cb1-4a4e-a52b-c7da6dcd7d89&file_name=355-2026-N%C4%90-CP.pdf",
+   "file": "355-2026-NĐ-CP.pdf"
+  },
+  {
+   "code": "3501/QĐ-BNNMT",
    "title": "Công bố thủ tục hành chính bị bãi bỏ lĩnh vực chăn nuôi và thú y thuộc phạm vi chức năng quản lý của Bộ Nông nghiệp và Môi trường.",
    "date": "2026-09-09T00:00:00+07:00",
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
@@ -91,14 +99,6 @@
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
    "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=6d0f8cad-9585-46d3-bb22-5a26bbf7a35a&file_name=TT30.pdf",
    "file": "TT30.pdf"
-  },
-  {
-   "code": "2440/CNTY-KD&TYCĐ",
-   "title": "Hướng dẫn quy trình hồ sơ đăng ký xuất khẩu thực phẩm theo quy định tại Nghị định 280 của Trung Quốc.",
-   "date": "2026-07-03T00:00:00+07:00",
-   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=3893811f-75df-450d-941a-f362fde27935&file_name=VB2440.pdf",
-   "file": "VB2440.pdf"
   }
  ]
 }
