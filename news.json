@@ -1,7 +1,25 @@
 {
- "updated": "2026-09-17T02:40:10.058Z",
- "count": 32,
+ "updated": "2026-09-17T08:03:08.398Z",
+ "count": 33,
  "items": [
+  {
+   "title": "Công ty tỷ phú Trần Bá Dương mở thêm dự án nuôi heo hơn 1 triệu con/năm",
+   "link": "https://znews.vn/cong-ty-ty-phu-tran-ba-duong-mo-them-du-an-nuoi-heo-hon-1-trieu-connam-post1683449.html",
+   "date": "Thu, 17 Sep 2026 14:11:39 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/mrndcqjwq/2026_07_31/tran_ba_duong.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Việt Nam xác định vaccine là sản phẩm công nghệ chiến lược quan trọng",
+   "link": "https://dantri.com.vn/khoa-hoc/viet-nam-xac-dinh-vaccine-la-san-pham-cong-nghe-chien-luoc-quan-trong-20260917080043048.htm",
+   "date": "Thu, 17 Sep 2026 11:30:10 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/17/hinh-anh-91-edited-1789606746214.jpg?watermark=v1",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
   {
    "title": "54 người tử vong vì bệnh dại từ đầu năm",
    "link": "https://dantri.com.vn/suc-khoe/54-nguoi-tu-vong-vi-benh-dai-tu-dau-nam-20260916155951188.htm",
@@ -45,15 +63,6 @@
    "image": "https://photo.znews.vn/w660/Uploaded/vpcvodbp/2026_09_16/thit_heo_uyen_phuong_1.jpg",
    "source": "znews",
    "label": "ZNews",
-   "icon": "📰"
-  },
-  {
-   "title": "Xuất siêu nông lâm thủy sản đạt 14,25 tỷ USD trong 8 tháng",
-   "link": "https://www.vietnamplus.vn/xuat-sieu-nong-lam-thuy-san-dat-1425-ty-usd-trong-8-thang-post1136430.vnp",
-   "date": "Wed, 16 Sep 2026 09:03:27 +07:00",
-   "image": "https://media.vietnamplus.vn/images/lFuaSJ54A9Yx0v5wBTS36bXbzc1GlE7xNJLAZpVQX88bwDLAsXz6msBaCPDrO8uY/ttxvn-hoaquaxuatkhau.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
    "icon": "📰"
   },
   {
