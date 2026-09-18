@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-18T06:04:57.762Z",
- "count": 26,
+ "updated": "2026-09-18T11:30:53.058Z",
+ "count": 23,
  "items": [
+  {
+   "title": "Chặn 2 xe tải chở gần 4 tấn gà không có giấy kiểm dịch trên đường vào TPHCM",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/09/18/Chan-2-xe-tai-cho-gan-4-tan-ga-khong-co-giay-kiem-dich-tren-duong-vao-TPHCM.aspx",
+   "date": "Fri, 18 Sep 2026 17:07:00 +0700",
+   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f9%2fChan_4_tan_ga_khong_giay_18.09.26_.jpg",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
+  },
   {
    "title": "Nông dân Đà Lạt “nhàn nhã” nhờ ứng dụng nông nghiệp thông minh",
    "link": "https://www.vietnamplus.vn/nong-dan-da-lat-nhan-nha-nho-ung-dung-nong-nghiep-thong-minh-post1136886.vnp",
@@ -75,15 +84,6 @@
    "icon": "📰"
   },
   {
-   "title": "Việt Nam xây dựng thương hiệu bò H'Mông để cạnh tranh với Wagyu",
-   "link": "https://vnexpress.net/viet-nam-xay-dung-thuong-hieu-bo-h-mong-de-canh-tranh-voi-wagyu-5120221.html",
-   "date": "Mon, 14 Sep 2026 23:17:01 +0700",
-   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/09/14/2aoboqliltvi8ylysmsgneribjzilm-6477-6343-1789392762.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=M1AhRjEnM1n_F-8_AtT9GQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Những thực phẩm quen thuộc có thể liên quan đến mất ngủ, ác mộng",
    "link": "https://dantri.com.vn/suc-khoe/nhung-thuc-pham-quen-thuoc-co-the-lien-quan-den-mat-ngu-ac-mong-20260909140857807.htm",
    "date": "Sun, 13 Sep 2026 13:22:00 +0700",
@@ -124,24 +124,6 @@
    "link": "https://dantri.com.vn/suc-khoe/3-loai-ca-giau-omega-3-it-xuong-nhieu-thit-20260910072433925.htm",
    "date": "Sat, 12 Sep 2026 07:25:20 +0700",
    "image": "https://icdn.dantri.com.vn/2026/09/10/ca-thu-tuoi-1kg-141-edited-1788999696594.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Bị chó cắn 2 lần không tiêm vắc xin, bé trai 6 tuổi tử vong vì bệnh dại",
-   "link": "https://dantri.com.vn/suc-khoe/bi-cho-can-2-lan-khong-tiem-vac-xin-be-trai-6-tuoi-tu-vong-vi-benh-dai-20260911175906559.htm",
-   "date": "Fri, 11 Sep 2026 19:55:22 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/09/09/17889486287782202558536049234873707710781911480937418958c106e36146a91a3783f9239854f-1788949767104.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Hàng chục công nhân may mặc nhập viện cấp cứu, nghi ngộ độc thực phẩm",
-   "link": "https://dantri.com.vn/suc-khoe/hang-chuc-cong-nhan-may-mac-nhap-vien-cap-cuu-nghi-ngo-doc-thuc-pham-20260911161950464.htm",
-   "date": "Fri, 11 Sep 2026 16:51:21 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/09/11/thoi-su-nhieu-cong-nhan-nhap-vien-nghi-ngo-doc-edited-1789117931005.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
    "icon": "📰"
@@ -222,15 +204,6 @@
    "title": "Siết phòng dịch, đảm bảo nguồn cung thực phẩm cuối năm",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/08/24/Siet-phong-dich-dam-bao-nguon-cung-thuc-pham-cuoi-nam.aspx",
    "date": "Mon, 24 Aug 2026 09:54:00 +0700",
-   "image": "",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
-   "title": "Thông báo danh sách cơ sở sản xuất thực phẩm được Bộ An toàn thực phẩm và Dược phẩm Hàn Quốc lựa chọn kiểm tra tại chỗ năm 2026",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/08/20/Thong-bao-danh-sach-co-so-san-xuat-thuc-pham-duoc-Bo-An-toan-thuc-pham-va-Duoc-pham-Han-Quoc-lua-chon-kiem-tra-tai-cho-nam-2026.aspx",
-   "date": "Thu, 20 Aug 2026 15:36:00 +0700",
    "image": "",
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
