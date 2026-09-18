@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-18T01:20:16.854Z",
- "count": 29,
+ "updated": "2026-09-18T06:04:57.762Z",
+ "count": 26,
  "items": [
+  {
+   "title": "Nông dân Đà Lạt “nhàn nhã” nhờ ứng dụng nông nghiệp thông minh",
+   "link": "https://www.vietnamplus.vn/nong-dan-da-lat-nhan-nha-nho-ung-dung-nong-nghiep-thong-minh-post1136886.vnp",
+   "date": "Fri, 18 Sep 2026 10:10:55 +07:00",
+   "image": "https://media.vietnamplus.vn/images/_RfA0Lv7xigOosrBfIuLk_Tzq1eS4wY-7fk3EmP58EF7Yh0zfRTHrWqFvuEJUnKLO68Kok39VxEegRpLRCZeeA/ttxvn-nong-nghiep-tm-1.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
   {
    "title": "Công ty tỷ phú Trần Bá Dương mở thêm dự án nuôi heo hơn 1 triệu con/năm",
    "link": "https://znews.vn/cong-ty-ty-phu-tran-ba-duong-mo-them-du-an-nuoi-heo-hon-1-trieu-connam-post1683449.html",
@@ -36,24 +45,6 @@
    "image": "https://icdn.dantri.com.vn/2026/09/16/thu-truong-byt-do-xuan-tuyen-1789537433485.jpg?watermark=v1",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Bộ Nông nghiệp khuyến cáo 'nóng' khi Úc dừng nhập bưởi Việt Nam",
-   "link": "https://tienphong.vn/bo-nong-nghiep-khuyen-cao-nong-khi-uc-dung-nhap-buoi-viet-nam-post1876777.tpo",
-   "date": "Wed, 16 Sep 2026 13:26:50 +07:00",
-   "image": "https://cdn.tienphong.vn/images/KCTeIbVb0PG0gWP1KDt6KVJFwC7MMBkOkSEX0wCGvucJX_WoPRioQRExvVX9aPZzQTejus6cNe_c4D7129Nni57JxMjGHKrEhpbnUAPyqObsva8TPAQS64EYt_1EmMdfqptrfJn3U-BFgXWs7bbehPKRcyFYTaeP9xXovucvndWDlj5quTTZSlDCXhaHrsqR4wUmgbgvk1j0tac_4223JmKQQR6EEV90cOkbr_YyTenrMEPuFcXZFS-nZfDk_UdvuRKFi_MS92WK-RTCTp8wWKlSo9207yW0LEfdKYHL72zSIAn-Knv4AoYH1Ukq8igw8Mp-qVYE8YAbWQhCfn8A_g/114936vi-sao-qua-chanh-khong-hat-trai-thanh-long-trai-sau-rieng-qua-buoi-da-xanh-la-trai-cay-viet-nam-lai-len-may-bay-xuat-khau-sang-cac-quoc-gia-vung-trung-dong-voi-san-luong-lon-hon-truoc-chien-tranh-my-iran.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
-   "title": "Thịt heo, trái cây Việt lép vế trên 'sân nhà'",
-   "link": "https://znews.vn/thit-heo-trai-cay-viet-lep-ve-tren-san-nha-post1683571.html",
-   "date": "Wed, 16 Sep 2026 10:42:58 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/vpcvodbp/2026_09_16/thit_heo_uyen_phuong_1.jpg",
-   "source": "znews",
-   "label": "ZNews",
    "icon": "📰"
   },
   {
@@ -156,15 +147,6 @@
    "icon": "📰"
   },
   {
-   "title": "Bé trai 3 tuổi vỡ thể thủy tinh do que xiên thịt đâm vào mắt",
-   "link": "https://dantri.com.vn/suc-khoe/be-trai-3-tuoi-vo-the-thuy-tinh-do-que-xien-thit-dam-vao-mat-20260911141004874.htm",
-   "date": "Fri, 11 Sep 2026 14:20:25 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/09/11/mat1-cropped-1789110187964.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
    "title": "Tham quan, học tập mô hình chăn nuôi tuần hoàn và ứng dụng công nghệ cao tại tỉnh Tây Ninh: Kinh nghiệm thực tiễn cho phát triển chăn nuôi tuần hoàn",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/09/03/Tham-quan-hoc-tap-mo-hinh-chan-nuoi-tuan-hoan-va-ung-dung-cong-nghe-cao-tai-Tay-Ninh.aspx",
    "date": "Thu, 03 Sep 2026 14:35:00 +0700",
@@ -208,15 +190,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Sanest Mooncake 2026: Tinh hoa yến sào trong món quà mùa trăng",
-   "link": "https://tienphong.vn/sanest-mooncake-2026-tinh-hoa-yen-sao-trong-mon-qua-mua-trang-post1876812.tpo",
-   "date": "Wed, 16 Sep 2026 13:58:15 +07:00",
-   "image": "",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
   },
   {
    "title": "Thông báo về việc thực hiện kiểm tra nhà nước Về an toàn thực phẩm nhập khẩu",

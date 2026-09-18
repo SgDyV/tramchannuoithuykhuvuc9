@@ -1,9 +1,17 @@
 {
- "updated": "2026-09-18T01:20:22.534Z",
+ "updated": "2026-09-18T06:05:46.663Z",
  "category": "Văn bản chung",
  "source": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
  "count": 12,
  "items": [
+  {
+   "code": "87/2026/VBHN-TT-BNNMT",
+   "title": "Quy định trình tự, thủ tục cấp và thu hồi Giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi.",
+   "date": "2026-09-16T00:00:00+07:00",
+   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=1052f968-6d14-47a5-834e-50f8b3b8b2b3&file_name=TT87.pdf",
+   "file": "TT87.pdf"
+  },
   {
    "code": "3582/CNTY-TACN&TTY",
    "title": "Thực hiện tự công bố thông tin sản phẩm thức ăn chăn nuôi.",
@@ -91,14 +99,6 @@
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
    "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=ef989531-d2ef-4815-b6d3-e82aff1ecf00&file_name=Q%C4%902690.pdf",
    "file": "QĐ2690.pdf"
-  },
-  {
-   "code": "30/2026/TT-BYT",
-   "title": "Hướng dẫn nội dung, cách ghi thành phần dinh dưỡng, giá trị dinh dưỡng trên nhãn thực phẩm.",
-   "date": "2026-07-09T00:00:00+07:00",
-   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=6d0f8cad-9585-46d3-bb22-5a26bbf7a35a&file_name=TT30.pdf",
-   "file": "TT30.pdf"
   }
  ]
 }
