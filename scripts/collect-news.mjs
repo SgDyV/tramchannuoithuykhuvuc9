@@ -2,7 +2,7 @@
 // Gom tin + ẢNH THẬT của từng bài, ghi ra news.json để trang web đọc trực tiếp.
 import { writeFileSync, readFileSync } from 'node:fs';
 
-const UA = 'Mozilla/5.0 (compatible; KV9NewsBot/1.0; +https://sgdyv.github.io/tramchannuoithuykhuvuc9/)';
+const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
 
 // Truy vấn Google Tin tức (tổng hợp bài từ RẤT NHIỀU báo VN theo chủ đề — không bị chặn).
 const gn = q => 'https://news.google.com/rss/search?q=' + encodeURIComponent(q) + '&hl=vi&gl=VN&ceid=VN:vi';
@@ -35,6 +35,19 @@ const SOURCES = [
     base:'https://tienphong.vn', url:'https://tienphong.vn/rss/kinh-te-3.rss' },
   { key:'znews', label:'ZNews', icon:'📰', type:'rss', max:50,
     base:'https://znews.vn', url:'https://znews.vn/rss/kinh-doanh-tai-chinh.rss' },
+  // Thêm chuyên mục sức khỏe (tin ATTP/dịch bệnh) + thời sự — bắt thêm tin chăn nuôi–thú y có ảnh
+  { key:'vnexpress', label:'VnExpress', icon:'📰', type:'rss', max:60,
+    base:'https://vnexpress.net', url:'https://vnexpress.net/rss/suc-khoe.rss' },
+  { key:'vnexpress', label:'VnExpress', icon:'📰', type:'rss', max:60,
+    base:'https://vnexpress.net', url:'https://vnexpress.net/rss/thoi-su.rss' },
+  { key:'thanhnien', label:'Báo Thanh Niên', icon:'📰', type:'rss', max:50,
+    base:'https://thanhnien.vn', url:'https://thanhnien.vn/rss/suc-khoe.rss' },
+  { key:'dantri', label:'Báo Dân Trí', icon:'📰', type:'rss', max:100,
+    base:'https://dantri.com.vn', url:'https://dantri.com.vn/rss/xa-hoi.rss' },
+  { key:'tienphong', label:'Báo Tiền Phong', icon:'📰', type:'rss', max:50,
+    base:'https://tienphong.vn', url:'https://tienphong.vn/rss/xa-hoi-2.rss' },
+  { key:'znews', label:'ZNews', icon:'📰', type:'rss', max:50,
+    base:'https://znews.vn', url:'https://znews.vn/rss/suc-khoe.rss' },
 ];
 
 async function get(url){
@@ -182,7 +195,7 @@ for (const it of all) {
 const realImg = x => x.image && !/s2\/favicons|\.ico/i.test(x.image);
 uniq.sort((a, b) => (realImg(b) ? 1 : 0) - (realImg(a) ? 1 : 0) || (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
 
-const out = { updated: new Date().toISOString(), count: Math.min(uniq.length, 60), items: uniq.slice(0, 60) };
+const out = { updated: new Date().toISOString(), count: Math.min(uniq.length, 80), items: uniq.slice(0, 80) };
 writeFileSync('news.json', JSON.stringify(out, null, 1));
 console.log('TOTAL', out.count, '| có ảnh gốc:', out.items.filter(realImg).length);
 
