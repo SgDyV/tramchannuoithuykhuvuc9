@@ -29,24 +29,25 @@
 <link rel="dns-prefetch" href="https://vietnamplus.vn">
 <link rel="dns-prefetch" href="https://tienphong.vn">
 <link rel="dns-prefetch" href="https://znews.vn">
-<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
 <script>/* Áp dụng chế độ sáng/tối ngay để tránh nhấp nháy */
 (function(){try{var t=localStorage.getItem('kv9-theme');
   if(!t) t=window.matchMedia&&matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';
   document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
 <style>
 :root{
-  --bg:#ffffff;--bg2:#f7f9fb;--bg3:#eef2f6;
-  --g1:#ffffff;--g2:#fbfcfd;--g3:#f4f6f9;
-  --b1:#e6eaf0;--b2:#d4dbe4;--b3:#9aa6b5;
-  --p:#1a7a3a;--pa:rgba(26,122,58,0.08);--pb:rgba(26,122,58,0.16);
-  --bl:#2563eb;--bla:rgba(37,99,235,0.08);
-  --am:#d97706;--re:#dc2626;--gr:#16a34a;
-  --t1:#0f172a;--t2:#334155;--t3:#64748b;
-  --r:11px;--rs:8px;
-  --sh:0 1px 2px rgba(16,24,40,0.04),0 2px 6px rgba(16,24,40,0.05);
-  --gw:0 0 0 3px rgba(26,122,58,0.15);
-  --hdr-bg:#0f3d1f;
+  --bg:#f5f2ec;--bg2:#efebe2;--bg3:#e7e2d6;
+  --g1:#fffefb;--g2:#faf7f1;--g3:#f2efe7;
+  --b1:#eae3d5;--b2:#ddd5c4;--b3:#b4ab96;
+  --p:#2c6a46;--pa:rgba(44,106,70,0.07);--pb:rgba(44,106,70,0.14);
+  --bl:#2f6fb0;--bla:rgba(47,111,176,0.08);
+  --am:#c47a1a;--re:#c0392b;--gr:#2c8a4f;
+  --t1:#231f18;--t2:#4d473c;--t3:#8b8371;
+  --r:18px;--rs:12px;
+  --sh:0 1px 2px rgba(70,55,30,.03),0 12px 30px -16px rgba(70,55,30,.16);
+  --gw:0 0 0 3px rgba(44,106,70,0.14);
+  --hdr-bg:#fbf9f4;
+  --serif:'Lora',Georgia,'Times New Roman',serif;
 }
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
@@ -411,12 +412,13 @@ footer a{color:#86efac}
 
 /* ───────── DARK MODE ───────── */
 [data-theme="dark"]{
-  --bg:#0b1220;--bg2:#0f1828;--bg3:#132034;
-  --g1:#141d2e;--g2:#111a29;--g3:#1b2638;
-  --b1:#28344c;--b2:#3a4868;--b3:#5a6c8c;
-  --pa:rgba(34,197,94,0.14);--pb:rgba(34,197,94,0.24);
-  --t1:#e8edf6;--t2:#bac6da;--t3:#8595ad;
-  --sh:0 1px 4px rgba(0,0,0,.45),0 4px 14px rgba(0,0,0,.35);
+  --bg:#15120c;--bg2:#1c1811;--bg3:#231e15;
+  --g1:#1f1a12;--g2:#191510;--g3:#272115;
+  --b1:#372f20;--b2:#4a3f2b;--b3:#6f634a;
+  --p:#6fae79;--pa:rgba(111,174,121,0.14);--pb:rgba(111,174,121,0.24);
+  --t1:#efe9dc;--t2:#cbc3b0;--t3:#978d78;
+  --sh:0 1px 4px rgba(0,0,0,.5),0 12px 30px -16px rgba(0,0,0,.6);
+  --hdr-bg:#1c1811;
 }
 [data-theme="dark"] .nav,
 [data-theme="dark"] .stat-c,
@@ -517,6 +519,63 @@ footer a{color:#86efac}
 .bc-title{font-size:12.5px;color:var(--t1);line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .bc-meta{font-size:10.5px;color:var(--p);font-weight:700;margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .bc-meta .bc-dt{color:var(--t3);font-weight:400}
+
+/* ═══════════════ GIAO DIỆN MỚI — TẠP CHÍ ẤM, MỀM MẠI (v2) ═══════════════ */
+/* Nền giấy ấm + vệt sáng nhẹ */
+body{background:
+  radial-gradient(1100px 460px at 108% -8%, rgba(44,106,70,.06), transparent 62%),
+  radial-gradient(900px 380px at -8% 4%, rgba(196,122,26,.05), transparent 60%),
+  var(--bg);}
+/* Tiêu đề dùng chữ serif thanh lịch */
+.hdr-title,.mag-lead-title,.mag-card-title,.sh-t,.about-card h2,.art-hdr h1,
+.feat-title,.mag-sec-t,.stat-v,.price-hdr span,.nc-title{font-family:var(--serif);letter-spacing:-.2px}
+/* Thẻ: nền ấm đồng nhất, bo tròn lớn, bỏ mọi thanh gradient cứng, viền mảnh + bóng mềm */
+.stat-c,.nc-big,.nc3-c,.nitem,.price-tbl,.about-card,.tech,.qlnk,.vbpl,.da,.stn-c,.sb-box,.feat-card,.art-wrap,.mag-card,.mag-lead{
+  background:var(--g1);border:1px solid var(--b1);border-radius:var(--r);box-shadow:var(--sh)}
+.stat-c::before,.nc-big::before{display:none!important}
+.nitem,.qlnk,.stn-c,.da,.vb-item,.bc-item{border-radius:var(--rs)}
+/* Topbar trong suốt ấm */
+.tb{background:transparent;border-bottom:1px solid var(--b1);height:36px}
+/* Header thoáng, không viền xanh dày, logo bo tròn gradient */
+.hdr{background:var(--hdr-bg);border-top:none;border-bottom:1px solid var(--b1);min-height:98px}
+.hdr-logo{background:linear-gradient(140deg,var(--p),#4f9d68);border:none;color:#fff;border-radius:16px;box-shadow:0 8px 20px -8px rgba(44,106,70,.55)}
+.hdr-title{font-size:23px;font-weight:600}
+.hdr-clock .time{background:transparent;border:none;color:var(--p);font-family:var(--serif);font-weight:600;padding:0}
+/* Nav: viên thuốc mềm, mục đang chọn nền xanh đặc */
+.nav{background:var(--g1);box-shadow:none;border-bottom:1px solid var(--b1)}
+.nav-a{border-radius:999px;font-weight:500}
+.nav-a.on{background:var(--p);box-shadow:0 8px 18px -8px rgba(44,106,70,.5)}
+.nav-btn{border-radius:999px}
+.nav-btn.primary{background:var(--p)}
+/* Tiêu đề mục: bỏ thanh dày, chữ serif to, kẻ mảnh */
+.sh{border-bottom:1px solid var(--b1);padding-bottom:8px}
+.sh-t{font-size:18px;font-weight:600;padding-left:0}
+.sh-t::before{display:none}
+/* Hero + thẻ tin: ảnh lớn, tiêu đề serif to, hover nâng nhẹ */
+.mag-lead-title{font-size:27px;font-weight:600}
+.mag-lead-img{height:342px}
+.mag-card-title{font-size:15.5px;font-weight:600;line-height:1.38}
+.mag-kicker{background:var(--pa);border-radius:999px;font-family:'Be Vietnam Pro',sans-serif}
+.mag-card-thumb{height:172px}
+/* Chip lọc mềm */
+.sw-btn{border-radius:999px}
+.sw-btn.cur{background:var(--p);color:#fff;border-color:var(--p)}
+/* Ticker màu xanh rêu ấm */
+.ticker{background:var(--p);border-bottom:1px solid rgba(0,0,0,.14)}
+.ticker-lbl{background:rgba(255,255,255,.18);color:#fff}
+.ticker-wrap::before{background:linear-gradient(90deg,var(--p) 42%,transparent)}
+.ticker-wrap::after{background:linear-gradient(-90deg,var(--p) 42%,transparent)}
+/* Bảng giá + đầu mục mềm */
+.price-hdr{background:var(--pa);border-bottom:1px solid var(--b1);color:var(--t1)}
+.sb-head{background:var(--pa);color:var(--p)}
+/* Footer sáng ấm thay vì xanh đậm */
+footer{background:var(--g1);border-top:1px solid var(--b1);color:var(--t3)}
+footer strong,footer a{color:var(--p)}
+/* Nút lên đầu trang bo mềm */
+#backTop{border-radius:16px;background:var(--p)}
+/* Ảnh bo góc trong thẻ hero/card khớp bo lớn */
+.mag-lead-img{border-radius:0}
+[data-theme="dark"] .hdr-clock .time{color:var(--p)}
 </style>
 </head>
 <body>
