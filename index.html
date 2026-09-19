@@ -576,6 +576,16 @@ footer strong,footer a{color:var(--p)}
 /* Ảnh bo góc trong thẻ hero/card khớp bo lớn */
 .mag-lead-img{border-radius:0}
 [data-theme="dark"] .hdr-clock .time{color:var(--p)}
+/* Đồng bộ các mảng nền trắng/lạnh còn sót sang tông ấm nhất quán */
+.price-hdr,.sb-head,.art-tbl th,.art-outlook,.note-box,.badge-g,.stn-c.me,
+.ptab tr:hover td,.art-tbl tr:hover td{background:var(--pa)!important;border-color:var(--b1)!important}
+.sb-head{color:var(--p)!important}
+.feat-alert,.art-alert,.badge-r,.sb-head.red{background:rgba(192,57,43,.08)!important;border-color:rgba(192,57,43,.22)!important;color:#a5362a!important}
+.da.re{background:rgba(192,57,43,.06)!important}
+.da.am{background:rgba(196,122,26,.07)!important}
+.da.bl{background:rgba(47,111,176,.06)!important}
+.da.gn{background:var(--pa)!important}
+[data-theme="dark"] .feat-alert,[data-theme="dark"] .art-alert,[data-theme="dark"] .badge-r,[data-theme="dark"] .sb-head.red{background:rgba(220,120,100,.14)!important;color:#e39d8f!important;border-color:rgba(220,120,100,.3)!important}
 </style>
 </head>
 <body>
@@ -630,7 +640,7 @@ footer strong,footer a{color:var(--p)}
 <!-- ════ BLOG FEED ════ -->
 <!-- Bài nổi bật (báo cáo Trạm) -->
 <a class="mag-lead" style="display:block;color:inherit;margin-bottom:16px;cursor:pointer" onclick="goTab('article-35')" tabindex="0" role="button" aria-label="Đọc báo cáo KV9">
-  <img class="mag-lead-img" src="img/hero.jpg" alt="Đàn heo chăn nuôi Khu vực 9" loading="lazy">
+  <img class="mag-lead-img" id="lead-cover" src="img/hero.jpg" alt="Chăn nuôi – thú y Khu vực 9" loading="lazy" onerror="this.src='img/hero.jpg'">
   <div class="mag-lead-body">
     <span class="mag-kicker">📋 Báo cáo nổi bật · Trạm KV9</span>
     <div class="mag-lead-title">Tổng quan hoạt động chăn nuôi – thú y KV9: Đàn heo vượt 203.000 con, kiểm soát tốt dịch bệnh 6 tháng đầu 2026</div>
@@ -1652,6 +1662,9 @@ function renderItems(rawItems){
     // Lưới bài chỉ hiển thị tin CÓ ẢNH GỐC (bỏ tin thông báo không ảnh) để feed sạch
     var grid=list.filter(hasRealImg); if(!grid.length) grid=list;
     if(bg){ bg.innerHTML=''; grid.slice(0,80).forEach(function(it){ bg.appendChild(makeBlogCard(it)); }); }
+    // Ảnh bìa "Báo cáo nổi bật" luôn tươi mới: lấy ảnh bài có ảnh gốc mới nhất
+    var leadImg=document.getElementById('lead-cover');
+    if(leadImg && grid.length && grid[0].image){ leadImg.src=grid[0].image; }
     var parts=list.slice(0,14).map(function(it){
       var t=(it.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\s+/g,' ').trim().substring(0,72);
       return '<a href="'+it.link+'" target="_blank" rel="noopener">'+(it.icon||'🔔')+' '+t+'</a>';
