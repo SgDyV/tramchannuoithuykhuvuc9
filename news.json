@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-19T17:33:07.743Z",
- "count": 29,
+ "updated": "2026-09-19T19:41:47.108Z",
+ "count": 31,
  "items": [
+  {
+   "title": "Bộ Y tế cảnh báo nguy mất an toàn vệ sinh thực phẩm sau bão số 4",
+   "link": "https://dantri.com.vn/suc-khoe/bo-y-te-canh-bao-nguy-mat-an-toan-ve-sinh-thuc-pham-sau-bao-so-4-20260919174818459.htm",
+   "date": "Sat, 19 Sep 2026 21:17:00 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/19/bo-ha-ngap-lut1jpg-1760109084219-1789814683089.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
   {
    "title": "Lão nông trở thành tỷ phú sau quyết định bỏ lúa, nuôi tôm",
    "link": "https://tienphong.vn/lao-nong-tro-thanh-ty-phu-sau-quyet-dinh-bo-lua-nuoi-tom-post1877739.tpo",
@@ -226,6 +235,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Thông báo về việc thực hiện kiểm tra nhà nước Về an toàn thực phẩm nhập khẩu",
