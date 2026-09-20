@@ -1,7 +1,25 @@
 {
- "updated": "2026-09-20T07:29:15.912Z",
- "count": 31,
+ "updated": "2026-09-20T12:33:04.217Z",
+ "count": 32,
  "items": [
+  {
+   "title": "TP.HCM: Giá rau củ tăng mạnh, thịt heo ổn định",
+   "link": "https://znews.vn/tphcm-gia-rau-cu-tang-manh-thit-heo-on-dinh-post1684426.html",
+   "date": "Sun, 20 Sep 2026 17:35:07 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/yzfsm/2026_09_20/Rau_cu_dong_loat_tang_gia_thit_heo_chung_lai_znews.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Thanh long đẹp thiếu hàng, loại xấu giá rớt thảm, nhiều nơi cho bò ăn!",
+   "link": "https://dantri.com.vn/kinh-doanh/thanh-long-dep-thieu-hang-loai-xau-gia-rot-tham-nhieu-noi-cho-bo-an-20260920161153766.htm",
+   "date": "Sun, 20 Sep 2026 16:50:00 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/20/thanh-long-3-cropped-1789894433862.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
   {
    "title": "Vụ đàn heo 2.350 con dương tính với chất cấm ở Đồng Nai: Chuyển hồ sơ qua Công an",
    "link": "https://tienphong.vn/vu-dan-heo-2350-con-duong-tinh-voi-chat-cam-o-dong-nai-chuyen-ho-so-qua-cong-an-post1877932.tpo",
@@ -118,15 +136,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Cắt bỏ phần mốc của thực phẩm rồi ăn tiếp có an toàn?",
-   "link": "https://vnexpress.net/cat-bo-phan-moc-cua-thuc-pham-roi-an-tiep-co-an-toan-5121663.html",
-   "date": "Fri, 18 Sep 2026 16:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/18/screenshot-at-1789698132-4220-1789698248.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2UAtT4UFhlPSt_WHduqNCg",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
   },
   {
    "title": "3 c&aacute;ch chế biến gi&uacute;p thịt &lsquo;nhả&rsquo; bớt mỡ",
