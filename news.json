@@ -1,7 +1,43 @@
 {
- "updated": "2026-09-21T08:03:42.135Z",
- "count": 37,
+ "updated": "2026-09-21T15:11:21.084Z",
+ "count": 39,
  "items": [
+  {
+   "title": "Hà Tĩnh 'xây nhà' cho cá, tôm",
+   "link": "https://vnexpress.net/ha-tinh-xay-nha-cho-ca-tom-5122989.html",
+   "date": "Mon, 21 Sep 2026 21:29:08 +0700",
+   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/09/21/tha-ran-nhan-tao-1789983605-6479-1789983680.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7a0AxI7zcO20xxUONthQ-Q",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Bóc tách hai khối u buồng trứng chèn ép bàng quang người phụ nữ",
+   "link": "https://vnexpress.net/boc-tach-hai-khoi-u-buong-trung-chen-ep-bang-quang-nguoi-phu-nu-5123045.html",
+   "date": "Mon, 21 Sep 2026 20:55:34 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/21/2aobor076pnfkjhcmbqbahnzrsa3e6-8052-8448-1789996712.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XiSEi1SGhRjafA1CF4xIsA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Những thực phẩm giàu sắt số một cho mẹ bầu",
+   "link": "https://znews.vn/nhung-thuc-pham-giau-sat-so-mot-cho-me-bau-post1684578.html",
+   "date": "Mon, 21 Sep 2026 19:01:53 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/uqvpkpic/2026_08_07/me_bau_5.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Phó chủ tịch Apple nói 'nổi da gà' khi thấy iPhone dán cường lực",
+   "link": "https://vnexpress.net/pho-chu-tich-apple-noi-noi-da-ga-khi-thay-iphone-dan-cuong-luc-5122766.html",
+   "date": "Mon, 21 Sep 2026 15:00:00 +0700",
+   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/09/21/i18-copy-1789965981-4282-1789966176.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Bw7BHDZnFPdvat9_FyKGow",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Thành phố Hồ Chí Minh siết chặt truy xuất nguồn gốc thủy sản",
    "link": "https://www.vietnamplus.vn/thanh-pho-ho-chi-minh-siet-chat-truy-xuat-nguon-goc-thuy-san-post1137439.vnp",
@@ -9,15 +45,6 @@
    "image": "https://media.vietnamplus.vn/images/QcJaCVoYMCKXsPQ_Rprjc8BxXeUCI9v-nM2H6h22C8apNDQ7RZbH_tzNclaLAMGSK9ixJ4iEdDhUElPkpfGTzXtTyrhU5eMsfGx1-nlOyFfLTfnUDu9CvfNE48Hj3ls4VZNUk0DQG30foxQAvtw8ng/ttxvn-tp-ho-chi-minh-day-nhanh-ecdt-siet-truy-xuat-nguon-goc-thuy-san-2109-1.jpg.avif",
    "source": "vietnamplus",
    "label": "VietnamPlus (TTXVN)",
-   "icon": "📰"
-  },
-  {
-   "title": "Điều tuyệt đối không nên làm khi thấy rắn bò vào nhà, chung cư",
-   "link": "https://lifestyle.zingnews.vn/dieu-tuyet-doi-khong-nen-lam-khi-thay-ran-bo-vao-nha-chung-cu-post1683162.html",
-   "date": "Mon, 21 Sep 2026 12:35:19 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/uqvpkpic/2026_06_26/ran_cap_nia.jpg",
-   "source": "znews",
-   "label": "ZNews",
    "icon": "📰"
   },
   {
@@ -190,15 +217,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "3 c&aacute;ch chế biến gi&uacute;p thịt &lsquo;nhả&rsquo; bớt mỡ",
-   "link": "https://thanhnien.vn/3-cach-che-bien-giup-thit-nha-bot-mo-185260917145127562.htm",
-   "date": "Thu, 17 Sep 26 19:24:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/9/17/2-ham-thit-17896313768071501546360-0-0-640-1024-crop-1789631396882528745515.png",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
-   "icon": "📰"
   },
   {
    "title": "Việt Nam xác định vaccine là sản phẩm công nghệ chiến lược quan trọng",
