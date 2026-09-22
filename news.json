@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-22T06:57:31.940Z",
+ "updated": "2026-09-22T12:16:56.466Z",
  "count": 36,
  "items": [
+  {
+   "title": "Làm sao nhận biết trứng gà chất lượng?",
+   "link": "https://vnexpress.net/lam-sao-nhan-biet-trung-ga-chat-luong-5122675.html",
+   "date": "Tue, 22 Sep 2026 16:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/21/a-nh-ma-n-hi-nh-lu-1789958791-2498-1789958837.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Uw0tLWQzUyOmMV1MP0XRrw",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Loại thực phẩm quen thuộc nhưng nhiều người sơ chế sai cách",
    "link": "https://znews.vn/loai-thuc-pham-quen-thuoc-nhung-nhieu-nguoi-so-che-sai-cach-post1683105.html",
@@ -93,15 +102,6 @@
    "icon": "📰"
   },
   {
-   "title": "Người phụ nữ mắc cúm A kèm viêm phổi",
-   "link": "https://vnexpress.net/nguoi-phu-nu-mac-cum-a-kem-viem-phoi-5122652.html",
-   "date": "Mon, 21 Sep 2026 11:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/21/image001-1789959327-6081-1789959389.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5cr3FyxRXDQupzD5eUvQYg",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Ngo&agrave;i gừng, 8 thực phẩm sau gi&uacute;p cơ thể tăng sức đề kh&aacute;ng",
    "link": "https://thanhnien.vn/ngoai-gung-8-thuc-pham-sau-giup-co-the-tang-suc-de-khang-185260921104438644.htm",
    "date": "Mon, 21 Sep 26 10:40:00 +0700",
@@ -126,15 +126,6 @@
    "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/19/sua-chua2-1789789175.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=aK2FJoTmlGyLy3qDUTSh0A",
    "source": "vnexpress",
    "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "TP.HCM: Giá rau củ tăng mạnh, thịt heo ổn định",
-   "link": "https://znews.vn/tphcm-gia-rau-cu-tang-manh-thit-heo-on-dinh-post1684426.html",
-   "date": "Sun, 20 Sep 2026 17:35:07 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/yzfsm/2026_09_20/Rau_cu_dong_loat_tang_gia_thit_heo_chung_lai_znews.jpg",
-   "source": "znews",
-   "label": "ZNews",
    "icon": "📰"
   },
   {
@@ -289,6 +280,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Thông báo về việc thực hiện kiểm tra nhà nước Về an toàn thực phẩm nhập khẩu",
