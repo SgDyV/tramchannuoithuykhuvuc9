@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-23T20:32:39.929Z",
- "count": 33,
+ "updated": "2026-09-23T23:15:59.645Z",
+ "count": 34,
  "items": [
+  {
+   "title": "Những thực phẩm chứa chất gây ung thư số 1",
+   "link": "https://znews.vn/nhung-thuc-pham-chua-chat-gay-ung-thu-so-1-post1685102.html",
+   "date": "Thu, 24 Sep 2026 06:00:56 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_09_23/Ung_thu_1.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
   {
    "title": "Những thực phẩm giúp mẹ hồi phục tốt hơn sau sinh",
    "link": "https://znews.vn/phu-nu-sau-sinh-an-gi-de-hoi-phuc-nhanh-hon-post1685005.html",
@@ -147,15 +156,6 @@
    "icon": "📰"
   },
   {
-   "title": "Người cholesterol m&aacute;u cao v&agrave; tăng huyết &aacute;p ăn được trứng kh&ocirc;ng?",
-   "link": "https://thanhnien.vn/nguoi-cholesterol-mau-cao-va-tang-huyet-ap-an-duoc-trung-khong-185260919234005416.htm",
-   "date": "Sun, 20 Sep 26 09:14:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/9/20/edit-trung-17898645695081521136349-0-0-1250-2000-crop-1789864616045688882476.jpeg",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
    "title": "Bộ Y tế cảnh báo nguy mất an toàn vệ sinh thực phẩm sau bão số 4",
    "link": "https://dantri.com.vn/suc-khoe/bo-y-te-canh-bao-nguy-mat-an-toan-ve-sinh-thuc-pham-sau-bao-so-4-20260919174818459.htm",
    "date": "Sat, 19 Sep 2026 21:17:00 +0700",
@@ -253,6 +253,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Orion Việt Nam năm thứ hai liên tiếp dẫn đầu Top 10 Công ty Thực phẩm uy tín",
