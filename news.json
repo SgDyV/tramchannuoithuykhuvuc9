@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-23T12:22:36.813Z",
- "count": 34,
+ "updated": "2026-09-23T17:17:42.304Z",
+ "count": 33,
  "items": [
+  {
+   "title": "Những thực phẩm giúp mẹ hồi phục tốt hơn sau sinh",
+   "link": "https://znews.vn/phu-nu-sau-sinh-an-gi-de-hoi-phuc-nhanh-hon-post1685005.html",
+   "date": "Wed, 23 Sep 2026 20:30:58 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_09_23/Phu_nu_sau_sinh_1_1.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
   {
    "title": "Vaccine HPV trong chiến lược phòng ung thư cổ tử cung",
    "link": "https://dantri.com.vn/suc-khoe/vaccine-hpv-trong-chien-luoc-phong-ung-thu-co-tu-cung-20260923161851757.htm",
@@ -48,15 +57,6 @@
    "icon": "📰"
   },
   {
-   "title": "Trăn quý dài 4,5 m bò vào nhà dân ở Nghệ An",
-   "link": "https://tienphong.vn/tran-quy-dai-45-m-bo-vao-nha-dan-o-nghe-an-post1878815.tpo",
-   "date": "Wed, 23 Sep 2026 10:42:40 +07:00",
-   "image": "https://cdn.tienphong.vn/images/vASDcJhdrAnvZ2jeneTj6X_7Boj0GcJ3tlJJgIJ3nkpblK3AjGUpkerfAle_OYfW8ia3YbX0DiZe2uO86h8Eil-WEUjffDUyY0mMXj6NvyD1X01M8pHhDDgwPFyXO6Mr/795809506-1091419870134879-3123372640191084994-n.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
    "title": "Chơi 'đập heo' xây lớp học cho trẻ em vùng cao",
    "link": "https://vnexpress.net/choi-dap-heo-xay-lop-hoc-cho-tre-em-vung-cao-5123514.html",
    "date": "Wed, 23 Sep 2026 08:05:24 +0700",
@@ -81,15 +81,6 @@
    "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/9/22/trung-1790093599563240857295-0-0-960-1536-crop-17900936314151098508741.png",
    "source": "thanhnien",
    "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "Công bố Top 10 & Top 5 Công ty uy tín ngành Thực phẩm-Đồ uống năm 2026",
-   "link": "https://www.vietnamplus.vn/cong-bo-top-10-top-5-cong-ty-uy-tin-nganh-thuc-pham-do-uong-nam-2026-post1137777.vnp",
-   "date": "Tue, 22 Sep 2026 19:45:23 +07:00",
-   "image": "https://media.vietnamplus.vn/images/_RfA0Lv7xigOosrBfIuLk3bt0Ik9xby-J459btrWNXSnT2sb_nCzIDdyx5eQIM76/top.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
    "icon": "📰"
   },
   {
@@ -160,15 +151,6 @@
    "link": "https://thanhnien.vn/nguoi-cholesterol-mau-cao-va-tang-huyet-ap-an-duoc-trung-khong-185260919234005416.htm",
    "date": "Sun, 20 Sep 26 09:14:00 +0700",
    "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/9/20/edit-trung-17898645695081521136349-0-0-1250-2000-crop-1789864616045688882476.jpeg",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "Thịt r&atilde; đ&ocirc;ng do mất điện: C&oacute; n&ecirc;n cấp đ&ocirc;ng lại?",
-   "link": "https://thanhnien.vn/thit-ra-dong-do-mat-dien-co-nen-cap-dong-lai-185260916102957214.htm",
-   "date": "Sun, 20 Sep 26 05:20:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/9/19/tnw-thit-dong-da-1789824212098867315763-232-0-1832-2560-crop-17898242884331922862504.jpg",
    "source": "thanhnien",
    "label": "Báo Thanh Niên",
    "icon": "📰"
@@ -271,6 +253,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Orion Việt Nam năm thứ hai liên tiếp dẫn đầu Top 10 Công ty Thực phẩm uy tín",
+   "link": "https://tienphong.vn/orion-viet-nam-nam-thu-hai-lien-tiep-dan-dau-top-10-cong-ty-thuc-pham-uy-tin-post1879017.tpo",
+   "date": "Wed, 23 Sep 2026 19:22:00 +07:00",
+   "image": "",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
   },
   {
    "title": "Thông báo về việc thực hiện kiểm tra nhà nước Về an toàn thực phẩm nhập khẩu",
