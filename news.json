@@ -1,7 +1,34 @@
 {
- "updated": "2026-09-24T01:30:06.700Z",
+ "updated": "2026-09-24T06:31:46.900Z",
  "count": 33,
  "items": [
+  {
+   "title": "Bữa cơm thiếu thịt c&aacute; c&oacute; lo thiếu đạm?",
+   "link": "https://thanhnien.vn/bua-com-thieu-thit-ca-co-lo-thieu-dam-185260924124927411.htm",
+   "date": "Thu, 24 Sep 26 12:44:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/9/24/bua-an-dam-17902285451031734061349-0-0-960-1536-crop-17902286135751171121060.png",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "Thứ trưởng Bộ Nông nghiệp và Môi trường làm Trợ lý Bí thư Hà Nội Trần Đức Thắng",
+   "link": "https://tienphong.vn/thu-truong-bo-nong-nghiep-va-moi-truong-lam-tro-ly-bi-thu-ha-noi-tran-duc-thang-post1879184.tpo",
+   "date": "Thu, 24 Sep 2026 12:31:00 +07:00",
+   "image": "https://cdn.tienphong.vn/images/pA4xt8jd7O87PE57E1CLJLqXgpLckpC62TtTRv3iVSU87a0H2KZwscxG5jG3nN0tcU74WhWYbhLshmxTZhoJPQ/tienphong-249canbo1.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Việt Nam, Argentina hưởng “quả ngọt” từ ngoại giao nông nghiệp",
+   "link": "https://www.vietnamplus.vn/viet-nam-argentina-huong-qua-ngot-tu-ngoai-giao-nong-nghiep-post1138101.vnp",
+   "date": "Thu, 24 Sep 2026 09:32:02 +07:00",
+   "image": "https://media.vietnamplus.vn/images/IQdJ9t68n_Fc4c6ldNrZ7X7ZFP_bDGKLosX058e6esVhQalyx5kEbDIjP8NtO_bB/ttxvn_argen-5520.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
   {
    "title": "Những thực phẩm chứa chất gây ung thư số 1",
    "link": "https://znews.vn/nhung-thuc-pham-chua-chat-gay-ung-thu-so-1-post1685102.html",
@@ -93,15 +120,6 @@
    "icon": "📰"
   },
   {
-   "title": "Làm sao nhận biết trứng gà chất lượng?",
-   "link": "https://vnexpress.net/lam-sao-nhan-biet-trung-ga-chat-luong-5122675.html",
-   "date": "Tue, 22 Sep 2026 16:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/21/a-nh-ma-n-hi-nh-lu-1789958791-2498-1789958837.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Uw0tLWQzUyOmMV1MP0XRrw",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Loại thực phẩm quen thuộc nhưng nhiều người sơ chế sai cách",
    "link": "https://znews.vn/loai-thuc-pham-quen-thuoc-nhung-nhieu-nguoi-so-che-sai-cach-post1683105.html",
    "date": "Tue, 22 Sep 2026 13:35:12 +0700",
@@ -117,15 +135,6 @@
    "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/9/21/4-trung-1789984023027408181585-141-289-600-1024-crop-17899842107091792321489.png",
    "source": "thanhnien",
    "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "Hà Tĩnh 'xây nhà' cho cá, tôm",
-   "link": "https://vnexpress.net/ha-tinh-xay-nha-cho-ca-tom-5122989.html",
-   "date": "Mon, 21 Sep 2026 21:29:08 +0700",
-   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/09/21/tha-ran-nhan-tao-1789983605-6479-1789983680.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7a0AxI7zcO20xxUONthQ-Q",
-   "source": "vnexpress",
-   "label": "VnExpress",
    "icon": "📰"
   },
   {
@@ -187,15 +196,6 @@
    "link": "https://dantri.com.vn/suc-khoe/54-nguoi-tu-vong-vi-benh-dai-tu-dau-nam-20260916155951188.htm",
    "date": "Wed, 16 Sep 2026 18:44:22 +0700",
    "image": "https://icdn.dantri.com.vn/2023/09/28/benhdai1-crop-1695875014151.jpeg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Thứ trưởng Bộ Y tế: Sốt rét giảm, nguy cơ dịch bệnh mới lại tăng",
-   "link": "https://dantri.com.vn/suc-khoe/thu-truong-bo-y-te-sot-ret-giam-nguy-co-dich-benh-moi-lai-tang-20260916124858349.htm",
-   "date": "Wed, 16 Sep 2026 13:38:00 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/09/16/thu-truong-byt-do-xuan-tuyen-1789537433485.jpg?watermark=v1",
    "source": "dantri",
    "label": "Báo Dân Trí",
    "icon": "📰"
