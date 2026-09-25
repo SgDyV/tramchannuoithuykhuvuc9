@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-24T23:36:46.379Z",
- "count": 38,
+ "updated": "2026-09-25T02:10:48.629Z",
+ "count": 37,
  "items": [
+  {
+   "title": "Sùi mào gà có chữa khỏi không?",
+   "link": "https://vnexpress.net/sui-mao-ga-co-chua-khoi-khong-5124366.html",
+   "date": "Fri, 25 Sep 2026 08:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/24/medium-vecteezy-businessmen-ar-1525-4627-1790244227.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vyyO_5ZZbx89X4Q6_szOyQ",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Một thực phẩm quen thuộc giúp bảo vệ gan trước tác động của rượu",
    "link": "https://znews.vn/mot-thuc-pham-quen-thuoc-giup-bao-ve-gan-truoc-tac-dong-cua-ruou-post1685308.html",
@@ -111,15 +120,6 @@
    "icon": "📰"
   },
   {
-   "title": "Thứ trưởng Bộ Nông nghiệp và Môi trường làm Trợ lý Bí thư Hà Nội Trần Đức Thắng",
-   "link": "https://tienphong.vn/thu-truong-bo-nong-nghiep-va-moi-truong-lam-tro-ly-bi-thu-ha-noi-tran-duc-thang-post1879184.tpo",
-   "date": "Thu, 24 Sep 2026 12:31:00 +07:00",
-   "image": "https://cdn.tienphong.vn/images/pA4xt8jd7O87PE57E1CLJLqXgpLckpC62TtTRv3iVSU87a0H2KZwscxG5jG3nN0tcU74WhWYbhLshmxTZhoJPQ/tienphong-249canbo1.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
    "title": "Việt Nam, Argentina hưởng “quả ngọt” từ ngoại giao nông nghiệp",
    "link": "https://www.vietnamplus.vn/viet-nam-argentina-huong-qua-ngot-tu-ngoai-giao-nong-nghiep-post1138101.vnp",
    "date": "Thu, 24 Sep 2026 09:32:02 +07:00",
@@ -210,15 +210,6 @@
    "icon": "📰"
   },
   {
-   "title": "Ngo&agrave;i gừng, 8 thực phẩm sau gi&uacute;p cơ thể tăng sức đề kh&aacute;ng",
-   "link": "https://thanhnien.vn/ngoai-gung-8-thuc-pham-sau-giup-co-the-tang-suc-de-khang-185260921104438644.htm",
-   "date": "Mon, 21 Sep 26 10:40:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/9/21/thuc-pham-tot-mien-dich-1789961335807764602605-19-0-979-1536-crop-17899613915871313501055.jpg",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
    "title": "Bộ Y tế cảnh báo nguy mất an toàn vệ sinh thực phẩm sau bão số 4",
    "link": "https://dantri.com.vn/suc-khoe/bo-y-te-canh-bao-nguy-mat-an-toan-ve-sinh-thuc-pham-sau-bao-so-4-20260919174818459.htm",
    "date": "Sat, 19 Sep 2026 21:17:00 +0700",
@@ -244,15 +235,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Việt Nam xác định vaccine là sản phẩm công nghệ chiến lược quan trọng",
-   "link": "https://dantri.com.vn/khoa-hoc/viet-nam-xac-dinh-vaccine-la-san-pham-cong-nghe-chien-luoc-quan-trong-20260917080043048.htm",
-   "date": "Thu, 17 Sep 2026 11:30:10 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/09/17/hinh-anh-91-edited-1789606746214.jpg?watermark=v1",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
   },
   {
    "title": "Tham quan, học tập mô hình chăn nuôi tuần hoàn và ứng dụng công nghệ cao tại tỉnh Tây Ninh: Kinh nghiệm thực tiễn cho phát triển chăn nuôi tuần hoàn",
@@ -298,6 +280,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Orion Việt Nam năm thứ hai liên tiếp dẫn đầu Top 10 Công ty Thực phẩm uy tín",
