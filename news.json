@@ -1,7 +1,61 @@
 {
- "updated": "2026-09-26T03:24:23.405Z",
- "count": 50,
+ "updated": "2026-09-26T08:43:43.454Z",
+ "count": 52,
  "items": [
+  {
+   "title": "Ngập lụt nặng ở chợ đầu mối gia cầm Hà Nội",
+   "link": "https://tienphong.vn/ngap-lut-nang-o-cho-dau-moi-gia-cam-ha-noi-post1878796.tpo",
+   "date": "Sat, 26 Sep 2026 15:01:50 +07:00",
+   "image": "https://cdn.tienphong.vn/images/ZxOTiz-jFPp8JM4nUi7EYk74bI6v6WJt6hlnwX_Xux4WnItNCdIoRGitX4ztVLig8Mp-qVYE8YAbWQhCfn8A_g/tp-c_ddt-2267.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Loại thực phẩm không nên cho trẻ dưới 1 tuổi ăn",
+   "link": "https://znews.vn/loai-thuc-pham-khong-nen-cho-tre-duoi-1-tuoi-an-post1683129.html",
+   "date": "Sat, 26 Sep 2026 15:00:17 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_09_14/mat_ong.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Trường Y, Đại học Y Dược TP.HCM triển khai chương tr&igrave;nh đ&agrave;o tạo về vắc xin",
+   "link": "https://thanhnien.vn/truong-y-dai-hoc-y-duoc-tphcm-trien-khai-chuong-trinh-dao-tao-ve-vac-xin-185260926153532094.htm",
+   "date": "Sat, 26 Sep 26 14:49:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/9/26/base64-17904111730401092862328-211-16-1351-1841-crop-1790411201438757364488.jpeg",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "Tôm hùm 'bóng ma' 100 triệu con có một",
+   "link": "https://vnexpress.net/tom-hum-bong-ma-100-trieu-con-co-mot-5123861.html",
+   "date": "Sat, 26 Sep 2026 14:00:00 +0700",
+   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/09/23/VNELobster-1790152210-8166-1790152265.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MrSen-7FFMcawqXB41SItQ",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "7 câu hỏi về vaccine tay chân miệng",
+   "link": "https://vnexpress.net/7-cau-hoi-ve-vaccine-tay-chan-mieng-5125018.html",
+   "date": "Sat, 26 Sep 2026 14:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/26/vnvc-tiem-vac-xin-tay-chan-mie-2209-2507-1790394189.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jrgKlHfVJJQzkOtcMBTtDA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Nữ Phó Giám đốc sở từng 3 lần tiêm vắc xin ngừa dại, rất sợ chó thả rông",
+   "link": "https://dantri.com.vn/suc-khoe/nu-pho-giam-doc-so-tung-3-lan-tiem-vac-xin-ngua-dai-rat-so-cho-tha-rong-20260926100246505.htm",
+   "date": "Sat, 26 Sep 2026 11:02:20 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/26/nu-pho-giam-doc-so-tung-3-lan-tiem-vaccine-ngua-dai-rat-so-cho-tha-rong-2-edited-1790392165798.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
   {
    "title": "Vì sao trẻ có thể mắc cúm nhiều lần trong năm?",
    "link": "https://vnexpress.net/vi-sao-tre-co-the-mac-cum-nhieu-lan-trong-nam-5124950.html",
@@ -201,15 +255,6 @@
    "icon": "📰"
   },
   {
-   "title": "Sùi mào gà có chữa khỏi không?",
-   "link": "https://vnexpress.net/sui-mao-ga-co-chua-khoi-khong-5124366.html",
-   "date": "Fri, 25 Sep 2026 08:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/24/medium-vecteezy-businessmen-ar-1525-4627-1790244227.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vyyO_5ZZbx89X4Q6_szOyQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Một thực phẩm quen thuộc giúp bảo vệ gan trước tác động của rượu",
    "link": "https://znews.vn/mot-thuc-pham-quen-thuoc-giup-bao-ve-gan-truoc-tac-dong-cua-ruou-post1685308.html",
    "date": "Thu, 24 Sep 2026 20:30:04 +0700",
@@ -225,15 +270,6 @@
    "image": "https://icdn.dantri.com.vn/2026/09/24/mo-phong-cropped-1790248299673.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "54 người tử vong vì bệnh dại trong 9 tháng",
-   "link": "https://vnexpress.net/54-nguoi-tu-vong-vi-benh-dai-trong-9-thang-5124307.html",
-   "date": "Thu, 24 Sep 2026 20:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/24/img-jpg-1790238984-7654-1790239014.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uI_JIVcG6HfNFNtA0W39fw",
-   "source": "vnexpress",
-   "label": "VnExpress",
    "icon": "📰"
   },
   {
@@ -261,15 +297,6 @@
    "image": "https://icdn.dantri.com.vn/2026/09/24/trung-luoc-cropped-1790240050836.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Cà Mau xác định 9 động lực tăng trưởng nông, lâm nghiệp và thủy sản",
-   "link": "https://www.vietnamplus.vn/ca-mau-xac-dinh-9-dong-luc-tang-truong-nong-lam-nghiep-va-thuy-san-post1138182.vnp",
-   "date": "Thu, 24 Sep 2026 15:12:28 +07:00",
-   "image": "https://media.vietnamplus.vn/images/_RfA0Lv7xigOosrBfIuLkxyucSfLbKgqcoUclVZ8RJb7olVlxYB9wCWjHDl4oPTt/ttxvn-ca-mau-kjt.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
    "icon": "📰"
   },
   {
@@ -406,15 +433,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
-   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
-   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
   },
   {
    "title": "Thông báo về việc thực hiện kiểm tra nhà nước Về an toàn thực phẩm nhập khẩu",
