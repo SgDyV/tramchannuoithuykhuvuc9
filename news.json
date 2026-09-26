@@ -1,7 +1,61 @@
 {
- "updated": "2026-09-25T23:58:37.664Z",
- "count": 43,
+ "updated": "2026-09-26T03:24:23.405Z",
+ "count": 50,
  "items": [
+  {
+   "title": "Vì sao trẻ có thể mắc cúm nhiều lần trong năm?",
+   "link": "https://vnexpress.net/vi-sao-tre-co-the-mac-cum-nhieu-lan-trong-nam-5124950.html",
+   "date": "Sat, 26 Sep 2026 10:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/26/image001-1790383337-8584-1790383424.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=o7tpDAlQBQoUIej7bbN_HQ",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Đằng sau việc CEO Trung Quốc vắng bóng trong quốc yến Nhà Trắng",
+   "link": "https://vnexpress.net/dang-sau-viec-ceo-trung-quoc-vang-bong-trong-quoc-yen-nha-trang-5124976.html",
+   "date": "Sat, 26 Sep 2026 09:07:06 +0700",
+   "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/26/ap26268017383663-1790387644-5472-1790387763.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cSNCW1mkDXT2LdOCyrZpsA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Đại học Y Dược TP HCM đào tạo chuyên sâu về vaccine cho bác sĩ",
+   "link": "https://vnexpress.net/dai-hoc-y-duoc-tp-hcm-dao-tao-chuyen-sau-ve-vaccine-cho-bac-si-5124917.html",
+   "date": "Sat, 26 Sep 2026 08:39:28 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/26/screenshot-at-1790355673-3461-1790355883.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jqT7O2kdvyzpbVI7rsZqyA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Bò H’Mông có gì để thành thịt bò cao cấp như Kobe, Wagyu?",
+   "link": "https://vnexpress.net/bo-h-mong-co-gi-de-thanh-thit-bo-cao-cap-nhu-kobe-wagyu-5123081.html",
+   "date": "Sat, 26 Sep 2026 08:02:00 +0700",
+   "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/25/bo-h-mong-1790321743-7190-1790323401.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tQadVZ5j6eOsMYTljKkeSg",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Người d&acirc;n chi khoảng 300 tỉ đồng/năm ti&ecirc;m vắc xin dại",
+   "link": "https://thanhnien.vn/nguoi-dan-chi-khoang-300-ti-dong-nam-tiem-vac-xin-dai-185260925203933732.htm",
+   "date": "Sat, 26 Sep 26 07:11:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/9/25/photo-1790343468674-1790343469958446229772-0-104-720-1256-crop-17903434826651274899669.jpeg",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "Vaccine cứu sống khoảng 154 triệu người trong 50 năm",
+   "link": "https://dantri.com.vn/suc-khoe/vaccine-cuu-song-khoang-154-trieu-nguoi-trong-50-nam-20260925234008455.htm",
+   "date": "Sat, 26 Sep 2026 07:01:24 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/09/25/vaccine-covid-1-crop-cropped-1790353721527.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
   {
    "title": "Loại đồ uống gây nguy cơ ung thư nhóm 2A, ngang thịt đỏ và hóa chất",
    "link": "https://lifestyle.zingnews.vn/loai-do-uong-gay-nguy-co-ung-thu-nhom-2a-ngang-thit-do-va-hoa-chat-post1684884.html",
@@ -352,6 +406,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Thông báo về việc thực hiện kiểm tra nhà nước Về an toàn thực phẩm nhập khẩu",
