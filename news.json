@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-26T08:43:43.454Z",
- "count": 52,
+ "updated": "2026-09-26T13:26:12.163Z",
+ "count": 51,
  "items": [
+  {
+   "title": "Những tấm gương đổi mới tư duy nông nghiệp tại Ninh Bình",
+   "link": "https://www.vietnamplus.vn/nhung-tam-guong-doi-moi-tu-duy-nong-nghiep-tai-ninh-binh-post1138505.vnp",
+   "date": "Sat, 26 Sep 2026 16:52:47 +07:00",
+   "image": "https://media.vietnamplus.vn/images/_RfA0Lv7xigOosrBfIuLk_233SDFhDbLIMDEfvfBhQJM9mjv3aNYq_r1iyCsabEA/ttxvn-nuoi-ecch.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
   {
    "title": "Ngập lụt nặng ở chợ đầu mối gia cầm Hà Nội",
    "link": "https://tienphong.vn/ngap-lut-nang-o-cho-dau-moi-gia-cam-ha-noi-post1878796.tpo",
@@ -48,10 +57,10 @@
    "icon": "📰"
   },
   {
-   "title": "Nữ Phó Giám đốc sở từng 3 lần tiêm vắc xin ngừa dại, rất sợ chó thả rông",
-   "link": "https://dantri.com.vn/suc-khoe/nu-pho-giam-doc-so-tung-3-lan-tiem-vac-xin-ngua-dai-rat-so-cho-tha-rong-20260926100246505.htm",
+   "title": "Cảnh báo nguy cơ bệnh dại từ chó, mèo thả rông",
+   "link": "https://dantri.com.vn/suc-khoe/canh-bao-nguy-co-benh-dai-tu-cho-meo-tha-rong-20260926100246505.htm",
    "date": "Sat, 26 Sep 2026 11:02:20 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/09/26/nu-pho-giam-doc-so-tung-3-lan-tiem-vaccine-ngua-dai-rat-so-cho-tha-rong-2-edited-1790392165798.jpg",
+   "image": "https://icdn.dantri.com.vn/2026/09/26/benh-dai-cropped-1790411173061.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
    "icon": "📰"
@@ -183,15 +192,6 @@
    "icon": "📰"
   },
   {
-   "title": "7 thực phẩm thực vật hỗ trợ người lớn tuổi duy trì cơ bắp",
-   "link": "https://vnexpress.net/7-thuc-pham-thuc-vat-ho-tro-nguoi-lon-tuoi-duy-tri-co-bap-5124524.html",
-   "date": "Fri, 25 Sep 2026 13:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/25/la-c-luo-c-1790302717-9056-1790302853.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=4SMrrkGMgs8xonkUVlk75Q",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "'Hơn 2.400 tỷ USD' dự quốc yến Mỹ - Trung",
    "link": "https://znews.vn/hon-2400-ty-usd-du-quoc-yen-my-trung-post1685423.html",
    "date": "Fri, 25 Sep 2026 12:49:21 +0700",
@@ -270,15 +270,6 @@
    "image": "https://icdn.dantri.com.vn/2026/09/24/mo-phong-cropped-1790248299673.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Có nên rửa trứng trước khi cất vào tủ lạnh?",
-   "link": "https://znews.vn/co-nen-rua-trung-truoc-khi-cat-vao-tu-lanh-post1684921.html",
-   "date": "Thu, 24 Sep 2026 18:32:38 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_09_22/rua_trung.jpg",
-   "source": "znews",
-   "label": "ZNews",
    "icon": "📰"
   },
   {
@@ -372,15 +363,6 @@
    "icon": "📰"
   },
   {
-   "title": "Bị chó, mèo cắn, đừng chờ xét nghiệm mới tiêm phòng",
-   "link": "https://dantri.com.vn/suc-khoe/bi-cho-meo-can-dung-cho-xet-nghiem-moi-tiem-phong-20260918150901074.htm",
-   "date": "Fri, 18 Sep 2026 20:08:00 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/09/18/chocan-cropped-1789718617371.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
    "title": "Chặn 2 xe tải chở gần 4 tấn gà không có giấy kiểm dịch trên đường vào TPHCM",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/09/18/Chan-2-xe-tai-cho-gan-4-tan-ga-khong-co-giay-kiem-dich-tren-duong-vao-TPHCM.aspx",
    "date": "Fri, 18 Sep 2026 17:07:00 +0700",
@@ -433,6 +415,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Thông báo về việc thực hiện kiểm tra nhà nước Về an toàn thực phẩm nhập khẩu",

@@ -1,9 +1,72 @@
 {
- "updated": "2026-09-26T08:44:14.022Z",
+ "updated": "2026-09-26T13:26:43.980Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Gây động dục chủ động và cố định thời gian thụ tinh nhân tạo trên đàn bò sữa",
+   "link": "https://channuoivietnam.com/portal-news-detail/59760",
+   "date": "2026-09-26T17:16:23+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f06%2fScreenshot-2023-06-16-at-09.14.59.png",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Phát triển công nghệ sinh học ứng dụng trong sản xuất vắc-xin cho vật nuôi tại Việt Nam",
+   "link": "https://channuoivietnam.com/portal-news-detail/44320",
+   "date": "2026-09-26T16:08:18+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f06%2fKH.-SX-Vaccine.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Những lưu ý để xây dựng khẩu phần ăn cho heo hiệu quả",
+   "link": "https://channuoivietnam.com/portal-news-detail/54790",
+   "date": "2026-09-26T16:05:35+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2022%2f07%2fBBB.png",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Khả năng sản xuất của vịt CV Super Meat ông bà nuôi khô",
+   "link": "https://channuoivietnam.com/portal-news-detail/20366",
+   "date": "2026-09-26T16:00:49+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f01%2fKH.-vit-dep.jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Lập bản đồ phân bố của vật nuôi trên toàn cầu",
+   "link": "https://channuoivietnam.com/portal-news-detail/5364",
+   "date": "2026-09-26T15:59:22+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f08%2fKH.-Ban-do-giong-vat-nuoi.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Hỗ trợ để vịt cho năng suất tối ưu",
+   "link": "https://channuoivietnam.com/portal-news-detail/48163",
+   "date": "2026-09-26T15:59:13+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f11%2fKH.-Vit-con.png",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Ứng dụng kỹ thuật RT-PCR để chẩn đoán bệnh viêm phế quản truyền nhiễm ở gà đẻ",
+   "link": "https://channuoivietnam.com/portal-news-detail/50135",
+   "date": "2026-09-26T15:58:56+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2021%2f01%2fKH.-Benh-viem-PT-TN-ga.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Xác định một số chỉ tiêu hóa-lý, khả năng kháng khuẩn và chống ô xy hóa của mạt ong không ngòi đốt (Trigona spp.)",
    "link": "https://channuoivietnam.com/portal-news-detail/0763ed26-c5a7-40c9-80a6-0499bce5e91b",
@@ -72,69 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/56850",
    "date": "2026-09-25T17:00:35+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c56850edit.png&v=491eac39-792d-4990-9a3c-da096f0287dd",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Thức ăn tiền khởi động trong chăn nuôi gà thịt không có kháng sinh",
-   "link": "https://channuoivietnam.com/portal-news-detail/37567",
-   "date": "2026-09-25T16:02:17+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2019%2f04%2fKH.-Ga-con.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Khả năng kháng oxy hóa và ức chế enzyme tyrosinase của cao chiết cỏ sữa lá nhỏ (Euphorbia thymifolia l.)",
-   "link": "https://channuoivietnam.com/portal-news-detail/23248",
-   "date": "2026-09-25T16:00:04+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c23248edit.png&v=c396fe05-8ea7-4a1f-9692-e4fd8dd43f58",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Khảo sát tỷ lệ trật khớp xương chậu - đùi ở chó và ứng dụng kỹ thuật cắt đầu, cổ xương đùi trong điều trị",
-   "link": "https://channuoivietnam.com/portal-news-detail/45810",
-   "date": "2026-09-25T15:59:55+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c45810edit.png&v=077ed19d-430c-46c5-8881-482c6808126f",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Sự phân bổ các gen độc lực của các chủng vi khuẩn Enterotoxigenic Escherichia coli phân lập từ heo con bệnh tiêu chảy",
-   "link": "https://channuoivietnam.com/portal-news-detail/48183",
-   "date": "2026-09-25T15:59:54+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f11%2fKH.-VK-gay-TC.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Mã vạch DNA (DNA barcode) và hướng nghiên cứu ứng dụng ở Việt Nam",
-   "link": "https://channuoivietnam.com/portal-news-detail/9753",
-   "date": "2026-09-25T15:59:26+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2016%2f06%2fKH.-Ma-vach-DNA.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "ISO 14024:2018 – nền tảng cho kinh tế ‘Low carbon’",
-   "link": "https://channuoivietnam.com/portal-news-detail/045a51db-4868-4138-9c38-478b2c9cbf22",
-   "date": "2026-09-25T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c045a51db-4868-4138-9c38-478b2c9cbf22edit.png&v=c6bf55e8-cf79-4ac9-a087-deb7d894508c",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "So sánh hoạt tính kháng khuẩn của một số loại mật ong Việt Nam",
-   "link": "https://channuoivietnam.com/portal-news-detail/293c8c15-d0d8-4342-a41c-ab7d8ea83d16",
-   "date": "2026-09-25T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c293c8c15-d0d8-4342-a41c-ab7d8ea83d16edit.png&v=628d56e1-a017-42a3-aae6-c822acec9e4a",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
