@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-27T11:00:46.302Z",
- "count": 48,
+ "updated": "2026-09-27T15:41:36.992Z",
+ "count": 47,
  "items": [
+  {
+   "title": "Hai bộ phận rất bẩn của tôm, tiếc mấy cũng nên bỏ",
+   "link": "https://znews.vn/hai-bo-phan-rat-ban-cua-tom-tiec-may-cung-nen-bo-post1685746.html",
+   "date": "Sun, 27 Sep 2026 18:45:44 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_09_26/tom.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
   {
    "title": "Từng mắc tay chân miệng do EV71 có cần tiêm vaccine?",
    "link": "https://vnexpress.net/tung-mac-tay-chan-mieng-do-ev71-co-can-tiem-vaccine-5125023.html",
@@ -201,33 +210,6 @@
    "icon": "📰"
   },
   {
-   "title": "Thực phẩm quen thuộc tốt cho não bộ và hệ xương của thai nhi",
-   "link": "https://znews.vn/thuc-pham-quen-thuoc-tot-cho-nao-bo-va-he-xuong-cua-thai-nhi-post1685483.html",
-   "date": "Fri, 25 Sep 2026 20:17:01 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/yrfjpyesfly/2026_09_25/ca_hoi.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
-   "title": "Thực phẩm giàu sắt rất tốt cho trẻ",
-   "link": "https://znews.vn/thuc-pham-giau-sat-rat-tot-cho-tre-post1685243.html",
-   "date": "Fri, 25 Sep 2026 20:00:51 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_09_23/thuc_pham_giau_sat.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
-   "title": "Ăn trứng mỗi ngày, điều gì thực sự xảy ra với cholesterol?",
-   "link": "https://znews.vn/an-trung-moi-ngay-dieu-gi-thuc-su-xay-ra-voi-cholesterol-post1685301.html",
-   "date": "Fri, 25 Sep 2026 19:25:31 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_09_04/trung_luoc.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
    "title": "Dàn tỷ phú thế giới dự quốc yến đón ông Tập ở Nhà Trắng",
    "link": "https://tienphong.vn/dan-ty-phu-the-gioi-du-quoc-yen-don-ong-tap-o-nha-trang-post1879636.tpo",
    "date": "Fri, 25 Sep 2026 18:06:56 +07:00",
@@ -397,6 +379,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Thông báo về việc thực hiện kiểm tra nhà nước Về an toàn thực phẩm nhập khẩu",
