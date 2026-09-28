@@ -1,9 +1,72 @@
 {
- "updated": "2026-09-28T14:14:17.227Z",
+ "updated": "2026-09-28T20:39:19.021Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Năng suất sinh sản và sinh trưởng của đàn hạt nhân lợn Mẹo thế hệ II",
+   "link": "https://channuoivietnam.com/portal-news-detail/2faaf88d-bd41-4ab4-984c-e3ab688cc4f0",
+   "date": "2026-09-29T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cc9f4890e-14c0-42e8-8200-f351a66b01b1.png&v=84155fa6-02ed-44d1-8bcb-3db155e0348c",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Tối ưu hóa quy trình thủy phân nhộng ruồi lính đen ứng dụng trong nông nghiệp",
+   "link": "https://channuoivietnam.com/portal-news-detail/3fac86e7-30c5-4164-86d4-24ae84a03b0e",
+   "date": "2026-09-29T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5ccfc69df7-e152-4ddb-8d15-6e4a0c8cfaab.png&v=253767f2-44a3-4077-b30e-96b9beb7f191",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Ảnh hưởng của mức năng lượng trao đổi và protein thô trong khẩu phần ăn giai đoạn mang thai kỳ II đến năng suất sinh sản của lợn nái Hương",
+   "link": "https://channuoivietnam.com/portal-news-detail/56a186bd-bb09-46f9-9f8a-9ff5b070a3f2",
+   "date": "2026-09-29T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c56a186bd-bb09-46f9-9f8a-9ff5b070a3f2edit.png&v=29d4dc47-0da1-4510-9b8e-03b6ee2ad58b",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Nhu cầu dinh dưỡng gà lông màu theo tiêu chuẩn Trung Quốc: Nhóm gà đẻ trứng",
+   "link": "https://channuoivietnam.com/portal-news-detail/7ebee49c-2217-4ed8-baac-84e71a1f203c",
+   "date": "2026-09-29T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c875167cb-f72f-42c1-8311-bcc4b2d76772.png&v=394584ab-5ab5-4c8a-a523-8fff641b4e0a",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Hoạt tính kháng oxy hóa và kháng nấm của một số cao chiết thực vật thuộc họ gừng (Zingiberaceae) và họ củ nâu (Dioscoreaceae)",
+   "link": "https://channuoivietnam.com/portal-news-detail/85944ad7-a2a7-4cf1-a288-eb9380a63e28",
+   "date": "2026-09-29T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cb92e2540-8e28-4c29-a477-f607385e7a3b.png&v=e3736808-f5ac-4b0d-964a-533f416510f4",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Ảnh hưởng của khẩu phần thức ăn tự phối trộn đến khả năng sinh sản và hiệu quả kinh tế của chim bồ câu nội",
+   "link": "https://channuoivietnam.com/portal-news-detail/9aebec7c-5073-44b5-af11-9a2b083e2abb",
+   "date": "2026-09-29T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c5a829a9a-13df-4fc5-85ad-42c977c4e4f0.png&v=9f9fa166-6d89-48dc-8ea2-227224e3076b",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Một số đặc điểm dịch tễ và biến đổi bệnh lý ở chó mắc bệnh Parvovirus",
+   "link": "https://channuoivietnam.com/portal-news-detail/cc82a4bb-4ff2-49f3-96d6-2a1499f81c2a",
+   "date": "2026-09-29T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c8ecbc7a1-1e0c-4abc-b6f7-8b70ad72c4df.png&v=8900efe4-0b3e-43cc-8400-a7f867c4899f",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "So sánh khả năng truyền kháng thể thụ động từ gà mẹ sang gà con ở 3 giống gà thả vườn đối với vacxin phòng bệnh Newcastle",
    "link": "https://channuoivietnam.com/portal-news-detail/57068",
@@ -72,69 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/041ba91d-d1ce-4e04-b02a-4b98647b9c18",
    "date": "2026-09-28T00:00:00+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c79f547a8-54d5-4dbb-b013-f39d053cbd86.png&v=12a3abcd-327e-4aac-9234-6c1588d8f0d6",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ấu trùng ruồi lính đen chứa hoạt tính kháng khuẩn",
-   "link": "https://channuoivietnam.com/portal-news-detail/2ef9d8d1-0f61-4802-a03a-9a83107ba0a5",
-   "date": "2026-09-28T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cd9f6dc8f-7048-4b6d-b463-64bccdd38bfb.png&v=0bbe7e69-a00c-46f1-8985-85e1bf699546",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Nghiên cứu hiệu quả điều trị bệnh giun xoăn dạ múi khế ở bò của rau sam Portulaca oleracea so với thuốc fenbendazole",
-   "link": "https://channuoivietnam.com/portal-news-detail/3b7113a2-656d-4b2d-9bfd-3ae258482c78",
-   "date": "2026-09-28T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c746ca99b-36a4-4d99-90a8-99e0de5b2a6a.png&v=17bed871-edda-4acc-a7e6-1b840ae1ed79",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Khảo sát sự lưu hành của vi khuẩn Salmonella Weltevreden và Salmonella Typhimurium trên heo và môi trường",
-   "link": "https://channuoivietnam.com/portal-news-detail/700813db-6c28-4a84-afe6-78d30288f208",
-   "date": "2026-09-28T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c73df7ca7-a5f9-47a4-93ca-56bf09a80d47.png&v=9184aa91-fc5c-4683-b30c-e5ac8196d812",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Nghiên cứu mới xếp hạng thực phẩm theo mức độ mất nitơ",
-   "link": "https://channuoivietnam.com/portal-news-detail/bbd6053c-9eef-491a-aabc-7f2cba8abb22",
-   "date": "2026-09-28T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cc63ce359-ebf4-403c-845e-47793a088596.png&v=4d602230-be19-4d5c-b0fd-0def85f48411",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Nhu cầu dinh dưỡng gà lông màu theo tiêu chuẩn Trung Quốc: Nhóm gà nuôi thịt",
-   "link": "https://channuoivietnam.com/portal-news-detail/c063de8d-37fd-4562-9de3-70a4b583053c",
-   "date": "2026-09-28T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c31e9998f-8b9f-474f-886b-3d9558cfd565.png&v=d9080924-631d-4df3-8295-6f63172dc4b5",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của việc bổ sung chế phẩm probiotics trong khẩu phần ăn đến tỷ lệ tiêu chảy, năng suất thân thịt và hiệu quả sản xuất của lợn Mường Tè thương phẩm",
-   "link": "https://channuoivietnam.com/portal-news-detail/57062",
-   "date": "2026-09-27T17:16:38+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c57062edit.png&v=0f41c912-341e-4365-8128-463932590e98",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Áp dụng công nghệ xanh để ngành công nghiệp thuộc da Việt Nam phát triển bền vững",
-   "link": "https://channuoivietnam.com/portal-news-detail/59769",
-   "date": "2026-09-27T17:16:08+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c59769edit.png&v=dc60a19c-210b-49cb-af99-0cabfe05bbfc",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
