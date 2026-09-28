@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-27T22:23:23.107Z",
- "count": 46,
+ "updated": "2026-09-28T00:56:30.559Z",
+ "count": 44,
  "items": [
+  {
+   "title": "Phạt doanh nghiệp 'nới' hạn sử dụng thức ăn thủy sản",
+   "link": "https://tienphong.vn/phat-doanh-nghiep-noi-han-su-dung-thuc-an-thuy-san-post1880146.tpo",
+   "date": "Mon, 28 Sep 2026 05:30:00 +07:00",
+   "image": "https://cdn.tienphong.vn/images/zpSLZBAVuID-6PZjWY2f60Jq6PaFbs5UDOifR6Y4oho9Cx50wOLB140XCncVMMmp/qltt.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
   {
    "title": "Hai bộ phận rất bẩn của tôm, tiếc mấy cũng nên bỏ",
    "link": "https://znews.vn/hai-bo-phan-rat-ban-cua-tom-tiec-may-cung-nen-bo-post1685746.html",
@@ -147,15 +156,6 @@
    "icon": "📰"
   },
   {
-   "title": "Vì sao trẻ có thể mắc cúm nhiều lần trong năm?",
-   "link": "https://vnexpress.net/vi-sao-tre-co-the-mac-cum-nhieu-lan-trong-nam-5124950.html",
-   "date": "Sat, 26 Sep 2026 10:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/26/image001-1790383337-8584-1790383424.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=o7tpDAlQBQoUIej7bbN_HQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Đằng sau việc CEO Trung Quốc vắng bóng trong quốc yến Nhà Trắng",
    "link": "https://vnexpress.net/dang-sau-viec-ceo-trung-quoc-vang-bong-trong-quoc-yen-nha-trang-5124976.html",
    "date": "Sat, 26 Sep 2026 09:07:06 +0700",
@@ -198,15 +198,6 @@
    "image": "https://icdn.dantri.com.vn/2026/09/25/vaccine-covid-1-crop-cropped-1790353721527.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Loại đồ uống gây nguy cơ ung thư nhóm 2A, ngang thịt đỏ và hóa chất",
-   "link": "https://lifestyle.zingnews.vn/loai-do-uong-gay-nguy-co-ung-thu-nhom-2a-ngang-thit-do-va-hoa-chat-post1684884.html",
-   "date": "Sat, 26 Sep 2026 06:00:41 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_09_22/Do_uong_nong_1_1.jpg",
-   "source": "znews",
-   "label": "ZNews",
    "icon": "📰"
   },
   {
@@ -370,15 +361,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
-   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
-   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
   },
   {
    "title": "Thông báo về việc thực hiện kiểm tra nhà nước Về an toàn thực phẩm nhập khẩu",
