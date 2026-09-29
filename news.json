@@ -1,7 +1,25 @@
 {
- "updated": "2026-09-29T13:09:10.153Z",
- "count": 39,
+ "updated": "2026-09-29T18:43:38.038Z",
+ "count": 36,
  "items": [
+  {
+   "title": "Mỡ heo c&oacute; thực sự l&agrave;m tăng cholesterol xấu?",
+   "link": "https://thanhnien.vn/mo-heo-co-thuc-su-lam-tang-cholesterol-xau-185260929173931997.htm",
+   "date": "Wed, 30 Sep 26 00:14:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/9/29/1-thit-heo-17906782561591912685716-125-0-765-1024-crop-17906783080591901889559.png",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "Người bệnh thận c&oacute; n&ecirc;n ăn trứng luộc?",
+   "link": "https://thanhnien.vn/nguoi-benh-than-co-nen-an-trung-luoc-18526092922454203.htm",
+   "date": "Tue, 29 Sep 26 22:40:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/9/29/trung-than-17906961032142032777379-35-0-995-1536-crop-1790696392378563093190.png",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
   {
    "title": "Gần 25.000 mũi vaccine tay chân miệng được tiêm trong 5 ngày",
    "link": "https://vnexpress.net/gan-25-000-mui-vaccine-tay-chan-mieng-duoc-tiem-trong-5-ngay-5126294.html",
@@ -102,30 +120,12 @@
    "icon": "🏥"
   },
   {
-   "title": "Bảo hiểm nông nghiệp: Công cụ quản trị rủi ro trước cú sốc thiên tai",
-   "link": "https://www.vietnamplus.vn/bao-hiem-nong-nghiep-cong-cu-quan-tri-rui-ro-truoc-cu-soc-thien-tai-post1137985.vnp",
-   "date": "Tue, 29 Sep 2026 09:00:00 +07:00",
-   "image": "https://media.vietnamplus.vn/images/S8r8Jbue1_TUNNSKJpF3LWltimgo0ix8_ulwfSjmqh97w2RzIoLFW_jSaXeQNahyox41A3mP5pt25rSvu6TRgz6XVEoYoQu7t_Y47qhz5Oc/gemini-generated-image-jdhnjujdhnjujdhn.png.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
-   "icon": "📰"
-  },
-  {
    "title": "Điều gì xảy ra với gan khi dùng nhiều thực phẩm bổ sung?",
    "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-gan-khi-dung-nhieu-thuc-pham-bo-sung-5125831.html",
    "date": "Tue, 29 Sep 2026 02:00:00 +0700",
    "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/28/vitamin-1790587203-8426-1790587337.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_Gn_MJhHZERBl0pP9HEHHw",
    "source": "vnexpress",
    "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Tạm đóng cửa một quầy bán đồ ăn chợ Bến Thành vì có côn trùng bò trong thực phẩm",
-   "link": "https://tienphong.vn/tam-dong-cua-mot-quay-ban-do-an-cho-ben-thanh-vi-co-con-trung-bo-trong-thuc-pham-post1880472.tpo",
-   "date": "Mon, 28 Sep 2026 21:39:28 +07:00",
-   "image": "https://cdn.tienphong.vn/images/AHsu0WetIg3QIF4V2I7ZaL08GdeJBb6fSyFmCvyd96--kcvHXbvb4ZA0DG24jd1X/quay-an.png.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
    "icon": "📰"
   },
   {
@@ -196,15 +196,6 @@
    "link": "https://vnexpress.net/dang-sau-viec-ceo-trung-quoc-vang-bong-trong-quoc-yen-nha-trang-5124976.html",
    "date": "Sat, 26 Sep 2026 09:07:06 +0700",
    "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/26/ap26268017383663-1790387644-5472-1790387763.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cSNCW1mkDXT2LdOCyrZpsA",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Bò H’Mông có gì để thành thịt bò cao cấp như Kobe, Wagyu?",
-   "link": "https://vnexpress.net/bo-h-mong-co-gi-de-thanh-thit-bo-cao-cap-nhu-kobe-wagyu-5123081.html",
-   "date": "Sat, 26 Sep 2026 08:02:00 +0700",
-   "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/25/bo-h-mong-1790321743-7190-1790323401.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tQadVZ5j6eOsMYTljKkeSg",
    "source": "vnexpress",
    "label": "VnExpress",
    "icon": "📰"
@@ -318,30 +309,12 @@
    "icon": "🏥"
   },
   {
-   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
-   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
-   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
    "title": "Xe tải chở gà cháy trên cao tốc Pháp Vân - Cầu Giẽ",
    "link": "https://vnexpress.net/xe-tai-cho-ga-chay-tren-cao-toc-phap-van-cau-gie-5125951.html",
    "date": "Mon, 28 Sep 2026 23:22:34 +0700",
    "image": "",
    "source": "vnexpress",
    "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Ô tô tải chở gà bốc cháy dữ dội trên cao tốc Pháp Vân – Cầu Giẽ",
-   "link": "https://tienphong.vn/o-to-tai-cho-ga-boc-chay-du-doi-tren-cao-toc-phap-van-cau-gie-post1880478.tpo",
-   "date": "Mon, 28 Sep 2026 21:46:03 +07:00",
-   "image": "",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
    "icon": "📰"
   },
   {
