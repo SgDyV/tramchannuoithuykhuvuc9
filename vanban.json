@@ -1,9 +1,17 @@
 {
- "updated": "2026-09-30T07:37:14.427Z",
+ "updated": "2026-09-30T14:20:44.010Z",
  "category": "Văn bản chung",
  "source": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
  "count": 12,
  "items": [
+  {
+   "code": "38/2026/VBHN-NĐ-BTC",
+   "title": "Bảo hiểm nông nghiệp.",
+   "date": "2026-09-28T00:00:00+07:00",
+   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=0cf6f69c-e6d3-46c5-8461-7bfcfe7d8f16&file_name=ND38.pdf",
+   "file": "ND38.pdf"
+  },
   {
    "code": "138/2026/VBHN-LQ-VPQH",
    "title": "Luật Chuyển giao công nghệ.",
@@ -91,14 +99,6 @@
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
    "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=8ac8473c-3a3e-498b-92ab-197b75554f25&file_name=VB2833.pdf",
    "file": "VB2833.pdf"
-  },
-  {
-   "code": "1466/QĐ-TTg",
-   "title": "Phê duyệt Kế hoạch phát triển công nghiệp sinh học ngành nông nghiệp và môi trường.",
-   "date": "2026-07-31T00:00:00+07:00",
-   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=6368f225-7c73-40fc-871f-3b2366d72b7a&file_name=Q%C4%911466.pdf",
-   "file": "Qđ1466.pdf"
   }
  ]
 }
