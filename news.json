@@ -1,7 +1,16 @@
 {
- "updated": "2026-09-30T23:16:37.876Z",
- "count": 36,
+ "updated": "2026-10-01T02:14:26.398Z",
+ "count": 35,
  "items": [
+  {
+   "title": "Tháo gỡ điểm nghẽn để bảo hiểm nông nghiệp trở thành công cụ quản trị rủi ro",
+   "link": "https://www.vietnamplus.vn/thao-go-diem-nghen-de-bao-hiem-nong-nghiep-tro-thanh-cong-cu-quan-tri-rui-ro-post1137999.vnp",
+   "date": "Thu, 01 Oct 2026 09:00:00 +07:00",
+   "image": "https://media.vietnamplus.vn/images/S8r8Jbue1_TUNNSKJpF3LUbWQvGvi48zOGz3tCrhp3gkHdKvTThe7apdZ_Px7ILU/anh-thay-tit-bai.png.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
   {
    "title": "Ngân hàng muốn bán khoản nợ hơn 600 tỷ đồng của trứng gà Ba Huân",
    "link": "https://vnexpress.net/ngan-hang-muon-ban-khoan-no-hon-600-ty-dong-cua-trung-ga-ba-huan-5126732.html",
@@ -111,15 +120,6 @@
    "icon": "📰"
   },
   {
-   "title": "Bảo hiểm nông nghiệp: Độ phủ thấp, sản phẩm chưa theo kịp nhu cầu quản trị rủi ro",
-   "link": "https://www.vietnamplus.vn/bao-hiem-nong-nghiep-do-phu-thap-san-pham-chua-theo-kip-nhu-cau-quan-tri-rui-ro-post1137995.vnp",
-   "date": "Wed, 30 Sep 2026 09:00:00 +07:00",
-   "image": "https://media.vietnamplus.vn/images/S8r8Jbue1_TUNNSKJpF3LWltimgo0ix8_ulwfSjmqh_47HU28nnWw4GAUe5zbPSdCWxjG1K0iyp-wUkvhH5cgj6XVEoYoQu7t_Y47qhz5Oc/gemini-generated-image-iu6rc7iu6rc7iu6r.png.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
-   "icon": "📰"
-  },
-  {
    "title": "Nguy&ecirc;n nh&acirc;n dễ nổi mụn khi ăn, uống thực phẩm nhiều đường, ngọt",
    "link": "https://thanhnien.vn/nguyen-nhan-de-noi-mun-khi-an-uong-thuc-pham-nhieu-duong-ngot-185260930071959221.htm",
    "date": "Wed, 30 Sep 26 07:34:00 +0700",
@@ -199,15 +199,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Điều gì xảy ra với gan khi dùng nhiều thực phẩm bổ sung?",
-   "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-gan-khi-dung-nhieu-thuc-pham-bo-sung-5125831.html",
-   "date": "Tue, 29 Sep 2026 02:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/28/vitamin-1790587203-8426-1790587337.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_Gn_MJhHZERBl0pP9HEHHw",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
   },
   {
    "title": "Tập huấn, bồi dưỡng ứng dụng Trí tuệ nhân tạo (AI) cho công chức, viên chức Chi cục Chăn nuôi và Thú y",
