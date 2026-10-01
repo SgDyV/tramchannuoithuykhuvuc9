@@ -1,9 +1,25 @@
 {
- "updated": "2026-10-01T02:14:53.909Z",
+ "updated": "2026-10-01T09:08:38.877Z",
  "category": "Văn bản chung",
  "source": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
  "count": 12,
  "items": [
+  {
+   "code": "03/VBHN-NĐ-TTCP",
+   "title": "Quy định chi tiết một số điều và biện pháp thi hành Luật Khiếu nại.",
+   "date": "2026-09-30T00:00:00+07:00",
+   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=cfa6b349-1df4-4afd-9e94-148c3b36f751&file_name=N%C4%9003.pdf",
+   "file": "NĐ03.pdf"
+  },
+  {
+   "code": "372/2026/NĐ-CP",
+   "title": "Quy định về hoạt động định danh, xác thực, truy xuất nguồn gốc sản phẩm, hàng hoá.",
+   "date": "2026-09-29T00:00:00+07:00",
+   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=03889547-13aa-47f4-ab45-15ddbb767fa2&file_name=N%C4%90372.pdf",
+   "file": "NĐ372.pdf"
+  },
   {
    "code": "38/2026/VBHN-NĐ-BTC",
    "title": "Bảo hiểm nông nghiệp.",
@@ -21,20 +37,20 @@
    "file": "138-vbhn-vpqh.signed.pdf"
   },
   {
-   "code": "89/2026/VBHN-TT-BNNMT",
-   "title": "Quy định về phân cấp quản lý nhà nước trong lĩnh vực quản lý chất lượng nông lâm sản và thủy sản.",
-   "date": "2026-09-21T00:00:00+07:00",
-   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=7a43f547-e941-4d3c-9c78-f0a6646aa7c2&file_name=89-vbhn-bnnmt.signed.pdf",
-   "file": "89-vbhn-bnnmt.signed.pdf"
-  },
-  {
    "code": "88/2026/VBHN-TT-BNNMT",
    "title": "Hướng dẫn việc chứng nhận cơ sở đủ điều kiện an toàn thực phẩm trong sản xuất, kinh doanh thực phẩm thuộc phạm vi quản lý của Bộ NN&PTNT.",
    "date": "2026-09-21T00:00:00+07:00",
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
    "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=b6bcc6eb-13f4-4a2d-86fd-35de7f77e321&file_name=88-vbhn-bnnmt.signed.pdf",
    "file": "88-vbhn-bnnmt.signed.pdf"
+  },
+  {
+   "code": "89/2026/VBHN-TT-BNNMT",
+   "title": "Quy định về phân cấp quản lý nhà nước trong lĩnh vực quản lý chất lượng nông lâm sản và thủy sản.",
+   "date": "2026-09-21T00:00:00+07:00",
+   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=7a43f547-e941-4d3c-9c78-f0a6646aa7c2&file_name=89-vbhn-bnnmt.signed.pdf",
+   "file": "89-vbhn-bnnmt.signed.pdf"
   },
   {
    "code": "3582/CNTY-TACN&TTY",
@@ -83,22 +99,6 @@
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
    "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=4c0bea12-c0f0-4b6f-9433-70892f74c4af&file_name=Quye%CC%82%CC%81t%20%C4%91i%CC%A3nh%204346-Q%C4%90-BNNMT.pdf",
    "file": "Quyết định 4346-QĐ-BNNMT.pdf"
-  },
-  {
-   "code": "02/2026/VBHN-NĐ-BTP",
-   "title": "Quy định chi tiết Luật Xử lý vi phạm hành chính về thẩm quyền xử phạt vi phạm hành chính.",
-   "date": "2026-08-21T00:00:00+07:00",
-   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=d0d9d262-cd4f-4179-8e88-ad3ad375a1a2&file_name=N%C4%9002.pdf",
-   "file": "NĐ02.pdf"
-  },
-  {
-   "code": "2833/CNTY-KD&TYCĐ",
-   "title": "Tăng cường kiểm tra, giám sát dịch bệnh động vật, vệ sinh thú y, an toàn thực phẩm và chất cấm trong chăn nuôi.",
-   "date": "2026-07-31T00:00:00+07:00",
-   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=8ac8473c-3a3e-498b-92ab-197b75554f25&file_name=VB2833.pdf",
-   "file": "VB2833.pdf"
   }
  ]
 }
