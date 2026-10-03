@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-03T07:11:28.845Z",
- "count": 42,
+ "updated": "2026-10-03T12:38:32.432Z",
+ "count": 36,
  "items": [
+  {
+   "title": "Hơn 1 tỷ đồng 'bốc hơi' sau sự cố chập điện tại trang trại gà",
+   "link": "https://tienphong.vn/hon-1-ty-dong-boc-hoi-sau-su-co-chap-dien-tai-trang-trai-ga-post1881940.tpo",
+   "date": "Sat, 03 Oct 2026 18:38:36 +07:00",
+   "image": "https://cdn.tienphong.vn/images/vASDcJhdrAnvZ2jeneTj6VnvXFRFj1O6C7-XOo_NIusEwa_xsqCpVZmdS2ldvMMnv59OqNggtLPdFExRuQ-yafugebwQGtEmdCpiuFl0NGA/2aobor2unhyr6ebmz64bkeg2bphu1zqpdc0xg31c.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
   {
    "title": "Ăn thực phẩm chứa đường thế nào không hại sức khỏe?",
    "link": "https://vnexpress.net/an-thuc-pham-chua-duong-the-nao-khong-hai-suc-khoe-5127882.html",
@@ -54,15 +63,6 @@
    "image": "https://icdn.dantri.com.vn/2026/10/02/hang-loat-doanh-nghiep-san-xuat-trung-ga-sach-bi-ngan-hang-siet-no-edited-1790936299856.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Kiến tạo tương lai số: Phát triển nền dữ liệu nông nghiệp-nông dân-nông thôn",
-   "link": "https://www.vietnamplus.vn/kien-tao-tuong-lai-so-phat-trien-nen-du-lieu-nong-nghiep-nong-dan-nong-thon-post1139658.vnp",
-   "date": "Fri, 02 Oct 2026 16:05:59 +07:00",
-   "image": "https://media.vietnamplus.vn/images/S8r8Jbue1_TUNNSKJpF3LdWBeYQYmMNfmOy0e1c4u_KlOcmMt2TlZO43zqjA5F2LU2OH23ICesRfd4MfGcddwu8UBM8smoCCFXdaEn-XorA/z4437802719200-c3dfe926c6136b11131d53fac2cc6fea.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
    "icon": "📰"
   },
   {
@@ -126,24 +126,6 @@
    "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/30/qua-kiwi-1790757614.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5kl_L_zApP0nShYsGHAyCg",
    "source": "vnexpress",
    "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Một loại thực phẩm giúp nhanh no, hạn chế nạp quá nhiều calo",
-   "link": "https://znews.vn/mot-loai-thuc-pham-giup-nhanh-no-han-che-nap-qua-nhieu-calo-post1686862.html",
-   "date": "Thu, 01 Oct 2026 19:00:53 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_10_01/Dau_dua_1.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
-   "title": "Ng&acirc;n h&agrave;ng rao b&aacute;n bất động sản, m&aacute;y m&oacute;c của trứng g&agrave; Ba Hu&acirc;n",
-   "link": "https://thanhnien.vn/ngan-hang-rao-ban-bat-dong-san-may-moc-cua-trung-ga-ba-huan-18526100116302304.htm",
-   "date": "Thu, 01 Oct 26 17:26:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/1/day-chuyen-trung-sach-ba-huan-9458-17908468022041568588871-243-0-1843-2560-crop-1790846823074978809479.jpeg",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
    "icon": "📰"
   },
   {
@@ -237,46 +219,10 @@
    "icon": "📰"
   },
   {
-   "title": "Chợ Bến Thành siết an toàn thực phẩm sau sự cố gián bò vào thức ăn",
-   "link": "https://dantri.com.vn/kinh-doanh/cho-ben-thanh-siet-an-toan-thuc-pham-sau-su-co-gian-bo-vao-thuc-an-20260930104652981.htm",
-   "date": "Wed, 30 Sep 2026 11:07:57 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/09/30/anh-man-hinh-2026-09-30-luc-10-cropped-1790739796780.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Cao tốc nhanh hơn, vì sao nhiều tài xế lại chọn \"rùa bò\" trên quốc lộ?",
-   "link": "https://dantri.com.vn/kinh-doanh/cao-toc-nhanh-hon-vi-sao-nhieu-tai-xe-lai-chon-rua-bo-tren-quoc-lo-20260930084151770.htm",
-   "date": "Wed, 30 Sep 2026 10:34:15 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/08/25/1-edited-1693467923085-1787674696465.png",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
    "title": "Nguy&ecirc;n nh&acirc;n dễ nổi mụn khi ăn, uống thực phẩm nhiều đường, ngọt",
    "link": "https://thanhnien.vn/nguyen-nhan-de-noi-mun-khi-an-uong-thuc-pham-nhieu-duong-ngot-185260930071959221.htm",
    "date": "Wed, 30 Sep 26 07:34:00 +0700",
    "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/9/30/edit-mun-duong-ngot-1790726994132845309921-49-0-1299-2000-crop-17907270214191880626131.jpeg",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "Mỡ heo c&oacute; thực sự l&agrave;m tăng cholesterol xấu?",
-   "link": "https://thanhnien.vn/mo-heo-co-thuc-su-lam-tang-cholesterol-xau-185260929173931997.htm",
-   "date": "Wed, 30 Sep 26 00:14:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/9/29/1-thit-heo-17906782561591912685716-125-0-765-1024-crop-17906783080591901889559.png",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "Người bệnh thận c&oacute; n&ecirc;n ăn trứng luộc?",
-   "link": "https://thanhnien.vn/nguoi-benh-than-co-nen-an-trung-luoc-18526092922454203.htm",
-   "date": "Tue, 29 Sep 26 22:40:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/9/29/trung-than-17906961032142032777379-35-0-995-1536-crop-1790696392378563093190.png",
    "source": "thanhnien",
    "label": "Báo Thanh Niên",
    "icon": "📰"
