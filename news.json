@@ -1,7 +1,43 @@
 {
- "updated": "2026-10-03T01:30:30.581Z",
- "count": 41,
+ "updated": "2026-10-03T07:11:28.845Z",
+ "count": 42,
  "items": [
+  {
+   "title": "Ăn thực phẩm chứa đường thế nào không hại sức khỏe?",
+   "link": "https://vnexpress.net/an-thuc-pham-chua-duong-the-nao-khong-hai-suc-khoe-5127882.html",
+   "date": "Sat, 03 Oct 2026 12:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/03/tra-i-ca-y-1790990861-3984-1790990999.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=PXpNiRZU3whVx3qjn6YPPA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Ăn trứng k&egrave;m 5 thực phẩm n&agrave;y, tốt cho huyết &aacute;p v&agrave; cholesterol",
+   "link": "https://thanhnien.vn/an-trung-kem-5-thuc-pham-nay-tot-cho-huyet-ap-va-cholesterol-185261003115928892.htm",
+   "date": "Sat, 03 Oct 26 11:59:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/3/trung-thucpham-17910032130141395989184-0-136-941-1642-crop-17910034974031608768976.jpg",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "“Sản xuất nông nghiệp bảo đảm nguồn cung và an ninh lương thực quốc gia”",
+   "link": "https://www.vietnamplus.vn/san-xuat-nong-nghiep-bao-dam-nguon-cung-va-an-ninh-luong-thuc-quoc-gia-post1139791.vnp",
+   "date": "Sat, 03 Oct 2026 11:54:21 +07:00",
+   "image": "https://media.vietnamplus.vn/images/1KaLW9rkiYGdYmyjSsWzWytoabDYuNren8xXmMvUfABGohieSQadx84YT3C1k6QyykaOySulg_31USSwty6NT821f-uQGuqGjlbopAI1anM/557a2f0d-cc95-416e-ad59-c73a613bcb91.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Bác sĩ chỉ ra sai lầm khi chăm sóc trẻ mắc cúm",
+   "link": "https://vnexpress.net/bac-si-chi-ra-sai-lam-khi-cham-soc-tre-mac-cum-5127854.html",
+   "date": "Sat, 03 Oct 2026 10:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/03/image001-1790991266-5344-1790991433.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pItt3MPD65BZmBb5X7626A",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Cạnh tranh khốc liệt tr&ecirc;n thị trường trứng gia cầm",
    "link": "https://thanhnien.vn/canh-tranh-khoc-liet-tren-thi-truong-trung-gia-cam-185261002193937351.htm",
@@ -120,24 +156,6 @@
    "icon": "📰"
   },
   {
-   "title": "10.000 liều vaccine cúm miễn phí cho người cao tuổi toàn quốc",
-   "link": "https://vnexpress.net/10-000-lieu-vaccine-cum-mien-phi-cho-nguoi-cao-tuoi-toan-quoc-5127139.html",
-   "date": "Thu, 01 Oct 2026 15:00:00 +0700",
-   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/vnvckykethoptacchamsocnguoicao-5873-4395-1790843162.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=z_fC9o35QWmsdwIOPnDviQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "4 thực phẩm giúp người già ngủ ngon, sâu giấc",
-   "link": "https://vnexpress.net/4-thuc-pham-giup-nguoi-gia-ngu-ngon-sau-giac-5127003.html",
-   "date": "Thu, 01 Oct 2026 13:55:39 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/01/screenshot-at-1790828608-6636-1790828687.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_G0dq_BpXnQWTpxe5cHGaQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Vaccine tay chân miệng EV71: Những lưu ý phụ huynh không nên bỏ qua",
    "link": "https://dantri.com.vn/suc-khoe/vaccine-tay-chan-mieng-ev71-nhung-luu-y-phu-huynh-khong-nen-bo-qua-20260930172304341.htm",
    "date": "Thu, 01 Oct 2026 13:40:00 +0700",
@@ -153,15 +171,6 @@
    "image": "https://icdn.dantri.com.vn/2026/10/01/222-cropped-1790830517475.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Ngân hàng rao bán trứng gà",
-   "link": "https://tienphong.vn/ngan-hang-rao-ban-trung-ga-post1881132.tpo",
-   "date": "Thu, 01 Oct 2026 10:40:23 +07:00",
-   "image": "https://cdn.tienphong.vn/images/XepSKXLNFWTd6KW33QuMoiDZJ2hn7ONq_g4JVe3Jdjnh6kvTnGlXM7UTo5hd_rY_/2.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
    "icon": "📰"
   },
   {
@@ -336,15 +345,6 @@
    "icon": "🏥"
   },
   {
-   "title": "5 cách dùng thực phẩm bổ sung “lợi bất cập hại”",
-   "link": "https://dantri.com.vn/suc-khoe/5-cach-dung-thuc-pham-bo-sung-loi-bat-cap-hai-20260921174252560.htm",
-   "date": "Fri, 25 Sep 2026 08:31:57 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/09/21/chatgpt-image-161805-21-thg-9-2026-1789986685284.png",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
    "title": "Về phối hợp liên ngành kiểm tra việc vận chuyển động vật, sản phẩm động vật trên tuyến Quốc lộ 1A, phường Linh Xuân, Thành phố Hồ Chí Minh",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/09/21/ve-phoi-hop-lien-nganh-kiem-tra-viec-van-chuyen-dong-vat-san-pham-dong-vat-tren-tuyen-quoc-lo-1a-phuong-linh-xuan-thanh-pho-ho-chi-minh.aspx",
    "date": "Mon, 21 Sep 2026 09:18:00 +0700",
@@ -361,6 +361,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Thông báo quy định về biện pháp SPS của Thành viên Tổ chức Thương mại Thế giới (WTO) (từ ngày 01/9/2026 - ngày 15/9/2026)",
