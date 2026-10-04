@@ -1,7 +1,43 @@
 {
- "updated": "2026-10-04T01:49:40.429Z",
- "count": 36,
+ "updated": "2026-10-04T07:31:00.478Z",
+ "count": 34,
  "items": [
+  {
+   "title": "Gia Lai phát triển công nghệ sinh học, hướng tới hình thành nông nghiệp xanh",
+   "link": "https://www.vietnamplus.vn/gia-lai-phat-trien-cong-nghe-sinh-hoc-huong-toi-hinh-thanh-nong-nghiep-xanh-post1139955.vnp",
+   "date": "Sun, 04 Oct 2026 13:08:34 +07:00",
+   "image": "https://media.vietnamplus.vn/images/1NRlHlv2ikBbd9jRTdcj2Gg9jbKjZTfwViXYLfIfxqMOkhXwJA9heIBH0dep_Eyo3JcBKUCUCMhUXCAOqNPOng/ttxvn-0312-rom-phan-huu-co-3.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Mỡ heo hay dầu ăn tốt hơn? Bác sĩ chỉ ra cách lựa chọn",
+   "link": "https://lifestyle.zingnews.vn/mo-heo-hay-dau-an-tot-hon-bac-si-chi-ra-cach-lua-chon-post1672007.html",
+   "date": "Sun, 04 Oct 2026 10:44:44 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_07_24/MO_LON.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Hầm chui nút giao An Phú nhiều ổ gà",
+   "link": "https://vnexpress.net/ham-chui-nut-giao-an-phu-nhieu-o-ga-5128154.html",
+   "date": "Sun, 04 Oct 2026 10:30:00 +0700",
+   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/04/179066436501377700476233407389-5414-3641-1791079341.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DlGKOfTXqJfR1J-tKglSGQ",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Biến chứng não hoại tử khi trẻ mắc cúm A",
+   "link": "https://vnexpress.net/bien-chung-nao-hoai-tu-khi-tre-mac-cum-a-5128030.html",
+   "date": "Sun, 04 Oct 2026 09:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/03/anh-benh-nhi-nguy-kich-do-cum-8831-4750-1791021674.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=WdPAGzqnftCgd8kaYd0upg",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "6 thực phẩm bổ sung đạm cho người ăn chay",
    "link": "https://vnexpress.net/6-thuc-pham-bo-sung-dam-cho-nguoi-an-chay-5128039.html",
@@ -12,8 +48,8 @@
    "icon": "📰"
   },
   {
-   "title": "Thịt trâu, thịt heo đông lạnh ồ ạt về Việt Nam",
-   "link": "https://znews.vn/thit-trau-thit-heo-dong-lanh-o-at-ve-viet-nam-post1687325.html",
+   "title": "Thịt đông lạnh ồ ạt về Việt Nam",
+   "link": "https://znews.vn/thit-dong-lanh-o-at-ve-viet-nam-post1687325.html",
    "date": "Sun, 04 Oct 2026 06:47:08 +0700",
    "image": "https://photo.znews.vn/w660/Uploaded/yzfsm/2026_08_26/Thit_trau_thit_heo_dong_lanh_o_at_ve_Viet_Nam_znews_1.jpg",
    "source": "znews",
@@ -102,48 +138,12 @@
    "icon": "📰"
   },
   {
-   "title": "Tại sao người Nhật thích ăn trứng sống?",
-   "link": "https://lifestyle.zingnews.vn/tai-sao-nguoi-nhat-thich-an-trung-song-post1687043.html",
-   "date": "Fri, 02 Oct 2026 11:58:43 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_10_02/Trung_song_1.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
    "title": "Đề xuất dán nhãn cảnh báo thực phẩm chứa nhiều muối, đường, chất béo",
    "link": "https://dantri.com.vn/suc-khoe/de-xuat-dan-nhan-canh-bao-thuc-pham-chua-nhieu-muoi-duong-chat-beo-20261001230817654.htm",
    "date": "Fri, 02 Oct 2026 11:18:00 +0700",
    "image": "https://icdn.dantri.com.vn/2026/10/01/nhandinhduong-cropped-1790870764606.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Cậu bé 13 tuổi cao hơn 2 mét, ăn 7 lạng thịt bò một bữa",
-   "link": "https://vnexpress.net/cau-be-13-tuoi-cao-hon-2-met-an-7-lang-thit-bo-mot-bua-5127430.html",
-   "date": "Fri, 02 Oct 2026 09:47:50 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/02/chieu-cao-1790904959-8478-1790905645.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8PxAjcez0NqeREOe3WYqeg",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Nhiều đề xuất tháo gỡ điểm nghẽn khuyến công nông nghiệp",
-   "link": "https://tienphong.vn/nhieu-de-xuat-thao-go-diem-nghen-khuyen-cong-nong-nghiep-post1881345.tpo",
-   "date": "Fri, 02 Oct 2026 08:07:49 +07:00",
-   "image": "https://cdn.tienphong.vn/images/pAWKGOzT8BIc-M3GdeLjyQIShb1RGwkHDWaYQP4bNP1TryUt4F7H_ELWq-OVIbyh/dsc01815.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
-   "title": "4 thực phẩm giúp bạn ngủ ngon",
-   "link": "https://vnexpress.net/4-thuc-pham-giup-ban-ngu-ngon-5126730.html",
-   "date": "Fri, 02 Oct 2026 00:02:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/09/30/qua-kiwi-1790757614.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5kl_L_zApP0nShYsGHAyCg",
-   "source": "vnexpress",
-   "label": "VnExpress",
    "icon": "📰"
   },
   {
@@ -192,15 +192,6 @@
    "icon": "📰"
   },
   {
-   "title": "Ngân hàng rao bán khoản nợ hơn 620 tỷ đồng của Công ty trứng gà Ba Huân",
-   "link": "https://dantri.com.vn/kinh-doanh/ngan-hang-rao-ban-khoan-no-hon-620-ty-dong-cua-cong-ty-trung-ga-ba-huan-20260930192604482.htm",
-   "date": "Wed, 30 Sep 2026 19:41:40 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/09/30/trung-ga-ba-huan-cropped-1790770988829.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
    "title": "Chăn nuôi tuần hoàn tại TP.HCM: Giải pháp giảm ô nhiễm",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/09/30/Chan-nuoi-tuan-hoan-tai-TPHCM-Giai-phap-giam-o-nhiem.aspx",
    "date": "Wed, 30 Sep 2026 17:45:00 +0700",
@@ -225,15 +216,6 @@
    "image": "https://icdn.dantri.com.vn/2026/09/30/vaccinecum-cropped-1790757037882.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Nguy&ecirc;n nh&acirc;n dễ nổi mụn khi ăn, uống thực phẩm nhiều đường, ngọt",
-   "link": "https://thanhnien.vn/nguyen-nhan-de-noi-mun-khi-an-uong-thuc-pham-nhieu-duong-ngot-185260930071959221.htm",
-   "date": "Wed, 30 Sep 26 07:34:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/9/30/edit-mun-duong-ngot-1790726994132845309921-49-0-1299-2000-crop-17907270214191880626131.jpeg",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
    "icon": "📰"
   },
   {
@@ -282,15 +264,6 @@
    "icon": "📰"
   },
   {
-   "title": "Vaccine cứu sống khoảng 154 triệu người trong 50 năm",
-   "link": "https://dantri.com.vn/suc-khoe/vaccine-cuu-song-khoang-154-trieu-nguoi-trong-50-nam-20260925234008455.htm",
-   "date": "Sat, 26 Sep 2026 07:01:24 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/09/25/vaccine-covid-1-crop-cropped-1790353721527.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
    "title": "Phát hiện xử lý cơ sở giết mổ heo trái phép",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/09/25/phat-hien-xu-ly-co-so-giet-mo-heo-trai-phep.aspx",
    "date": "Fri, 25 Sep 2026 15:32:00 +0700",
@@ -316,6 +289,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Thông báo quy định về biện pháp SPS của Thành viên Tổ chức Thương mại Thế giới (WTO) (từ ngày 01/9/2026 - ngày 15/9/2026)",
