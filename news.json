@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-04T07:31:00.478Z",
+ "updated": "2026-10-04T13:31:29.488Z",
  "count": 34,
  "items": [
+  {
+   "title": "Hơn 124.000 tấn thịt lợn ngoại ồ ạt về Việt Nam, giá chỉ 45.000 đồng/kg",
+   "link": "https://dantri.com.vn/kinh-doanh/hon-124000-tan-thit-lon-ngoai-o-at-ve-viet-nam-gia-chi-45000-dongkg-20261004150918093.htm",
+   "date": "Sun, 04 Oct 2026 15:27:04 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/04/thit-1722832624217-1791101265243.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Trung Quốc chiếm hơn một nửa đà tăng xuất khẩu thủy sản",
+   "link": "https://vnexpress.net/trung-quoc-chiem-hon-mot-nua-da-tang-xuat-khau-thuy-san-5128136.html",
+   "date": "Sun, 04 Oct 2026 14:00:00 +0700",
+   "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/04/cua-1791074039-7253-1791074573.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=q4eAj4lBmZX9JTqs7RGyWQ",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Gia Lai phát triển công nghệ sinh học, hướng tới hình thành nông nghiệp xanh",
    "link": "https://www.vietnamplus.vn/gia-lai-phat-trien-cong-nghe-sinh-hoc-huong-toi-hinh-thanh-nong-nghiep-xanh-post1139955.vnp",
@@ -90,15 +108,6 @@
    "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/3/trung-thucpham-17910032130141395989184-0-136-941-1642-crop-17910034974031608768976.jpg",
    "source": "thanhnien",
    "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "“Sản xuất nông nghiệp bảo đảm nguồn cung và an ninh lương thực quốc gia”",
-   "link": "https://www.vietnamplus.vn/san-xuat-nong-nghiep-bao-dam-nguon-cung-va-an-ninh-luong-thuc-quoc-gia-post1139791.vnp",
-   "date": "Sat, 03 Oct 2026 11:54:21 +07:00",
-   "image": "https://media.vietnamplus.vn/images/1KaLW9rkiYGdYmyjSsWzWytoabDYuNren8xXmMvUfABGohieSQadx84YT3C1k6QyykaOySulg_31USSwty6NT821f-uQGuqGjlbopAI1anM/557a2f0d-cc95-416e-ad59-c73a613bcb91.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
    "icon": "📰"
   },
   {
@@ -289,15 +298,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
-   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
-   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
   },
   {
    "title": "Thông báo quy định về biện pháp SPS của Thành viên Tổ chức Thương mại Thế giới (WTO) (từ ngày 01/9/2026 - ngày 15/9/2026)",
