@@ -1,7 +1,52 @@
 {
- "updated": "2026-10-05T02:41:19.267Z",
- "count": 35,
+ "updated": "2026-10-05T09:43:08.034Z",
+ "count": 34,
  "items": [
+  {
+   "title": "Quảng Ninh xử lý triệt để vi phạm nuôi trồng thủy sản trên biển",
+   "link": "https://www.vietnamplus.vn/quang-ninh-xu-ly-triet-de-vi-pham-nuoi-trong-thuy-san-tren-bien-post1140123.vnp",
+   "date": "Mon, 05 Oct 2026 15:22:23 +07:00",
+   "image": "https://media.vietnamplus.vn/images/QcJaCVoYMCKXsPQ_Rprjc0pGRmjOp_GW1Yl-MCtSu76bRvCa1UQmoInxFyUSNk9T7g7sAD_VWcv2tszagXSPAA6ragNgA-vtmc2ojA8qrB9hvF5a9ADODzpDxOmDCTCGbpR2ERzoUpwhwacVC0nOSD1OfQmQTXVY-u8qs5xVR-w/ttxvn_quang-ninh-phuong-mong-cai-3-quyet-liet-xu-ly-vi-pham-nuoi-trong-thuy-san-tren-bien-0510.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Đàn lợn 50 con chuẩn bị xuất chuồng bị sét đánh, thiệt hại gần 300 triệu đồng",
+   "link": "https://tienphong.vn/dan-lon-50-con-chuan-bi-xuat-chuong-bi-set-danh-thiet-hai-gan-300-trieu-dong-post1882221.tpo",
+   "date": "Mon, 05 Oct 2026 12:58:50 +07:00",
+   "image": "https://cdn.tienphong.vn/images/vASDcJhdrAnvZ2jeneTj6VDPaGa3ZoEft_Q0pPQFcioBKA231gnPq3OgYKQ6ZZHXLuLUnMwadVT7JfaEEXLNkla56zs6kXdEEyhpeoGAJ_0/2aobor3dibo1ru4unpy5znwizharwnqrdeq410bu.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Thịt nhập siêu rẻ đổ bộ, chợ truyền thống bán giá bao nhiêu?",
+   "link": "https://dantri.com.vn/kinh-doanh/thit-nhap-sieu-re-do-bo-cho-truyen-thong-ban-gia-bao-nhieu-20261005122327502.htm",
+   "date": "Mon, 05 Oct 2026 12:47:44 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/05/thit-kho-hc-2-cropped-1791177697658.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Tăng 18 kg do buồng trứng đa nang",
+   "link": "https://vnexpress.net/tang-18-kg-do-buong-trung-da-nang-5128326.html",
+   "date": "Mon, 05 Oct 2026 12:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/05/vne-1791166239-1816-1791166443.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vkUAMBqR0ho5MF4wH6V-PQ",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Tôm, cá mang về hàng tỷ USD cho Việt Nam",
+   "link": "https://znews.vn/tom-ca-mang-ve-hang-ty-usd-cho-viet-nam-post1687458.html",
+   "date": "Mon, 05 Oct 2026 11:14:40 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/yzfsm/2025_04_28/z6550800207330_326350b47cc77a008b5193caa7c2a1f9.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
   {
    "title": "Sét đánh chết đàn lợn sắp xuất chuồng",
    "link": "https://vnexpress.net/set-danh-chet-dan-lon-sap-xuat-chuong-5128356.html",
@@ -84,15 +129,6 @@
    "icon": "📰"
   },
   {
-   "title": "6 thực phẩm bổ sung đạm cho người ăn chay",
-   "link": "https://vnexpress.net/6-thuc-pham-bo-sung-dam-cho-nguoi-an-chay-5128039.html",
-   "date": "Sun, 04 Oct 2026 08:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/03/ha-t-chia-jpeg-1791021009-7246-1791021146.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=E-HD505FqxbbaJhXAVOm-Q",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Thịt đông lạnh ồ ạt về Việt Nam",
    "link": "https://znews.vn/thit-dong-lanh-o-at-ve-viet-nam-post1687325.html",
    "date": "Sun, 04 Oct 2026 06:47:08 +0700",
@@ -115,15 +151,6 @@
    "link": "https://thanhnien.vn/an-trung-kem-5-thuc-pham-nay-tot-cho-huyet-ap-va-cholesterol-185261003115928892.htm",
    "date": "Sat, 03 Oct 26 11:59:00 +0700",
    "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/3/trung-thucpham-17910032130141395989184-0-136-941-1642-crop-17910034974031608768976.jpg",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "Cạnh tranh khốc liệt tr&ecirc;n thị trường trứng gia cầm",
-   "link": "https://thanhnien.vn/canh-tranh-khoc-liet-tren-thi-truong-trung-gia-cam-185261002193937351.htm",
-   "date": "Sat, 03 Oct 26 06:00:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/2/anh-1-17909448784512062555532-0-0-800-1280-crop-1790944897592558157359.png",
    "source": "thanhnien",
    "label": "Báo Thanh Niên",
    "icon": "📰"
@@ -156,28 +183,10 @@
    "icon": "📰"
   },
   {
-   "title": "Hé lộ điều bất thường về công ty cung cấp thực phẩm giảm cân cho Ngân 98",
-   "link": "https://dantri.com.vn/kinh-doanh/he-lo-dieu-bat-thuong-ve-cong-ty-cung-cap-thuc-pham-giam-can-cho-ngan-98-20261001152207168.htm",
-   "date": "Thu, 01 Oct 2026 16:33:30 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/01/he-lo-ve-cong-ty-cung-cap-thuc-pham-giam-can-chua-chat-cam-cho-ngan-98-edited-1790842816812.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
    "title": "Vaccine tay chân miệng EV71: Những lưu ý phụ huynh không nên bỏ qua",
    "link": "https://dantri.com.vn/suc-khoe/vaccine-tay-chan-mieng-ev71-nhung-luu-y-phu-huynh-khong-nen-bo-qua-20260930172304341.htm",
    "date": "Thu, 01 Oct 2026 13:40:00 +0700",
    "image": "https://icdn.dantri.com.vn/2026/09/30/vaccine-tcm-ev71-1790763407018.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "\"Hai mặt\" chợ truyền thống: Sạp quần áo vắng hoe, quầy thịt cá tấp nập",
-   "link": "https://dantri.com.vn/kinh-doanh/hai-mat-cho-truyen-thong-sap-quan-ao-vang-hoe-quay-thit-ca-tap-nap-20261001115756588.htm",
-   "date": "Thu, 01 Oct 2026 12:45:19 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/01/222-cropped-1790830517475.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
    "icon": "📰"
@@ -189,15 +198,6 @@
    "image": "https://icdn.dantri.com.vn/2023/12/30/cumajpeg-crop-1703900404709.jpeg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Ngân hàng muốn bán khoản nợ hơn 600 tỷ đồng của trứng gà Ba Huân",
-   "link": "https://vnexpress.net/ngan-hang-muon-ban-khoan-no-hon-600-ty-dong-cua-trung-ga-ba-huan-5126732.html",
-   "date": "Wed, 30 Sep 2026 22:10:00 +0700",
-   "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/30/506476492-n-1790776322-3883-1790778870.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kMfn-VvTLkpVMMOd6W1qlQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
    "icon": "📰"
   },
   {
@@ -262,15 +262,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Cảnh báo nguy cơ bệnh dại từ chó, mèo thả rông",
-   "link": "https://dantri.com.vn/suc-khoe/canh-bao-nguy-co-benh-dai-tu-cho-meo-tha-rong-20260926100246505.htm",
-   "date": "Sat, 26 Sep 2026 11:02:20 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/09/26/benh-dai-cropped-1790411173061.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
   },
   {
    "title": "Phát hiện xử lý cơ sở giết mổ heo trái phép",
