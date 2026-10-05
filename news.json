@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-05T09:43:08.034Z",
- "count": 34,
+ "updated": "2026-10-05T18:54:40.083Z",
+ "count": 35,
  "items": [
+  {
+   "title": "Hưng Yên: Hàng chục ha đất nông nghiệp bị bỏ hoang, khó đưa vào sản xuất",
+   "link": "https://www.vietnamplus.vn/hung-yen-hang-chuc-ha-dat-nong-nghiep-bi-bo-hoang-kho-dua-vao-san-xuat-post1140171.vnp",
+   "date": "Mon, 05 Oct 2026 18:44:32 +07:00",
+   "image": "https://media.vietnamplus.vn/images/b95yHB_NxrPTOEbQKu5OFRGvAeKlxsyKXljUmDleCnHgZWaaxuP7isIaxpZ-16GmdsGHMfmEsxDGPtekIRNP0GJHYpoTg8IJFoDUjxE4fcdK1rVh8X5K_IZnOVLu8tHJ/ttxvn_hung-yen-hang-vai-chuc-ha-dat-nong-nghiep-dang-bi-bo-hoang-1.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "C&aacute; hồi v&agrave; thịt b&ograve;: M&oacute;n n&agrave;o lợi hơn cho sắt, đường huyết?",
+   "link": "https://thanhnien.vn/ca-hoi-va-thit-bo-mon-nao-loi-hon-cho-sat-duong-huyet-185261005184436864.htm",
+   "date": "Mon, 05 Oct 26 18:44:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/5/thit-bo-ca-hoi-17912004979801485993557-0-116-941-1622-crop-17912005290631679275443.jpg",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
   {
    "title": "Quảng Ninh xử lý triệt để vi phạm nuôi trồng thủy sản trên biển",
    "link": "https://www.vietnamplus.vn/quang-ninh-xu-ly-triet-de-vi-pham-nuoi-trong-thuy-san-tren-bien-post1140123.vnp",
@@ -115,15 +133,6 @@
    "link": "https://vnexpress.net/ham-chui-nut-giao-an-phu-nhieu-o-ga-5128154.html",
    "date": "Sun, 04 Oct 2026 10:30:00 +0700",
    "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/04/179066436501377700476233407389-5414-3641-1791079341.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DlGKOfTXqJfR1J-tKglSGQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Biến chứng não hoại tử khi trẻ mắc cúm A",
-   "link": "https://vnexpress.net/bien-chung-nao-hoai-tu-khi-tre-mac-cum-a-5128030.html",
-   "date": "Sun, 04 Oct 2026 09:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/03/anh-benh-nhi-nguy-kich-do-cum-8831-4750-1791021674.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=WdPAGzqnftCgd8kaYd0upg",
    "source": "vnexpress",
    "label": "VnExpress",
    "icon": "📰"
