@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-04T23:39:58.384Z",
- "count": 32,
+ "updated": "2026-10-05T02:41:19.267Z",
+ "count": 35,
  "items": [
+  {
+   "title": "Sét đánh chết đàn lợn sắp xuất chuồng",
+   "link": "https://vnexpress.net/set-danh-chet-dan-lon-sap-xuat-chuong-5128356.html",
+   "date": "Mon, 05 Oct 2026 08:52:38 +0700",
+   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/dan-heo-bi-set-danh-chet-17911-3949-7150-1791164242.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fE_owa7jzK8Mw7ghHVYZaA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Người bị gout c&oacute; n&ecirc;n ăn ức g&agrave; thay thế ho&agrave;n to&agrave;n thịt lợn, b&ograve;?",
+   "link": "https://thanhnien.vn/nguoi-bi-gout-co-nen-an-uc-ga-thay-the-hoan-toan-thit-lon-bo-185261005062912485.htm",
+   "date": "Mon, 05 Oct 26 06:58:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/4/gout-a-xit-u-ric-179115498606538191425-0-0-1036-1657-crop-17911549917892106229179.jpg",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
   {
    "title": "Ăn nhiều thịt, x&ocirc;i dễ đầy bụng: Gừng, vỏ qu&yacute;t c&oacute; gi&uacute;p g&igrave;?",
    "link": "https://thanhnien.vn/an-nhieu-thit-xoi-de-day-bung-gung-vo-quyt-co-giup-gi-185261004145958264.htm",
@@ -280,6 +298,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Thông báo quy định về biện pháp SPS của Thành viên Tổ chức Thương mại Thế giới (WTO) (từ ngày 01/9/2026 - ngày 15/9/2026)",
