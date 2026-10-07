@@ -1,7 +1,43 @@
 {
- "updated": "2026-10-06T23:07:55.415Z",
- "count": 38,
+ "updated": "2026-10-07T02:30:38.072Z",
+ "count": 42,
  "items": [
+  {
+   "title": "Bé trai co giật, nói sảng do cúm A",
+   "link": "https://vnexpress.net/be-trai-co-giat-noi-sang-do-cum-a-5129287.html",
+   "date": "Wed, 07 Oct 2026 09:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/07/image001-1791334271-5161-1791334338.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=F1kgMSSdshqBNyr4KSoQnw",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Heo Đất MoMo: Tạo nguồn lực bền vững từ h&agrave;ng triệu khoản &lsquo;tiền lẻ&rsquo;",
+   "link": "https://thanhnien.vn/heo-dat-momo-tao-nguon-luc-ben-vung-tu-hang-trieu-khoan-tien-le-18526100708435457.htm",
+   "date": "Wed, 07 Oct 26 08:36:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/7/heo-dat-1-17913370062901965619141-0-0-1600-2560-crop-17913370141421189855658.jpg",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "Tăng tần suất kiểm tra với c&aacute;c cơ sở vi phạm an to&agrave;n thực phẩm",
+   "link": "https://thanhnien.vn/tang-tan-suat-kiem-tra-voi-cac-co-so-vi-pham-an-toan-thuc-pham-185261006192331352.htm",
+   "date": "Wed, 07 Oct 26 07:19:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/6/15b-1791289229342482582270-111-0-1711-2560-crop-17912892630681785482674.jpg",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "Vụ 10.000 tấn thịt heo nhiễm chất cấm: Nhiều hàng rào quản lý vẫn \"bó tay\"?",
+   "link": "https://dantri.com.vn/kinh-doanh/vu-10000-tan-thit-heo-nhiem-chat-cam-nhieu-hang-rao-quan-ly-van-bo-tay-20261006172949420.htm",
+   "date": "Wed, 07 Oct 2026 06:37:12 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/06/tu-vu-10-cropped-1791282368452.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
   {
    "title": "Bất an thịt heo chứa chất cấm",
    "link": "https://tienphong.vn/bat-an-thit-heo-chua-chat-cam-post1882816.tpo",
@@ -219,15 +255,6 @@
    "icon": "📰"
   },
   {
-   "title": "Người bệnh tim c&oacute; n&ecirc;n ki&ecirc;ng ho&agrave;n to&agrave;n mỡ heo?",
-   "link": "https://thanhnien.vn/nguoi-benh-tim-co-nen-kieng-hoan-toan-mo-heo-185261001193836242.htm",
-   "date": "Fri, 02 Oct 26 15:24:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/1/2-mo-heo-1790858019109881743622-65-0-705-1024-crop-17908582511081878331449.png",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
    "title": "Đề xuất dán nhãn cảnh báo thực phẩm chứa nhiều muối, đường, chất béo",
    "link": "https://dantri.com.vn/suc-khoe/de-xuat-dan-nhan-canh-bao-thuc-pham-chua-nhieu-muoi-duong-chat-beo-20261001230817654.htm",
    "date": "Fri, 02 Oct 2026 11:18:00 +0700",
@@ -334,6 +361,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Thông báo quy định về biện pháp SPS của Thành viên Tổ chức Thương mại Thế giới (WTO) (từ ngày 01/9/2026 - ngày 15/9/2026)",
