@@ -1,12 +1,39 @@
 {
- "updated": "2026-10-07T09:27:19.483Z",
- "count": 49,
+ "updated": "2026-10-07T16:44:17.560Z",
+ "count": 52,
  "items": [
+  {
+   "title": "Cá linh non, cá bống trứng bán chạy mùa nước nổi: Có lo tận diệt?",
+   "link": "https://dantri.com.vn/kinh-doanh/ca-linh-non-ca-bong-trung-ban-chay-mua-nuoc-noi-co-lo-tan-diet-20261007160337265.htm",
+   "date": "Wed, 07 Oct 2026 17:09:35 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/07/ca-bong-trung-4-cropped-1791363603679.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Thịt nhiễm chất cấm: Mối họa sức khỏe",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/10/07/Thit-nhiem-chat-cam-moi-hoa-suc-khoe.aspx",
+   "date": "Wed, 07 Oct 2026 16:44:00 +0700",
+   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f10%2fThitNhiemChatCam1.png",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
+  },
   {
    "title": "Robot 'chăn' heo, lưới nổi giúp tôm vượt lũ",
    "link": "https://vnexpress.net/robot-chan-heo-luoi-noi-giup-tom-vuot-lu-5128004.html",
    "date": "Wed, 07 Oct 2026 16:00:00 +0700",
    "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/03/dsc014972-1791015434-3804-1791015568.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CKbcWVKrVzHKkwYCRdtueg",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Nguy kịch sau bữa tối với tôm đồng",
+   "link": "https://vnexpress.net/nguy-kich-sau-bua-toi-voi-tom-dong-5129538.html",
+   "date": "Wed, 07 Oct 2026 15:58:06 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/07/buoc-1791360770-4131-1791360778.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cNzPHW4QEQG76S8d5cqTGw",
    "source": "vnexpress",
    "label": "VnExpress",
    "icon": "📰"
@@ -18,6 +45,15 @@
    "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/07/vu-ng-den-1791345432-3375-1791345498.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CdlWXXynD5aAlLreJX840w",
    "source": "vnexpress",
    "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "VNVC hỗ trợ gần 50 tỷ đồng, tiêm bổ sung vaccine cho hơn 25.000 học sinh",
+   "link": "https://dantri.com.vn/suc-khoe/vnvc-ho-tro-gan-50-ty-dong-tiem-bo-sung-vaccine-cho-hon-25000-hoc-sinh-20261007143421560.htm",
+   "date": "Wed, 07 Oct 2026 14:43:54 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/07/vnvc-ho-tro-ra-soat-tiem-chung-1-cropped-1791358377133.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
    "icon": "📰"
   },
   {
@@ -135,15 +171,6 @@
    "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/06/sua-chua1-1791273632.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5Aim0DNbXxc3DgPS3NP-dA",
    "source": "vnexpress",
    "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Dân thiệt hại vật nuôi chưa nhận hỗ trợ, 44 xã, phường xin hoàn trả 155 tỷ đồng",
-   "link": "https://tienphong.vn/dan-thiet-hai-vat-nuoi-chua-nhan-ho-tro-44-xa-phuong-xin-hoan-tra-155-ty-dong-post1882810.tpo",
-   "date": "Tue, 06 Oct 2026 21:31:17 +07:00",
-   "image": "https://cdn.tienphong.vn/images/nsgp9dvlAamgUjJTw8t8VZK14cF8k5tVLj3EttMi0ETxxbUEDaERrA-8kW-T3PXb/tienphong-5801.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
    "icon": "📰"
   },
   {
@@ -417,15 +444,6 @@
    "icon": "🏥"
   },
   {
-   "title": "Về phối hợp liên ngành kiểm tra việc vận chuyển động vật, sản phẩm động vật trên tuyến Quốc lộ 1A, phường Linh Xuân, Thành phố Hồ Chí Minh",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/09/21/ve-phoi-hop-lien-nganh-kiem-tra-viec-van-chuyen-dong-vat-san-pham-dong-vat-tren-tuyen-quoc-lo-1a-phuong-linh-xuan-thanh-pho-ho-chi-minh.aspx",
-   "date": "Mon, 21 Sep 2026 09:18:00 +0700",
-   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f9%2fKDTDPhoiHopLienNganh290926_1.jpg",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
    "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
    "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
    "date": "Sat, 06 Sep 2025 17:04:48 +0700",
@@ -435,9 +453,18 @@
    "icon": "📰"
   },
   {
-   "title": "Thông báo quy định về biện pháp SPS của Thành viên Tổ chức Thương mại Thế giới (WTO) (từ ngày 01/9/2026 - ngày 15/9/2026)",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/09/21/Thong-bao-quy-dinh-ve-bien-phap-SPS-cua-Thanh-vien-To-chuc-Thuong-mai-The-gioi-(WTO)-(tu-ngay-01-9-2026-ngay-15-9-2026).aspx",
-   "date": "Mon, 21 Sep 2026 08:31:00 +0700",
+   "title": "Đàn cá heo gần 1.000 con xuất hiện ngoài khơi Phú Quý",
+   "link": "https://tienphong.vn/dan-ca-heo-gan-1000-con-xuat-hien-ngoai-khoi-phu-quy-post1883176.tpo",
+   "date": "Wed, 07 Oct 2026 22:51:39 +07:00",
+   "image": "",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Nội quy Cơ quan của Chi cục Chăn nuôi và Thú y",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/10/07/Noi-quy-co-quan-cua-chi-cuc-chan-nuoi-thu-y.aspx",
+   "date": "Wed, 07 Oct 2026 11:10:00 +0700",
    "image": "",
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
