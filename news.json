@@ -1,7 +1,61 @@
 {
- "updated": "2026-10-08T07:36:39.888Z",
- "count": 54,
+ "updated": "2026-10-08T15:00:25.916Z",
+ "count": 49,
  "items": [
+  {
+   "title": "Bé 3 tuổi bị sùi mào gà trên mặt, gia đình bất ngờ khi BS nói lý do",
+   "link": "https://lifestyle.zingnews.vn/be-3-tuoi-bi-sui-mao-ga-tren-mat-gia-dinh-bat-ngo-khi-bs-noi-ly-do-post1688427.html",
+   "date": "Thu, 08 Oct 2026 20:31:17 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2023_05_21/tre_nhap_vien.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Sản phẩm OCOP tạo động lực mới cho kinh tế nông nghiệp Đồng Tháp",
+   "link": "https://www.vietnamplus.vn/san-pham-ocop-tao-dong-luc-moi-cho-kinh-te-nong-nghiep-dong-thap-post1140817.vnp",
+   "date": "Thu, 08 Oct 2026 17:48:53 +07:00",
+   "image": "https://media.vietnamplus.vn/images/lFuaSJ54A9Yx0v5wBTS36VkOyuvTKiAYeb7PMkMIfWD6RByP3_OQdOBgTW_VPHyXo_Kbud-Lq6hweGKaBSMTCdCugvsu8kXY-NwzI5cMkb9PxD0LODvghdxShY_22Ha3mf7BmxPCRn0p6iVKfaptKg/ttxvn_dong-thap-tao-dong-luc-moi-cho-kinh-te-nong-nghiep-tu-san-pham-ocop-9073625.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Hội thảo “nông nghiệp tuần hoàn - giải pháp công nghệ cho nông nghiệp bền vững”: kết nối công nghệ, nâng cao giá trị tài nguyên",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/10/08/hoi-thao-nong-nghiep-tuan-hoan-giai-phap-cong-nghe-cho-nong-nghiep-ben-vung-ket-noi-cong-nghe-nang-cao-gia-tri-tai-nguyen.aspx",
+   "date": "Thu, 08 Oct 2026 17:10:00 +0700",
+   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f10%2fHoiThaoNongNghiepTuanHoan.jpg",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
+  },
+  {
+   "title": "Hội thảo phát triển chăn nuôi tuần hoàn - kết nối giải pháp, thúc đẩy phát triển bền vững",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/10/08/hoi-thao-phat-trien-chan-nuoi-tuan-hoan-ket-noi-giai-phap-thuc-doi-phat-trien-ben-vung.aspx",
+   "date": "Thu, 08 Oct 2026 16:35:00 +0700",
+   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f10%2fHoiThaoPhatTrienCNTH1.png",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
+  },
+  {
+   "title": "Thông tin hướng dẫn kết nối, tích hợp, chia sẻ dữ liệu với Cổng thông tin truy xuất nguồn gốc sản phẩm, hàng hóa quốc gia",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/10/08/huong-dan-ket-noi-tich-hop-chia-se-du-lieu-voi-cong-thong-tin-truy-xuat-nguon-goc.aspx",
+   "date": "Thu, 08 Oct 2026 15:55:00 +0700",
+   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f10%2fHuognDanKetNoiTichHopTXNG.png",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
+  },
+  {
+   "title": "Xuất khẩu thanh long, chè, thủy sản trước loạt tiêu chuẩn mới",
+   "link": "https://tienphong.vn/xuat-khau-thanh-long-che-thuy-san-truoc-loat-tieu-chuan-moi-post1883388.tpo",
+   "date": "Thu, 08 Oct 2026 15:16:33 +07:00",
+   "image": "https://cdn.tienphong.vn/images/RNp65zNs098qZKWyBaZ90uIHg9ss2vnGpYhpAD89N7b1X01M8pHhDDgwPFyXO6Mr/thumb.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
   {
    "title": "5 nhóm thực phẩm phụ nữ trung niên nên hạn chế",
    "link": "https://vnexpress.net/5-nhom-thuc-pham-phu-nu-trung-nien-nen-han-che-5129852.html",
@@ -27,6 +81,15 @@
    "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/rua-de-1791431599-3743-1791432467.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eO92wiPKQQ3s3RyP_mWokA",
    "source": "vnexpress",
    "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Mưa lớn liên tục, nhiều loại rau xanh đắt ngang thịt heo",
+   "link": "https://dantri.com.vn/kinh-doanh/mua-lon-lien-tuc-nhieu-loai-rau-xanh-dat-ngang-thit-heo-20261008113055909.htm",
+   "date": "Thu, 08 Oct 2026 13:18:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/08/rau-cropped-1791433512768.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
    "icon": "📰"
   },
   {
@@ -192,24 +255,6 @@
    "icon": "📰"
   },
   {
-   "title": "Bất an thịt heo chứa chất cấm",
-   "link": "https://tienphong.vn/bat-an-thit-heo-chua-chat-cam-post1882816.tpo",
-   "date": "Wed, 07 Oct 2026 05:54:16 +07:00",
-   "image": "https://cdn.tienphong.vn/images/x-htLSVwMI_7d1M_8Q71GN9beQ_nGLXmEk_uYnBurM-HyJ2T0sozJGe9Vvw3t4JsWgZrzIhah7eh8A12n7l5VgTk6wuLo4XRb7S_0wx79-E/cach-lam-thit-ba-chi-rim-chua-ngot-cho-bua-com-toi.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
-   "title": "Tôm, cá mang về hàng tỷ USD cho Việt Nam",
-   "link": "https://tienphong.vn/tom-ca-mang-ve-hang-ty-usd-cho-viet-nam-post1882688.tpo",
-   "date": "Wed, 07 Oct 2026 05:30:12 +07:00",
-   "image": "https://cdn.tienphong.vn/images/57I2HW5rUHByU_MpSVgzh2xMwRqLH9ZHesWBd5UWvbfh8fi9GTPNic3j2s5SBTsl/tom-the.png.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
    "title": "5 thực phẩm người từ tuổi 40 nên dùng thường xuyên",
    "link": "https://vnexpress.net/5-thuc-pham-nguoi-tu-tuoi-40-nen-dung-thuong-xuyen-5129089.html",
    "date": "Wed, 07 Oct 2026 03:00:00 +0700",
@@ -219,30 +264,12 @@
    "icon": "📰"
   },
   {
-   "title": "Đẩy mạnh hợp tác xây dựng nông nghiệp Việt Nam xanh và bền vững",
-   "link": "https://tienphong.vn/day-manh-hop-tac-xay-dung-nong-nghiep-viet-nam-xanh-va-ben-vung-post1882781.tpo",
-   "date": "Tue, 06 Oct 2026 20:39:51 +07:00",
-   "image": "https://cdn.tienphong.vn/images/i1qTGUA2ii4jUfuJy6_8GBuUPurCTdOyrFBNDnIi4BbMiEnEwYsCTWdXZ7XUzKT4wA1ysFQCmKT8ioLxEzGtEPCJFNiROc-6utmvszX1JnoHybxpe95MgBfpLvfa00wilzWl35NO67uGXMq4whQFwqmRLy2E-sWaK_tUQbd7bXQ/1791256735161-7883654672048547657-g3664700384693128186-4ee730273a072478a8a156adebe3fcf8.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
    "title": "Thực phẩm n&agrave;y c&oacute; thể gi&uacute;p giảm nguy cơ tăng huyết &aacute;p 30%",
    "link": "https://thanhnien.vn/thuc-pham-nay-co-the-giup-giam-nguy-co-tang-huyet-ap-30-185261006203453495.htm",
    "date": "Tue, 06 Oct 26 20:34:00 +0700",
    "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/6/u-thu-nhieu-hon-cac-loai-dau-va-dau-nanh-co-lien-quan-toi-nguy-co-tang-huyet-ap-thap-hon-anh-nquyen-tao-tu-chatgpt-1791293-0-166-941-1672-crop-17912935296311646433897.jpg",
    "source": "thanhnien",
    "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "Gần 660.000 tấn thịt giá rẻ tràn về, lợn hơi trong nước giảm giá sâu",
-   "link": "https://tienphong.vn/gan-660000-tan-thit-gia-re-tran-ve-lon-hoi-trong-nuoc-giam-gia-sau-post1882693.tpo",
-   "date": "Tue, 06 Oct 2026 20:13:57 +07:00",
-   "image": "https://cdn.tienphong.vn/images/57I2HW5rUHByU_MpSVgzh6bcPsIgsiTcmiFGl587Bfxe7XSDWV-GBVW3TNL739Fx/gia-thit-lon.png.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
    "icon": "📰"
   },
   {
@@ -309,24 +336,6 @@
    "icon": "📰"
   },
   {
-   "title": "Thịt nhập siêu rẻ đổ bộ, chợ truyền thống bán giá bao nhiêu?",
-   "link": "https://dantri.com.vn/kinh-doanh/thit-nhap-sieu-re-do-bo-cho-truyen-thong-ban-gia-bao-nhieu-20261005122327502.htm",
-   "date": "Mon, 05 Oct 2026 12:47:44 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/05/thit-kho-hc-2-cropped-1791177697658.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Sét đánh chết đàn lợn sắp xuất chuồng",
-   "link": "https://vnexpress.net/set-danh-chet-dan-lon-sap-xuat-chuong-5128356.html",
-   "date": "Mon, 05 Oct 2026 08:52:38 +0700",
-   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/dan-heo-bi-set-danh-chet-17911-3949-7150-1791164242.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fE_owa7jzK8Mw7ghHVYZaA",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Người bị gout c&oacute; n&ecirc;n ăn ức g&agrave; thay thế ho&agrave;n to&agrave;n thịt lợn, b&ograve;?",
    "link": "https://thanhnien.vn/nguoi-bi-gout-co-nen-an-uc-ga-thay-the-hoan-toan-thit-lon-bo-185261005062912485.htm",
    "date": "Mon, 05 Oct 26 06:58:00 +0700",
@@ -340,24 +349,6 @@
    "link": "https://thanhnien.vn/an-nhieu-thit-xoi-de-day-bung-gung-vo-quyt-co-giup-gi-185261004145958264.htm",
    "date": "Mon, 05 Oct 26 06:08:00 +0700",
    "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/4/anh-duoc-lieu-17911016621441910781088-13-0-973-1536-crop-1791101765621100724400.png",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "Hơn 124.000 tấn thịt lợn ngoại ồ ạt về Việt Nam, giá chỉ 45.000 đồng/kg",
-   "link": "https://dantri.com.vn/kinh-doanh/hon-124000-tan-thit-lon-ngoai-o-at-ve-viet-nam-gia-chi-45000-dongkg-20261004150918093.htm",
-   "date": "Sun, 04 Oct 2026 15:27:04 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/04/thit-1722832624217-1791101265243.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Ăn trứng k&egrave;m 5 thực phẩm n&agrave;y, tốt cho huyết &aacute;p v&agrave; cholesterol",
-   "link": "https://thanhnien.vn/an-trung-kem-5-thuc-pham-nay-tot-cho-huyet-ap-va-cholesterol-185261003115928892.htm",
-   "date": "Sat, 03 Oct 26 11:59:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/3/trung-thucpham-17910032130141395989184-0-136-941-1642-crop-17910034974031608768976.jpg",
    "source": "thanhnien",
    "label": "Báo Thanh Niên",
    "icon": "📰"
@@ -417,63 +408,27 @@
    "icon": "📰"
   },
   {
-   "title": "Lịch tiếp công dân Quý IV-2026 của Chi cục Chăn nuôi và Thú y",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/09/29/Lich-tiep-cong-dan-quy4-2026.aspx",
-   "date": "Tue, 29 Sep 2026 10:36:00 +0700",
-   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f9%2fLichTiepCongDanQuy4.png",
+   "title": "Thông báo quy định về biện pháp SPS của Thành viên Tổ chức Thương mại Thế giới (WTO) (từ ngày 16/9/2026 - ngày 30/9/2026)",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/10/08/thong-bao-quy-dinh-ve-bien-phap-sps-cua-thanh-vien-to-chuc-thuong-mai-the-gioi-wto-tu-ngay-16-9-2026-den-ngay-30-9-2026.aspx",
+   "date": "Thu, 08 Oct 2026 16:16:00 +0700",
+   "image": "",
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
   },
   {
-   "title": "Trước nguy cơ dịch bệnh dại diễn biến phức tạp, TP.HCM phát động chiến dịch liên ngành nhằm nâng cao tỷ lệ tiêm phòng vật nuôi, đảm bảo người dân tiếp cận vacxin kịp thời.",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/09/29/Truoc-nguy-co-dich-benh-dai-dien-bien-phuc-tap-TPHCM-phat-dong-chien-dich-lien-nganh-nham-nang-cao-ty-le-tiem-phong-vat-nuoi-dam-bao-nguoi-dan-tiep-can-vacxin-kip-thoi.aspx",
-   "date": "Tue, 29 Sep 2026 10:35:00 +0700",
-   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f9%2fQLChoMeoDayLuiDichBenh1.png",
+   "title": "Thông tin, cập nhật việc triển khai, phổ biến Tài liệu hướng dẫn việc kết nối, tích hợp Hệ thống truy xuất nguồn gốc nông, lâm, thủy sản của Bộ Nông nghiệp và Môi trường",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/10/08/trien-khai-pho-bien-tai-lieu-huong-dan-viec-ket-noi-tich-hop-he-thong-truy-xuat-nguon-goc.aspx",
+   "date": "Thu, 08 Oct 2026 16:15:00 +0700",
+   "image": "",
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
   },
   {
-   "title": "Chi cục Chăn nuôi và Thú y hướng dẫn cấp mã số định danh cơ sở nuôi chim yến tại Diễn đàn Tinh hoa Yến Việt & Đổi mới sáng tạo 2026",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/09/29/chi-cuc-chan-nuoi-va-thu-y-huong-dan-cap-ma-so-dinh-danh-co-so-nuoi-chim-yen-tai-dien-dan-tinh-hoa-yen-viet-doi-moi-sang-tao-2026.aspx",
-   "date": "Tue, 29 Sep 2026 09:19:00 +0700",
-   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f9%2fCapMaSoDinhDanhCSCNChimYen1.jpg",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
-   "title": "Tập huấn, bồi dưỡng ứng dụng Trí tuệ nhân tạo (AI) cho công chức, viên chức Chi cục Chăn nuôi và Thú y",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/09/28/Tap-huan-boi-duong-ung-dung-Tri-tue-nhan-tao-(AI)-cho-cong-chuc-vien-chuc-Chi-cuc-Chan-nuoi-va-Thu-y.aspx",
-   "date": "Mon, 28 Sep 2026 17:45:00 +0700",
-   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f9%2fTapHuanAI220926_1.jpg",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
-   "title": "Phát hiện xử lý cơ sở giết mổ heo trái phép",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/09/25/phat-hien-xu-ly-co-so-giet-mo-heo-trai-phep.aspx",
-   "date": "Fri, 25 Sep 2026 15:32:00 +0700",
-   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f9%2fXLCSGOTraiPhep240926_1.jpg",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
-   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
-   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
-   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Đàn cá heo gần 1.000 con xuất hiện ngoài khơi Phú Quý",
-   "link": "https://tienphong.vn/dan-ca-heo-gan-1000-con-xuat-hien-ngoai-khoi-phu-quy-post1883176.tpo",
-   "date": "Wed, 07 Oct 2026 22:51:39 +07:00",
+   "title": "Nước ngập tràn vào nhà, người dân ở Quảng Ngãi bế lợn chạy lũ",
+   "link": "https://tienphong.vn/nuoc-ngap-tran-vao-nha-nguoi-dan-o-quang-ngai-be-lon-chay-lu-post1883366.tpo",
+   "date": "Thu, 08 Oct 2026 15:15:20 +07:00",
    "image": "",
    "source": "tienphong",
    "label": "Báo Tiền Phong",
