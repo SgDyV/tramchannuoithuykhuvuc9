@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-09T23:21:32.199Z",
- "count": 44,
+ "updated": "2026-10-10T02:28:12.992Z",
+ "count": 43,
  "items": [
+  {
+   "title": "Việt Nam và Timor-Leste mở rộng hợp tác lúa gạo, càphê và thủy sản",
+   "link": "https://www.vietnamplus.vn/viet-nam-va-timor-leste-mo-rong-hop-tac-lua-gao-caphe-va-thuy-san-post1141127.vnp",
+   "date": "Sat, 10 Oct 2026 06:31:31 +07:00",
+   "image": "https://media.vietnamplus.vn/images/0f-btEj60lGt0BFs9lOY15z5tW3ZxGGok3vizLiXg17Kyqo3paMH2HvskUg87CtbdOzP5OThJKRELdTuCYSPsX_v5zkAA13hxG1pYe7sS5ZW2WIKDIezaedKkHIPFNk5O1hvXxTmAD0w92DRmXpuTMVclBHT-ZarXS-wD3b-KTGnT2sb_nCzIDdyx5eQIM76/ttxvn-81-nam-quoc-khanh-2-9-40-nam-doi-moi-viet-nam-vung-buoc-tren-con-duong-phat-trien-va-hoi-nhap15.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
   {
    "title": "Rã đông thịt qua đêm có an toàn?",
    "link": "https://vnexpress.net/ra-dong-thit-qua-dem-co-an-toan-5130287.html",
@@ -72,15 +81,6 @@
    "image": "https://media.vietnamplus.vn/images/O5HOz7kQdXhh7X2Iy0psPuH857U1q0F_Qq5xErbUS1Rvxs7zPfhF-zNgOHp7qC3H/ttxvn-vung.jpg.avif",
    "source": "vietnamplus",
    "label": "VietnamPlus (TTXVN)",
-   "icon": "📰"
-  },
-  {
-   "title": "Xử phạt loạt trang trại nuôi gần 80.000 con lợn",
-   "link": "https://tienphong.vn/xu-phat-loat-trang-trai-nuoi-gan-80000-con-lon-post1883600.tpo",
-   "date": "Fri, 09 Oct 2026 12:05:38 +07:00",
-   "image": "https://cdn.tienphong.vn/images/nJo0ky-Hz6Ps363LGLSGauwMj3Ni7hWhQxPnKG0A9_doS9Y7sLz-QO_6lxvr-nRh/tp-21.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
    "icon": "📰"
   },
   {
@@ -228,15 +228,6 @@
    "icon": "📰"
   },
   {
-   "title": "Nên ăn rau, thịt hay cơm trước để giảm 'tàu lượn đường huyết'?",
-   "link": "https://lifestyle.zingnews.vn/nen-an-rau-thit-hay-com-truoc-de-giam-tau-luon-duong-huyet-post1687789.html",
-   "date": "Thu, 08 Oct 2026 09:15:40 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_10_06/Thu_tu_an.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
    "title": "Cá linh non, cá bống trứng bán chạy mùa nước nổi: Có lo tận diệt?",
    "link": "https://dantri.com.vn/kinh-doanh/ca-linh-non-ca-bong-trung-ban-chay-mua-nuoc-noi-co-lo-tan-diet-20261007160337265.htm",
    "date": "Wed, 07 Oct 2026 17:09:35 +0700",
@@ -327,15 +318,6 @@
    "icon": "🏥"
   },
   {
-   "title": "Nỗi lo 'xâm phạm quyền riêng tư' của động vật thời AI",
-   "link": "https://vnexpress.net/noi-lo-xam-pham-quyen-rieng-tu-cua-dong-vat-thoi-ai-5128123.html",
-   "date": "Tue, 06 Oct 2026 07:00:00 +0700",
-   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/04/3delfin-1791055336-9950-1791057549.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_E234ZgcgKso9qbJNo4aDg",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Đề xuất dán nhãn cảnh báo thực phẩm chứa nhiều muối, đường, chất béo",
    "link": "https://dantri.com.vn/suc-khoe/de-xuat-dan-nhan-canh-bao-thuc-pham-chua-nhieu-muoi-duong-chat-beo-20261001230817654.htm",
    "date": "Fri, 02 Oct 2026 11:18:00 +0700",
@@ -370,6 +352,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Thông báo quy định về biện pháp SPS của Thành viên Tổ chức Thương mại Thế giới (WTO) (từ ngày 16/9/2026 - ngày 30/9/2026)",
