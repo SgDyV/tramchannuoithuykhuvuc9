@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-10T14:52:26.811Z",
+ "updated": "2026-10-10T19:00:44.419Z",
  "count": 42,
  "items": [
+  {
+   "title": "5 thực phẩm màu đỏ, cam giúp giảm nguy cơ ung thư",
+   "link": "https://vnexpress.net/5-thuc-pham-mau-do-cam-giup-giam-nguy-co-ung-thu-5130407.html",
+   "date": "Sun, 11 Oct 2026 00:04:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/09/tao-2-1791531018.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rBVuxJQS4hU_-1cB3Cun7A",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Hoàn tất đơn hàng vaccine dịch tả lợn châu Phi thương mại sang Philippines",
    "link": "https://www.vietnamplus.vn/hoan-tat-don-hang-vaccine-dich-ta-lon-chau-phi-thuong-mai-sang-philippines-post1141242.vnp",
@@ -228,15 +237,6 @@
    "icon": "📰"
   },
   {
-   "title": "Rùa biển lên Hòn Cau đẻ 82 trứng",
-   "link": "https://vnexpress.net/rua-bien-len-hon-cau-de-82-trung-5129845.html",
-   "date": "Thu, 08 Oct 2026 13:30:00 +0700",
-   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/rua-de-1791431599-3743-1791432467.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eO92wiPKQQ3s3RyP_mWokA",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Mưa lớn liên tục, nhiều loại rau xanh đắt ngang thịt heo",
    "link": "https://dantri.com.vn/kinh-doanh/mua-lon-lien-tuc-nhieu-loai-rau-xanh-dat-ngang-thit-heo-20261008113055909.htm",
    "date": "Thu, 08 Oct 2026 13:18:48 +0700",
@@ -309,15 +309,6 @@
    "icon": "📰"
   },
   {
-   "title": "Thực phẩm n&agrave;y c&oacute; thể gi&uacute;p giảm nguy cơ tăng huyết &aacute;p 30%",
-   "link": "https://thanhnien.vn/thuc-pham-nay-co-the-giup-giam-nguy-co-tang-huyet-ap-30-185261006203453495.htm",
-   "date": "Tue, 06 Oct 26 20:34:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/6/u-thu-nhieu-hon-cac-loai-dau-va-dau-nanh-co-lien-quan-toi-nguy-co-tang-huyet-ap-thap-hon-anh-nquyen-tao-tu-chatgpt-1791293-0-166-941-1672-crop-17912935296311646433897.jpg",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
    "title": "Từ 35 tấn heo nhiễm chất cấm bị chặn tại TP.HCM đến đường dây hơn 10.000 tấn bị khởi tố",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/10/06/Tu-35-tan-heo-nhiem-chat-cam-bi-chan-tai-TPHCM-den-duong-day-hon-10000-tan-bi-khoi-to.aspx",
    "date": "Tue, 06 Oct 2026 14:30:00 +0700",
@@ -352,6 +343,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Thông báo quy định về biện pháp SPS của Thành viên Tổ chức Thương mại Thế giới (WTO) (từ ngày 16/9/2026 - ngày 30/9/2026)",
