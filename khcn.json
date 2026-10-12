@@ -1,9 +1,54 @@
 {
- "updated": "2026-10-12T02:08:53.784Z",
+ "updated": "2026-10-12T09:29:11.262Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Xác định gene kháng kháng sinh của E.coli trên heo con tiêu chảy",
+   "link": "https://channuoivietnam.com/portal-news-detail/21125",
+   "date": "2026-10-12T16:00:46+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2016%2f10%2fKH.-heo-con.jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Ảnh hưởng của dầu bông và tanin từ bột chè xanh đến lượng thu nhận, tỷ lệ tiêu hóa và phát thải khí mêtan của bò giai đoạn cạn sữa",
+   "link": "https://channuoivietnam.com/portal-news-detail/43367",
+   "date": "2026-10-12T16:00:05+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f06%2fKH.-Tannin-bong.png",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Sự tích lũy nitơ và tỉ lệ tiêu hóa acid amin trên vịt siêu thịt nuôi bằng phụ phẩm tôm ủ chua",
+   "link": "https://channuoivietnam.com/portal-news-detail/49089",
+   "date": "2026-10-12T15:59:45+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f12%2fKH.-Vit-sieu-thit.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Vai trò của biotin và cholin đối với bò sữa",
+   "link": "https://channuoivietnam.com/portal-news-detail/45405",
+   "date": "2026-10-12T15:59:36+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f07%2fKH.-Bo-sua-1-1.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Phát triển kỹ thuật phát hiện giới tính... trứng gà",
+   "link": "https://channuoivietnam.com/portal-news-detail/27461",
+   "date": "2026-10-12T15:59:03+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2016%2f12%2fKH.-Xac-dinh-gioi-tinh-trung-ga.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Tối ưu canxi cho gà mái cuối kỳ: Bí quyết giữ vỏ trứng dày và khung xương vững",
    "link": "https://channuoivietnam.com/portal-news-detail/01dc3689-5df1-4c10-8f33-9c97afe4381a",
@@ -90,51 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/14092",
    "date": "2026-10-11T16:00:00+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f03%2fKH.-Da-hinh-DNA.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Đảm bảo sức khỏe của bê trước cai sữa bằng việc tập trung vào 5 lĩnh vực chủ yếu này",
-   "link": "https://channuoivietnam.com/portal-news-detail/46086",
-   "date": "2026-10-11T15:59:19+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f08%2fKH.-Cham-soc-be-con.png",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Mức độ di truyền và khuynh hướng di truyền của các tính trạng chọn lọc ở dòng LT1 và LT2 gà Lạc Thủy",
-   "link": "https://channuoivietnam.com/portal-news-detail/48579",
-   "date": "2026-10-11T15:59:07+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f11%2fKH.-Ga-Lac-Thuy.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng mức bổ sung thức ăn hỗn hợp đến tiêu thụ và tiêu hóa dưỡng chất thức ăn của bò lai Charolais từ 13 đến 15 tháng tuổi",
-   "link": "https://channuoivietnam.com/portal-news-detail/20d64cf3-f208-4fd2-80f0-844a45c9c3ca",
-   "date": "2026-10-11T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5ce165c079-9f43-4da4-bc42-6fe47da34777.png&v=a2cdcd0d-43f0-4ec9-9a6f-15fdc03f0de1",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Nghiên cứu lâm sàng bệnh viêm tử cung trên chó và ảnh hưởng của hormone progesterone đến nguy cơ mắc bệnh",
-   "link": "https://channuoivietnam.com/portal-news-detail/28b2c9e7-34d5-439e-af59-210de426b63d",
-   "date": "2026-10-11T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c955b391f-846f-4dbd-9185-c850bb826b20.png&v=a9736c0a-7829-4ad5-9120-8778c2ab294f",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Chăn nuôi hươu Sao trên thế giới và trong nước",
-   "link": "https://channuoivietnam.com/portal-news-detail/67e0f902-5c51-44bf-9373-e9d16ba93c7b",
-   "date": "2026-10-11T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c67e0f902-5c51-44bf-9373-e9d16ba93c7bedit.png&v=cc453a1f-76c5-4d1e-b8e9-7683b90af959",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
