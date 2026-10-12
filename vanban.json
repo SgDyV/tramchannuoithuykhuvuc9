@@ -1,9 +1,17 @@
 {
- "updated": "2026-10-12T09:29:14.312Z",
+ "updated": "2026-10-12T19:13:13.536Z",
  "category": "Văn bản chung",
  "source": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
  "count": 12,
  "items": [
+  {
+   "code": "384/2026/NĐ-CP",
+   "title": "Quy định xác định xuất xứ Việt Nam đối với hàng hóa sản xuất và lưu thông trong nước.",
+   "date": "2026-10-09T00:00:00+07:00",
+   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=09c4dfd9-7a5e-4ac1-bcdc-881a95e81d66&file_name=N%C4%90384.pdf",
+   "file": "NĐ384.pdf"
+  },
   {
    "code": "42/2026/TT-BNNMT",
    "title": "Quy định kỹ thuật giám sát, đánh giá hoạt động thích ứng với biến đổi khí hậu trong lĩnh vực nông nghiệp và môi trường.",
@@ -91,14 +99,6 @@
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
    "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=7a43f547-e941-4d3c-9c78-f0a6646aa7c2&file_name=89-vbhn-bnnmt.signed.pdf",
    "file": "89-vbhn-bnnmt.signed.pdf"
-  },
-  {
-   "code": "3582/CNTY-TACN&TTY",
-   "title": "Thực hiện tự công bố thông tin sản phẩm thức ăn chăn nuôi.",
-   "date": "2026-09-16T00:00:00+07:00",
-   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=4a431276-4491-4ab9-9486-6720fb897e74&file_name=CV3582.pdf",
-   "file": "CV3582.pdf"
   }
  ]
 }
