@@ -1,7 +1,52 @@
 {
- "updated": "2026-10-12T19:12:49.233Z",
- "count": 32,
+ "updated": "2026-10-13T01:29:13.613Z",
+ "count": 38,
  "items": [
+  {
+   "title": "Thịt, cá trữ đông lạnh cả tháng có an toàn?",
+   "link": "https://vnexpress.net/thit-ca-tru-dong-lanh-ca-thang-co-an-toan-5131113.html",
+   "date": "Tue, 13 Oct 2026 08:25:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/12/foods3-mx0-1791771521-1293-1791771638.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QlIpR8qVMKbnHfCEaGjwQQ",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Kết nối nông nghiệp, du lịch, mở hướng phát triển kinh tế miền núi",
+   "link": "https://www.vietnamplus.vn/ket-noi-nong-nghiep-du-lich-mo-huong-phat-trien-kinh-te-mien-nui-post1141611.vnp",
+   "date": "Tue, 13 Oct 2026 07:56:02 +07:00",
+   "image": "https://media.vietnamplus.vn/images/QkaIkUpJXs0791nOdVF1ebD2tyW75ZUlyslW1fl_wZrfJ22w9Mzwl3WoUeccP91FyaMZgV4t9kACDLkvtAX4t3dRD3KNDZO0eVaL1geuCMh_b9gf0O6vrjbej2exGWy2HRdQWNmlnU4hEA3bQcVMRQ/ttxvn_da-nang-danh-thuc-gia-tri-kinh-te-vuon-rung-va-mien-nui-9082554.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Hacker tăng nhiệt độ tủ lạnh, gây hỏng thực phẩm ở hàng trăm siêu thị",
+   "link": "https://vnexpress.net/hacker-tang-nhiet-do-tu-lanh-gay-hong-thuc-pham-o-hang-tram-sieu-thi-5131499.html",
+   "date": "Tue, 13 Oct 2026 06:07:01 +0700",
+   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/tu-lanh-jpeg-1791845881-4230-1791846382.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=U8IqPzEy0YNdQw_z72DJfA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "C&oacute; n&ecirc;n biến chợ truyền thống th&agrave;nh nơi chuy&ecirc;n b&aacute;n thực phẩm?",
+   "link": "https://thanhnien.vn/co-nen-bien-cho-truyen-thong-thanh-noi-chuyen-ban-thuc-pham-185261012222709847.htm",
+   "date": "Tue, 13 Oct 26 05:57:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/12/tnw-photo-1791818717276-179181871861333009717-17918187307311604594805-96-0-1346-2000-crop-1791818781202556600898.jpeg",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "Cúm A vào mùa ở Hà Nội, bác sĩ cảnh báo tình trạng trẻ co giật",
+   "link": "https://vnexpress.net/cum-a-vao-mua-o-ha-noi-bac-si-canh-bao-tinh-trang-tre-co-giat-5131402.html",
+   "date": "Tue, 13 Oct 2026 05:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/12/1-1791798517-8188-1791798978.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=fpsMy9YaHpvlkg3jX-sEDQ",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "5 thực phẩm gi&agrave;u sắt ngo&agrave;i thịt đỏ, c&oacute; cả m&oacute;n quen trong bữa cơm Việt",
    "link": "https://thanhnien.vn/5-thuc-pham-giau-sat-ngoai-thit-do-co-ca-mon-quen-trong-bua-com-viet-18526101213501513.htm",
@@ -253,6 +298,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Sanofi-Aventis Việt Nam có tân Tổng Giám đốc kiêm Giám đốc Ngành hàng Vắc xin",
