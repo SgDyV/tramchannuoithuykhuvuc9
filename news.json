@@ -1,7 +1,43 @@
 {
- "updated": "2026-10-13T08:06:53.251Z",
- "count": 35,
+ "updated": "2026-10-13T16:09:38.898Z",
+ "count": 36,
  "items": [
+  {
+   "title": "Cúm A tăng nhanh, bác sĩ cảnh báo nhóm người dễ nguy kịch",
+   "link": "https://lifestyle.zingnews.vn/cum-a-tang-nhanh-bac-si-canh-bao-nhom-nguoi-de-nguy-kich-post1689430.html",
+   "date": "Tue, 13 Oct 2026 19:15:25 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_10_13/dichcumA_47_znews.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Phát hiện sán dây bò dài 70 cm khi nội soi đại tràng",
+   "link": "https://vnexpress.net/phat-hien-san-day-bo-dai-70-cm-khi-noi-soi-dai-trang-5131893.html",
+   "date": "Tue, 13 Oct 2026 18:45:40 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/13/1-1791891694-4530-1791891701.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9vqmTjpaEywmOkZwBySZMA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Bác sĩ gắp đoạn sán dây bò 70cm trong đại tràng người phụ nữ",
+   "link": "https://dantri.com.vn/suc-khoe/bac-si-gap-doan-san-day-bo-70cm-trong-dai-trang-nguoi-phu-nu-20261013174108320.htm",
+   "date": "Tue, 13 Oct 2026 18:23:24 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/13/noi-soi-cropped-1791887047413.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Trứng vịt muối đi Mỹ, ngành chăn nuôi đón dòng vốn đầu tư mới",
+   "link": "https://dantri.com.vn/kinh-doanh/trung-vit-muoi-di-my-nganh-chan-nuoi-don-dong-von-dau-tu-moi-20261013154046328.htm",
+   "date": "Tue, 13 Oct 2026 16:22:04 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/13/crs08601-cropped-1791880600488.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
   {
    "title": "Tr&ograve; chuyện với người phụ nữ 'N&acirc;ng tầm quả trứng Việt'",
    "link": "https://thanhnien.vn/tro-chuyen-voi-nguoi-phu-nu-nang-tam-qua-trung-viet-185261013144730797.htm",
@@ -66,30 +102,12 @@
    "icon": "📰"
   },
   {
-   "title": "Kết nối nông nghiệp, du lịch, mở hướng phát triển kinh tế miền núi",
-   "link": "https://www.vietnamplus.vn/ket-noi-nong-nghiep-du-lich-mo-huong-phat-trien-kinh-te-mien-nui-post1141611.vnp",
-   "date": "Tue, 13 Oct 2026 07:56:02 +07:00",
-   "image": "https://media.vietnamplus.vn/images/QkaIkUpJXs0791nOdVF1ebD2tyW75ZUlyslW1fl_wZrfJ22w9Mzwl3WoUeccP91FyaMZgV4t9kACDLkvtAX4t3dRD3KNDZO0eVaL1geuCMh_b9gf0O6vrjbej2exGWy2HRdQWNmlnU4hEA3bQcVMRQ/ttxvn_da-nang-danh-thuc-gia-tri-kinh-te-vuon-rung-va-mien-nui-9082554.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
-   "icon": "📰"
-  },
-  {
    "title": "Hacker tăng nhiệt độ tủ lạnh, gây hỏng thực phẩm ở hàng trăm siêu thị",
    "link": "https://vnexpress.net/hacker-tang-nhiet-do-tu-lanh-gay-hong-thuc-pham-o-hang-tram-sieu-thi-5131499.html",
    "date": "Tue, 13 Oct 2026 06:07:01 +0700",
    "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/tu-lanh-jpeg-1791845881-4230-1791846382.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=U8IqPzEy0YNdQw_z72DJfA",
    "source": "vnexpress",
    "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "C&oacute; n&ecirc;n biến chợ truyền thống th&agrave;nh nơi chuy&ecirc;n b&aacute;n thực phẩm?",
-   "link": "https://thanhnien.vn/co-nen-bien-cho-truyen-thong-thanh-noi-chuyen-ban-thuc-pham-185261012222709847.htm",
-   "date": "Tue, 13 Oct 26 05:57:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/12/tnw-photo-1791818717276-179181871861333009717-17918187307311604594805-96-0-1346-2000-crop-1791818781202556600898.jpeg",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
    "icon": "📰"
   },
   {
@@ -108,15 +126,6 @@
    "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/12/gan-ga1-17917928715861934886865-103-0-1008-1448-crop-1791793937014710753220.png",
    "source": "thanhnien",
    "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "5 nhóm thực phẩm không nên ăn trước khi tập luyện",
-   "link": "https://vnexpress.net/5-nhom-thuc-pham-khong-nen-an-truoc-khi-tap-luyen-5131126.html",
-   "date": "Mon, 12 Oct 2026 13:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/12/tra-su-a-a-nh-va-n-anh-jpeg-17-9398-8758-1791774086.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=z-uAMhYRTud5azfPB9H3Vw",
-   "source": "vnexpress",
-   "label": "VnExpress",
    "icon": "📰"
   },
   {
