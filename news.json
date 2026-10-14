@@ -1,7 +1,43 @@
 {
- "updated": "2026-10-14T05:06:09.161Z",
+ "updated": "2026-10-14T10:22:28.687Z",
  "count": 39,
  "items": [
+  {
+   "title": "Thành phố Hồ Chí Minh siết chặt phòng dịch, đảm bảo nguồn cung thịt lợn cuối năm",
+   "link": "https://www.vietnamplus.vn/thanh-pho-ho-chi-minh-siet-chat-phong-dich-dam-bao-nguon-cung-thit-lon-cuoi-nam-post1141934.vnp",
+   "date": "Wed, 14 Oct 2026 15:59:50 +07:00",
+   "image": "https://media.vietnamplus.vn/images/lFuaSJ54A9Yx0v5wBTS36X_Ij2q7nRmvsV4EIllt-7oy7FdVOIc3dfiL4b7ii_tdtl-JF_BoT4oTi_nf-MHh3PiwkhZQUsflMrq7l-WqUQk16jT0GLwDYUieESYRJQhmnAgWqMYv4fizqO-lOp4il3HJbu0cnuQasdI2bN70nlY/ttxvn_doanh-nghiep-sieu-thi-tai-tp-ho-chi-minh-vao-cuoc-binh-on-thi-truong-thit-lon-8585383.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Vaccine hỗ trợ giảm nguy cơ tự kỷ",
+   "link": "https://vnexpress.net/vaccine-ho-tro-giam-nguy-co-tu-ky-5132286.html",
+   "date": "Wed, 14 Oct 2026 15:30:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/14/medium-vecteezy-doctor-with-sy-1699-4642-1791965190.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QInNsw0U3IWzN3FD7Q5zMg",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Hà Nội có 200-300 ca cúm nhập viện mỗi tuần, sai lầm khiến bệnh nặng thêm",
+   "link": "https://dantri.com.vn/suc-khoe/ha-noi-co-200-300-ca-cum-nhap-vien-moi-tuan-sai-lam-khien-benh-nang-them-20261014063638776.htm",
+   "date": "Wed, 14 Oct 2026 13:44:25 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/14/cum-1791934076807.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Sản phẩm \"Chân gà Bà Tuyết\" bị tiêu hủy ở Nhật Bản, doanh nghiệp lên tiếng",
+   "link": "https://dantri.com.vn/kinh-doanh/san-pham-chan-ga-ba-tuyet-bi-tieu-huy-o-nhat-ban-doanh-nghiep-len-tieng-20261014113826343.htm",
+   "date": "Wed, 14 Oct 2026 12:08:02 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/14/ba-tuyet-cropped-1791952441309.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
   {
    "title": "Giải m&atilde; sức h&uacute;t của thịt b&ograve; ủ m&aacute;t từ 300 ng&agrave;y nu&ocirc;i dưỡng theo chuẩn Nhật",
    "link": "https://thanhnien.vn/giai-ma-suc-hut-cua-thit-bo-u-mat-tu-300-ngay-nuoi-duong-theo-chuan-nhat-185261013163137034.htm",
@@ -84,24 +120,6 @@
    "icon": "📰"
   },
   {
-   "title": "Tr&ograve; chuyện với người phụ nữ 'N&acirc;ng tầm quả trứng Việt'",
-   "link": "https://thanhnien.vn/tro-chuyen-voi-nguoi-phu-nu-nang-tam-qua-trung-viet-185261013144730797.htm",
-   "date": "Tue, 13 Oct 26 14:38:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/13/anh-1-17918772752631114177929-0-0-900-1440-crop-1791877343686154872652.jpg",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "Lo nhập viện do cúm A",
-   "link": "https://vnexpress.net/lo-nhap-vien-do-cum-a-5131650.html",
-   "date": "Tue, 13 Oct 2026 14:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/13/cum2-1791867083-9014-1791867383.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XQwoHl_ZnSmciE_wCp3_kQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "5 'siêu thực phẩm' bình dân người trường thọ ăn mỗi tuần",
    "link": "https://vnexpress.net/5-sieu-thuc-pham-binh-dan-nguoi-truong-tho-an-moi-tuan-5131559.html",
    "date": "Tue, 13 Oct 2026 13:53:36 +0700",
@@ -115,15 +133,6 @@
    "link": "https://vnexpress.net/bo-pho-ve-ban-nang-tam-bo-h-mong-5131576.html",
    "date": "Tue, 13 Oct 2026 11:38:56 +0700",
    "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/1791861902791-c7c0e4107f605075-9609-7866-1791862622.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kfvlce-9iDLlP54AxM8z7Q",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Bà bầu có nên ăn trứng vịt lộn?",
-   "link": "https://vnexpress.net/ba-bau-co-nen-an-trung-vit-lon-5131517.html",
-   "date": "Tue, 13 Oct 2026 11:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/13/image001-1791850301-2268-1791850346.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vwDkLfjnx_Iqnb6RRWD2fg",
    "source": "vnexpress",
    "label": "VnExpress",
    "icon": "📰"
@@ -271,15 +280,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "VNVC hỗ trợ gần 50 tỷ đồng, tiêm bổ sung vaccine cho hơn 25.000 học sinh",
-   "link": "https://dantri.com.vn/suc-khoe/vnvc-ho-tro-gan-50-ty-dong-tiem-bo-sung-vaccine-cho-hon-25000-hoc-sinh-20261007143421560.htm",
-   "date": "Wed, 07 Oct 2026 14:43:54 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/07/vnvc-ho-tro-ra-soat-tiem-chung-1-cropped-1791358377133.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
   },
   {
    "title": "Hơn 10.000 tấn lợn dùng chất cấm tạo nạc: Vẫn nguy hiểm dù nấu chín",
