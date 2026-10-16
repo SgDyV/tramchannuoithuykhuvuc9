@@ -1,7 +1,43 @@
 {
- "updated": "2026-10-16T09:58:04.436Z",
- "count": 40,
+ "updated": "2026-10-16T14:28:39.467Z",
+ "count": 41,
  "items": [
+  {
+   "title": "Nhật Bản tiêu hủy sản phẩm 'chân gà Bà Tuyết' nhập lậu",
+   "link": "https://znews.vn/nhat-ban-tieu-huy-san-pham-chan-ga-ba-tuyet-nhap-lau-post1690178.html",
+   "date": "Fri, 16 Oct 2026 20:27:01 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/mrndcqjwq/2026_10_16/ancungbatuyet.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Bộ Công an sẽ truy tận gốc vi phạm an toàn thực phẩm",
+   "link": "https://vnexpress.net/bo-cong-an-se-truy-tan-goc-vi-pham-an-toan-thuc-pham-5133328.html",
+   "date": "Fri, 16 Oct 2026 19:05:53 +0700",
+   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/1-ong-nguyen-ba-thanh-jpg-1792-2369-3912-1792144521.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=lthSUqStw1fI8sM1OeO-zg",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Giới khoa học theo dõi biến đổi của H1N1 để dự báo mùa cúm",
+   "link": "https://vnexpress.net/gioi-khoa-hoc-theo-doi-bien-doi-cua-h1n1-de-du-bao-mua-cum-5133249.html",
+   "date": "Fri, 16 Oct 2026 19:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/16/medium-vecteezy-blood-sample-i-3629-8441-1792141806.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=I1A0LRdlAjYMrBkBfQTeqA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Liên tiếp các ca liên cầu lợn nguy kịch sau ăn tiết canh",
+   "link": "https://dantri.com.vn/suc-khoe/lien-tiep-cac-ca-lien-cau-lon-nguy-kich-sau-an-tiet-canh-20261016143758275.htm",
+   "date": "Fri, 16 Oct 2026 17:13:55 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/16/lien-cau-khuan-sau-an-tiet-canh-1792136103267.png",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
   {
    "title": "Đề xuất loạt thay đổi về khám chữa bệnh, an toàn thực phẩm, hiến tạng",
    "link": "https://dantri.com.vn/suc-khoe/de-xuat-loat-thay-doi-ve-kham-chua-benh-an-toan-thuc-pham-hien-tang-20261016114722958.htm",
@@ -165,15 +201,6 @@
    "icon": "📰"
   },
   {
-   "title": "Thịt bò ‘made in Vietnam’ theo chuẩn Nhật ghi điểm với người dùng",
-   "link": "https://znews.vn/thit-bo-made-in-vietnam-theo-chuan-nhat-ghi-diem-voi-nguoi-dung-post1689626.html",
-   "date": "Thu, 15 Oct 2026 08:00:54 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/wyhktpu/2026_10_14/hinh_3_va_hinh_thumb.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
    "title": "Hà Nội: Bệnh viện khám hơn 100 trẻ mắc cúm A/ngày, cảnh báo tỷ lệ viêm phổi",
    "link": "https://dantri.com.vn/suc-khoe/ha-noi-benh-vien-kham-hon-100-tre-mac-cum-angay-canh-bao-ty-le-viem-phoi-20261013205820062.htm",
    "date": "Thu, 15 Oct 2026 06:52:35 +0700",
@@ -259,24 +286,6 @@
    "link": "https://dantri.com.vn/suc-khoe/hon-100000-tre-em-viet-nam-da-duoc-tiem-vaccine-tay-chan-mieng-tai-vnvc-20261012080425188.htm",
    "date": "Mon, 12 Oct 2026 08:30:00 +0700",
    "image": "https://icdn.dantri.com.vn/2026/10/12/dan-tri-vnvc-tiem-100-nghin-mui-tay-chan-mieng-1791766774129.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Nuôi gà bằng công nghệ bổ sung Probiotics - nền tảng đảm bảo an toàn thực phẩm",
-   "link": "https://dantri.com.vn/suc-khoe/nuoi-ga-bang-cong-nghe-bo-sung-probiotics-nen-tang-dam-bao-an-toan-thuc-pham-20261010091926370.htm",
-   "date": "Sat, 10 Oct 2026 10:00:00 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/10/2-an-toan-tu-chuoi-san-xuat-farm-3-cropped-1791598644076.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Thụ tinh ống nghiệm có làm tăng nguy cơ ung thư buồng trứng?",
-   "link": "https://dantri.com.vn/suc-khoe/thu-tinh-ong-nghiem-co-lam-tang-nguy-co-ung-thu-buong-trung-20261009172237606.htm",
-   "date": "Sat, 10 Oct 2026 10:00:00 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/09/17-1791541155312.png",
    "source": "dantri",
    "label": "Báo Dân Trí",
    "icon": "📰"
