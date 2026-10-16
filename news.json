@@ -1,7 +1,70 @@
 {
- "updated": "2026-10-16T00:51:54.601Z",
- "count": 42,
+ "updated": "2026-10-16T05:13:31.669Z",
+ "count": 45,
  "items": [
+  {
+   "title": "Ăn trứng suốt 12 tuần, người mắc gan nhiễm mỡ nhận kết quả bất ngờ",
+   "link": "https://lifestyle.zingnews.vn/an-trung-suot-12-tuan-nguoi-mac-gan-nhiem-mo-nhan-ket-qua-bat-ngo-post1689771.html",
+   "date": "Fri, 16 Oct 2026 10:49:44 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_08_04/huyet_tuong_trang_duc_1.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Cục An to&agrave;n thực phẩm y&ecirc;u cầu ngừng kinh doanh sản phẩm Sausando Slimming capsule tr&ecirc;n Shopee",
+   "link": "https://thanhnien.vn/cuc-an-toan-thuc-pham-yeu-cau-ngung-kinh-doanh-san-pham-sausando-slimming-capsule-tren-shopee-185261016102114535.htm",
+   "date": "Fri, 16 Oct 26 10:32:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/16/thuc-pham-san-pham-1792120090092475082069-0-0-731-1170-crop-17921214820081136904596.jpg",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "Việt Nam lập dữ liệu an to&agrave;n thực phẩm quốc gia, chủ động đ&aacute;nh gi&aacute; nguy cơ",
+   "link": "https://thanhnien.vn/viet-nam-lap-du-lieu-an-toan-thuc-pham-quoc-gia-chu-dong-danh-gia-nguy-co-185261016092431892.htm",
+   "date": "Fri, 16 Oct 26 09:37:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/16/tnw-an-toan-thuc-pham-xet-nghiem-17921164446691069055927-17921166250501804300266-151-0-1401-2000-crop-17921166694411248180836.jpg",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "&Aacute;p lực 327.200 tấn t&ocirc;m trước th&aacute;ch thức El Nino, dịch bệnh",
+   "link": "https://thanhnien.vn/ap-luc-327200-tan-tom-truoc-thach-thuc-el-nino-dich-benh-185261015174559867.htm",
+   "date": "Fri, 16 Oct 26 08:21:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/15/tl10-1792060654810222023512-81-0-1681-2560-crop-17920610028421685029177.jpg",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "TP.HCM kiểm tra đột xuất xe chở heo, ngăn chất cấm vào bàn ăn",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/10/16/tp-hcm-kiem-tra-dot-xuat-xe-cho-heo-ngan-chat-cam-vao-ban-an.aspx",
+   "date": "Fri, 16 Oct 2026 07:45:00 +0700",
+   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f10%2fKiemTraDotXuatChoXeHeo.png",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
+  },
+  {
+   "title": "Thực phẩm nguy cơ cao sẽ được kiểm soát chặt hơn",
+   "link": "https://dantri.com.vn/suc-khoe/thuc-pham-nguy-co-cao-se-duoc-kiem-soat-chat-hon-20261015124141035.htm",
+   "date": "Fri, 16 Oct 2026 07:04:10 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/05/22/img20250516185646-edited-1747396730427-1747877174709.jpeg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "TPHCM ghi nhận hàng trăm ca cúm trong tuần: Cảnh báo nhầm lẫn tai hại",
+   "link": "https://dantri.com.vn/suc-khoe/tphcm-ghi-nhan-hang-tram-ca-cum-trong-tuan-canh-bao-nham-lan-tai-hai-20261015122745092.htm",
+   "date": "Fri, 16 Oct 2026 07:03:08 +0700",
+   "image": "https://icdn.dantri.com.vn/2023/11/23/benh-ho-hap-9-1700708066959.jpeg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
   {
    "title": "Cười ra nước mắt thời tem phiếu: Có tiền cũng chịu, lợn là \"thủ trưởng\"",
    "link": "https://dantri.com.vn/kinh-doanh/cuoi-ra-nuoc-mat-thoi-tem-phieu-co-tien-cung-chiu-lon-la-thu-truong-20261015005202235.htm",
@@ -24,7 +87,7 @@
    "title": "Tiêm 7 mũi vaccine dại trong bốn tháng",
    "link": "https://vnexpress.net/tiem-7-mui-vaccine-dai-trong-bon-thang-5132764.html",
    "date": "Thu, 15 Oct 2026 19:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/15/vnvc-tie-m-mu-i-vaccine-da-i-1-6614-4007-1792056821.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=S2rTQxjGDqxdTZPINmLvpg",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/16/5x3thumbok-1792117401-4092-1792117411.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qBp8fJMENHuxiBeriRKXaQ",
    "source": "vnexpress",
    "label": "VnExpress",
    "icon": "📰"
@@ -99,33 +162,6 @@
    "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/15/1-mam-com-chung-1792033838-9454-1792033847.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=e9s4oVoVImCorKM3dvlxfw",
    "source": "vnexpress",
    "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Lâm Đồng phát triển vùng nguyên liệu nông, lâm, thủy sản tập trung gần 4.750ha",
-   "link": "https://www.vietnamplus.vn/lam-dong-phat-trien-vung-nguyen-lieu-nong-lam-thuy-san-tap-trung-gan-4750ha-post1142085.vnp",
-   "date": "Thu, 15 Oct 2026 11:25:07 +07:00",
-   "image": "https://media.vietnamplus.vn/images/b95yHB_NxrPTOEbQKu5OFWQUnKzRurVpVnWKoRHEVIUb8xG5tsngafIPhmmZopin/ttxvn_rau-da-lat.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
-   "icon": "📰"
-  },
-  {
-   "title": "Chống khai thác IUU: Siết quản lý đội tàu, minh bạch nguồn gốc thủy sản",
-   "link": "https://www.vietnamplus.vn/chong-khai-thac-iuu-siet-quan-ly-doi-tau-minh-bach-nguon-goc-thuy-san-post1142093.vnp",
-   "date": "Thu, 15 Oct 2026 11:22:01 +07:00",
-   "image": "https://media.vietnamplus.vn/images/1KaLW9rkiYGdYmyjSsWzW22EbMtHGjPNjaRGhLG9EpzKcazkX-0NTDsupActIfJR/1785742203741.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
-   "icon": "📰"
-  },
-  {
-   "title": "Nông nghiệp Hòa Phát tăng 47% lượng heo xuất bán trong quý 3",
-   "link": "https://www.vietnamplus.vn/nong-nghiep-hoa-phat-tang-47-luong-heo-xuat-ban-trong-quy-3-post1142094.vnp",
-   "date": "Thu, 15 Oct 2026 11:05:58 +07:00",
-   "image": "https://media.vietnamplus.vn/images/ZVGEpksth7og6ErJ-RWw1fWCO1f02zXsIcQcetJCEOQ7rwqiTf1XER6BGktEJl54/dscf1888.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
    "icon": "📰"
   },
   {
@@ -322,15 +358,6 @@
    "link": "https://chicuccntyhcm.gov.vn/new/2026/10/06/Tu-35-tan-heo-nhiem-chat-cam-bi-chan-tai-TPHCM-den-duong-day-hon-10000-tan-bi-khoi-to.aspx",
    "date": "Tue, 06 Oct 2026 14:30:00 +0700",
    "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f10%2fKhoiTo35TanHeoNhiemChatCam1.png",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
-   "title": "Chăn nuôi tuần hoàn tại TP.HCM: Giải pháp giảm ô nhiễm",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/09/30/Chan-nuoi-tuan-hoan-tai-TPHCM-Giai-phap-giam-o-nhiem.aspx",
-   "date": "Wed, 30 Sep 2026 17:45:00 +0700",
-   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f9%2fGiaiPhapChanNuoiTuanHoan1.png",
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
