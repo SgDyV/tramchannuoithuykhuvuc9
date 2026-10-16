@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-16T18:15:36.230Z",
- "count": 42,
+ "updated": "2026-10-16T21:26:09.013Z",
+ "count": 40,
  "items": [
+  {
+   "title": "Nhầm cúm với cảm lạnh, dễ bỏ qua dấu hiệu bệnh nặng",
+   "link": "https://vnexpress.net/nham-cum-voi-cam-lanh-de-bo-qua-dau-hieu-benh-nang-5132654.html",
+   "date": "Sat, 17 Oct 2026 02:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/15/die-u-tri-bn-cr-1792057937-5808-1792058028.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FG66JHNrjZ-OvvV1OOj2-w",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Ăn s&aacute;ng với yến mạch c&oacute; gi&uacute;p giảm nguy cơ tiểu đường loại 2?",
    "link": "https://thanhnien.vn/an-sang-voi-yen-mach-co-giup-giam-nguy-co-tieu-duong-loai-2-185261011120820567.htm",
@@ -165,24 +174,6 @@
    "icon": "📰"
   },
   {
-   "title": "Vô sinh do tắc hai vòi trứng",
-   "link": "https://vnexpress.net/vo-sinh-do-tac-hai-voi-trung-5132720.html",
-   "date": "Thu, 15 Oct 2026 17:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/15/anh-1792050653-5882-1792050760.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=slUq2oISsOJhsRdtVWJXEw",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Thực phẩm nên ăn sau 17h hỗ trợ ổn định đường huyết",
-   "link": "https://vnexpress.net/thuc-pham-nen-an-sau-17h-ho-tro-on-dinh-duong-huyet-5132501.html",
-   "date": "Thu, 15 Oct 2026 17:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/15/z5337343387713-ef211f22479aa9c-5151-6715-1792028971.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TbwGJoLSI1Uf20c4o9Y8Pg",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Ai nên tiêm vaccine cúm?",
    "link": "https://lifestyle.zingnews.vn/ai-nen-tiem-vaccine-cum-post1689567.html",
    "date": "Thu, 15 Oct 2026 14:25:35 +0700",
@@ -334,15 +325,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
-   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
-   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
   },
   {
    "title": "Bảng tiếp thu ý kiến giải trình NQ khu vực không được phép chăn nuôi",
