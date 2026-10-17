@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-17T11:00:07.166Z",
- "count": 43,
+ "updated": "2026-10-17T14:04:45.297Z",
+ "count": 42,
  "items": [
+  {
+   "title": "Liên tục ghi nhận ổ dịch tả lợn châu Phi tại Cần Thơ",
+   "link": "https://tienphong.vn/lien-tuc-ghi-nhan-o-dich-ta-lon-chau-phi-tai-can-tho-post1886151.tpo",
+   "date": "Sat, 17 Oct 2026 20:32:29 +07:00",
+   "image": "https://cdn.tienphong.vn/images/zpSLZBAVuID-6PZjWY2f6_TlbdNMLQnsptxDpXi3Cxzkh8S_5LEQ97w10vPk6gMx/heo.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Mắc sùi mào gà ở mí mắt",
+   "link": "https://vnexpress.net/mac-sui-mao-ga-o-mi-mat-5133654.html",
+   "date": "Sat, 17 Oct 2026 19:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/sui-mao-ga-o-mi-mat-1792234819-1689-1792235036.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_H8z-PJzoqThcSTSFjm8nQ",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Tiêm vaccine não mô cầu phòng nhóm ACYW cùng nhóm B được không?",
    "link": "https://vnexpress.net/tiem-vaccine-nao-mo-cau-phong-nhom-acyw-cung-nhom-b-duoc-khong-5133504.html",
@@ -138,15 +156,6 @@
    "icon": "📰"
   },
   {
-   "title": "Vì sao tiêm vaccine ba ngày vẫn mắc tay chân miệng?",
-   "link": "https://vnexpress.net/vi-sao-tiem-vaccine-ba-ngay-van-mac-tay-chan-mieng-5133114.html",
-   "date": "Fri, 16 Oct 2026 13:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/16/03-1792123757-4584-1792124059.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qvN9eFtsidaPHt1vMdk9XQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Ăn trứng suốt 12 tuần, người mắc gan nhiễm mỡ nhận kết quả bất ngờ",
    "link": "https://lifestyle.zingnews.vn/an-trung-suot-12-tuan-nguoi-mac-gan-nhiem-mo-nhan-ket-qua-bat-ngo-post1689771.html",
    "date": "Fri, 16 Oct 2026 10:49:44 +0700",
@@ -169,15 +178,6 @@
    "link": "https://thanhnien.vn/viet-nam-lap-du-lieu-an-toan-thuc-pham-quoc-gia-chu-dong-danh-gia-nguy-co-185261016092431892.htm",
    "date": "Fri, 16 Oct 26 09:37:00 +0700",
    "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/16/tnw-an-toan-thuc-pham-xet-nghiem-17921164446691069055927-17921166250501804300266-151-0-1401-2000-crop-17921166694411248180836.jpg",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "&Aacute;p lực 327.200 tấn t&ocirc;m trước th&aacute;ch thức El Nino, dịch bệnh",
-   "link": "https://thanhnien.vn/ap-luc-327200-tan-tom-truoc-thach-thuc-el-nino-dich-benh-185261015174559867.htm",
-   "date": "Fri, 16 Oct 26 08:21:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/15/tl10-1792060654810222023512-81-0-1681-2560-crop-17920610028421685029177.jpg",
    "source": "thanhnien",
    "label": "Báo Thanh Niên",
    "icon": "📰"
@@ -343,15 +343,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
-   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
-   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
   },
   {
    "title": "Bảng tiếp thu ý kiến giải trình NQ khu vực không được phép chăn nuôi",
