@@ -1,9 +1,63 @@
 {
- "updated": "2026-10-17T06:19:48.460Z",
+ "updated": "2026-10-17T11:00:32.648Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Sử dụng năng lượng và protein tối ưu",
+   "link": "https://channuoivietnam.com/portal-news-detail/60248",
+   "date": "2026-10-17T17:30:39+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f08%2fsu-dung-nang-luong-va-protein-toi-uu-2568.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Enzyme protease sẳn sàng cho giai đoạn hậu kháng sinh trên toàn cầu",
+   "link": "https://channuoivietnam.com/portal-news-detail/56154",
+   "date": "2026-10-17T17:15:12+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2022%2f12%2fScreenshot-2022-12-18-at-15.28.46.png",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Để làm ra viên thức ăn hoàn hảo",
+   "link": "https://channuoivietnam.com/portal-news-detail/40981",
+   "date": "2026-10-17T16:07:54+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f03%2fKH.-Vien-Thuc-An.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Ảnh hưởng của các mức năng lượng đến năng suất sinh sản và và chất lượng trứng của gà Ác",
+   "link": "https://channuoivietnam.com/portal-news-detail/10860",
+   "date": "2026-10-17T16:00:01+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f01%2fKH.-Ga-Ac.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Các yếu tố ảnh hưởng đến chất lượng vỏ trứng",
+   "link": "https://channuoivietnam.com/portal-news-detail/45927",
+   "date": "2026-10-17T15:59:20+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f08%2fKH.-Vo-trung.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Nguồn gen vật nuôi bản địa Việt Nam",
+   "link": "https://channuoivietnam.com/portal-news-detail/22823",
+   "date": "2026-10-17T15:59:01+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f03%2fKH.-heo-ban-dia.jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Nghiên cứu sử dụng cellulase của Bacillus subtilis để thủy phân bã đậu nành",
    "link": "https://channuoivietnam.com/portal-news-detail/34c9e3f8-e20f-41d5-8ee7-81884ea0f108",
@@ -81,60 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/43711",
    "date": "2026-10-16T16:07:17+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c43711edit.png&v=6df592bb-a754-4bc2-9a51-51d038ade838",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Làm thế nào để quản lý lớp độn chuồng trong chăn nuôi gia cầm hiệu quả?",
-   "link": "https://channuoivietnam.com/portal-news-detail/45521",
-   "date": "2026-10-16T15:59:58+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f07%2fKH.-tinh-trang-chat-don-chuong.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Xác định tỷ lệ tiêu hóa/ ME thích hợp trong khẩu phần ăn cho lợn nái mang thai trong điều kiện chuồng hở và kín",
-   "link": "https://channuoivietnam.com/portal-news-detail/49495",
-   "date": "2026-10-16T15:59:56+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c49495edit.png&v=a4b65d9e-d1fb-4cbf-9acb-f3a0f36bf769",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Tìm hiểu về chu trình canxi hàng ngày ở gà đẻ",
-   "link": "https://channuoivietnam.com/portal-news-detail/27722",
-   "date": "2026-10-16T15:59:05+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f01%2fKH.-chu-trinh-can-xi-o-ga-de.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Thực hành tốt cho lĩnh vực thức ăn chăn nuôi",
-   "link": "https://channuoivietnam.com/portal-news-detail/0d05c106-f037-47e7-8a05-3e108558ea18",
-   "date": "2026-10-16T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c6b1bc277-b2da-4c92-ae53-82649908ed9c.png&v=104ee2ae-7597-4f2b-8e01-a109c4adb2f4",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của bổ sung bột lá chè xanh đến khả năng sinh trưởng và chất lượng thịt lợn đen",
-   "link": "https://channuoivietnam.com/portal-news-detail/1507ad00-063e-413b-af10-536a3f05f3dc",
-   "date": "2026-10-16T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c1507ad00-063e-413b-af10-536a3f05f3dcedit.png&v=5b9e114f-5691-473a-9f9d-838b4f2ea6d5",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Năng suất sinh sản, sinh trưởng, thân thịt và chất lượng thịt của các tổ hợp lai giữa lợn nái F1 (Landrace x Yorxkdhire) với đực giống Landrace, Duroc và (Pietrain x Duroc)",
-   "link": "https://channuoivietnam.com/portal-news-detail/a2950197-abe2-4af2-b6d5-21a9f0a0990d",
-   "date": "2026-10-16T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c9c1f6c61-2594-4955-9b03-dde6c3889ee5.png&v=0423fcfa-8df4-4647-ae1a-5773116f5032",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"

@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-17T06:19:31.076Z",
- "count": 44,
+ "updated": "2026-10-17T11:00:07.166Z",
+ "count": 43,
  "items": [
   {
    "title": "Tiêm vaccine não mô cầu phòng nhóm ACYW cùng nhóm B được không?",
@@ -228,15 +228,6 @@
    "icon": "📰"
   },
   {
-   "title": "Ai nên tiêm vaccine cúm?",
-   "link": "https://lifestyle.zingnews.vn/ai-nen-tiem-vaccine-cum-post1689567.html",
-   "date": "Thu, 15 Oct 2026 14:25:35 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_10_14/Vaccine_cum_1.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
    "title": "Nhiều ca mắc cúm ở TPHCM, chủng nào chiếm ưu thế?",
    "link": "https://dantri.com.vn/suc-khoe/nhieu-ca-mac-cum-o-tphcm-chung-nao-chiem-uu-the-20261014155738902.htm",
    "date": "Thu, 15 Oct 2026 13:33:36 +0700",
@@ -259,15 +250,6 @@
    "link": "https://dantri.com.vn/suc-khoe/ha-noi-co-200-300-ca-cum-nhap-vien-moi-tuan-sai-lam-khien-benh-nang-them-20261014063638776.htm",
    "date": "Wed, 14 Oct 2026 13:44:25 +0700",
    "image": "https://icdn.dantri.com.vn/2026/10/14/cum-1791934076807.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Sản phẩm \"Chân gà Bà Tuyết\" bị tiêu hủy ở Nhật Bản, doanh nghiệp lên tiếng",
-   "link": "https://dantri.com.vn/kinh-doanh/san-pham-chan-ga-ba-tuyet-bi-tieu-huy-o-nhat-ban-doanh-nghiep-len-tieng-20261014113826343.htm",
-   "date": "Wed, 14 Oct 2026 12:08:02 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/14/ba-tuyet-cropped-1791952441309.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
    "icon": "📰"
@@ -361,6 +343,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Bảng tiếp thu ý kiến giải trình NQ khu vực không được phép chăn nuôi",
