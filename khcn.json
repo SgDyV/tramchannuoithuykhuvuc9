@@ -1,9 +1,81 @@
 {
- "updated": "2026-10-19T07:57:14.817Z",
+ "updated": "2026-10-19T15:09:40.704Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Xác định thành phần acid béo của một số loại dầu mỡ dùng trong chăn nuôi gia súc gia cầm",
+   "link": "https://channuoivietnam.com/portal-news-detail/695a78fc-a772-4c01-a39c-5f6eadb6c5f3",
+   "date": "2026-10-19T19:37:03.543+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c8b919d80-1ce6-45e1-bd26-839cff3da5e1.png&v=7746035e-d9c3-4fd2-95af-74ffa7f2249a",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Phân biệt thịt bò, trâu, heo bằng kỹ thuật multiplex real-time PCR",
+   "link": "https://channuoivietnam.com/portal-news-detail/57169",
+   "date": "2026-10-19T17:16:39+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c57169edit.png&v=08ddc742-cbda-4397-87d5-2020e764c25e",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Cân bằng axit amin: Phương pháp tiếp cận toàn diện về hiệu quả kinh tế và sức khoẻ động vật",
+   "link": "https://channuoivietnam.com/portal-news-detail/60254",
+   "date": "2026-10-19T17:00:24+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f08%2fcan-bang-axit-amin-phuong-phap-tiep-can-toan-dien-ve-hieu-qua-kinh-te-va-suc-khoe-dong-vat-2566.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Ảnh hưởng mycotoxins đối với gà đẻ giống",
+   "link": "https://channuoivietnam.com/portal-news-detail/36825",
+   "date": "2026-10-19T16:02:04+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2019%2f01%2fKH.-Mycotoxins-g%c3%a0-%c4%91%e1%ba%bb-gi%e1%bb%91ng-1.png",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Giá trị tín chỉ carbon dưới góc nhìn pháp lý - Hướng đến sự phát triển bền vững",
+   "link": "https://channuoivietnam.com/portal-news-detail/18600",
+   "date": "2026-10-19T16:00:40+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c18600edit.png&v=3a0ab028-25d9-4265-91e4-2e3c0b40b398",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Sử dụng nitrate cho gia súc nhai lại",
+   "link": "https://channuoivietnam.com/portal-news-detail/46453",
+   "date": "2026-10-19T15:59:37+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f08%2fKH.-qua-trinh-trao-doi-khi-nitr.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Đánh giá hiệu quả kháng khuẩn của cao chiết vỏ măng cụt trên vi khuẩn S. aureus và P. aeruginosa phân lập trên vết thương của chó",
+   "link": "https://channuoivietnam.com/portal-news-detail/47204",
+   "date": "2026-10-19T15:59:15+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c47204edit.png&v=a33d2887-dfb8-4ad7-9d41-e294de4a7efc",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Phát triển cơ chế kiểm soát di truyền đối với một loại gây hại lớn trong chăn nuôi",
+   "link": "https://channuoivietnam.com/portal-news-detail/4840",
+   "date": "2026-10-19T15:59:13+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2016%2f09%2fKH.-ruoi.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Sử dụng hàm phi tuyến tính mô tả tỷ lệ đẻ của gà chọi",
    "link": "https://channuoivietnam.com/portal-news-detail/0bf526ba-cd5d-4147-b076-9000776fc728",
@@ -63,78 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/56175",
    "date": "2026-10-18T17:15:40+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c56175edit.png&v=ed47757b-0908-452d-8c35-93cadfd2cac0",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Hiểu về năng lượng khẩu phần",
-   "link": "https://channuoivietnam.com/portal-news-detail/36266",
-   "date": "2026-10-18T16:01:04+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2018%2f10%2fKH.-Grains-s.jpeg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của số lượng vú ở lợn đực Landrace đến số con sinh ra còn sống",
-   "link": "https://channuoivietnam.com/portal-news-detail/13882",
-   "date": "2026-10-18T16:00:56+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f01%2fKH.-duc.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Sự an toàn và khả năng đáp ứng miễn dịch nhanh, kéo dài của vắc-xin phòng bệnh viêm hồi tràng trên heo theo hai quy trình tiêm 3 và 5 tuần tuổi",
-   "link": "https://channuoivietnam.com/portal-news-detail/43823",
-   "date": "2026-10-18T16:00:36+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c43823edit.png&v=dc3de919-c7bf-4584-995a-96bcfb8d8924",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Cách phòng và trị hiệu quả bệnh hồng lỵ ở heo",
-   "link": "https://channuoivietnam.com/portal-news-detail/45286",
-   "date": "2026-10-18T15:59:37+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f07%2fKH.-Benh-tich.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Nghiên cứu sự lưu hành của Fowl Adenovirus ở gà",
-   "link": "https://channuoivietnam.com/portal-news-detail/49647",
-   "date": "2026-10-18T15:59:25+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2021%2f01%2fKH.-Mo-ga.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Sử dụng biện pháp đông lạnh để bảo quản thịt bò",
-   "link": "https://channuoivietnam.com/portal-news-detail/242b0f97-913b-4dc8-b6d1-efa0a62c798d",
-   "date": "2026-10-18T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c7c3e6f12-bcea-465d-acec-1c251c2c1e18.png&v=ec09ac3c-67f7-4f6c-b0ff-01a577bc3b25",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Nghiên cứu xây dựng khẩu phần ăn phù hợp cho vịt Hòa Lan sinh sản với nguồn nguyên liệu địa phương",
-   "link": "https://channuoivietnam.com/portal-news-detail/792f311c-edab-4085-9b93-6c32c2162fec",
-   "date": "2026-10-18T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c742d1eb7-68d1-4ba2-918c-f4321479e064.png&v=df3ecb78-9cb6-4a13-bc46-2a109d5fce56",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Kiểm soát chất lượng và phân tích mẫu trong phòng thí nghiệm",
-   "link": "https://channuoivietnam.com/portal-news-detail/838f06a1-91e1-49aa-bc7f-a004e13b6da0",
-   "date": "2026-10-18T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cf6238049-3e4b-4867-8d85-e0039e4cc5c0.png&v=d72d94ac-f589-4c07-9f05-dff5ba09f999",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
