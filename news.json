@@ -1,7 +1,79 @@
 {
- "updated": "2026-10-20T03:47:48.675Z",
- "count": 43,
+ "updated": "2026-10-20T08:57:27.836Z",
+ "count": 49,
  "items": [
+  {
+   "title": "Dấu hiệu cảnh báo cúm nặng",
+   "link": "https://vnexpress.net/dau-hieu-canh-bao-cum-nang-5134649.html",
+   "date": "Tue, 20 Oct 2026 15:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/20/image001-1792480916-6742-1792481046.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YFh8kKoL3MRSFB2duuQ_wQ",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Hiệp định VEFTA mở cơ hội nâng tầm thủy sản Việt Nam tại thị trường cao cấp",
+   "link": "https://www.vietnamplus.vn/hiep-dinh-vefta-mo-co-hoi-nang-tam-thuy-san-viet-nam-tai-thi-truong-cao-cap-post1143131.vnp",
+   "date": "Tue, 20 Oct 2026 14:54:36 +07:00",
+   "image": "https://media.vietnamplus.vn/images/2Bp7XAns5lTd2E1LvH3sb00gg7gpSBaLi52M7qVESahMV7rgHx5xEujRvZ85rr7uIFnOZuwwXB6YOO8wfBZY3A/ttxvn-96-nam-thanh-lap-dang-46.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Thực phẩm dính nước mưa có nên sử dụng tiếp?",
+   "link": "https://dantri.com.vn/suc-khoe/thuc-pham-dinh-nuoc-mua-co-nen-su-dung-tiep-20261019181104567.htm",
+   "date": "Tue, 20 Oct 2026 14:21:10 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/19/mua-tphcm-edited-1792407614840.jpg?watermark=v1",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "TP HCM trả lương đến 100 triệu đồng cho chuyên gia nông nghiệp công nghệ cao",
+   "link": "https://vnexpress.net/tp-hcm-tra-luong-den-100-trieu-dong-cho-chuyen-gia-nong-nghiep-cong-nghe-cao-5134566.html",
+   "date": "Tue, 20 Oct 2026 13:32:39 +0700",
+   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/1K5C1UFCP4IU7MF-1792480134-7746-1792480140.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LlA6MUlovWft75uWxX733Q",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Bác sĩ dinh dưỡng bất ngờ với món “cháo gà” mẹ cho trẻ ăn",
+   "link": "https://dantri.com.vn/suc-khoe/bac-si-dinh-duong-bat-ngo-voi-mon-chao-ga-me-cho-tre-an-20261019182951546.htm",
+   "date": "Tue, 20 Oct 2026 12:02:32 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/20/ths-son-cropped-1792468464430.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Thực phẩm giàu omega-3 ngoài cá, nhiều người dễ bỏ qua",
+   "link": "https://lifestyle.zingnews.vn/thuc-pham-giau-omega-3-ngoai-ca-nhieu-nguoi-de-bo-qua-post1690258.html",
+   "date": "Tue, 20 Oct 2026 11:40:19 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/ofh_cgkztmzt/2025_10_30/cac_loai_hat_dinh_duong_giam_ung_thu.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "An Giang ghi nhận thêm ổ dịch tả lợn châu Phi",
+   "link": "https://tienphong.vn/an-giang-ghi-nhan-them-o-dich-ta-lon-chau-phi-post1886878.tpo",
+   "date": "Tue, 20 Oct 2026 11:31:53 +07:00",
+   "image": "https://cdn.tienphong.vn/images/fkFLQe7x6NXR-htqIBPBaniji_yKOaBg2PfadvnQ5dfaZZf5UaTe_3EILtNX09ax/acp1.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Minh bạch nguồn thực phẩm cho bữa ăn học đường",
+   "link": "https://tienphong.vn/minh-bach-nguon-thuc-pham-cho-bua-an-hoc-duong-post1886860.tpo",
+   "date": "Tue, 20 Oct 2026 10:42:25 +07:00",
+   "image": "https://cdn.tienphong.vn/images/RNp65zNs098qZKWyBaZ90skBU1lu7gcsT8Spn7AIt4GzbqK7rhWSxaalXcMvttWI/word-bcny8a-6277.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
   {
    "title": "Hơn 450 tấn lợn bị tiêu hủy, dịch tả vẫn diễn biến phức tạp ở Nghệ An",
    "link": "https://tienphong.vn/hon-450-tan-lon-bi-tieu-huy-dich-ta-van-dien-bien-phuc-tap-o-nghe-an-post1886840.tpo",
@@ -18,6 +90,15 @@
    "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/20/ban-sao-cua-dscf84400-ok-17924-1570-8203-1792459633.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=c0vhocUaNk9dmW4hRqzjEQ",
    "source": "vnexpress",
    "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "VNVC tiêm gần 40.000 mũi vaccine não mô cầu, tăng cường cung ứng toàn quốc",
+   "link": "https://dantri.com.vn/suc-khoe/vnvc-tiem-gan-40000-mui-vaccine-nao-mo-cau-tang-cuong-cung-ung-toan-quoc-20261020080348634.htm",
+   "date": "Tue, 20 Oct 2026 08:42:00 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/20/anh-chup-man-hinh-2026-10-20-luc-07-cropped-1792458120677.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
    "icon": "📰"
   },
   {
@@ -93,30 +174,12 @@
    "icon": "📰"
   },
   {
-   "title": "4 nhóm thực phẩm phụ nữ mang thai nên tránh",
-   "link": "https://vnexpress.net/4-nhom-thuc-pham-phu-nu-mang-thai-nen-tranh-5134090.html",
-   "date": "Mon, 19 Oct 2026 14:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/19/ca-phe-ha-ng-tra-n-1792379796-6364-1792379909.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=GAp6X2AqxAtI21AzjdMatw",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Người đ&atilde; ti&ecirc;m vắc xin n&atilde;o m&ocirc; cầu c&oacute; cần sử dụng kh&aacute;ng sinh dự ph&ograve;ng kh&ocirc;ng?",
    "link": "https://thanhnien.vn/nguoi-da-tiem-vac-xin-nao-mo-cau-co-can-su-dung-khang-sinh-du-phong-khong-185261019103156061.htm",
    "date": "Mon, 19 Oct 26 10:31:00 +0700",
    "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/19/tiem-chung-17923803529771222151431-58-0-1658-2560-crop-1792380531280195942270.jpg",
    "source": "thanhnien",
    "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "Có thể tiêm ngừa não mô cầu ngay sau vaccine khác không?",
-   "link": "https://vnexpress.net/co-the-tiem-ngua-nao-mo-cau-ngay-sau-vaccine-khac-khong-5134050.html",
-   "date": "Mon, 19 Oct 2026 10:30:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/19/vnvc-co-the-tiem-ngu-a-na-o-mo-2415-1833-1792378769.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=w3TYC3Ib16vBefvF40aVeg",
-   "source": "vnexpress",
-   "label": "VnExpress",
    "icon": "📰"
   },
   {
@@ -144,15 +207,6 @@
    "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/tang-van-xua-1792054043-2600-1792334668.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5FbAzRO4o9O86UO9Cwjr_g",
    "source": "vnexpress",
    "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Yến s&agrave;o Kh&aacute;nh H&ograve;a đầu tư gần 10 tỉ đồng cho trung t&acirc;m kiểm nghiệm",
-   "link": "https://thanhnien.vn/yen-sao-khanh-hoa-dau-tu-gan-10-ti-dong-cho-trung-tam-kiem-nghiem-185261018152907939.htm",
-   "date": "Sun, 18 Oct 26 16:55:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/18/tnw-base64-1792314141833829710427-1792314155583936710115-1-160-1125-1959-crop-1792314841960644151361.jpeg",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
    "icon": "📰"
   },
   {
