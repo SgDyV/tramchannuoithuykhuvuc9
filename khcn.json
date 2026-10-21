@@ -1,9 +1,18 @@
 {
- "updated": "2026-10-21T00:22:00.895Z",
+ "updated": "2026-10-21T05:04:14.771Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Sổ tay hướng dẫn đo phát thải khí nhà kính trong chăn nuôi bò sữa",
+   "link": "https://channuoivietnam.com/portal-news-detail/cc0037c7-d654-436c-9388-c97476db3013",
+   "date": "2026-10-21T07:50:24.893+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cbe957d6a-3954-43ce-9917-494648ed6f4c.png&v=6460cce7-b465-4744-af8d-1666265d31a2",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Nghiên cứu ảnh hưởng nồng độ huyết thanh bào thai bò lên tỷ lệ tăng sinh của phân đoạn tế bào tạo mạch nền (SVF) từ mô mỡ chó",
    "link": "https://channuoivietnam.com/portal-news-detail/60046a90-bcc0-4e03-8441-25805a754066",
@@ -126,15 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/33e1941d-ad4a-4863-a34b-9db84cd33428",
    "date": "2026-10-20T00:00:00+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cf8e136fd-f24e-496a-bf68-96ef111b6726.png&v=462d9dc0-7ee1-4dec-9e50-b6ba74730e10",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Một số chỉ tiêu sinh trưởng của vịt Cổ Lũng nuôi lấy thịt",
-   "link": "https://channuoivietnam.com/portal-news-detail/350b54bc-ceef-42ef-afb0-f6f82ba1c316",
-   "date": "2026-10-20T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cd4fa6ad3-186c-47ce-98c7-ae311f5eddbb.png&v=2b831202-cd07-42d4-9de1-d44dc493ccc6",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
