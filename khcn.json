@@ -1,9 +1,72 @@
 {
- "updated": "2026-10-21T05:04:14.771Z",
+ "updated": "2026-10-21T10:22:27.620Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Phương pháp đếm nang noãn bằng kỹ thuật McMaster",
+   "link": "https://channuoivietnam.com/portal-news-detail/57185",
+   "date": "2026-10-21T17:16:06+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c57185edit.png&v=53cb6cf5-25c2-4b8d-903c-297e562cc335",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Tối đa hoá lợi ích của khô dầu cọ trong thức ăn chăn nuôi",
+   "link": "https://channuoivietnam.com/portal-news-detail/60260",
+   "date": "2026-10-21T17:05:48+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f08%2ftoi-da-hoa-loi-ich-cua-kho-dau-co-trong-thuc-an-chan-nuoi-huong-dan-toan-dien-2562.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Tổng quan về mycotoxin",
+   "link": "https://channuoivietnam.com/portal-news-detail/42430",
+   "date": "2026-10-21T16:06:12+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f10%2fKH.-Mycotoxin.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Giải mã màu sắc chân gà Cobb & Ross: Ảnh hưởng đến hiệu suất và thị trường",
+   "link": "https://channuoivietnam.com/portal-news-detail/19851",
+   "date": "2026-10-21T16:00:17+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c19851edit.png&v=4de088fe-0352-45cf-8b5a-95e34dd5db23",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Bệnh què chân ở heo nái",
+   "link": "https://channuoivietnam.com/portal-news-detail/27281",
+   "date": "2026-10-21T15:59:59+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2016%2f12%2fKH.-Heo-nai-nuoi-con.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Mấu chốt của sự đề kháng kháng sinh đối với những nỗ lực hiểu biết cắt giảm kháng sinh ở gia cầm",
+   "link": "https://channuoivietnam.com/portal-news-detail/46213",
+   "date": "2026-10-21T15:59:33+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f08%2fKH.-Bieu-do-khang-sinh.png",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Ảnh hưởng arabinoxylan tới hiệu chăn nuôi: Cách lựa chọn enzyme xylanase hiệu quả",
+   "link": "https://channuoivietnam.com/portal-news-detail/48340",
+   "date": "2026-10-21T15:59:26+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f11%2fKH.-Arabinoxylan.png",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Sổ tay hướng dẫn đo phát thải khí nhà kính trong chăn nuôi bò sữa",
    "link": "https://channuoivietnam.com/portal-news-detail/cc0037c7-d654-436c-9388-c97476db3013",
@@ -72,69 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/60257",
    "date": "2026-10-20T17:01:22+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f08%2fvai-tro-cua-cac-vitamin-tan-trong-dau-va-dieu-chinh-chat-beo-de-tang-cuong-hap-thu-chung-2564.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Thành phần, số lượng và tính mẫn cảm với kháng sinh của một số vi khuẩn hiếu khí được phân lập từ dịch tử cung bò sữa",
-   "link": "https://channuoivietnam.com/portal-news-detail/43923",
-   "date": "2026-10-20T16:01:45+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f06%2fKH.-Bo-sua.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Sử dụng hợp lý vitamin và khoáng trong thức ăn chăn nuôi",
-   "link": "https://channuoivietnam.com/portal-news-detail/27750",
-   "date": "2026-10-20T16:00:19+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f01%2fKH.-vitamins-trace-minerals-animal-feeds-1601.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Xu hướng dinh dưỡng gia cầm trong tương lai",
-   "link": "https://channuoivietnam.com/portal-news-detail/32302",
-   "date": "2026-10-20T16:00:12+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2016%2f09%2fKH.-Ha-thit-CN-2.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Mô hình sản xuất thức ăn TMR chăn nuôi bò sữa",
-   "link": "https://channuoivietnam.com/portal-news-detail/47741",
-   "date": "2026-10-20T15:59:26+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f11%2fKH.-Thuc-an-TMR-cho-bo-sua.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ứng dụng kỹ thuật PCR trong chẩn đoán bệnh gia cầm",
-   "link": "https://channuoivietnam.com/portal-news-detail/44951",
-   "date": "2026-10-20T15:59:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c44951edit.png&v=7469cfc9-5421-4505-a4b7-29f7fee4a617",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của phương thức nuôi bò sữa đến bệnh axit dạ cỏ",
-   "link": "https://channuoivietnam.com/portal-news-detail/1baaa314-3747-43bb-afbd-f5735403afee",
-   "date": "2026-10-20T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c7626f029-1af2-44f6-8162-cb093697aa61.png&v=5a58da8e-bdf2-421a-ae95-9190fdcc79d6",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ngày không sản xuất hay ngày hao phí?",
-   "link": "https://channuoivietnam.com/portal-news-detail/33e1941d-ad4a-4863-a34b-9db84cd33428",
-   "date": "2026-10-20T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cf8e136fd-f24e-496a-bf68-96ef111b6726.png&v=462d9dc0-7ee1-4dec-9e50-b6ba74730e10",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
