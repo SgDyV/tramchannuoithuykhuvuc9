@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-21T10:22:10.216Z",
- "count": 46,
+ "updated": "2026-10-21T15:26:03.495Z",
+ "count": 42,
  "items": [
+  {
+   "title": "Tiêm cùng lúc vaccine tay chân miệng và não mô cầu được không?",
+   "link": "https://vnexpress.net/tiem-cung-luc-vaccine-tay-chan-mieng-va-nao-mo-cau-duoc-khong-5135166.html",
+   "date": "Wed, 21 Oct 2026 19:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/21/ban-sao-cua-tre-tiem-vac-xin-p-2294-4105-1792572474.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=StX1Emx4oCDcev9j8mENAQ",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Trứng gà thả vườn giá gấp đôi gà công nghiệp vẫn hút khách",
+   "link": "https://dantri.com.vn/kinh-doanh/trung-ga-tha-vuon-gia-gap-doi-ga-cong-nghiep-van-hut-khach-20261021143740323.htm",
+   "date": "Wed, 21 Oct 2026 16:23:30 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/21/3-1792567799525.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
   {
    "title": "Vấp phải 'ổ gà' rồi ngã ra đường, người đi xe máy bị xe ben cán tử vong ở Hà Nội",
    "link": "https://tienphong.vn/vap-phai-o-ga-roi-nga-ra-duong-nguoi-di-xe-may-bi-xe-ben-can-tu-vong-o-ha-noi-post1887265.tpo",
@@ -84,15 +102,6 @@
    "icon": "📰"
   },
   {
-   "title": "Vừa đưa vào sử dụng, đường tránh trung tâm Cao Bằng đã nham nhở ổ gà",
-   "link": "https://tienphong.vn/vua-dua-vao-su-dung-duong-tranh-trung-tam-cao-bang-da-nham-nho-o-ga-post1886987.tpo",
-   "date": "Wed, 21 Oct 2026 06:29:17 +07:00",
-   "image": "https://cdn.tienphong.vn/images/jreEv1q34fhC96D32dLpCbonp2cCiBTxQJzxxEmG5NasIbPKy9b3vmJZndk7e7lY/tp_9-2765.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
    "title": "Đưa thịt b&ograve; H'M&ocirc;ng th&agrave;nh thương hiệu quốc gia",
    "link": "https://thanhnien.vn/dua-thit-bo-hmong-thanh-thuong-hieu-quoc-gia-185261020210648337.htm",
    "date": "Wed, 21 Oct 26 05:00:00 +0700",
@@ -106,15 +115,6 @@
    "link": "https://vnexpress.net/tp-hcm-tim-mo-hinh-khoi-nghiep-nong-nghiep-de-ho-tro-thuong-mai-hoa-5134582.html",
    "date": "Tue, 20 Oct 2026 17:11:43 +0700",
    "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/img-jpg-1792474399-2360-1792474465.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZfcfnW0Sv_CuwXWy4ukw1A",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Dấu hiệu cảnh báo cúm nặng",
-   "link": "https://vnexpress.net/dau-hieu-canh-bao-cum-nang-5134649.html",
-   "date": "Tue, 20 Oct 2026 15:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/20/image001-1792480916-6742-1792481046.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YFh8kKoL3MRSFB2duuQ_wQ",
    "source": "vnexpress",
    "label": "VnExpress",
    "icon": "📰"
@@ -192,15 +192,6 @@
    "icon": "📰"
   },
   {
-   "title": "Loại thực phẩm được ví như 'lá chắn' trước một số độc tố",
-   "link": "https://znews.vn/loai-thuc-pham-duoc-vi-nhu-la-chan-truoc-mot-so-doc-to-post1690634.html",
-   "date": "Mon, 19 Oct 2026 20:17:25 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_10_19/Dau_dua_1_1.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
    "title": "Người đ&atilde; ti&ecirc;m vắc xin n&atilde;o m&ocirc; cầu c&oacute; cần sử dụng kh&aacute;ng sinh dự ph&ograve;ng kh&ocirc;ng?",
    "link": "https://thanhnien.vn/nguoi-da-tiem-vac-xin-nao-mo-cau-co-can-su-dung-khang-sinh-du-phong-khong-185261019103156061.htm",
    "date": "Mon, 19 Oct 26 10:31:00 +0700",
@@ -216,15 +207,6 @@
    "image": "https://icdn.dantri.com.vn/2026/10/17/nao-mo-cau-000-edited-1792227615659.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Từ ruộng lúa phèn mặn đến trang trại tôm lãi hàng tỷ đồng",
-   "link": "https://vnexpress.net/tu-ruong-lua-phen-man-den-trang-trai-tom-lai-hang-ty-dong-5131855.html",
-   "date": "Mon, 19 Oct 2026 05:00:00 +0700",
-   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/tang-van-xua-1792054043-2600-1792334668.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5FbAzRO4o9O86UO9Cwjr_g",
-   "source": "vnexpress",
-   "label": "VnExpress",
    "icon": "📰"
   },
   {
@@ -313,24 +295,6 @@
    "link": "https://dantri.com.vn/suc-khoe/ha-noi-co-200-300-ca-cum-nhap-vien-moi-tuan-sai-lam-khien-benh-nang-them-20261014063638776.htm",
    "date": "Wed, 14 Oct 2026 13:44:25 +0700",
    "image": "https://icdn.dantri.com.vn/2026/10/14/cum-1791934076807.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Cúm vào mùa, chuyên gia lưu ý những biến chứng nguy hiểm",
-   "link": "https://dantri.com.vn/suc-khoe/cum-vao-mua-chuyen-gia-luu-y-nhung-bien-chung-nguy-hiem-20261011154256667.htm",
-   "date": "Wed, 14 Oct 2026 07:00:00 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/11/cum-edited-1791708013183.jpg?watermark=v1",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Bò gặm cỏ trong khuôn viên bệnh viện, nhiều thiết bị lưu kho",
-   "link": "https://dantri.com.vn/suc-khoe/bo-gam-co-trong-khuon-vien-benh-vien-nhieu-thiet-bi-luu-kho-20261013153701992.htm",
-   "date": "Wed, 14 Oct 2026 06:24:00 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/13/thoi-su-benh-vien-tram-ty-thanh-noi-chan-bo2-edited-1791879780481.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
    "icon": "📰"
