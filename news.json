@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-21T22:32:11.652Z",
- "count": 44,
+ "updated": "2026-10-22T01:03:10.986Z",
+ "count": 43,
  "items": [
+  {
+   "title": "Thịt, cá bị 'cháy lạnh' có ăn được không?",
+   "link": "https://vnexpress.net/thit-ca-bi-chay-lanh-co-an-duoc-khong-5134501.html",
+   "date": "Thu, 22 Oct 2026 05:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/20/lintro1646870580-1792466087-7475-1792466102.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jWYTDyvlLarpB5lCGdukaA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "3 điều 'cấm kỵ' cần tránh khi ăn trứng",
    "link": "https://vnexpress.net/3-dieu-cam-ky-can-tranh-khi-an-trung-5134888.html",
@@ -183,15 +192,6 @@
    "icon": "📰"
   },
   {
-   "title": "CP ứng dụng probiotics trong chăn nuôi gà, hướng đến bữa ăn an tâm",
-   "link": "https://lifestyle.zingnews.vn/cp-ung-dung-probiotics-trong-chan-nuoi-ga-huong-den-bua-an-an-tam-post1690664.html",
-   "date": "Tue, 20 Oct 2026 08:00:36 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/wyhktpu/2026_10_19/Feed_Binh_Phuoc_1.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
    "title": "Một nắm thực phẩm 'nhỏ m&agrave; c&oacute; v&otilde;' gi&uacute;p hạ nguy cơ cao huyết &aacute;p đến 26%",
    "link": "https://thanhnien.vn/mot-nam-thuc-pham-nho-ma-co-vo-giup-ha-nguy-co-cao-huyet-ap-den-26-185261019231346792.htm",
    "date": "Tue, 20 Oct 26 00:13:00 +0700",
@@ -352,15 +352,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
-   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
-   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
   },
   {
    "title": "Bảng tiếp thu ý kiến giải trình NQ khu vực không được phép chăn nuôi",
