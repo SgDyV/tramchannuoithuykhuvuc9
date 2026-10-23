@@ -1,7 +1,52 @@
 {
- "updated": "2026-10-23T07:45:19.581Z",
+ "updated": "2026-10-23T12:54:52.845Z",
  "count": 49,
  "items": [
+  {
+   "title": "Nhà báo Vũ Tiến làm Phó Chủ tịch Hiệp hội Trang trại và Doanh nghiệp nông nghiệp Việt Nam",
+   "link": "https://tienphong.vn/nha-bao-vu-tien-lam-pho-chu-tich-hiep-hoi-trang-trai-va-doanh-nghiep-nong-nghiep-viet-nam-post1888008.tpo",
+   "date": "Fri, 23 Oct 2026 19:45:43 +07:00",
+   "image": "https://cdn.tienphong.vn/images/pAWKGOzT8BIc-M3GdeLjyU6gPtOoQn1WB_Mp05xsKwJs6lji_d3pmXK768vBaCR5/vu-tine-543.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Hai nh&agrave; khoa học Việt Nam v&agrave;o top 60 thế giới về nghi&ecirc;n cứu buồng trứng",
+   "link": "https://thanhnien.vn/hai-nha-khoa-hoc-viet-nam-vao-top-60-the-gioi-ve-nghien-cuu-buong-trung-185261023103540522.htm",
+   "date": "Fri, 23 Oct 26 19:38:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/23/bs-tuong-1792729444128162522040-96-654-447-1216-crop-17927590526521453426574.jpg",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "Việt Nam ph&aacute;t triển, sản xuất vắc xin thế hệ mới",
+   "link": "https://thanhnien.vn/viet-nam-phat-trien-san-xuat-vac-xin-the-he-moi-185261023163619548.htm",
+   "date": "Fri, 23 Oct 26 17:33:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/23/vac-xin-viem-nao-17927465120311848543080-38-0-538-800-crop-1792746517120270417889.jpg",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "'Chung cư' cho heo, chuồng trại AI tại triển lãm chăn nuôi",
+   "link": "https://vnexpress.net/chung-cu-cho-heo-chuong-trai-ai-tai-trien-lam-chan-nuoi-5135894.html",
+   "date": "Fri, 23 Oct 2026 17:30:00 +0700",
+   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/233a5562-1792742751.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ITSulw1fOdkFEVmDs4xa3Q",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Bộ Y tế khuyến cáo về cúm mùa, lưu ý 5 nhóm nguy cơ cao",
+   "link": "https://lifestyle.zingnews.vn/bo-y-te-khuyen-cao-ve-cum-mua-luu-y-5-nhom-nguy-co-cao-post1691463.html",
+   "date": "Fri, 23 Oct 2026 15:13:45 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_10_23/dichcumA_10_znews.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
   {
    "title": "Lời khuyên cho người muốn bồi bổ bằng yến sào, đông trùng hạ thảo",
    "link": "https://lifestyle.zingnews.vn/loi-khuyen-cho-nguoi-muon-boi-bo-bang-yen-sao-dong-trung-ha-thao-post1691251.html",
@@ -9,6 +54,15 @@
    "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_10_22/yen_sao.jpg",
    "source": "znews",
    "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Heo hơi, rau củ tại vườn đã giảm giá sâu, sao ở chợ vẫn neo cao?",
+   "link": "https://dantri.com.vn/kinh-doanh/heo-hoi-rau-cu-tai-vuon-da-giam-gia-sau-sao-o-cho-van-neo-cao-20261023121345203.htm",
+   "date": "Fri, 23 Oct 2026 13:02:31 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/23/7-cropped-1792732080119.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
    "icon": "📰"
   },
   {
@@ -111,15 +165,6 @@
    "icon": "📰"
   },
   {
-   "title": "Cơ hội cho nông sản, thủy sản và thực phẩm Việt Nam tại thị trường Hàn Quốc",
-   "link": "https://www.vietnamplus.vn/co-hoi-cho-nong-san-thuy-san-va-thuc-pham-viet-nam-tai-thi-truong-han-quoc-post1143650.vnp",
-   "date": "Thu, 22 Oct 2026 18:07:23 +07:00",
-   "image": "https://media.vietnamplus.vn/images/_RfA0Lv7xigOosrBfIuLk8CBlTN8SK6eWy-xNfJfo1trs9NWXvl0dPIEoO0ur5Co/ttxvn-lotttee.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
-   "icon": "📰"
-  },
-  {
    "title": "Minh bạch ghi nh&atilde;n thực phẩm gi&uacute;p ăn nhiều rau hơn, giảm chất b&eacute;o",
    "link": "https://thanhnien.vn/minh-bach-ghi-nhan-thuc-pham-giup-an-nhieu-rau-hon-giam-chat-beo-185261022172529172.htm",
    "date": "Thu, 22 Oct 26 17:47:00 +0700",
@@ -135,33 +180,6 @@
    "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/22/thit-do-1792636917127129287837-89-0-994-1448-crop-17926369337351989617748.png",
    "source": "thanhnien",
    "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "Vì sao cúm A có thể gây biến chứng?",
-   "link": "https://vnexpress.net/vi-sao-cum-a-co-the-gay-bien-chung-5135460.html",
-   "date": "Thu, 22 Oct 2026 13:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/22/image001-1792637562-4270-1792637653.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_wznYWH_ob35e1P-YCpN8g",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Nhiều thị trường thay đổi quy định nhập khẩu nông sản, thực phẩm",
-   "link": "https://tienphong.vn/nhieu-thi-truong-thay-doi-quy-dinh-nhap-khau-nong-san-thuc-pham-post1887470.tpo",
-   "date": "Thu, 22 Oct 2026 11:04:16 +07:00",
-   "image": "https://cdn.tienphong.vn/images/RNp65zNs098qZKWyBaZ90rcGPHS9BufuiZuPbCqOtCczGPC6-4qFr_fTDbThQKru/a1-8353.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
-   "title": "Hai mẹ con cùng mắc cúm A",
-   "link": "https://vnexpress.net/hai-me-con-cung-mac-cum-a-5135385.html",
-   "date": "Thu, 22 Oct 2026 10:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/22/image001-1792628179-7174-1792628341.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=beyxbHKe26DrQuO7VMOBnw",
-   "source": "vnexpress",
-   "label": "VnExpress",
    "icon": "📰"
   },
   {
@@ -352,24 +370,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Thực phẩm nguy cơ cao sẽ được kiểm soát chặt hơn",
-   "link": "https://dantri.com.vn/suc-khoe/thuc-pham-nguy-co-cao-se-duoc-kiem-soat-chat-hon-20261015124141035.htm",
-   "date": "Fri, 16 Oct 2026 07:04:10 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/05/22/img20250516185646-edited-1747396730427-1747877174709.jpeg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "TPHCM ghi nhận hàng trăm ca cúm trong tuần: Cảnh báo nhầm lẫn tai hại",
-   "link": "https://dantri.com.vn/suc-khoe/tphcm-ghi-nhan-hang-tram-ca-cum-trong-tuan-canh-bao-nham-lan-tai-hai-20261015122745092.htm",
-   "date": "Fri, 16 Oct 2026 07:03:08 +0700",
-   "image": "https://icdn.dantri.com.vn/2023/11/23/benh-ho-hap-9-1700708066959.jpeg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
   },
   {
    "title": "Hội thảo “nông nghiệp tuần hoàn - giải pháp công nghệ cho nông nghiệp bền vững”: kết nối công nghệ, nâng cao giá trị tài nguyên",
