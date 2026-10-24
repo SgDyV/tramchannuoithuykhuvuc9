@@ -1,9 +1,72 @@
 {
- "updated": "2026-10-24T07:27:46.689Z",
+ "updated": "2026-10-24T12:08:09.726Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Xây dựng quy trình chuẩn đoán bệnh do Mycoplasma anatis trên vịt bằng kỹ thuật PCR",
+   "link": "https://channuoivietnam.com/portal-news-detail/57202",
+   "date": "2026-10-24T17:16:53+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f01%2fUnknown-33.jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Nâng cao khả năng tiêu hoá thức ăn thông qua việc sử dụng enzyme phù hợp với thành phần nguyên liệu",
+   "link": "https://channuoivietnam.com/portal-news-detail/60283",
+   "date": "2026-10-24T17:00:45+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f08%2fhieu-ve-protease-su-dung-hop-ly-trong-cong-thuc-thuc-an-chan-nuoi-3671.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Ảnh hưởng của công nghệ bảo quản CAS (cells alive system) đến chất lượng thịt gà đen",
+   "link": "https://channuoivietnam.com/portal-news-detail/44330",
+   "date": "2026-10-24T16:08:54+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f06%2fKH.-Thit-ga-den.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Ảnh hưởng kinh tế mô phỏng của dịch bệnh lở mồm long móng",
+   "link": "https://channuoivietnam.com/portal-news-detail/21602",
+   "date": "2026-10-24T16:00:23+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f09%2fKH.-Benh-LMLM.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Chức năng gan và quá trình hình thành lòng đỏ trứng ở gia cầm",
+   "link": "https://channuoivietnam.com/portal-news-detail/26368",
+   "date": "2026-10-24T15:59:58+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c26368edit.png&v=5aa48ec4-e367-4943-88aa-bf3f447c9a9f",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Ổn định lượng vitamin trong premix liều thấp cho gia cầm",
+   "link": "https://channuoivietnam.com/portal-news-detail/45202",
+   "date": "2026-10-24T15:59:47+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f07%2fKH.-Ga-de.png",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Nghiên cứu quá trình trích ly saponin tổng với sự hỗ trợ của sóng siêu âm và đánh giá hoạt tính sinh học của cao chiết từ sâm bố chính",
+   "link": "https://channuoivietnam.com/portal-news-detail/50155",
+   "date": "2026-10-24T15:59:02+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c50155edit.png&v=c906a7da-1bbf-48e4-8702-b195bc873ff7",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Nhu cầu lysine của gà thịt tăng trưởng chậm giai đoạn từ 1 đến 21 ngày tuổi",
    "link": "https://channuoivietnam.com/portal-news-detail/035b74e5-2228-4b59-8902-8fdc1ca7a0e5",
@@ -72,69 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/60280",
    "date": "2026-10-23T17:00:42+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f08%2fkhoa-hoc-dang-sau-ty-le-chuyen-hoa-thuc-an-mo-uoc-tap-trung-vao-toi-uu-fcr-3672.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Cải thiện hệ vi sinh vật đường ruột nhờ thành tế bào nấm men",
-   "link": "https://channuoivietnam.com/portal-news-detail/40984",
-   "date": "2026-10-23T16:07:03+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f03%2fKH.-Antigen-MOA.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Không nên giết chết vi khuẩn mà chỉ nên chế ngự chúng",
-   "link": "https://channuoivietnam.com/portal-news-detail/36261",
-   "date": "2026-10-23T16:01:20+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2018%2f10%2fKH.-khoang-canxi.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Phun probiotic lên bề mặt trứng ấp hỗ trợ hình thành và phát triển hệ vi sinh vật đường ruột ở phôi và gà con",
-   "link": "https://channuoivietnam.com/portal-news-detail/22863",
-   "date": "2026-10-23T16:00:34+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c22863edit.png&v=33f7c375-15a8-4302-bb69-a28fd5ccd9fe",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Giới thiệu một số giống bò thịt cho năng suất cao",
-   "link": "https://channuoivietnam.com/portal-news-detail/45598",
-   "date": "2026-10-23T15:59:29+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f08%2fKH.-Bo-Charolais.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Khả năng sản xuất và chất lượng thịt của tổ hợp gà lai kinh tế 3 giống (Mía - Hồ - Lương Phượng)",
-   "link": "https://channuoivietnam.com/portal-news-detail/48212",
-   "date": "2026-10-23T15:59:17+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f11%2fKH.-Ga-Ho-lai-1.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Đánh giá khả năng kháng khuẩn của tinh dầu tràm trà thô (Melaleuca alternifolia) trên vi khuẩn Bordertella bronchiseptica được phân lập trên chó",
-   "link": "https://channuoivietnam.com/portal-news-detail/b1ae8cbb-14aa-449d-acd4-d1cb315bf5fc",
-   "date": "2026-10-23T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c47033d2f-c4fc-48fa-a3c7-ad676ed649d6.png&v=ab7fa5ef-4b7c-4533-b2c9-a92fc4a7531a",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của mức năng lượng trong khẩu phần đến khả năng sinh trưởng và sinh sản của vịt Hòa Lan",
-   "link": "https://channuoivietnam.com/portal-news-detail/ba0c361f-bfd6-4e44-92f8-78c9c58ca388",
-   "date": "2026-10-23T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c8baca14e-2ccc-4ead-84f9-d7b90996826e.png&v=51119223-41ee-4d15-922f-cefd9006611a",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
