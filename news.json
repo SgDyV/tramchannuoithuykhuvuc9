@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:07:41.819Z",
+ "updated": "2026-10-24T16:06:56.633Z",
  "count": 49,
  "items": [
   {
@@ -156,15 +156,6 @@
    "icon": "📰"
   },
   {
-   "title": "U buồng trứng bám dính phức tạp",
-   "link": "https://vnexpress.net/u-buong-trung-bam-dinh-phuc-tap-5135842.html",
-   "date": "Fri, 23 Oct 2026 12:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/23/image001-1792726633-5498-1792727025.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bu0l0n1SyPXErCo46gCxUg",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Heo hơi rớt giá sâu, thịt ngoài chợ vẫn đắt",
    "link": "https://vnexpress.net/heo-hoi-rot-gia-sau-thit-ngoai-cho-van-dat-5135101.html",
    "date": "Fri, 23 Oct 2026 08:39:54 +0700",
@@ -189,15 +180,6 @@
    "image": "https://icdn.dantri.com.vn/2026/10/22/tom-hum-ban-via-he-gia-10-cropped-1792664600281.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Tuần sau, người dân khu Mả Lạng, Chợ Gà - Gạo nhận tiền bồi thường GPMB",
-   "link": "https://znews.vn/tuan-sau-nguoi-dan-khu-ma-lang-cho-ga-gao-nhan-tien-boi-thuong-gpmb-post1691293.html",
-   "date": "Thu, 22 Oct 2026 21:09:23 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/zdhwqmjwq/2026_06_24/malang_znews_2.JPG",
-   "source": "znews",
-   "label": "ZNews",
    "icon": "📰"
   },
   {
@@ -406,6 +388,24 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Trâu húc 6 người bị thương ở Lâm Đồng",
+   "link": "https://vnexpress.net/trau-huc-6-nguoi-bi-thuong-o-lam-dong-5136481.html",
+   "date": "Sat, 24 Oct 2026 19:28:43 +0700",
+   "image": "",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
   },
   {
    "title": "Bảng tiếp thu ý kiến giải trình NQ khu vực không được phép chăn nuôi",
