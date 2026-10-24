@@ -1,7 +1,61 @@
 {
- "updated": "2026-10-24T02:13:56.905Z",
- "count": 47,
+ "updated": "2026-10-24T07:27:14.173Z",
+ "count": 50,
  "items": [
+  {
+   "title": "Thúc đẩy kết nối kinh tế Việt Nam-Lào qua các dự án bất động sản và nông nghiệp",
+   "link": "https://www.vietnamplus.vn/thuc-day-ket-noi-kinh-te-viet-nam-lao-qua-cac-du-an-bat-dong-san-va-nong-nghiep-post1143983.vnp",
+   "date": "Sat, 24 Oct 2026 12:17:14 +07:00",
+   "image": "https://media.vietnamplus.vn/images/QcJaCVoYMCKXsPQ_Rprjc-Nivc0obGa-U72-GvQxW5cfz5XmrhqXRP4MjYKWz1Ahcn7iCWdZjPp1D_oRvej-5eBidcxzOgfCOm5sQEzVmGJ96CoM3JAFEaoVkMHUK98xkrftNNlak7iWvsDHNjYMoHNf6awZbE2khmdN9MlJq08/ttxvn_thuc-day-ket-noi-kinh-te-viet-nam-lao-qua-cac-du-an-bat-dong-san-va-nong-nghiep-thong-minh-24.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Gom trứng thụ tinh ống nghiệm ở tuổi 35",
+   "link": "https://vnexpress.net/gom-trung-thu-tinh-ong-nghiem-o-tuoi-35-5136307.html",
+   "date": "Sat, 24 Oct 2026 11:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/24/anh-1792806248-8031-1792806420.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xRaDy427LyVh1CSkWEOeRQ",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Đề nghị thống nhất một đầu mối quản lý an toàn thực phẩm từ Trung ương đến địa phương",
+   "link": "https://tienphong.vn/de-nghi-thong-nhat-mot-dau-moi-quan-ly-an-toan-thuc-pham-tu-trung-uong-den-dia-phuong-post1888098.tpo",
+   "date": "Sat, 24 Oct 2026 10:11:35 +07:00",
+   "image": "https://cdn.tienphong.vn/images/nZ3o7Y15rMpR1n6z3GhJVWXdlnR-6yLdH7lJCq8HECFJh0UyZxnzr2xwGM9hhHfk/tp-c_yte24-5388.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "7 thực phẩm tốt cho sinh lý nam giới luyện tập cường độ cao",
+   "link": "https://vnexpress.net/7-thuc-pham-tot-cho-sinh-ly-nam-gioi-luyen-tap-cuong-do-cao-5136211.html",
+   "date": "Sat, 24 Oct 2026 10:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/23/sua-t-a-n-jpeg-1792764529-6181-1792764706.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zUhkFtm39162nTWjGLSRwg",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Bầu Đức: “ESG rất quan trọng với doanh nghiệp làm nông nghiệp lớn”",
+   "link": "https://dantri.com.vn/kinh-doanh/bau-duc-esg-rat-quan-trong-voi-doanh-nghiep-lam-nong-nghiep-lon-20261023184607814.htm",
+   "date": "Sat, 24 Oct 2026 09:05:59 +0700",
+   "image": "https://icdn.dantri.com.vn/2024/09/12/bau-duc-hai-long-crop-1726098118418.jpeg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Dự thảo Luật An toàn thực phẩm hướng tới kiểm soát toàn chuỗi cung ứng",
+   "link": "https://dantri.com.vn/suc-khoe/du-thao-luat-an-toan-thuc-pham-huong-toi-kiem-soat-toan-chuoi-cung-ung-20261023105020050.htm",
+   "date": "Sat, 24 Oct 2026 07:34:01 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/23/qn2-cropped-1792727315361.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
   {
    "title": "Người Việt ăn thịt bò nhiều hơn, thịt nhập ngày càng áp đảo",
    "link": "https://dantri.com.vn/kinh-doanh/nguoi-viet-an-thit-bo-nhieu-hon-thit-nhap-ngay-cang-ap-dao-20261023152426440.htm",
@@ -120,15 +174,6 @@
    "icon": "📰"
   },
   {
-   "title": "Vì sao mẹ bầu, trẻ nhỏ dễ gặp biến chứng cúm mùa?",
-   "link": "https://vnexpress.net/vi-sao-me-bau-tre-nho-de-gap-bien-chung-cum-mua-5129679.html",
-   "date": "Fri, 23 Oct 2026 08:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/13/shutterstock-1791861609-8332-1791863142.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jpdcv-zqzxGADYEj1TLXxg",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Tôm hùm bán vỉa hè giá 10.000 đồng/con: Chất lượng ra sao?",
    "link": "https://dantri.com.vn/kinh-doanh/tom-hum-ban-via-he-gia-10000-dongcon-chat-luong-ra-sao-20261022172617131.htm",
    "date": "Fri, 23 Oct 2026 06:00:00 +0700",
@@ -151,15 +196,6 @@
    "link": "https://vnexpress.net/tp-hcm-se-chi-10-800-ty-dong-boi-thuong-du-an-ma-lang-cho-ga-gao-tuan-sau-5135748.html",
    "date": "Thu, 22 Oct 2026 19:13:34 +0700",
    "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/22/wm1-wm1-ttt-1792673832-8482-1792673881.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mRCVwUElLuoZIAUn2IcEmg",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Cụ bà 107 tuổi tiết lộ bí quyết sống thọ từ món thịt lợn muối mỗi sáng",
-   "link": "https://vnexpress.net/cu-ba-107-tuoi-tiet-lo-bi-quyet-song-tho-tu-mon-thit-lon-muoi-moi-sang-5135445.html",
-   "date": "Thu, 22 Oct 2026 19:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/22/000-1792636778-8850-1792636784.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z2h56GT13FUpldJ6XwZQAQ",
    "source": "vnexpress",
    "label": "VnExpress",
    "icon": "📰"
@@ -379,15 +415,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
-   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
-   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
   },
   {
    "title": "Bảng tiếp thu ý kiến giải trình NQ khu vực không được phép chăn nuôi",
