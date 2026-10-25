@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-25T11:50:08.007Z",
- "count": 49,
+ "updated": "2026-10-25T15:09:25.080Z",
+ "count": 47,
  "items": [
+  {
+   "title": "Sáng kiến Nông nghiệp xanh và ESG 2026: Khơi nguồn đổi mới, hướng tới phát triển bền vững",
+   "link": "https://www.vietnamplus.vn/sang-kien-nong-nghiep-xanh-va-esg-2026-khoi-nguon-doi-moi-huong-toi-phat-trien-ben-vung-post1144177.vnp",
+   "date": "Sun, 25 Oct 2026 21:26:15 +07:00",
+   "image": "https://media.vietnamplus.vn/images/1bNchafi6Gp6n_cTYDuj7VJ6GaDFmA8uliJt0vV5FSdU--F2iTMcGiywp23qoIA-/anh-cuoc-thi-esg.png.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
   {
    "title": "Phát hiện hơn 6 tấn nầm lợn, trứng gà non bốc mùi ở biên giới Quảng Ninh",
    "link": "https://tienphong.vn/phat-hien-hon-6-tan-nam-lon-trung-ga-non-boc-mui-o-bien-gioi-quang-ninh-post1888455.tpo",
@@ -72,15 +81,6 @@
    "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/22/screenshot-at-1792680862-3082-1792680877.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=KoBW7y_wPsfnAShnYNqHOQ",
    "source": "vnexpress",
    "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Thủ tướng: Bộ Y tế là cơ quan quản lý về an toàn thực phẩm",
-   "link": "https://tienphong.vn/thu-tuong-bo-y-te-la-co-quan-quan-ly-ve-an-toan-thuc-pham-post1888207.tpo",
-   "date": "Sat, 24 Oct 2026 17:00:03 +07:00",
-   "image": "https://cdn.tienphong.vn/images/nsgp9dvlAamgUjJTw8t8VfRSoBTjbVi4TeAyUaw_rtawVgFTNu_i9_euuM3afFcR/tp-c_ttg241.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
    "icon": "📰"
   },
   {
@@ -246,15 +246,6 @@
    "icon": "📰"
   },
   {
-   "title": "Trứng gà thả vườn giá gấp đôi gà công nghiệp vẫn hút khách",
-   "link": "https://dantri.com.vn/kinh-doanh/trung-ga-tha-vuon-gia-gap-doi-ga-cong-nghiep-van-hut-khach-20261021143740323.htm",
-   "date": "Wed, 21 Oct 2026 16:23:30 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/21/3-1792567799525.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
    "title": "Bảo vệ người chăn nuôi: Không chỉ nhìn vào thịt nhập khẩu, phải gỡ nút thắt giá thành",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/10/21/Bao-ve-nguoi-chan-nuoi-Khong-chi-nhin-vao-thit-nhap-khau-phai-go-nut-that-gia-thanh.aspx",
    "date": "Wed, 21 Oct 2026 13:20:00 +0700",
@@ -295,15 +286,6 @@
    "link": "https://vnexpress.net/ben-trong-trung-tam-chon-giong-tom-bo-me-o-khanh-hoa-5134809.html",
    "date": "Wed, 21 Oct 2026 10:13:19 +0700",
    "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/IMG-9656-JPG-1792500468.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XphELbYxs9NyJ3OYMHP5rQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "TP HCM tìm mô hình khởi nghiệp nông nghiệp để hỗ trợ thương mại hóa",
-   "link": "https://vnexpress.net/tp-hcm-tim-mo-hinh-khoi-nghiep-nong-nghiep-de-ho-tro-thuong-mai-hoa-5134582.html",
-   "date": "Tue, 20 Oct 2026 17:11:43 +0700",
-   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/img-jpg-1792474399-2360-1792474465.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZfcfnW0Sv_CuwXWy4ukw1A",
    "source": "vnexpress",
    "label": "VnExpress",
    "icon": "📰"
