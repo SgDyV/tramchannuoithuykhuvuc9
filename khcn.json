@@ -1,9 +1,72 @@
 {
- "updated": "2026-10-26T06:30:57.747Z",
+ "updated": "2026-10-26T13:41:27.063Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Sự tái tổ hợp của Reovirus vịt: Các thách thức và giải pháp phòng ngừa",
+   "link": "https://channuoivietnam.com/portal-news-detail/57218",
+   "date": "2026-10-26T17:16:31+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f01%2fScreenshot-2023-01-26-at-10.24.06.png",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Lựa chọn sodium butyrate hay tributyrin?",
+   "link": "https://channuoivietnam.com/portal-news-detail/60290",
+   "date": "2026-10-26T17:00:47+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f08%2flua-chon-sodium-butyratee-hay-tributyrin-3669.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Biến đổi hoạt tính chống oxy hóa của dịch chiết yến sào Khánh Hòa trong quá trình sản xuất",
+   "link": "https://channuoivietnam.com/portal-news-detail/44337",
+   "date": "2026-10-26T16:09:59+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f06%2fKH.-TN-dich-chiet-YS.png",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "An toàn sinh học trong chăn nuôi heo: Thách thức và hướng giải quyết",
+   "link": "https://channuoivietnam.com/portal-news-detail/32611",
+   "date": "2026-10-26T16:00:27+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f10%2fKH.-Chan-nuoi-heo-ANSH.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Giới thiệu các quy định mới về chỉnh sửa gen trong sản xuất thịt lợn",
+   "link": "https://channuoivietnam.com/portal-news-detail/35586",
+   "date": "2026-10-26T16:00:14+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2018%2f08%2fKH.-Gen-heo-1.jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Đánh giá chất lượng và hệ vi sinh vật trong cỏ voi ủ chua",
+   "link": "https://channuoivietnam.com/portal-news-detail/50165",
+   "date": "2026-10-26T15:59:45+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2021%2f01%2fKH.-Co-voi-u-chua.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "6 nguyên nhân gà bị què, rối loạn vận động và cách khắc phục",
+   "link": "https://channuoivietnam.com/portal-news-detail/45561",
+   "date": "2026-10-26T15:59:21+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f08%2fKH.-Ga-liet-chan.jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Bước đầu nghiên cứu tác dụng của hợp chất bán tổng hợp pyrethroid đối với các giai đoạn phát triển của ve bò và ve chó",
    "link": "https://channuoivietnam.com/portal-news-detail/0468366a-750b-4812-a9ac-b03675873d65",
@@ -72,69 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/60287",
    "date": "2026-10-25T17:00:14+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f08%2flam-chu-ky-thuat-su-dung-axit-amin-co-the-giup-tang-loi-nhuan-chan-nuoi-3670.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Bệnh Avian Leukosis Virus (ALV) trên gà",
-   "link": "https://channuoivietnam.com/portal-news-detail/37785",
-   "date": "2026-10-25T16:00:57+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c37785edit.png&v=451bba7d-5a4e-4111-8b9a-2dabeb99b3d3",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Phản ứng maillard trong thức ăn chăn nuôi",
-   "link": "https://channuoivietnam.com/portal-news-detail/35568",
-   "date": "2026-10-25T16:00:39+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2018%2f08%2fKH.-Phan-ung-nau-hoa-1.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của hydro cortisol lên tỉ lệ gà Nòi trống đời sau",
-   "link": "https://channuoivietnam.com/portal-news-detail/15036",
-   "date": "2026-10-25T16:00:06+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f04%2fKH.-ga-noi.jpeg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Zearalenone – Rủi ro đã biết nhưng chưa được đánh giá hết ở nái hậu bị",
-   "link": "https://channuoivietnam.com/portal-news-detail/45819",
-   "date": "2026-10-25T15:59:48+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f08%2fKH.-image-8.png",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ứng dụng camera và AI trong phát hiện phôi chết sớm khi ấp trứng gà",
-   "link": "https://channuoivietnam.com/portal-news-detail/47763",
-   "date": "2026-10-25T15:59:16+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c47763edit.png&v=e08d5a82-e505-4552-8c6d-55eeb7481a66",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Những yếu tố kháng dinh dưỡng trong khô dầu đậu nành: Thách thức và giải pháp trong chăn nuôi",
-   "link": "https://channuoivietnam.com/portal-news-detail/0e611eb7-6311-4482-b3c3-ce12cbe22d6b",
-   "date": "2026-10-25T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c99384ded-86bb-4d53-9977-2bd7907f6eb3.png&v=6a567041-4aea-4dfa-ae3b-c8a08a0f472d",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của chỉ số nhiệt ẩm trong chuồng nuôi lên năng suất và chỉ số nhai lại của bò sữa giai đoạn khai thác sữa",
-   "link": "https://channuoivietnam.com/portal-news-detail/2a97c3e0-449b-48c4-afe3-4b156d464ed9",
-   "date": "2026-10-25T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cc7986675-3d84-4a35-ad87-8dfb9e5b0c9b.png&v=e5144716-358a-4b47-8350-75690e549ada",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
