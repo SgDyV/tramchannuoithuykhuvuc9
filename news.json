@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T15:33:35.922Z",
- "count": 48,
+ "updated": "2026-10-28T20:38:23.918Z",
+ "count": 46,
  "items": [
   {
    "title": "Bé trai trụy tim mạch sau một ngày mắc cúm A",
@@ -183,24 +183,6 @@
    "icon": "📰"
   },
   {
-   "title": "Dọn nhà, diệt muỗi, tiêm vaccine để 'né' sốt xuất huyết",
-   "link": "https://vnexpress.net/don-nha-diet-muoi-tiem-vaccine-de-ne-sot-xuat-huyet-5137502.html",
-   "date": "Tue, 27 Oct 2026 19:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/27/tiem-vaccine-tai-vnvc-ok-17930-6515-4052-1793094064.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=E8gtnr8UR3IQvG9mGZX8QQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Hàng trăm mụn thịt quanh mắt người phụ nữ",
-   "link": "https://vnexpress.net/hang-tram-mun-thit-quanh-mat-nguoi-phu-nu-5137441.html",
-   "date": "Tue, 27 Oct 2026 17:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/27/bao-1793084852-8706-1793084902.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=zG3FWg02wQLz678pSl_J8w",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "C&agrave; Mau duyệt chủ trương khu nu&ocirc;i trồng thủy sản 5.300 tỉ ở b&atilde;i bồi ven biển",
    "link": "https://thanhnien.vn/ca-mau-duyet-chu-truong-khu-nuoi-trong-thuy-san-5300-ti-o-bai-boi-ven-bien-185261027162746879.htm",
    "date": "Tue, 27 Oct 26 16:55:00 +0700",
@@ -300,15 +282,6 @@
    "icon": "📰"
   },
   {
-   "title": "Nhiều người quan t&acirc;m ti&ecirc;m vắc xin ph&ograve;ng n&atilde;o m&ocirc; cầu sau th&ocirc;ng tin ca bệnh",
-   "link": "https://thanhnien.vn/nhieu-nguoi-quan-tam-tiem-vac-xin-phong-nao-mo-cau-sau-thong-tin-ca-benh-185261024141339508.htm",
-   "date": "Sat, 24 Oct 26 14:35:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/24/base64-1792826634608424988365-225-288-1295-2000-crop-1792827252176119936684.jpeg",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
    "title": "Dự thảo Luật An toàn thực phẩm hướng tới kiểm soát toàn chuỗi cung ứng",
    "link": "https://dantri.com.vn/suc-khoe/du-thao-luat-an-toan-thuc-pham-huong-toi-kiem-soat-toan-chuoi-cung-ung-20261023105020050.htm",
    "date": "Sat, 24 Oct 2026 07:34:01 +0700",
@@ -397,6 +370,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Bảng tiếp thu ý kiến giải trình NQ khu vực không được phép chăn nuôi",
