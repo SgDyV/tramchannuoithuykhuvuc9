@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-28T20:38:23.918Z",
- "count": 46,
+ "updated": "2026-10-29T00:29:36.086Z",
+ "count": 47,
  "items": [
+  {
+   "title": "WB cảnh báo giá hàng hóa và thực phẩm toàn cầu trong đà tăng liên tục",
+   "link": "https://www.vietnamplus.vn/wb-canh-bao-gia-hang-hoa-va-thuc-pham-toan-cau-trong-da-tang-lien-tuc-post1144886.vnp",
+   "date": "Thu, 29 Oct 2026 06:11:07 +07:00",
+   "image": "https://media.vietnamplus.vn/images/QcJaCVoYMCKXsPQ_Rprjc8XLwT1Z5xln3jyOFMk2BgKjTRBZkEHqRwzGTMf-21ds5wio6Y7YjefbwFCNjiZ7qw/ttxvn-canada-kinh-te-thue-0909.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Thịt trâu Ấn Độ nhập khẩu giá từ 70.000 đồng/kg, người chăn nuôi trong nước khó cạnh tranh",
+   "link": "https://dantri.com.vn/kinh-doanh/thit-trau-an-do-nhap-khau-gia-tu-70000-dongkg-nguoi-chan-nuoi-trong-nuoc-kho-canh-tranh-20261028205520281.htm",
+   "date": "Thu, 29 Oct 2026 06:00:00 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/28/photo6273774002354460313y-cropped-1793201805322.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
   {
    "title": "Bé trai trụy tim mạch sau một ngày mắc cúm A",
    "link": "https://vnexpress.net/be-trai-truy-tim-mach-sau-mot-ngay-mac-cum-a-5137858.html",
@@ -370,15 +388,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
-   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
-   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
   },
   {
    "title": "Bảng tiếp thu ý kiến giải trình NQ khu vực không được phép chăn nuôi",
