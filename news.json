@@ -1,7 +1,16 @@
 {
- "updated": "2026-10-30T09:10:36.008Z",
+ "updated": "2026-10-30T16:03:58.944Z",
  "count": 44,
  "items": [
+  {
+   "title": "Những điểm chung đáng sợ giữa não mô cầu và liên cầu lợn",
+   "link": "https://znews.vn/nhung-diem-chung-dang-so-giua-nao-mo-cau-va-lien-cau-lon-post1693036.html",
+   "date": "Fri, 30 Oct 2026 19:00:38 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_10_30/nao_mo_cau_nd.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
   {
    "title": "Đưa hợp tác xã nông nghiệp tham gia sâu vào chuỗi giá trị",
    "link": "https://tienphong.vn/dua-hop-tac-xa-nong-nghiep-tham-gia-sau-vao-chuoi-gia-tri-post1889976.tpo",
@@ -16,6 +25,15 @@
    "link": "https://dantri.com.vn/suc-khoe/nguoi-benh-dau-hong-khi-an-mi-tom-bac-si-phat-hien-dao-lam-trong-thuc-quan-20261030123859781.htm",
    "date": "Fri, 30 Oct 2026 15:09:02 +0700",
    "image": "https://icdn.dantri.com.vn/2026/10/30/dau-hong-khi-dang-an-mi-tom-bac-si-phat-hien-di-vat-dao-lam-cropped-1793338479860.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "20.000 cơ sở chăn nuôi đã định danh, người mua thịt, trứng sắp được lợi",
+   "link": "https://dantri.com.vn/kinh-doanh/20000-co-so-chan-nuoi-da-dinh-danh-nguoi-mua-thit-trung-sap-duoc-loi-20261030132602803.htm",
+   "date": "Fri, 30 Oct 2026 15:03:00 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/30/7-cropped-1793341487435.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
    "icon": "📰"
@@ -129,15 +147,6 @@
    "icon": "📰"
   },
   {
-   "title": "Cục Thuế yêu cầu xử lý dứt điểm vướng mắc về thuế sử dụng đất phi nông nghiệp",
-   "link": "https://www.vietnamplus.vn/cuc-thue-yeu-cau-xu-ly-dut-diem-vuong-mac-ve-thue-su-dung-dat-phi-nong-nghiep-post1145073.vnp",
-   "date": "Thu, 29 Oct 2026 19:55:47 +07:00",
-   "image": "https://media.vietnamplus.vn/images/QcJaCVoYMCKXsPQ_Rprjc1RiMiZmsH0ZvztZL2BCHU19wZBQFHUPfI-W5_zhOdiqIEdD8L1f8epAQzZXY9xVrw/ttxvn-etax-mobile-8344796-9326.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
-   "icon": "📰"
-  },
-  {
    "title": "Dịch tả lợn châu Phi gia tăng, Đồng Nai tiêu hủy gần 28.000 con heo",
    "link": "https://tienphong.vn/dich-ta-lon-chau-phi-gia-tang-dong-nai-tieu-huy-gan-28000-con-heo-post1889351.tpo",
    "date": "Thu, 29 Oct 2026 18:05:09 +07:00",
@@ -201,15 +210,6 @@
    "icon": "📰"
   },
   {
-   "title": "Đấu giá, thu hồi nợ 'siêu dự án' chăn nuôi bò ở Hà Tĩnh",
-   "link": "https://tienphong.vn/dau-gia-thu-hoi-no-sieu-du-an-chan-nuoi-bo-o-ha-tinh-post1889482.tpo",
-   "date": "Thu, 29 Oct 2026 08:22:49 +07:00",
-   "image": "https://cdn.tienphong.vn/images/OXp6W7uCaM9Zc5Wf5f7wlhIiFoT_1wcmtFD0vWh5zu1Cla-N5lslNj2dX5mu_p_U/anh-2.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
    "title": "Thịt trâu Ấn Độ nhập khẩu giá từ 70.000 đồng/kg, người chăn nuôi trong nước khó cạnh tranh",
    "link": "https://dantri.com.vn/kinh-doanh/thit-trau-an-do-nhap-khau-gia-tu-70000-dongkg-nguoi-chan-nuoi-trong-nuoc-kho-canh-tranh-20261028205520281.htm",
    "date": "Thu, 29 Oct 2026 06:00:00 +0700",
@@ -232,15 +232,6 @@
    "link": "https://dantri.com.vn/suc-khoe/be-7-tuoi-nguy-kich-do-cum-a-gay-viem-co-tim-toi-cap-20261028085815515.htm",
    "date": "Wed, 28 Oct 2026 16:05:26 +0700",
    "image": "https://icdn.dantri.com.vn/2026/10/28/cum-a-1-edited-1793152213818.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Nông dân thua lỗ, chăn nuôi heo vẫn là cỗ máy in tiền của doanh nghiệp lớn",
-   "link": "https://dantri.com.vn/kinh-doanh/nong-dan-thua-lo-chan-nuoi-heo-van-la-co-may-in-tien-cua-doanh-nghiep-lon-20261028112400060.htm",
-   "date": "Wed, 28 Oct 2026 12:17:00 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/28/5-cropped-1793161254961.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
    "icon": "📰"
@@ -361,6 +352,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Talkshow “Bảo vệ người chăn nuôi trước áp lực thị trường và thực phẩm nhập khẩu”",
