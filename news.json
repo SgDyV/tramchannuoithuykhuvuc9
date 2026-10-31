@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T16:25:16.014Z",
+ "updated": "2026-10-31T20:07:59.639Z",
  "count": 45,
  "items": [
   {
@@ -246,15 +246,6 @@
    "icon": "🏥"
   },
   {
-   "title": "Tài sản dự án trại bò 4.500 tỷ đồng được chốt hơn 286 tỷ đồng",
-   "link": "https://dantri.com.vn/kinh-doanh/tai-san-du-an-trai-bo-4500-ty-dong-duoc-chot-hon-286-ty-dong-20261029100605264.htm",
-   "date": "Thu, 29 Oct 2026 10:26:01 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/29/a4567-edited-1793243054557.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
    "title": "Dự án nuôi bò 4.500 tỷ đồng được bán hơn 286 tỷ đồng",
    "link": "https://vnexpress.net/du-an-nuoi-bo-4-500-ty-dong-duoc-ban-hon-286-ty-dong-5138170.html",
    "date": "Thu, 29 Oct 2026 10:08:46 +0700",
@@ -370,6 +361,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Talkshow “Bảo vệ người chăn nuôi trước áp lực thị trường và thực phẩm nhập khẩu”",
