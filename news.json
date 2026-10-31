@@ -1,7 +1,25 @@
 {
- "updated": "2026-10-31T11:44:44.727Z",
- "count": 44,
+ "updated": "2026-10-31T16:25:16.014Z",
+ "count": 45,
  "items": [
+  {
+   "title": "B&oacute;c vỏ trứng luộc: Những mẹo nhỏ &iacute;t người biết",
+   "link": "https://thanhnien.vn/boc-vo-trung-luoc-nhung-meo-nho-it-nguoi-biet-185261031201326603.htm",
+   "date": "Sat, 31 Oct 26 20:13:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/31/lot-trung-17934521172711508321844-0-0-960-1536-crop-17934521651581996852541.png",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "Trẻ đã tiêm vaccine 6 trong 1 có cần tiêm vaccine não mô cầu?",
+   "link": "https://znews.vn/tre-da-tiem-vaccine-6-trong-1-co-can-tiem-vaccine-nao-mo-cau-post1693123.html",
+   "date": "Sat, 31 Oct 2026 20:02:23 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_10_30/DSC_8158.JPG",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
   {
    "title": "Xuất khẩu thực phẩm sang Trung Quốc: Giảm một nửa thông tin kê khai",
    "link": "https://tienphong.vn/xuat-khau-thuc-pham-sang-trung-quoc-giam-mot-nua-thong-tin-ke-khai-post1890243.tpo",
@@ -352,15 +370,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
-   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
-   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
   },
   {
    "title": "Talkshow “Bảo vệ người chăn nuôi trước áp lực thị trường và thực phẩm nhập khẩu”",
