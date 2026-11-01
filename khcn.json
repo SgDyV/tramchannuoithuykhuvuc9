@@ -1,9 +1,27 @@
 {
- "updated": "2026-11-01T09:28:48.214Z",
+ "updated": "2026-11-01T16:14:07.830Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Probiotics: Thúc đẩy cân bằng hệ vi sinh vật đường ruột và sức khoẻ vật nuôi",
+   "link": "https://channuoivietnam.com/portal-news-detail/60309",
+   "date": "2026-11-01T17:00:52+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f08%2fprobiotics-thuc-day-can-bang-he-vi-sinh-vat-duong-ruot-va-suc-khoe-vat-nuoi-3661.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Ảnh hưởng của ngọn lá khoai mì (Manihot esculenta Crantz) lên tăng trọng và sinh khí mê tan của bò lai Sind",
+   "link": "https://channuoivietnam.com/portal-news-detail/56951",
+   "date": "2026-11-01T17:00:01+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f01%2fimages-5.jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Ảnh hưởng của tháng phối giống và nhiệt độ đến số con sơ sinh sống của lợn nái Landrace và Yorkshire",
    "link": "https://channuoivietnam.com/portal-news-detail/15218",
@@ -68,6 +86,15 @@
    "icon": "🔬"
   },
   {
+   "title": "Ảnh hưởng bột nghệ trong khẩu phần đến khả năng sinh trưởng và miễn dịch của lợn con sau cai sữa",
+   "link": "https://channuoivietnam.com/portal-news-detail/a88258b4-dedf-4d5b-a269-3a1861f42f57",
+   "date": "2026-11-01T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c1fe137d1-a45e-4ff6-9b99-5bb528ec07f8.png&v=e9f56eea-d5f5-4654-bc62-af1922587c3f",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
    "title": "Gen mã hóa Leukemia inhibitory factor liên kết với một số tính trạng sinh lý - hóa máu ở lợn đực thiến",
    "link": "https://channuoivietnam.com/portal-news-detail/c6a796f3-0233-4250-b315-67ab3bda346b",
    "date": "2026-11-01T00:00:00+07:00",
@@ -108,33 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/60306",
    "date": "2026-10-31T17:00:49+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f08%2f10-buoc-quan-trong-nhat-de-can-bang-nang-luong-trong-thuc-an-cho-lon-3662.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Tránh các phản ứng do thói quen về các vitamin trong premix",
-   "link": "https://channuoivietnam.com/portal-news-detail/36300",
-   "date": "2026-10-31T16:01:52+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2018%2f10%2fKH.-Vitamin.jpeg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Đặc điểm sinh học và năng suất của cút Nhật Bản nuôi tại Việt Nam",
-   "link": "https://channuoivietnam.com/portal-news-detail/16573",
-   "date": "2026-10-31T16:00:41+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c16573edit.png&v=ea37936d-cd22-4ea1-b0ac-802d109350c6",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Cách tiếp cận toàn diện để nuôi gà thịt trong điều kiện stress nhiệt",
-   "link": "https://channuoivietnam.com/portal-news-detail/36302",
-   "date": "2026-10-31T16:00:13+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2018%2f10%2fKH.-Trai-ga-thit.jpeg",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
