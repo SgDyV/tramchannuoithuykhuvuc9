@@ -1,9 +1,17 @@
 {
- "updated": "2026-11-02T04:41:51.548Z",
+ "updated": "2026-11-02T12:56:03.940Z",
  "category": "Văn bản chung",
  "source": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
  "count": 12,
  "items": [
+  {
+   "code": "101/2026/VBHN-TT-BNNMT",
+   "title": "Quy chuẩn kỹ thuật quốc gia lĩnh vực thức ăn chăn nuôi.",
+   "date": "2026-11-02T00:00:00+07:00",
+   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=f79896ef-0257-4d55-9417-3e730ccc4b7e&file_name=TT101.pdf",
+   "file": "TT101.pdf"
+  },
   {
    "code": "97/2026/VBHN-TT-BNNMT",
    "title": "Quy chuẩn kỹ thuật quốc gia lĩnh vực Thú y.",
@@ -91,14 +99,6 @@
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
    "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=03889547-13aa-47f4-ab45-15ddbb767fa2&file_name=N%C4%90372.pdf",
    "file": "NĐ372.pdf"
-  },
-  {
-   "code": "38/2026/VBHN-NĐ-BTC",
-   "title": "Bảo hiểm nông nghiệp.",
-   "date": "2026-09-28T00:00:00+07:00",
-   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=0cf6f69c-e6d3-46c5-8461-7bfcfe7d8f16&file_name=ND38.pdf",
-   "file": "ND38.pdf"
   }
  ]
 }
