@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-02T12:55:43.997Z",
- "count": 48,
+ "updated": "2026-11-02T21:59:40.751Z",
+ "count": 47,
  "items": [
+  {
+   "title": "Canh giá đỗ, huyết heo có giúp nhanh khỏi cúm?",
+   "link": "https://vnexpress.net/canh-gia-do-huyet-heo-co-giup-nhanh-khoi-cum-5139534.html",
+   "date": "Mon, 02 Nov 2026 20:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/02/canh-gia-do-huyet-heo-co-giup-4756-9778-1793585631.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yMjs5QS5SV3rxb5wySJYpg",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Bác sĩ cứu tử cung, buồng trứng cho bé gái 2 tháng tuổi",
    "link": "https://vnexpress.net/bac-si-cuu-tu-cung-buong-trung-cho-be-gai-2-thang-tuoi-5139769.html",
@@ -165,30 +174,12 @@
    "icon": "📰"
   },
   {
-   "title": "5 thực phẩm có lợi cho người sỏi thận",
-   "link": "https://vnexpress.net/5-thuc-pham-co-loi-cho-nguoi-soi-than-5139164.html",
-   "date": "Sun, 01 Nov 2026 08:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/10/31/du-a-ha-u-jpeg-1793435201-6497-1793435311.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YCOP8cTc7I1ciXqLdlzwPw",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "B&oacute;c vỏ trứng luộc: Những mẹo nhỏ &iacute;t người biết",
    "link": "https://thanhnien.vn/boc-vo-trung-luoc-nhung-meo-nho-it-nguoi-biet-185261031201326603.htm",
    "date": "Sat, 31 Oct 26 20:13:00 +0700",
    "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/10/31/lot-trung-17934521172711508321844-0-0-960-1536-crop-17934521651581996852541.png",
    "source": "thanhnien",
    "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "Trẻ đã tiêm vaccine 6 trong 1 có cần tiêm vaccine não mô cầu?",
-   "link": "https://znews.vn/tre-da-tiem-vaccine-6-trong-1-co-can-tiem-vaccine-nao-mo-cau-post1693123.html",
-   "date": "Sat, 31 Oct 2026 20:02:23 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_10_30/DSC_8158.JPG",
-   "source": "znews",
-   "label": "ZNews",
    "icon": "📰"
   },
   {
@@ -354,15 +345,6 @@
    "icon": "🏥"
   },
   {
-   "title": "Mụn trứng cá dễ tái phát, điều trị sai cách có thể gây tác dụng phụ",
-   "link": "https://dantri.com.vn/suc-khoe/mun-trung-ca-de-tai-phat-dieu-tri-sai-cach-co-the-gay-tac-dung-phu-20261024185934437.htm",
-   "date": "Sun, 25 Oct 2026 07:33:58 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/24/thiet-bi-dieu-tri-mun-1792842679421.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
    "title": "Bảo vệ người chăn nuôi: Không chỉ nhìn vào thịt nhập khẩu, phải gỡ nút thắt giá thành",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/10/21/Bao-ve-nguoi-chan-nuoi-Khong-chi-nhin-vao-thit-nhap-khau-phai-go-nut-that-gia-thanh.aspx",
    "date": "Wed, 21 Oct 2026 13:20:00 +0700",
@@ -397,6 +379,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Talkshow “Bảo vệ người chăn nuôi trước áp lực thị trường và thực phẩm nhập khẩu”",
