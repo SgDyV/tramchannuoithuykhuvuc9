@@ -1,7 +1,34 @@
 {
- "updated": "2026-11-03T03:19:10.183Z",
- "count": 40,
+ "updated": "2026-11-03T11:06:56.765Z",
+ "count": 36,
  "items": [
+  {
+   "title": "8 thắc mắc về vaccine cúm chuyên biệt dành cho người cao tuổi",
+   "link": "https://vnexpress.net/8-thac-mac-ve-vaccine-cum-chuyen-biet-danh-cho-nguoi-cao-tuoi-5140177.html",
+   "date": "Tue, 03 Nov 2026 14:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/03/vnvc-tiem-vac-xin-cum-chuyen-b-3228-1129-1793688091.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=UD7TcfgvnZEOivrC8qmuKA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Nhiều ca tử vong do bệnh dại, bác sĩ cảnh báo sai lầm trong dự phòng",
+   "link": "https://dantri.com.vn/suc-khoe/nhieu-ca-tu-vong-do-benh-dai-bac-si-canh-bao-sai-lam-trong-du-phong-20261028101722882.htm",
+   "date": "Tue, 03 Nov 2026 13:59:17 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/10/28/benh-dai-1793156865314.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "3 bộ phận của tôm cần lưu ý khi ăn",
+   "link": "https://dantri.com.vn/suc-khoe/3-bo-phan-cua-tom-can-luu-y-khi-an-20261103061745227.htm",
+   "date": "Tue, 03 Nov 2026 10:49:04 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/11/03/ba-bo-phan-cua-tom-can-luu-y-1793661321135.png",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
   {
    "title": "C&oacute; n&ecirc;n ăn trứng thay cho thịt b&ograve;, heo kh&ocirc;ng?",
    "link": "https://thanhnien.vn/co-nen-an-trung-thay-cho-thit-bo-heo-khong-185261103064731587.htm",
@@ -39,15 +66,6 @@
    "icon": "📰"
   },
   {
-   "title": "Mở đường cho nông nghiệp bứt phá: Chuyển lợi thế sản xuất thành giá trị gia tăng",
-   "link": "https://www.vietnamplus.vn/mo-duong-cho-nong-nghiep-but-pha-chuyen-loi-the-san-xuat-thanh-gia-tri-gia-tang-post1145650.vnp",
-   "date": "Mon, 02 Nov 2026 14:09:03 +07:00",
-   "image": "https://media.vietnamplus.vn/images/96u0N54AVjWRCKztUOXFvrgUIfTU_VYapboweV-351WwkzCKcpCNacrSjDWoaE2utTIqcMS9uFi_cDGW3EZSKg/vnp__buoi_canh_12.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
-   "icon": "📰"
-  },
-  {
    "title": "5 thực phẩm trong chế độ ăn Địa Trung Hải giúp giảm viêm",
    "link": "https://vnexpress.net/5-thuc-pham-trong-che-do-an-dia-trung-hai-giup-giam-viem-5139589.html",
    "date": "Mon, 02 Nov 2026 14:00:00 +0700",
@@ -63,15 +81,6 @@
    "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/02/image002-1793586238-8439-1793586293.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Pe780ZlAV3qlxAWoHrNLyQ",
    "source": "vnexpress",
    "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Xúc tiến thương mại nông nghiệp: Mở rộng thị trường, nâng tầm giá trị nông sản",
-   "link": "https://www.vietnamplus.vn/xuc-tien-thuong-mai-nong-nghiep-mo-rong-thi-truong-nang-tam-gia-tri-nong-san-post1145619.vnp",
-   "date": "Mon, 02 Nov 2026 11:02:23 +07:00",
-   "image": "https://media.vietnamplus.vn/images/ai5KMJl3nDpNFxY3j7QdXu1HXrN1hmhjbYfVxSQEkT-H7ty0Lnp_2Yl3w_1EHqAOp09rG_5wsyA3cseXkCDO-g/vnp-hoi-cho-mua-xuan-7.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
    "icon": "📰"
   },
   {
@@ -120,15 +129,6 @@
    "icon": "📰"
   },
   {
-   "title": "Bộ phận của tôm dễ tích tụ kim loại nặng, thích mấy cũng nên bỏ",
-   "link": "https://znews.vn/bo-phan-cua-tom-de-tich-tu-kim-loai-nang-thich-may-cung-nen-bo-post1692711.html",
-   "date": "Sun, 01 Nov 2026 10:30:47 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2025_08_25/tom_06344317.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
    "title": "B&oacute;c vỏ trứng luộc: Những mẹo nhỏ &iacute;t người biết",
    "link": "https://thanhnien.vn/boc-vo-trung-luoc-nhung-meo-nho-it-nguoi-biet-185261031201326603.htm",
    "date": "Sat, 31 Oct 26 20:13:00 +0700",
@@ -147,24 +147,6 @@
    "icon": "📰"
   },
   {
-   "title": "Rác từ lồng tôm hùm bủa vây bờ biển Cam Ranh",
-   "link": "https://vnexpress.net/rac-tu-long-tom-hum-bua-vay-bo-bien-cam-ranh-5138277.html",
-   "date": "Sat, 31 Oct 2026 08:00:00 +0700",
-   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/longbe-1793270788-5772-1793271141.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qmaGmHqLqr-qJggqFK620g",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Phó chủ tịch Thái Nguyên giữ chức Thứ trưởng Nông nghiệp và Môi trường",
-   "link": "https://vnexpress.net/pho-chu-tich-thai-nguyen-giu-chuc-thu-truong-nong-nghiep-va-moi-truong-5138982.html",
-   "date": "Sat, 31 Oct 2026 07:09:30 +0700",
-   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/image-1793375137-8441-1793404750.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4I3LYSnmm3M3_jiJjY1okQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Giá heo giống giảm mạnh, Tết này có thiếu thịt heo?",
    "link": "https://dantri.com.vn/kinh-doanh/gia-heo-giong-giam-manh-tet-nay-co-thieu-thit-heo-20261030212230228.htm",
    "date": "Sat, 31 Oct 2026 06:00:00 +0700",
@@ -178,15 +160,6 @@
    "link": "https://dantri.com.vn/suc-khoe/nguoi-benh-dau-hong-khi-an-mi-tom-bac-si-phat-hien-dao-lam-trong-thuc-quan-20261030123859781.htm",
    "date": "Fri, 30 Oct 2026 15:09:02 +0700",
    "image": "https://icdn.dantri.com.vn/2026/10/30/dau-hong-khi-dang-an-mi-tom-bac-si-phat-hien-di-vat-dao-lam-cropped-1793338479860.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "20.000 cơ sở chăn nuôi đã định danh, người mua thịt, trứng sắp được lợi",
-   "link": "https://dantri.com.vn/kinh-doanh/20000-co-so-chan-nuoi-da-dinh-danh-nguoi-mua-thit-trung-sap-duoc-loi-20261030132602803.htm",
-   "date": "Fri, 30 Oct 2026 15:03:00 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/30/7-cropped-1793341487435.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
    "icon": "📰"
@@ -316,15 +289,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
-   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
-   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
   },
   {
    "title": "Talkshow “Bảo vệ người chăn nuôi trước áp lực thị trường và thực phẩm nhập khẩu”",
