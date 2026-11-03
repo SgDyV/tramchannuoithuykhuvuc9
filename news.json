@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-03T11:06:56.765Z",
+ "updated": "2026-11-03T18:30:15.646Z",
  "count": 36,
  "items": [
+  {
+   "title": "Trứng đã luộc chín bảo quản được bao lâu?",
+   "link": "https://vnexpress.net/trung-da-luoc-chin-bao-quan-duoc-bao-lau-5140157.html",
+   "date": "Tue, 03 Nov 2026 19:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/03/screenshot-at-1793683757-4244-1793683879.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=-_41eVKfnD1-1a_E4ZIkyw",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "8 thắc mắc về vaccine cúm chuyên biệt dành cho người cao tuổi",
    "link": "https://vnexpress.net/8-thac-mac-ve-vaccine-cum-chuyen-biet-danh-cho-nguoi-cao-tuoi-5140177.html",
@@ -84,15 +93,6 @@
    "icon": "📰"
   },
   {
-   "title": "Cách giữ sức khi mắc cúm",
-   "link": "https://vnexpress.net/cach-giu-suc-khi-mac-cum-5139512.html",
-   "date": "Mon, 02 Nov 2026 10:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/02/medium-vecteezy-asian-people-f-1910-8143-1793585444.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=me0WX1ePho4Nn9I6CRiVXQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Vaccine HPV có gây vô sinh, suy buồng trứng?",
    "link": "https://dantri.com.vn/suc-khoe/vaccine-hpv-co-gay-vo-sinh-suy-buong-trung-20261030144741235.htm",
    "date": "Mon, 02 Nov 2026 09:08:33 +0700",
@@ -117,15 +117,6 @@
    "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/1/o-nguy-co-ung-thu-da-melanoma-u-hac-to-cao-gap-khoang-2000-lan-so-voi-nguoi-khong-mac-benh-anh-nquyen-tao-tu-chatgpt-1793511-0-0-960-1536-crop-17935114208541904508241.png",
    "source": "thanhnien",
    "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "Cà Mau đề xuất Bộ Khoa học và Công nghệ hỗ trợ phát triển ngành tôm, cua bằng công nghệ",
-   "link": "https://tienphong.vn/ca-mau-de-xuat-bo-khoa-hoc-va-cong-nghe-ho-tro-phat-trien-nganh-tom-cua-bang-cong-nghe-post1890649.tpo",
-   "date": "Sun, 01 Nov 2026 12:00:00 +07:00",
-   "image": "https://cdn.tienphong.vn/images/RNp65zNs098qZKWyBaZ90hByr6etj8O4_f-jZfYPVzfh6kvTnGlXM7UTo5hd_rY_/anh3.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
    "icon": "📰"
   },
   {
@@ -289,6 +280,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Talkshow “Bảo vệ người chăn nuôi trước áp lực thị trường và thực phẩm nhập khẩu”",
