@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-03T23:34:48.451Z",
- "count": 36,
+ "updated": "2026-11-04T03:37:42.694Z",
+ "count": 33,
  "items": [
+  {
+   "title": "Nông, lâm, thủy sản xuất siêu gần 19 tỷ USD trong 10 tháng năm 2026",
+   "link": "https://www.vietnamplus.vn/nong-lam-thuy-san-xuat-sieu-gan-19-ty-usd-trong-10-thang-nam-2026-post1146030.vnp",
+   "date": "Wed, 04 Nov 2026 10:10:13 +07:00",
+   "image": "https://media.vietnamplus.vn/images/2Bp7XAns5lTd2E1LvH3sb7rxz-8uD3gfx0axdmTXNiarkm_RUsHSaF1hcTY_UHhwp09rG_5wsyA3cseXkCDO-g/ttxvn_che-bien-nong-san.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Tưởng cảm cúm hóa nhồi máu cơ tim",
+   "link": "https://vnexpress.net/tuong-cam-cum-hoa-nhoi-mau-co-tim-5140271.html",
+   "date": "Wed, 04 Nov 2026 10:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/03/image001-1793693698-3107-1793693743.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-JmJ9A7NiWocNwBfyLJ7rw",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Hạn chế kinh doanh thực phẩm nhiều đường, muối v&agrave; chất b&eacute;o trong căn tin trường học",
    "link": "https://thanhnien.vn/han-che-kinh-doanh-thuc-pham-nhieu-duong-muoi-va-chat-beo-trong-can-tin-truong-hoc-185261103190835092.htm",
@@ -66,24 +84,6 @@
    "icon": "📰"
   },
   {
-   "title": "Canh giá đỗ, huyết heo có giúp nhanh khỏi cúm?",
-   "link": "https://vnexpress.net/canh-gia-do-huyet-heo-co-giup-nhanh-khoi-cum-5139534.html",
-   "date": "Mon, 02 Nov 2026 20:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/02/canh-gia-do-huyet-heo-co-giup-4756-9778-1793585631.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yMjs5QS5SV3rxb5wySJYpg",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Bác sĩ cứu tử cung, buồng trứng cho bé gái 2 tháng tuổi",
-   "link": "https://vnexpress.net/bac-si-cuu-tu-cung-buong-trung-cho-be-gai-2-thang-tuoi-5139769.html",
-   "date": "Mon, 02 Nov 2026 15:50:44 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/02/pha-u-thua-t-1793608258-5987-1793608281.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DFU8piRJCaSRrCRemvcbwg",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "'Làm chủ công nghệ nâng giá trị gia tăng ngành nông nghiệp'",
    "link": "https://vnexpress.net/lam-chu-cong-nghe-nang-gia-tri-gia-tang-nganh-nong-nghiep-5139714.html",
    "date": "Mon, 02 Nov 2026 15:29:06 +0700",
@@ -99,15 +99,6 @@
    "image": "https://icdn.dantri.com.vn/2021/09/09/hpv1506149021284-1631193868555.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Món thịt khoái khẩu của nhiều người khiến thận âm thầm suy yếu",
-   "link": "https://znews.vn/mon-thit-khoai-khau-cua-nhieu-nguoi-khien-than-am-tham-suy-yeu-post1693467.html",
-   "date": "Mon, 02 Nov 2026 07:35:37 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_11_01/sai_lam_khi_an_thit_2_1.jpg",
-   "source": "znews",
-   "label": "ZNews",
    "icon": "📰"
   },
   {
@@ -133,15 +124,6 @@
    "link": "https://dantri.com.vn/suc-khoe/cum-a-gia-tang-tai-tphcm-canh-giac-bien-chung-o-tre-nho-20261030184559891.htm",
    "date": "Sat, 31 Oct 2026 08:55:47 +0700",
    "image": "https://icdn.dantri.com.vn/2026/10/28/cum-a-edited-1793152343086.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Giá heo giống giảm mạnh, Tết này có thiếu thịt heo?",
-   "link": "https://dantri.com.vn/kinh-doanh/gia-heo-giong-giam-manh-tet-nay-co-thieu-thit-heo-20261030212230228.htm",
-   "date": "Sat, 31 Oct 2026 06:00:00 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/05/30/gia-thit-heo-cham-day-he-lo-diem-yeu-chi-mang-cua-kinh-te-trung-quoc-cropped-1780128250284.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
    "icon": "📰"
@@ -280,15 +262,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
-   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
-   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
   },
   {
    "title": "Talkshow “Bảo vệ người chăn nuôi trước áp lực thị trường và thực phẩm nhập khẩu”",
