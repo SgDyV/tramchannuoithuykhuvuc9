@@ -1,9 +1,72 @@
 {
- "updated": "2026-11-04T03:38:00.021Z",
+ "updated": "2026-11-04T11:40:29.716Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Ứng dụng dịch tễ học không gian trong nghiên cứu và quản lý dịch bệnh động vật tại Việt Nam",
+   "link": "https://channuoivietnam.com/portal-news-detail/57265",
+   "date": "2026-11-04T17:15:19+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f01%2fScreenshot-2023-01-26-at-11.53.34.png",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Khám phá bí quyết giảm chi phí thức ăn và tăng lợi nhuận ngành chăn nuôi ở khu vực nhiệt đới",
+   "link": "https://channuoivietnam.com/portal-news-detail/60319",
+   "date": "2026-11-04T17:00:59+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c60319edit.png&v=6398269d-7afc-4955-ab88-a2a6c1634509",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Bệnh đậu gà (Fowl Pox: FP)",
+   "link": "https://channuoivietnam.com/portal-news-detail/43060",
+   "date": "2026-11-04T16:05:10+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f06%2fKH.-FP-1.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Độc tố zearalenone trong thức ăn cho heo - Một thách thức cần giải quyết",
+   "link": "https://channuoivietnam.com/portal-news-detail/36254",
+   "date": "2026-11-04T16:01:08+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2018%2f10%2fKH.-Na%cc%82%cc%81m-Fusarium-xa%cc%82m-nhie%cc%82%cc%83m-va%cc%80o-lo%cc%82-ba%cc%86%cc%81p.png",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Nghiên cứu tìm cách cắt giảm khí nhà kính từ các trại chăn nuôi gia cầm",
+   "link": "https://channuoivietnam.com/portal-news-detail/23083",
+   "date": "2026-11-04T16:00:45+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2018%2f11%2fKH.-Trai-ga-de.jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Khả năng ức chế của một số loại thuốc sát trùng đối với noãn nang cầu trùng gà trong điều kiện phòng thí nghiệm",
+   "link": "https://channuoivietnam.com/portal-news-detail/48549",
+   "date": "2026-11-04T15:59:53+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f11%2fimage-582.png",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Giảm stress nhiệt cho gà thịt mùa nóng bằng tryptophan",
+   "link": "https://channuoivietnam.com/portal-news-detail/45118",
+   "date": "2026-11-04T15:59:46+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f07%2fKH.-TN-Tryptophan.png",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Tỷ lệ chết trên heo nái: Khi nào và ở đâu?",
    "link": "https://channuoivietnam.com/portal-news-detail/26315d23-fda0-414b-ab54-0707b17ff27b",
@@ -72,69 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/40991",
    "date": "2026-11-03T16:07:58+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f03%2fKH.-thit.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Bảo quản và sử dụng vắc xin trong chăn nuôi",
-   "link": "https://channuoivietnam.com/portal-news-detail/16887",
-   "date": "2026-11-03T16:00:07+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f09%2fKH.-Bao-quan-Vacxin-1.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Sự hiện diện và đa dạng di truyền của Mycoplasma suis group gây rối loạn sinh sản trên heo giống",
-   "link": "https://channuoivietnam.com/portal-news-detail/46802",
-   "date": "2026-11-03T15:59:53+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c46802edit.png&v=6db7e5fb-1824-4721-bcef-93045f8c19a5",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Kỹ thuật trồng cỏ sorghum",
-   "link": "https://channuoivietnam.com/portal-news-detail/45603",
-   "date": "2026-11-03T15:59:03+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f08%2fKH.-co-sorghum.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng probiotics lên khả năng sinh trưởng của gà Nòi lai 2-10 tuần tuổi",
-   "link": "https://channuoivietnam.com/portal-news-detail/3bef83c2-9611-41a8-9364-83166107bf40",
-   "date": "2026-11-03T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cc94e57eb-74eb-4c0e-bfbd-ca89a0d81138.png&v=5ddea576-3b99-401e-95a9-dd87acfba593",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của việc bổ sung bột lá Trichanthera gigantea lên khả năng sinh trưởng chim trĩ giai đoạn 10-20 tuần tuổi",
-   "link": "https://channuoivietnam.com/portal-news-detail/49667f5e-3717-4690-83d9-d02fc9b01b92",
-   "date": "2026-11-03T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c2f1c9a0e-dd0a-4ed2-ad51-6012986e9ac5.png&v=77ac9e6a-a180-41a1-a97a-a1bf16fb27ce",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Đặc điểm phân tử của Anaplasma marginale và Anaplasma platys ở bò và chó ở miền Bắc Việt Nam",
-   "link": "https://channuoivietnam.com/portal-news-detail/4f24b566-aa41-422c-8ad7-1678bd517d1c",
-   "date": "2026-11-03T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5ccfad7562-e8a4-443b-a7a2-7c2282fea0f3.png&v=49791e17-c632-4814-9e2a-d696572bee35",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Một số chỉ tiêu sinh hoá máu và bệnh tích của gà mắc bệnh viêm ruột hoại tử do Clostridium perfringens mang gen độc cpa, cpb.",
-   "link": "https://channuoivietnam.com/portal-news-detail/70820464-df14-460f-bdce-0afa55adaff8",
-   "date": "2026-11-03T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c89431104-5c10-4068-afad-8d3d31c9efe6.png&v=37d4ef25-f0b6-40ec-ae39-aa0461530039",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
