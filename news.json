@@ -1,7 +1,70 @@
 {
- "updated": "2026-11-05T07:04:24.350Z",
- "count": 39,
+ "updated": "2026-11-05T15:39:46.328Z",
+ "count": 41,
  "items": [
+  {
+   "title": "Hoa Kỳ ban hành kết luận cuối cùng về vụ rà soát chống bán phá giá tôm Việt Nam",
+   "link": "https://www.vietnamplus.vn/hoa-ky-ban-hanh-ket-luan-cuoi-cung-ve-vu-ra-soat-chong-ban-pha-gia-tom-viet-nam-post1146449.vnp",
+   "date": "Thu, 05 Nov 2026 19:39:41 +07:00",
+   "image": "https://media.vietnamplus.vn/images/CRlKxyO5L061NFGctnON5AxdZ6noswkjUOGcUl1ofBYEd082HJqcTDWFUM_N8kii_LQjiQwNTq1wW5ObP0y5Vr-ByKo9kDV3GzDwLV6T4gY/ttxvnn-vietnam-thuy-dien-1001-2-161.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Ăn rau, thịt hay cơm trước để giảm cân, kiểm soát đường huyết?",
+   "link": "https://znews.vn/thu-tu-an-uong-de-giam-can-kiem-soat-duong-huyet-post1694446.html",
+   "date": "Thu, 05 Nov 2026 19:01:00 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_11_05/an_com_1.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Long Châu ứng dụng công nghệ mới trong truy xuất, minh bạch hành trình vaccine",
+   "link": "https://dantri.com.vn/suc-khoe/long-chau-ung-dung-cong-nghe-moi-trong-truy-xuat-minh-bach-hanh-trinh-vaccine-20261105172839016.htm",
+   "date": "Thu, 05 Nov 2026 17:41:12 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/11/05/9-1793874438570.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Giá thực phẩm tăng, người dân châu Âu thêm áp lực chi phí sinh hoạt",
+   "link": "https://www.vietnamplus.vn/gia-thuc-pham-tang-nguoi-dan-chau-au-them-ap-luc-chi-phi-sinh-hoat-post1146421.vnp",
+   "date": "Thu, 05 Nov 2026 17:29:59 +07:00",
+   "image": "https://media.vietnamplus.vn/images/QcJaCVoYMCKXsPQ_Rprjc3BCGpHMGpubmIwpSod4yOrUowoG3SMnP8zHz21TQrWnYRtQFa357H7K5oHwDr9ut7OhF8jHWVTbVHiD4HiYoMs/ttxvn-kinh-te-phap-xung-dot-trung-dong-2503.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Long Châu minh bạch hành trình nhiệt độ bảo quản của từng hộp vaccine",
+   "link": "https://znews.vn/long-chau-minh-bach-hanh-trinh-nhiet-do-bao-quan-cua-tung-hop-vaccine-post1694397.html",
+   "date": "Thu, 05 Nov 2026 17:00:02 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/wyhktpu/2026_11_05/Thumb_1.jpeg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Tetra Recart&reg;: Cơ hội mới cho n&ocirc;ng sản Việt trong thị trường thực phẩm chế biến sẵn",
+   "link": "https://thanhnien.vn/tetra-recart-co-hoi-moi-cho-nong-san-viet-trong-thi-truong-thuc-pham-che-bien-san-185261105161709981.htm",
+   "date": "Thu, 05 Nov 26 15:54:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/5/picture1-1793869049671765190998-20-0-313-468-crop-1793869594554259679707.jpg",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "4 thực phẩm giúp người giảm cân no lâu",
+   "link": "https://vnexpress.net/4-thuc-pham-giup-nguoi-giam-can-no-lau-5141056.html",
+   "date": "Thu, 05 Nov 2026 15:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/05/khoai-lang-jpeg-1793851113-4133-1793851153.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1ZltkY5aDfisE8gvBxcZRQ",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Công ty nông nghiệp của ông Trần Bá Dương thua lỗ, nợ gần 22.000 tỷ đồng",
    "link": "https://dantri.com.vn/kinh-doanh/cong-ty-nong-nghiep-cua-ong-tran-ba-duong-thua-lo-no-gan-22000-ty-dong-20261105120405945.htm",
@@ -66,24 +129,6 @@
    "icon": "📰"
   },
   {
-   "title": "Tiêm vaccine HPV có khiến giảm phong độ đàn ông?",
-   "link": "https://vnexpress.net/tiem-vaccine-hpv-co-khien-giam-phong-do-dan-ong-5140586.html",
-   "date": "Wed, 04 Nov 2026 19:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/04/TIEM-hpv-DIEU-THUAN-1793762304-9984-1793763883.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=uHUeUaSvnIoSfJvnqa7rAA",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "5 thực phẩm ăn cùng trái cây tốt cho huyết áp",
-   "link": "https://vnexpress.net/5-thuc-pham-an-cung-trai-cay-tot-cho-huyet-ap-5140472.html",
-   "date": "Wed, 04 Nov 2026 16:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/04/su-a-chua-1793753462-8507-1793753877.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=jK2s2yBj-4D1uiiRgiOhgA",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "TP HCM siết bữa ăn học đường sau vụ 10.000 tấn heo dùng chất cấm",
    "link": "https://vnexpress.net/tp-hcm-siet-bua-an-hoc-duong-sau-vu-10-000-tan-heo-dung-chat-cam-5140685.html",
    "date": "Wed, 04 Nov 2026 15:39:59 +0700",
@@ -100,15 +145,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Siết an toàn thực phẩm, củng cố niềm tin vào thị trường đồ uống",
-   "link": "https://www.vietnamplus.vn/siet-an-toan-thuc-pham-cung-co-niem-tin-vao-thi-truong-do-uong-post1146123.vnp",
-   "date": "Wed, 04 Nov 2026 15:01:37 +07:00",
-   "image": "https://media.vietnamplus.vn/images/xrurV8n_NCTzWd2V6MCJ8Eia2kXBJuq8-4QhXnRY05s/td3.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
-   "icon": "📰"
   },
   {
    "title": "Hạn chế kinh doanh thực phẩm nhiều đường, muối v&agrave; chất b&eacute;o trong căn tin trường học",
@@ -264,24 +300,6 @@
    "icon": "📰"
   },
   {
-   "title": "Gần 1 tấn thịt chưa kiểm dịch bị phát hiện ở TPHCM, 3 tài xế xin tiêu hủy",
-   "link": "https://dantri.com.vn/suc-khoe/gan-1-tan-thit-chua-kiem-dich-bi-phat-hien-o-tphcm-3-tai-xe-xin-tieu-huy-20261027092406879.htm",
-   "date": "Tue, 27 Oct 2026 14:40:19 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/27/thit-chua-kiem-dich-2-1793067411947.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Hai tháng sau khi bị chó cắn, người đàn ông tử vong do không tiêm vaccine",
-   "link": "https://dantri.com.vn/suc-khoe/hai-thang-sau-khi-bi-cho-can-nguoi-dan-ong-tu-vong-do-khong-tiem-vaccine-20261026161603901.htm",
-   "date": "Tue, 27 Oct 2026 09:06:32 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/26/chodai1-edited-edited-1793005693802.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
    "title": "TP.HCM ưu tiên tối đa cho phát triển chăn nuôi xanh, bền vững",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/10/25/TPHCM-uu-tien-toi-da-cho-phat-trien-chan-nuoi-xanh-ben-vung.aspx",
    "date": "Sun, 25 Oct 2026 21:21:00 +0700",
@@ -327,12 +345,12 @@
    "icon": "🏥"
   },
   {
-   "title": "Xuất khẩu nông, lâm, thủy sản đạt hơn 63 tỷ USD",
-   "link": "https://www.vietnamplus.vn/xuat-khau-nong-lam-thuy-san-dat-hon-63-ty-usd-post1146167.vnp",
-   "date": "Wed, 04 Nov 2026 16:57:57 +07:00",
-   "image": "",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
    "icon": "📰"
   },
   {
