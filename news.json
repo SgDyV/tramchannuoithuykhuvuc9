@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-04T18:57:34.013Z",
- "count": 37,
+ "updated": "2026-11-05T00:04:17.229Z",
+ "count": 39,
  "items": [
+  {
+   "title": "Nữ sinh viên Hà Nội 'vịt hóa thiên nga' sau trút bỏ 23 kg mỡ thừa",
+   "link": "https://vnexpress.net/nu-sinh-vien-ha-noi-vit-hoa-thien-nga-sau-trut-bo-23-kg-mo-thua-5140686.html",
+   "date": "Thu, 05 Nov 2026 06:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/04/nguye-n2-1793778785-4334-1793779301.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Pw7LCyo1VctGjeGDX0X46Q",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Sau tuổi 50, ăn s&aacute;ng với trứng c&oacute; thể mang lại 3 lợi &iacute;ch n&agrave;y",
    "link": "https://thanhnien.vn/sau-tuoi-50-an-sang-voi-trung-co-the-mang-lai-3-loi-ich-nay-185261104172814642.htm",
@@ -289,6 +298,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Xuất khẩu nông, lâm, thủy sản đạt hơn 63 tỷ USD",
