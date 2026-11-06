@@ -1,9 +1,18 @@
 {
- "updated": "2026-11-05T21:38:12.332Z",
+ "updated": "2026-11-06T01:51:45.389Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Ứng dụng công nghệ trí tuệ nhân tạo (AI) trong chăn nuôi",
+   "link": "https://channuoivietnam.com/portal-news-detail/d66cc140-d80b-49a0-821b-a20731008b7f",
+   "date": "2026-11-06T07:01:54.193+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c08a31051-fabb-4a51-b717-b848cb284ab1.png&v=c6f3f18a-669f-4163-bfbc-2f99b3c34d42",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Ứng dụng công nghệ blockchain trong quản lý sản phẩm mật ong",
    "link": "https://channuoivietnam.com/portal-news-detail/36bdef0d-e9dc-4bf2-9fc6-4d58587116e5",
@@ -126,15 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/43fcea45-d21b-4272-a825-f4a287665709",
    "date": "2026-11-05T00:00:00+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cd8fe0487-489e-471b-8777-d56a15df7f39.png&v=a17da768-be8f-431b-b33e-267329e89f01",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Nghiên cứu khảo sát tác dụng kháng khuẩn, xác định hàm lượng polyphenol và hoạt tính chống oxy hóa của dược liệu xuyên tâm liên",
-   "link": "https://channuoivietnam.com/portal-news-detail/4b6bbd1e-e136-4a32-9a6c-ea9fb275197b",
-   "date": "2026-11-05T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cb3e2844c-6175-4cb2-898d-0e770edcd632.png&v=5fe62aba-9201-424e-86a8-2cc65892429e",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
