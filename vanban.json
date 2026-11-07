@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:22:45.838Z",
+ "updated": "2026-11-07T07:24:16.575Z",
  "category": "Văn bản chung",
  "source": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
  "count": 12,
@@ -45,12 +45,12 @@
    "file": "QĐ3792.pdf"
   },
   {
-   "code": "23/2026/VBHN-TT-BKHCN",
-   "title": "Quy định về đo lường đối với phương tiện đo nhóm 2.",
+   "code": "42/2026/TT-BNNMT",
+   "title": "Quy định kỹ thuật giám sát, đánh giá hoạt động thích ứng với biến đổi khí hậu trong lĩnh vực nông nghiệp và môi trường.",
    "date": "2026-09-30T00:00:00+07:00",
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=a81d5342-2cc7-4058-95ac-aebc2315743c&file_name=TT23.pdf",
-   "file": "TT23.pdf"
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=0ce279ea-426c-4381-9b30-add683cdf7b7&file_name=TT42.pdf",
+   "file": "TT42.pdf"
   },
   {
    "code": "22/2026/VBHN-TT-BKHCN",
@@ -69,6 +69,14 @@
    "file": "TT24.pdf"
   },
   {
+   "code": "23/2026/VBHN-TT-BKHCN",
+   "title": "Quy định về đo lường đối với phương tiện đo nhóm 2.",
+   "date": "2026-09-30T00:00:00+07:00",
+   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=a81d5342-2cc7-4058-95ac-aebc2315743c&file_name=TT23.pdf",
+   "file": "TT23.pdf"
+  },
+  {
    "code": "03/VBHN-NĐ-TTCP",
    "title": "Quy định chi tiết một số điều và biện pháp thi hành Luật Khiếu nại.",
    "date": "2026-09-30T00:00:00+07:00",
@@ -83,14 +91,6 @@
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
    "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=d537c0ef-a1dd-4290-a82b-bd8a27e49b2e&file_name=N%C4%9025.pdf",
    "file": "NĐ25.pdf"
-  },
-  {
-   "code": "42/2026/TT-BNNMT",
-   "title": "Quy định kỹ thuật giám sát, đánh giá hoạt động thích ứng với biến đổi khí hậu trong lĩnh vực nông nghiệp và môi trường.",
-   "date": "2026-09-30T00:00:00+07:00",
-   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=0ce279ea-426c-4381-9b30-add683cdf7b7&file_name=TT42.pdf",
-   "file": "TT42.pdf"
   },
   {
    "code": "372/2026/NĐ-CP",
