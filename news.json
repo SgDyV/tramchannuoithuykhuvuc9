@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-07T07:23:56.098Z",
- "count": 43,
+ "updated": "2026-11-07T14:14:14.998Z",
+ "count": 39,
  "items": [
+  {
+   "title": "Bộ Y tế yêu cầu điều tra nguồn gốc thực phẩm trong vụ nghi ngộ độc bánh mì",
+   "link": "https://dantri.com.vn/suc-khoe/bo-y-te-yeu-cau-dieu-tra-nguon-goc-thuc-pham-trong-vu-nghi-ngo-doc-banh-mi-20261107154538226.htm",
+   "date": "Sat, 07 Nov 2026 15:57:14 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/11/07/banh-mi-nha-trangtrung-thi-1-edited-1723249402524-1780711596163-1794040781170.png",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "4 thực phẩm ăn giảm cholesterol",
+   "link": "https://vnexpress.net/4-thuc-pham-an-giam-cholesterol-5141786.html",
+   "date": "Sat, 07 Nov 2026 15:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/07/tra-i-ca-y-1794013381-2360-1794014129.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=UInX3fGBbbpKIg6AXxZqXg",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Tin mừng về vaccine điều trị ung thư Nga",
    "link": "https://znews.vn/tin-mung-ve-vaccine-dieu-tri-ung-thu-nga-post1694814.html",
@@ -120,46 +138,10 @@
    "icon": "📰"
   },
   {
-   "title": "5 cách phòng viêm phổi khi mắc cúm",
-   "link": "https://vnexpress.net/5-cach-phong-viem-phoi-khi-mac-cum-5141488.html",
-   "date": "Fri, 06 Nov 2026 11:30:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/06/image001-1793936855-6710-1793936907.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=J6-oPx4TojpPedxZ6zkkmQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Thịt nhũn, bở vào trường học: Công ty cung cấp nói do lợn bị stress",
    "link": "https://znews.vn/thit-nhun-bo-vao-truong-hoc-cong-ty-cung-cap-noi-do-lon-bi-stress-post1694567.html",
    "date": "Fri, 06 Nov 2026 09:48:31 +0700",
    "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_11_06/Thit_hong.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
-   "title": "Thanh tra tỉnh Gia Lai kiến nghị xử lý tổ chức, cá nhân liên quan đến 6 công ty nuôi heo",
-   "link": "https://tienphong.vn/thanh-tra-tinh-gia-lai-kien-nghi-xu-ly-to-chuc-ca-nhan-lien-quan-den-6-cong-ty-nuoi-heo-post1891863.tpo",
-   "date": "Fri, 06 Nov 2026 08:38:23 +07:00",
-   "image": "https://cdn.tienphong.vn/images/RJX489j2dHdESlsfLH3VFDzePiRUF4M2xGXgWuxUlPv_vO7dlXjf2jI2Ih6RKir3kcOVqqlJPlza80nK09ShXg/tien-phong.png.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
-   "title": "Vì sao người cao tuổi dễ biến chứng khi mắc cúm?",
-   "link": "https://vnexpress.net/vi-sao-nguoi-cao-tuoi-de-bien-chung-khi-mac-cum-5141312.html",
-   "date": "Fri, 06 Nov 2026 08:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/06/nguoi-cao-tuoi-tiem-vac-xin-cu-9963-3203-1793923208.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y4rXFyJpzhAxR7NTR05xbw",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Ăn rau, thịt hay cơm trước để giảm cân, kiểm soát đường huyết?",
-   "link": "https://znews.vn/thu-tu-an-uong-de-giam-can-kiem-soat-duong-huyet-post1694446.html",
-   "date": "Thu, 05 Nov 2026 19:01:00 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_11_05/an_com_1.jpg",
    "source": "znews",
    "label": "ZNews",
    "icon": "📰"
@@ -171,15 +153,6 @@
    "image": "https://icdn.dantri.com.vn/2026/11/05/9-1793874438570.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Long Châu minh bạch hành trình nhiệt độ bảo quản của từng hộp vaccine",
-   "link": "https://znews.vn/long-chau-minh-bach-hanh-trinh-nhiet-do-bao-quan-cua-tung-hop-vaccine-post1694397.html",
-   "date": "Thu, 05 Nov 2026 17:00:02 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/wyhktpu/2026_11_05/Thumb_1.jpeg",
-   "source": "znews",
-   "label": "ZNews",
    "icon": "📰"
   },
   {
@@ -361,15 +334,6 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
-  },
-  {
-   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
-   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
-   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
   },
   {
    "title": "Talkshow “Bảo vệ người chăn nuôi trước áp lực thị trường và thực phẩm nhập khẩu”",
