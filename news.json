@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-08T01:35:54.304Z",
- "count": 42,
+ "updated": "2026-11-08T08:11:50.596Z",
+ "count": 35,
  "items": [
+  {
+   "title": "Ăn bao nhiêu quả trứng mỗi ngày là tốt cho sức khỏe?",
+   "link": "https://vnexpress.net/an-bao-nhieu-qua-trung-moi-ngay-la-tot-cho-suc-khoe-5141855.html",
+   "date": "Sun, 08 Nov 2026 14:44:25 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/07/wm1-wm1-screenshot-at-1794025791-1806-1794025929.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_ud45LHwPpC4NQiPcYXziA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Thực phẩm bổ sung thổi phồng công dụng, lừa người dùng: BYT sửa luật",
+   "link": "https://znews.vn/thuc-pham-bo-sung-thoi-phong-cong-dung-lua-nguoi-dung-byt-sua-luat-post1694959.html",
+   "date": "Sun, 08 Nov 2026 14:00:40 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_11_08/Thuy_tien_live.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
   {
    "title": "Nuôi bò, ong dú giúp người Khmer vùng Bảy Núi tăng thu nhập",
    "link": "https://vnexpress.net/nuoi-bo-ong-du-giup-nguoi-khmer-vung-bay-nui-tang-thu-nhap-5140548.html",
@@ -84,15 +102,6 @@
    "icon": "🏥"
   },
   {
-   "title": "Điều gì xảy ra khi ăn trứng và quả bơ vào bữa sáng?",
-   "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-an-trung-va-qua-bo-vao-bua-sang-5141742.html",
-   "date": "Sat, 07 Nov 2026 09:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/06/tru-ng-luo-c-jpeg-1793976303-9601-1793977099.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fzevggPK9okEDtjztn1D_w",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Sắp diễn ra Hội nghị Quốc tế ngành công nghiệp thực phẩm Việt Nam 2026",
    "link": "https://www.vietnamplus.vn/sap-dien-ra-hoi-nghi-quoc-te-nganh-cong-nghiep-thuc-pham-viet-nam-2026-post1146668.vnp",
    "date": "Fri, 06 Nov 2026 18:03:24 +07:00",
@@ -102,39 +111,12 @@
    "icon": "📰"
   },
   {
-   "title": "8 thực phẩm giàu protein nên ăn mỗi tuần",
-   "link": "https://vnexpress.net/8-thuc-pham-giau-protein-nen-an-moi-tuan-5141409.html",
-   "date": "Fri, 06 Nov 2026 18:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/06/da-u-phu-xi-da-u-1793928049-4022-1793928145.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=4p_M6JcML45nmmh8hZoD6g",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Ngành thủy sản tự tin cán mốc 12 tỷ USD dù xuất khẩu tôm gặp khó",
    "link": "https://dantri.com.vn/kinh-doanh/nganh-thuy-san-tu-tin-can-moc-12-ty-usd-du-xuat-khau-tom-gap-kho-20261106152317572.htm",
    "date": "Fri, 06 Nov 2026 17:13:31 +0700",
    "image": "https://icdn.dantri.com.vn/2026/11/06/tom-4-1793953231816.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Sỏi to bằng quả trứng gà trong bàng quang người đàn ông",
-   "link": "https://vnexpress.net/soi-to-bang-qua-trung-ga-trong-bang-quang-nguoi-dan-ong-5141582.html",
-   "date": "Fri, 06 Nov 2026 15:38:03 +0700",
-   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/06/890434212122211861524844035523-5430-5437-1793950111.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2KuWbgEUf4dedcW66gv-8g",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Sau lời giải thích 'lợn bị stress', chuyên gia chỉ ra điều đáng lo hơn",
-   "link": "https://znews.vn/sau-loi-giai-thich-lon-bi-stress-chuyen-gia-chi-ra-dieu-dang-lo-hon-post1694594.html",
-   "date": "Fri, 06 Nov 2026 14:36:51 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_11_06/THIT_LON_NHUN.jpg",
-   "source": "znews",
-   "label": "ZNews",
    "icon": "📰"
   },
   {
@@ -153,15 +135,6 @@
    "image": "https://icdn.dantri.com.vn/2026/11/06/can-canh-thit-tuoi-voi-chu-do-stress-edited-1793944164092.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Thịt nhũn, bở vào trường học: Công ty cung cấp nói do lợn bị stress",
-   "link": "https://znews.vn/thit-nhun-bo-vao-truong-hoc-cong-ty-cung-cap-noi-do-lon-bi-stress-post1694567.html",
-   "date": "Fri, 06 Nov 2026 09:48:31 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_11_06/Thit_hong.jpg",
-   "source": "znews",
-   "label": "ZNews",
    "icon": "📰"
   },
   {
@@ -228,15 +201,6 @@
    "icon": "🏥"
   },
   {
-   "title": "Hạn chế kinh doanh thực phẩm nhiều đường, muối v&agrave; chất b&eacute;o trong căn tin trường học",
-   "link": "https://thanhnien.vn/han-che-kinh-doanh-thuc-pham-nhieu-duong-muoi-va-chat-beo-trong-can-tin-truong-hoc-185261103190835092.htm",
-   "date": "Wed, 04 Nov 26 06:05:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/3/tnw-13b-17937074974431736227213-0-0-632-1011-crop-17937075124691506267156.jpg",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
    "title": "Nhiều ca tử vong do bệnh dại, bác sĩ cảnh báo sai lầm trong dự phòng",
    "link": "https://dantri.com.vn/suc-khoe/nhieu-ca-tu-vong-do-benh-dai-bac-si-canh-bao-sai-lam-trong-du-phong-20261028101722882.htm",
    "date": "Tue, 03 Nov 2026 13:59:17 +0700",
@@ -286,33 +250,6 @@
    "link": "https://dantri.com.vn/suc-khoe/nguoi-phu-nu-bat-ngo-suy-tim-cap-sau-nhung-trieu-chung-tuong-cam-cum-20261029153130641.htm",
    "date": "Fri, 30 Oct 2026 10:05:22 +0700",
    "image": "https://icdn.dantri.com.vn/2024/04/11/suytim-1712812139267.jpeg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Bác sĩ chỉ cách chọn thực phẩm an toàn, phòng ngừa ngộ độc",
-   "link": "https://dantri.com.vn/suc-khoe/bac-si-chi-cach-chon-thuc-pham-an-toan-phong-ngua-ngo-doc-20261027170823419.htm",
-   "date": "Fri, 30 Oct 2026 07:30:12 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/27/thuc-pham-sach-edited-1793094998145.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Phát hiện 1,3 tấn gà, vịt không kiểm dịch vào TPHCM lúc nửa đêm",
-   "link": "https://dantri.com.vn/suc-khoe/phat-hien-13-tan-ga-vit-khong-kiem-dich-vao-tphcm-luc-nua-dem-20261029150526328.htm",
-   "date": "Thu, 29 Oct 2026 22:25:27 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/29/screen-shot-2026-10-29-at-25758-pm-1793260805599.png",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Bao bì thực phẩm có thể thôi nhiễm chất gây hại vào đồ ăn",
-   "link": "https://dantri.com.vn/suc-khoe/bao-bi-thuc-pham-co-the-thoi-nhiem-chat-gay-hai-vao-do-an-20261028154030836.htm",
-   "date": "Thu, 29 Oct 2026 15:19:38 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/28/baobithucpham2-1793176259178.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
    "icon": "📰"
