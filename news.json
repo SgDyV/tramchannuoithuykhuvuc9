@@ -1,7 +1,34 @@
 {
- "updated": "2026-11-08T08:11:50.596Z",
- "count": 35,
+ "updated": "2026-11-08T15:25:08.066Z",
+ "count": 37,
  "items": [
+  {
+   "title": "Chó mắc bệnh dại cắn 9 người ở Vĩnh Long trong 3 ngày",
+   "link": "https://znews.vn/cho-mac-benh-dai-can-9-nguoi-o-vinh-long-trong-3-ngay-post1695012.html",
+   "date": "Sun, 08 Nov 2026 18:00:03 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_11_08/cho_dai_3.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "80 doanh nghiệp, tổ chức nông nghiệp Mỹ sắp đến TPHCM tìm cơ hội kinh doanh",
+   "link": "https://dantri.com.vn/kinh-doanh/80-doanh-nghiep-to-chuc-nong-nghiep-my-sap-den-tphcm-tim-co-hoi-kinh-doanh-20261108153348380.htm",
+   "date": "Sun, 08 Nov 2026 15:43:54 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/11/08/oc-cho-my-v1-cropped-1794126734660.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Đã tiêm vaccine có cần xét nghiệm HPV nữa không?",
+   "link": "https://vnexpress.net/da-tiem-vaccine-co-can-xet-nghiem-hpv-nua-khong-5142121.html",
+   "date": "Sun, 08 Nov 2026 15:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/08/nguoi-tre-tiem-vaccine-hpv-vnv-4156-4912-1794112493.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=YHcQf2EMYUwVf0YQiU_3wg",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Ăn bao nhiêu quả trứng mỗi ngày là tốt cho sức khỏe?",
    "link": "https://vnexpress.net/an-bao-nhieu-qua-trung-moi-ngay-la-tot-cho-suc-khoe-5141855.html",
@@ -15,7 +42,7 @@
    "title": "Thực phẩm bổ sung thổi phồng công dụng, lừa người dùng: BYT sửa luật",
    "link": "https://znews.vn/thuc-pham-bo-sung-thoi-phong-cong-dung-lua-nguoi-dung-byt-sua-luat-post1694959.html",
    "date": "Sun, 08 Nov 2026 14:00:40 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_11_08/Thuy_tien_live.jpg",
+   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_11_08/tpbs.jpg",
    "source": "znews",
    "label": "ZNews",
    "icon": "📰"
@@ -63,15 +90,6 @@
    "image": "https://photo.znews.vn/w660/Uploaded/uqvpkpic/2026_11_07/CaTevac.jpg",
    "source": "znews",
    "label": "ZNews",
-   "icon": "📰"
-  },
-  {
-   "title": "Cúm A có lây qua sữa mẹ?",
-   "link": "https://vnexpress.net/cum-a-co-lay-qua-sua-me-5141809.html",
-   "date": "Sat, 07 Nov 2026 11:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/07/image001-1794018001-1648-1794018034.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=D_IkS2wDelV7GXyPKUPVSw",
-   "source": "vnexpress",
-   "label": "VnExpress",
    "icon": "📰"
   },
   {
