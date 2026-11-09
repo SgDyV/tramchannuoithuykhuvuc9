@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-09T02:47:31.062Z",
- "count": 33,
+ "updated": "2026-11-09T10:30:24.237Z",
+ "count": 37,
  "items": [
+  {
+   "title": "Lào Cai đặt mục tiêu đào tạo nghề nông nghiệp cho hơn 23.000 lao động vùng cao",
+   "link": "https://www.vietnamplus.vn/lao-cai-dat-muc-tieu-dao-tao-nghe-nong-nghiep-cho-hon-23000-lao-dong-vung-cao-post1147075.vnp",
+   "date": "Mon, 09 Nov 2026 17:00:00 +07:00",
+   "image": "https://media.vietnamplus.vn/images/O5HOz7kQdXhh7X2Iy0psPpiqcS2D3yONCUe7p_724B7radbFB5we1dBfUDOlHf36X1BCAb7ZHgLxS2T0ezA6EQ/screenshot-2026-11-9069.png.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Kết luận của Bộ Chính trị về đầu mối quản lý an toàn thực phẩm từ Trung ương đến địa phương",
+   "link": "https://tienphong.vn/ket-luan-cua-bo-chinh-tri-ve-dau-moi-quan-ly-an-toan-thuc-pham-tu-trung-uong-den-dia-phuong-post1892812.tpo",
+   "date": "Mon, 09 Nov 2026 16:43:01 +07:00",
+   "image": "https://cdn.tienphong.vn/images/pA4xt8jd7O87PE57E1CLJP59OWcK0sIZaswwJRpqd_QZ4Coyem2VlrU4U00Hh4WT/img-4800.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Loài cá sống trong bùn được ví 'nhân sâm dưới nước', thịt mềm ngọt",
+   "link": "https://znews.vn/loai-ca-song-trong-bun-duoc-vi-nhan-sam-duoi-nuoc-thit-mem-ngot-post1695200.html",
+   "date": "Mon, 09 Nov 2026 15:33:40 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_11_09/ca_chach_1.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Đề xuất siết quản lý thực phẩm bổ sung, ngăn 'quảng cáo thổi phồng công dụng'",
+   "link": "https://vnexpress.net/de-xuat-siet-quan-ly-thuc-pham-bo-sung-ngan-quang-cao-thoi-phong-cong-dung-5142127.html",
+   "date": "Mon, 09 Nov 2026 14:02:44 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/08/anh-chup-man-hinh-luc-17941135-4216-2706-1794113549.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2c5ZHClfxnuSI6UoUSCDNw",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "5 thực phẩm tốt cho trí não người cao tuổi",
+   "link": "https://vnexpress.net/5-thuc-pham-tot-cho-tri-nao-nguoi-cao-tuoi-5142339.html",
+   "date": "Mon, 09 Nov 2026 14:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/09/hat-oc-cho-1794192607-9047-1794192703.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Bs4n03kZgVlyPwZkkqGEzA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Đồng Nai có tân Giám đốc Sở Nông nghiệp và Môi trường",
+   "link": "https://tienphong.vn/dong-nai-co-tan-giam-doc-so-nong-nghiep-va-moi-truong-post1892726.tpo",
+   "date": "Mon, 09 Nov 2026 12:29:05 +07:00",
+   "image": "https://cdn.tienphong.vn/images/ZCwedOKZjWXJ6w_5XKrxSBx_lldGE_11vFT3g6PE-888U-ZbsheevNkvjHMd5yYcEEMux7XedVOW9Q8cOCOowA/anh-man-hinh-2026-11-09-luc.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Nhiều người dân tích trữ thực phẩm trước dự báo mưa lớn, người bán khuyến cáo",
+   "link": "https://dantri.com.vn/kinh-doanh/nhieu-nguoi-dan-tich-tru-thuc-pham-truoc-du-bao-mua-lon-nguoi-ban-khuyen-cao-20261108123657736.htm",
+   "date": "Mon, 09 Nov 2026 10:13:25 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/11/08/muarau-nghean-hoanglam-edited-1794115797640.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Các nhà khoa học phát hiện điều bất ngờ ở người ăn nhiều thịt",
+   "link": "https://znews.vn/cac-nha-khoa-hoc-phat-hien-dieu-bat-ngo-o-nguoi-an-nhieu-thit-post1692302.html",
+   "date": "Mon, 09 Nov 2026 10:10:13 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/uqvpkpic/2026_10_27/thit.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
   {
    "title": "Chó mắc bệnh dại cắn 9 người ở Vĩnh Long trong 3 ngày",
    "link": "https://znews.vn/cho-mac-benh-dai-can-9-nguoi-o-vinh-long-trong-3-ngay-post1695012.html",
@@ -48,6 +120,15 @@
    "icon": "📰"
   },
   {
+   "title": "Mỹ cử đoàn xúc tiến thương mại nông nghiệp lớn nhất tới Việt Nam",
+   "link": "https://znews.vn/my-cu-doan-xuc-tien-thuong-mai-nong-nghiep-lon-nhat-toi-viet-nam-post1694940.html",
+   "date": "Sun, 08 Nov 2026 09:52:10 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/rohuoct/2026_11_08/my_xuc_tien_thuongmai_1.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
    "title": "Nuôi bò, ong dú giúp người Khmer vùng Bảy Núi tăng thu nhập",
    "link": "https://vnexpress.net/nuoi-bo-ong-du-giup-nguoi-khmer-vung-bay-nui-tang-thu-nhap-5140548.html",
    "date": "Sun, 08 Nov 2026 00:00:00 +0700",
@@ -75,30 +156,12 @@
    "icon": "📰"
   },
   {
-   "title": "Tin mừng về vaccine điều trị ung thư Nga",
-   "link": "https://znews.vn/tin-mung-ve-vaccine-dieu-tri-ung-thu-nga-post1694814.html",
-   "date": "Sat, 07 Nov 2026 13:15:13 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/uqvpkpic/2026_11_07/CaTevac.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
    "title": "Sửa Luật An toàn thực phẩm, chuyển mạnh từ tiền kiểm sang hậu kiểm",
    "link": "https://dantri.com.vn/suc-khoe/sua-luat-an-toan-thuc-pham-chuyen-manh-tu-tien-kiem-sang-hau-kiem-20261106231308986.htm",
    "date": "Sat, 07 Nov 2026 10:26:03 +0700",
    "image": "https://icdn.dantri.com.vn/2026/11/06/can-manh-tay-voi-toi-pham-ve-an-toan-ve-sinh-thuc-pham-edited-1776157984602-1793981395459.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Mỹ cử đoàn xúc tiến thương mại nông nghiệp lớn nhất tới Việt Nam",
-   "link": "https://www.vietnamplus.vn/my-cu-doan-xuc-tien-thuong-mai-nong-nghiep-lon-nhat-toi-viet-nam-post1146748.vnp",
-   "date": "Sat, 07 Nov 2026 09:28:59 +07:00",
-   "image": "https://media.vietnamplus.vn/images/IQdJ9t68n_Fc4c6ldNrZ7RaKQtbY1OVLiVtxkEmQhWj4N9gX-yFel4ltJvEwC9sCn4nTO3R9nhfG6NjvF4wgQw/ttxvn_my-xuc-tien-thuongmai.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
    "icon": "📰"
   },
   {
@@ -142,15 +205,6 @@
    "link": "https://dantri.com.vn/suc-khoe/long-chau-ung-dung-cong-nghe-moi-trong-truy-xuat-minh-bach-hanh-trinh-vaccine-20261105172839016.htm",
    "date": "Thu, 05 Nov 2026 17:41:12 +0700",
    "image": "https://icdn.dantri.com.vn/2026/11/05/9-1793874438570.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Công ty nông nghiệp của ông Trần Bá Dương thua lỗ, nợ gần 22.000 tỷ đồng",
-   "link": "https://dantri.com.vn/kinh-doanh/cong-ty-nong-nghiep-cua-ong-tran-ba-duong-thua-lo-no-gan-22000-ty-dong-20261105120405945.htm",
-   "date": "Thu, 05 Nov 2026 12:32:24 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/04/04/bi-nghi-ngo-kha-nang-hoat-dong-lien-tuc-hagl-agrico-noi-gi-1-edited-cropped-1775272818661.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
    "icon": "📰"
@@ -219,24 +273,6 @@
    "icon": "📰"
   },
   {
-   "title": "Người bệnh đau họng khi ăn mì tôm, bác sĩ phát hiện dao lam trong thực quản",
-   "link": "https://dantri.com.vn/suc-khoe/nguoi-benh-dau-hong-khi-an-mi-tom-bac-si-phat-hien-dao-lam-trong-thuc-quan-20261030123859781.htm",
-   "date": "Fri, 30 Oct 2026 15:09:02 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/10/30/dau-hong-khi-dang-an-mi-tom-bac-si-phat-hien-di-vat-dao-lam-cropped-1793338479860.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Người phụ nữ bất ngờ suy tim cấp sau những triệu chứng tưởng cảm cúm",
-   "link": "https://dantri.com.vn/suc-khoe/nguoi-phu-nu-bat-ngo-suy-tim-cap-sau-nhung-trieu-chung-tuong-cam-cum-20261029153130641.htm",
-   "date": "Fri, 30 Oct 2026 10:05:22 +0700",
-   "image": "https://icdn.dantri.com.vn/2024/04/11/suytim-1712812139267.jpeg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
    "title": "Phát hiện 1,3 tấn gia cầm không giấy kiểm dịch từ Đồng Nai về TP.HCM",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/10/29/phat-hien-1-3-tan-gia-cam-khong-giay-kiem-dich-tu-dong-nai-ve-tphcm.aspx",
    "date": "Thu, 29 Oct 2026 14:54:00 +0700",
@@ -273,12 +309,12 @@
    "icon": "🏥"
   },
   {
-   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
-   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
-   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
+   "title": "Quản lý thị trường Hà Nội: Cảnh báo ‘thực phẩm bẩn’ dịp giáp Tết",
+   "link": "https://tienphong.vn/quan-ly-thi-truong-ha-noi-canh-bao-thuc-pham-ban-dip-giap-tet-post1892658.tpo",
+   "date": "Sun, 08 Nov 2026 11:00:00 +07:00",
+   "image": "",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
    "icon": "📰"
   },
   {
