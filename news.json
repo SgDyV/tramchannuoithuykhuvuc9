@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-11T11:18:29.494Z",
- "count": 36,
+ "updated": "2026-11-11T18:47:42.150Z",
+ "count": 38,
  "items": [
+  {
+   "title": "Bộ trưởng Đào Hồng Lan: 'Không chuyển hết việc nuôi tôm, nuôi cá, nuôi gà, nuôi bò sang Bộ Y tế được'",
+   "link": "https://tienphong.vn/bo-truong-dao-hong-lan-khong-chuyen-het-viec-nuoi-tom-nuoi-ca-nuoi-ga-nuoi-bo-sang-bo-y-te-duoc-post1893523.tpo",
+   "date": "Wed, 11 Nov 2026 18:41:43 +07:00",
+   "image": "https://cdn.tienphong.vn/images/nsgp9dvlAamgUjJTw8t8VVr1m2BDF1YFD1idSSnRtLZZhc5IEu4i76MQJLr2Xq04/tp_1111byt.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
   {
    "title": "'Người dân phải biết mình đang ăn thịt bò hay trâu giả bò'",
    "link": "https://vnexpress.net/nguoi-dan-phai-biet-minh-dang-an-thit-bo-hay-trau-gia-bo-5143479.html",
@@ -307,6 +316,15 @@
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
    "icon": "🏥"
+  },
+  {
+   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
+   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
+   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
+   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
   },
   {
    "title": "Talkshow “Bảo vệ người chăn nuôi trước áp lực thị trường và thực phẩm nhập khẩu”",
