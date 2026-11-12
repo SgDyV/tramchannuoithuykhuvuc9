@@ -1,9 +1,63 @@
 {
- "updated": "2026-11-12T08:30:23.702Z",
+ "updated": "2026-11-12T16:59:05.423Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Nghiên cứu đặc điểm sinh học và phân loại sơ bộ ong không ngòi đốt tại 6 tỉnh trung du miền núi phía bắc Việt Nam",
+   "link": "https://channuoivietnam.com/portal-news-detail/3afd9cb7-bce2-4ed1-8aed-634a68de7935",
+   "date": "2026-11-12T19:39:32.237+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5ccd06f35c-7f70-439d-b666-426b2e1785d8.png&v=83b53061-46a3-4860-83bf-82350168ce6c",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Bệnh hô hấp Chlamydiosis ở các loài gia cầm và hoang cầm",
+   "link": "https://channuoivietnam.com/portal-news-detail/57157",
+   "date": "2026-11-12T17:00:16+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f01%2f1-1.jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Thử nghiệm cấy truyền phôi bò ứng dụng kỹ thuật cố định thời gian cấy phôi",
+   "link": "https://channuoivietnam.com/portal-news-detail/43380",
+   "date": "2026-11-12T16:02:34+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f06%2fKH.-Cay-truyen-phoi-bo.gif",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Nghiên cứu giúp phòng ngừa bệnh tai xanh ở lợn trong quá trình sinh sản",
+   "link": "https://channuoivietnam.com/portal-news-detail/35693",
+   "date": "2026-11-12T16:00:35+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2018%2f09%2fKH.-Heo-tai-xanh.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Hệ số tiêu hóa axit amin hồi tràng biểu kiến và tiêu chuẩn của một số loại thức ăn dùng chủ yếu cho lợn",
+   "link": "https://channuoivietnam.com/portal-news-detail/49114",
+   "date": "2026-11-12T15:59:59+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f12%2fKH.-Heo-choai.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Biện pháp nâng cao sức sinh sản ở bò sữa, bò thịt",
+   "link": "https://channuoivietnam.com/portal-news-detail/45409",
+   "date": "2026-11-12T15:59:08+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f07%2fKH.-Bo-sua.jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Ảnh hưởng của việc bổ sung các công thức dược liệu vào khẩu phần đến khả năng sinh trưởng của gà giai đoạn 1 - 19 tuần tuổi",
    "link": "https://channuoivietnam.com/portal-news-detail/235861f5-fc4c-492d-8c83-86226d3e286a",
@@ -81,60 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/a093b858-1c01-4ea7-8da2-e948b5d54ffa",
    "date": "2026-11-11T17:11:48.237+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c222049d5-1616-40eb-942b-111046ad4cef.png&v=74719568-7cce-4864-9078-fa7fb06ce67c",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Sự phát triển và khả năng sống của trứng và ấu trùng giun xoăn Haemonchus contortus ở ngoại cảnh",
-   "link": "https://channuoivietnam.com/portal-news-detail/60370",
-   "date": "2026-11-11T17:00:11+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c60370edit.png&v=38916c6c-0377-4d52-b62c-d5ca6026b278",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Gà thịt hiện đại cần bao nhiêu kẽm",
-   "link": "https://channuoivietnam.com/portal-news-detail/54756",
-   "date": "2026-11-11T16:05:18+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c54756edit.png&v=630132d0-99f9-45aa-a543-543ee3d54c54",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Tránh sữa bị nhiễm aflatoxin",
-   "link": "https://channuoivietnam.com/portal-news-detail/46085",
-   "date": "2026-11-11T15:57:34+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f07%2fKH.-Bo-sua.jpeg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của các công thức dược liệu bổ sung trong thức ăn đến năng suất và chất lượng trứng của gà đẻ trứng thương phẩm",
-   "link": "https://channuoivietnam.com/portal-news-detail/11234ead-08ba-4c19-beaa-c5cd7c8756dc",
-   "date": "2026-11-11T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c15c6a41a-6a96-43b3-a82d-e84af9f02a4b.png&v=7b77e676-ed0f-4284-ab0c-7c7ab7b4b66c",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của đa hình gen growth hormone đến khả năng đẻ trứng của chim cút Nhật Bản",
-   "link": "https://channuoivietnam.com/portal-news-detail/130fb6c3-70cf-44c3-a1fa-4a76a7862e20",
-   "date": "2026-11-11T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c19c12376-9c28-4054-b6b1-ecea099a9e3d.png&v=1138550a-ddca-4a48-9df2-25885f59cff5",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của bổ sung acid hữu cơ trong khẩu phần lên năng suất và chất lượng trứng gà công nghiệp giai đoạn mới bắt đầu đẻ trứng",
-   "link": "https://channuoivietnam.com/portal-news-detail/38c8be58-5248-49ca-96bf-09aaf810606f",
-   "date": "2026-11-11T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c9db007c9-41bd-498e-bc8d-77f59f70db3e.png&v=4a9a4ee6-464b-45de-885a-1db62d22e54f",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
