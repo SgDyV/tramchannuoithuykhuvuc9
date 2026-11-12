@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-12T01:07:30.054Z",
- "count": 39,
+ "updated": "2026-11-12T08:30:00.052Z",
+ "count": 30,
  "items": [
+  {
+   "title": "Rắn cạp nia bò vào giường cắn thiếu niên 14 tuổi nhiều vết",
+   "link": "https://znews.vn/ran-cap-nia-bo-vao-giuong-can-thieu-nien-14-tuoi-nhieu-vet-post1695943.html",
+   "date": "Thu, 12 Nov 2026 12:50:28 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2025_06_18/CAP_NIA_1.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Tập đoàn thực phẩm Hàn Quốc sắp chi 4.200 tỷ đồng xây nhà máy tại Việt Nam",
+   "link": "https://dantri.com.vn/kinh-doanh/tap-doan-thuc-pham-han-quoc-sap-chi-4200-ty-dong-xay-nha-may-tai-viet-nam-20261112101042733.htm",
+   "date": "Thu, 12 Nov 2026 11:01:27 +0700",
+   "image": "https://icdn.dantri.com.vn/2026/11/12/mi-han-1794452722275.png",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
   {
    "title": "Điện Biên: Đưa kiến thức chăn nuôi đến với lao động nông thôn xã Thanh An",
    "link": "https://www.vietnamplus.vn/dien-bien-dua-kien-thuc-chan-nuoi-den-voi-lao-dong-nong-thon-xa-thanh-an-post1147080.vnp",
@@ -16,15 +34,6 @@
    "link": "https://tienphong.vn/tom-viet-nam-xuat-khau-dang-chiu-ap-luc-gay-gat-ve-gia-post1893555.tpo",
    "date": "Thu, 12 Nov 2026 05:37:11 +07:00",
    "image": "https://cdn.tienphong.vn/images/rTfztJ2DNcpP8hPEVC5GQLY90UMuCUTLkuDuD1OfJ2LVKlpW4Wtlz6EJcrlh-G95/1000127989.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
-   "title": "Bộ trưởng Đào Hồng Lan: 'Không chuyển hết việc nuôi tôm, nuôi cá, nuôi gà, nuôi bò sang Bộ Y tế được'",
-   "link": "https://tienphong.vn/bo-truong-dao-hong-lan-khong-chuyen-het-viec-nuoi-tom-nuoi-ca-nuoi-ga-nuoi-bo-sang-bo-y-te-duoc-post1893523.tpo",
-   "date": "Wed, 11 Nov 2026 18:41:43 +07:00",
-   "image": "https://cdn.tienphong.vn/images/nsgp9dvlAamgUjJTw8t8VVr1m2BDF1YFD1idSSnRtLZZhc5IEu4i76MQJLr2Xq04/tp_1111byt.jpg.avif",
    "source": "tienphong",
    "label": "Báo Tiền Phong",
    "icon": "📰"
@@ -48,15 +57,6 @@
    "icon": "📰"
   },
   {
-   "title": "Đại biểu Phạm Khánh Phong Lan bóc lỗ hổng kiểm tra thực phẩm",
-   "link": "https://tienphong.vn/dai-bieu-pham-khanh-phong-lan-boc-lo-hong-kiem-tra-thuc-pham-post1893503.tpo",
-   "date": "Wed, 11 Nov 2026 17:04:51 +07:00",
-   "image": "https://cdn.tienphong.vn/images/nZ3o7Y15rMpR1n6z3GhJVfuDW5r78f9xGaN4UnuGVEstCelJbtecDxQrpD_Fz4vMrXVWNi0WjEqi3x25tAUmOEZZa6AqKsxcU5Y-fWwJ5RyuVhaYqCHbI2TeCcnVXtqEdtv4FDM5_ggWNVh_7VULS0JVg0wzv99VMNj4uF_c9IgtEzl-kVHxFAApJNAUvJe-/202611111539255356-1794386202669-2162376588907177512-g3194982797251543164-5027fc930ff4ccdf734c1bef2be4513c-5548.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
    "title": "Thủy sản cần l&agrave;m g&igrave; để chạm mốc 16 tỉ USD v&agrave;o năm 2029?",
    "link": "https://thanhnien.vn/thuy-san-can-lam-gi-de-cham-moc-16-ti-usd-vao-nam-2029-185261111113112748.htm",
    "date": "Wed, 11 Nov 26 16:27:00 +0700",
@@ -72,24 +72,6 @@
    "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/202611101508229072-1794387918-8600-1794388401.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vTttS27qhR7nFKjujT4TYQ",
    "source": "vnexpress",
    "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Thị trường thủy sản 2027-2029: Cơ hội và dư địa tăng trưởng xuất khẩu hai con số",
-   "link": "https://www.vietnamplus.vn/thi-truong-thuy-san-2027-2029-co-hoi-va-du-dia-tang-truong-xuat-khau-hai-con-so-post1147664.vnp",
-   "date": "Wed, 11 Nov 2026 16:11:05 +07:00",
-   "image": "https://media.vietnamplus.vn/images/lFuaSJ54A9Yx0v5wBTS36bDQsjAJ_Sn7GKi-H0haIiTqRPD-Cg6wKyZgAkZvgu4MlTMHGTIOsOW25VgJErWFEL7OrTk9296BIduKzkxwu_Qa_2NOSUQnHLQsJLV8JaNwMEPBhEk4roqVlNvrSvlvyg/ttxvn_nam-2026-viet-nam-phan-dau-xuat-khau-thuy-san-dat-kim-ngach-115-ty-usd-8567228.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
-   "icon": "📰"
-  },
-  {
-   "title": "Việt Nam và Australia hợp tác thúc đẩy nông nghiệp bền vững",
-   "link": "https://www.vietnamplus.vn/viet-nam-va-australia-hop-tac-thuc-day-nong-nghiep-ben-vung-post1147641.vnp",
-   "date": "Wed, 11 Nov 2026 15:19:59 +07:00",
-   "image": "https://media.vietnamplus.vn/images/QcJaCVoYMCKXsPQ_Rprjc-Psb9yLBOzm2b2xWHkEn8UR6Fw2xDPKnw3Ozlf9tiRlDEGyURAaxcC_r5USzlyBgBwVC7EoQBydklrH7WQ29R4TL2EQACbyzxNNaZGrVoNoGAtb_vdkHQmVxf4YK5rtkQ/ttxvn_doi-moi-trong-nganh-thuc-pham-huong-toi-gia-tang-gia-tri-chuoi-cung-ung-1111.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
    "icon": "📰"
   },
   {
@@ -129,48 +111,12 @@
    "icon": "📰"
   },
   {
-   "title": "Nông nghiệp hữu cơ tuần hoàn mở hướng đi bền vững cho nông dân Đồng Tháp",
-   "link": "https://www.vietnamplus.vn/nong-nghiep-huu-co-tuan-hoan-mo-huong-di-ben-vung-cho-nong-dan-dong-thap-post1147542.vnp",
-   "date": "Wed, 11 Nov 2026 08:37:20 +07:00",
-   "image": "https://media.vietnamplus.vn/images/lFuaSJ54A9Yx0v5wBTS36XxlBaIS989ukKEcg7E0Ag66zlaYmT9mbzh2RtLajxnLsNoWKnnHkPa7TbWIX4dp5ttZRmVOW3G1b6UMFv8wxUBP0bVE__ozb8yBKTfHv7-X14Xxu04V7NFaiUxDm_DoVA/ttxvn_dong-thap-nong-nghiep-tuan-hoan-mang-lai-hieu-qua-kinh-te-cao-9112905.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
-   "icon": "📰"
-  },
-  {
-   "title": "Bé 4 tháng tuổi nổi hạch sau tiêm vaccine lao",
-   "link": "https://vnexpress.net/be-4-thang-tuoi-noi-hach-sau-tiem-vaccine-lao-5143177.html",
-   "date": "Wed, 11 Nov 2026 08:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/11/image001-1794357772-6804-1794357821.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FMxIZbuTShpAMviRo1nDfQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Hơn 40 con trâu, bò ở Nghệ An chết do bệnh tụ huyết trùng",
    "link": "https://vnexpress.net/hon-40-con-trau-bo-o-nghe-an-chet-do-benh-tu-huyet-trung-5142997.html",
    "date": "Tue, 10 Nov 2026 17:18:21 +0700",
    "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/trau-chet-1794299710-2480-1794300310.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=h7XO8CwRKWMdRwvP_VLnvQ",
    "source": "vnexpress",
    "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Đề xuất 'quản lý theo nhóm nguy cơ' trong dự thảo sửa đổi Luật An toàn thực phẩm",
-   "link": "https://vnexpress.net/de-xuat-quan-ly-theo-nhom-nguy-co-trong-du-thao-sua-doi-luat-an-toan-thuc-pham-5142707.html",
-   "date": "Tue, 10 Nov 2026 14:42:08 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/10/anh-chup-man-hinh-luc-17942722-4944-5055-1794272239.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=3Qgpz7pF64kS3ygj15T8hQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Bên trong nơi áp lực nhất giữa làn sóng cúm A",
-   "link": "https://znews.vn/ben-trong-noi-ap-luc-nhat-giua-lan-song-cum-a-post1695399.html",
-   "date": "Tue, 10 Nov 2026 11:00:26 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_11_10/sotxuathuyet_32_znews.jpg",
-   "source": "znews",
-   "label": "ZNews",
    "icon": "📰"
   },
   {
@@ -246,15 +192,6 @@
    "icon": "📰"
   },
   {
-   "title": "Xu hướng già hóa nhanh: Người cao tuổi cần bảo vệ tối ưu trước bệnh cúm",
-   "link": "https://dantri.com.vn/suc-khoe/xu-huong-gia-hoa-nhanh-nguoi-cao-tuoi-can-bao-ve-toi-uu-truoc-benh-cum-20261103104617996.htm",
-   "date": "Thu, 05 Nov 2026 08:00:00 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/11/03/nguoi-cao-tuoi-tiem-cum-phong-benh-vnvc-cropped-1793677387641.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
    "title": "Đến năm 2030, cơ sở giết mổ động vật không đáp ứng yêu cầu về môi trường, thú y và an toàn thực phẩm phải dừng hoạt động",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/11/05/Den-nam-2030-co-so-giet-mo-dong-vat-khong-dap-ung-yeu-cau-ve-moi-truong-thu-y-va-an-toan-thuc-pham-phai-dung-hoat-dong.aspx",
    "date": "Thu, 05 Nov 2026 07:58:00 +0700",
@@ -282,13 +219,13 @@
    "icon": "📰"
   },
   {
-   "title": "3 bộ phận của tôm cần lưu ý khi ăn",
-   "link": "https://dantri.com.vn/suc-khoe/3-bo-phan-cua-tom-can-luu-y-khi-an-20261103061745227.htm",
-   "date": "Tue, 03 Nov 2026 10:49:04 +0700",
-   "image": "https://icdn.dantri.com.vn/2026/11/03/ba-bo-phan-cua-tom-can-luu-y-1793661321135.png",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
+   "title": "Phát hiện, xử lý 1,3 tấn gia cầm không giấy chứng nhận kiểm dịch động vật",
+   "link": "https://chicuccntyhcm.gov.vn/new/2026/10/30/Phat-hien-xu-ly-13-tan-gia-cam-khong-giay-chung-nhan-kiem-dich-dong-vat.aspx",
+   "date": "Fri, 30 Oct 2026 07:46:00 +0700",
+   "image": "https://chicuccntyhcm.gov.vn/image.axd?picture=2026%2f11%2fKTCN_Hinh1_30.10.26.jpg",
+   "source": "chicuccntyhcm",
+   "label": "Chi cục CNTY HCM",
+   "icon": "🏥"
   },
   {
    "title": "Phát hiện 1,3 tấn gia cầm không giấy kiểm dịch từ Đồng Nai về TP.HCM",
@@ -327,27 +264,9 @@
    "icon": "🏥"
   },
   {
-   "title": "Hơn 30 con trâu, bò chết trong đêm do nước lũ lên nhanh",
-   "link": "https://dantri.com.vn/thoi-su/hon-30-con-trau-bo-chet-trong-dem-do-nuoc-lu-len-nhanh-20250906162054860.htm",
-   "date": "Sat, 06 Sep 2025 17:04:48 +0700",
-   "image": "https://icdn.dantri.com.vn/2025/09/06/54268959615594948316868134455710429105710654n-edited-1757150824791.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
    "title": "Talkshow “Bảo vệ người chăn nuôi trước áp lực thị trường và thực phẩm nhập khẩu”",
    "link": "https://chicuccntyhcm.gov.vn/new/2026/10/23/Talkshow-Bao-ve-nguoi-chan-nuoi-truoc-ap-luc-thi-truong-va-thuc-pham-nhap-khau.aspx",
    "date": "Fri, 23 Oct 2026 07:56:00 +0700",
-   "image": "",
-   "source": "chicuccntyhcm",
-   "label": "Chi cục CNTY HCM",
-   "icon": "🏥"
-  },
-  {
-   "title": "Bảng tiếp thu ý kiến giải trình NQ khu vực không được phép chăn nuôi",
-   "link": "https://chicuccntyhcm.gov.vn/new/2026/10/12/bang-tiep-thu-y-kien-giai-trinh-nq-khu-vuc-khong-duoc-phep-chan-nuoi.aspx",
-   "date": "Mon, 12 Oct 2026 14:44:00 +0700",
    "image": "",
    "source": "chicuccntyhcm",
    "label": "Chi cục CNTY HCM",
