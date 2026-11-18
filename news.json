@@ -1,7 +1,34 @@
 {
- "updated": "2026-11-18T00:21:02.879Z",
- "count": 30,
+ "updated": "2026-11-18T07:45:32.180Z",
+ "count": 28,
  "items": [
+  {
+   "title": "Công thức thịt kho kiểu Việt Nam ngon hoàn hảo trên báo Anh",
+   "link": "https://znews.vn/cong-thuc-thit-kho-kieu-viet-nam-ngon-hoan-hao-tren-bao-anh-post1697025.html",
+   "date": "Wed, 18 Nov 2026 13:00:13 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_11_17/Thit_kho_kieu_Viet_2.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Dịch tả lợn châu Phi xuất hiện tại 12 xã, phường ở Ninh Bình",
+   "link": "https://tienphong.vn/dich-ta-lon-chau-phi-xuat-hien-tai-12-xa-phuong-o-ninh-binh-post1895392.tpo",
+   "date": "Wed, 18 Nov 2026 11:28:46 +07:00",
+   "image": "https://cdn.tienphong.vn/images/nsgp9dvlAamgUjJTw8t8VRqhz7W7XPIMf2gGN1VkggUHRRBlrHKkVABEAScs1pQkCsGkd2dFGMbmiVfQljswMw/screen-shot-2026-11-18-at.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Nhiễm liên cầu lợn gây đột quỵ và hỏng van tim",
+   "link": "https://vnexpress.net/nhiem-lien-cau-lon-gay-dot-quy-va-hong-van-tim-5145714.html",
+   "date": "Wed, 18 Nov 2026 08:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/17/image001-1794901309-7668-1794901431.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Lil_04FbIFMBWwnWuHFGWw",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Cần Thơ thu hút doanh nghiệp Trung Quốc đầu tư nông nghiệp công nghệ cao, logistics",
    "link": "https://www.vietnamplus.vn/can-tho-thu-hut-doanh-nghiep-trung-quoc-dau-tu-nong-nghiep-cong-nghe-cao-logistics-post1148932.vnp",
@@ -39,15 +66,6 @@
    "icon": "📰"
   },
   {
-   "title": "Xoài Yên Châu: Khi \"nông nghiệp tử tế\" giúp thu về trái ngọt",
-   "link": "https://www.vietnamplus.vn/xoai-yen-chau-khi-nong-nghiep-tu-te-giup-thu-ve-trai-ngot-post1146665.vnp",
-   "date": "Tue, 17 Nov 2026 14:20:00 +07:00",
-   "image": "https://media.vietnamplus.vn/images/kpYwUNVIdmktOA6PhcDOMbeu2Zk_mdNdQ-l2M1JC-kAZYQGdZUJKGbAQO86fY8J19hLOGb-IdRoVD3hc5kkuOEvOAtIYUr5QZFCjP9pCNSF59YEovcGx4P72TB7VNVbbo-60o-2FvMpZ4rImyt0JC821f-uQGuqGjlbopAI1anM/1794472663040-2921160558386148016-2921160558386148016-586811cc222ff6025f04c65237a7379f.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
-   "icon": "📰"
-  },
-  {
    "title": "Trữ trứng trước điều trị ung thư vú",
    "link": "https://vnexpress.net/tru-trung-truoc-dieu-tri-ung-thu-vu-5145526.html",
    "date": "Tue, 17 Nov 2026 13:00:00 +0700",
@@ -66,28 +84,10 @@
    "icon": "📰"
   },
   {
-   "title": "Cà Mau phát triển mô hình du lịch cộng đồng trong vuông tôm",
-   "link": "https://www.vietnamplus.vn/ca-mau-phat-trien-mo-hinh-du-lich-cong-dong-trong-vuong-tom-post1148780.vnp",
-   "date": "Tue, 17 Nov 2026 10:42:09 +07:00",
-   "image": "https://media.vietnamplus.vn/images/_RfA0Lv7xigOosrBfIuLk8ODlnVoHS2XTV6TUbleLCIJGJXdCOFFDxNnXOnOe5upO68Kok39VxEegRpLRCZeeA/ttxvn-du-lich-nuoi-ton.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
-   "icon": "📰"
-  },
-  {
    "title": "Nhiều tôm hùm ở vịnh Xuân Đài chết đột ngột",
    "link": "https://vnexpress.net/nhieu-tom-hum-o-vinh-xuan-dai-chet-dot-ngot-5145428.html",
    "date": "Tue, 17 Nov 2026 05:00:00 +0700",
    "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/1794884910220f2c5cfef84919e139-3114-3783-1794885065.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pO_Ar-1YGQTMzQ_xcMJU_g",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Người cao tuổi khỏe mạnh có cần tiêm vaccine RSV?",
-   "link": "https://vnexpress.net/nguoi-cao-tuoi-khoe-manh-co-can-tiem-vaccine-rsv-5145258.html",
-   "date": "Mon, 16 Nov 2026 19:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/16/tiem-rsv-huynh-tho-1794813631-1133-1794813767.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=qvjfPA6aMd9Q4pZIpC4nnA",
    "source": "vnexpress",
    "label": "VnExpress",
    "icon": "📰"
@@ -99,15 +99,6 @@
    "image": "https://cdnphoto.dantri.com.vn/vL_9SJX3XkEQKMHOas02sba40nQ=/2026/11/16/cua-2-1794815847417.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Triệu chứng tai mũi họng thường gặp khi mắc cúm",
-   "link": "https://vnexpress.net/trieu-chung-tai-mui-hong-thuong-gap-khi-mac-cum-5145165.html",
-   "date": "Mon, 16 Nov 2026 17:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/16/432492354-n-1794801480-7998-1794801506.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=66SQydCORZXm98OGsvlpIQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
    "icon": "📰"
   },
   {
@@ -162,15 +153,6 @@
    "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/13/bua-sang-lanh-manh-kiem-soat-duong-huyet-1794555453646185396891-0-52-941-1558-crop-17945554597122137077404.png",
    "source": "thanhnien",
    "label": "Báo Thanh Niên",
-   "icon": "📰"
-  },
-  {
-   "title": "Bộ Y tế yêu cầu điều tra nguồn gốc thực phẩm trong vụ nghi ngộ độc bánh mì",
-   "link": "https://dantri.com.vn/suc-khoe/bo-y-te-yeu-cau-dieu-tra-nguon-goc-thuc-pham-trong-vu-nghi-ngo-doc-banh-mi-20261107154538226.htm",
-   "date": "Sat, 07 Nov 2026 15:57:14 +0700",
-   "image": "https://cdnphoto.dantri.com.vn/m1AaRsnVyjduV_GyFRcuL9fpGxQ=/2026/11/07/banh-mi-nha-trangtrung-thi-1-edited-1723249402524-1780711596163-1794040781170.png",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
    "icon": "📰"
   },
   {
