@@ -1,9 +1,72 @@
 {
- "updated": "2026-11-18T07:45:47.316Z",
+ "updated": "2026-11-18T16:46:31.537Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Khả năng sinh trưởng và năng suất sinh sản của hai tổ hợp lợn nái bố mẹ PS1 và PS2",
+   "link": "https://channuoivietnam.com/portal-news-detail/60490",
+   "date": "2026-11-18T17:35:55+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f08%2fanh-lon-nai-lvn-1904_20210612_622-154141.jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Phát hiện sự hiện diện gen bla CTX-M, bla TEM và bla SHV ở Escherichia coli sinh β-Lactamase phổ rộng phân lập từ gà",
+   "link": "https://channuoivietnam.com/portal-news-detail/57234",
+   "date": "2026-11-18T17:16:29+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f01%2fimages-13.jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Nguyên liệu chứa xơ cao sẽ ảnh hưởng tiêu cực đến DE và ME",
+   "link": "https://channuoivietnam.com/portal-news-detail/36523",
+   "date": "2026-11-18T16:01:49+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2018%2f11%2fKH.-NHF-pig-curious-GettyImages-ScottOlson.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Xác định sự lây truyền dọc của virut gây bệnh dịch tả vịt từ đàn vịt sinh sản sang vịt con bằng kỹ thuật PCR và RT-PCR",
+   "link": "https://channuoivietnam.com/portal-news-detail/43833",
+   "date": "2026-11-18T16:00:19+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c43833edit.png&v=ebd258ba-10dc-4df8-86b5-e997c826998a",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Ảnh hưởng dư thừa canxi trong khẩu phần thiếu phốt pho của heo con",
+   "link": "https://channuoivietnam.com/portal-news-detail/29018",
+   "date": "2026-11-18T15:59:58+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f05%2fKH.-Piglet1.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Hướng dẫn giải pháp xử lý PED cho trại đang có dịch PED",
+   "link": "https://channuoivietnam.com/portal-news-detail/45289",
+   "date": "2026-11-18T15:59:58+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f07%2fKH.-Benh-heo.jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Phân lập một số vi khuẩn cộng phát gây bệnh ở lợn nghi mắc bệnh suyễn, đề xuất biện pháp phòng trị bệnh",
+   "link": "https://channuoivietnam.com/portal-news-detail/49683",
+   "date": "2026-11-18T15:58:43+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c49683edit.png&v=4f541fb3-b968-42f1-b051-d2372b0b5122",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Tổng quan về enzyme phân hủy lignin từ vi sinh vật",
    "link": "https://channuoivietnam.com/portal-news-detail/1bec4abb-2c41-42fa-816a-e3cea07f1551",
@@ -72,69 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/55277",
    "date": "2026-11-17T16:17:31+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c55277edit.png&v=6f3b1399-9259-4069-b2b0-79d5c3bb2460",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Xu hướng sử dụng vắc-xin thế hệ mới trong nhà máy ấp",
-   "link": "https://channuoivietnam.com/portal-news-detail/41051",
-   "date": "2026-11-17T16:08:37+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f03%2fKH.-New-vaccine.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "4 bước thiết lập an toàn sinh học tại các trại heo",
-   "link": "https://channuoivietnam.com/portal-news-detail/45931",
-   "date": "2026-11-17T15:59:01+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f08%2fKH.-Trai-heo-ATSH.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Khai thác và phát triển nguồn gen lợn Xao Va tại tỉnh Nghệ An",
-   "link": "https://channuoivietnam.com/portal-news-detail/46848",
-   "date": "2026-11-17T15:58:37+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f11%2fKH.-Lon-Xao-Va.jpeg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Khả năng sản xuất của gà HB7 nuôi sinh sản",
-   "link": "https://channuoivietnam.com/portal-news-detail/05117789-d1fa-4dfe-967a-e663554fc38c",
-   "date": "2026-11-17T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c6f037c42-a229-4027-a348-7fe545cddbb8.png&v=a8d8f7b0-3460-4a28-8677-6d29e26f2c90",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Năng suất sinh sản của vịt trời nuôi tại Nghệ An",
-   "link": "https://channuoivietnam.com/portal-news-detail/29e487e9-66a8-4968-bd77-13242af5be5c",
-   "date": "2026-11-17T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5ca20402aa-3289-4c2b-8a4a-aa541edf2d0d.png&v=8ee8ba1f-6f7a-4bbf-bd8c-403b708851d1",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Chế tạo hạt nano bạc từ vỏ măng cụt (Garcinia mangostana) có hoạt tính khử p-nitrophenol trong nước và kháng khuẩn cao",
-   "link": "https://channuoivietnam.com/portal-news-detail/30eb86bc-8742-44e3-b422-7ccd3d1e7f27",
-   "date": "2026-11-17T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cfa3100af-0485-4337-bbc5-9f7f9182ad8d.png&v=d4ad2e40-6a69-4492-8f26-1d024c6102a2",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Khả năng sinh sản của gà mái lai F1 (H’Mông – Ai Cập) và F1 (Ai Cập – H’Mông)",
-   "link": "https://channuoivietnam.com/portal-news-detail/67d5dd0e-c739-4c89-9c0a-4c9adbb3d873",
-   "date": "2026-11-17T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c97f01747-b021-4f60-826c-beda0ed00a31.png&v=ae8af603-7967-455c-932d-c41a566cb3fd",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
