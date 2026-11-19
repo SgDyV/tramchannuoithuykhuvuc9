@@ -1,7 +1,70 @@
 {
- "updated": "2026-11-19T04:17:31.332Z",
- "count": 32,
+ "updated": "2026-11-19T13:37:32.541Z",
+ "count": 35,
  "items": [
+  {
+   "title": "Gà thả vườn giá vài chục nghìn đồng/con, chất lượng có như quảng cáo?",
+   "link": "https://znews.vn/ga-tha-vuon-gia-vai-chuc-nghin-dongcon-chat-luong-co-nhu-quang-cao-post1697662.html",
+   "date": "Thu, 19 Nov 2026 20:12:36 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/mrndcqjwq/2026_11_19/ga_tha_vuon4_14324249_2.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Ăn trứng mỗi ngày có làm tăng mỡ máu?",
+   "link": "https://vnexpress.net/an-trung-moi-ngay-co-lam-tang-mo-mau-5146422.html",
+   "date": "Thu, 19 Nov 2026 18:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/19/pexels-klaus-nielsen-179505766-5974-4575-1795057676.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YzeYXwH7fN1FcJnYV7hhfg",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Robot hình người nhặt trứng trong trang trại gia cầm",
+   "link": "https://vnexpress.net/robot-hinh-nguoi-nhat-trung-trong-trang-trai-gia-cam-5146244.html",
+   "date": "Thu, 19 Nov 2026 16:00:00 +0700",
+   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/VNERobot-1794995614-7405-1794995667.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=l8obyNQGgpYW0egHYW1ybQ",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Nga tiếp tục tuyển bệnh nhân dùng vaccine điều trị ung thư đại trực tràng",
+   "link": "https://vnexpress.net/nga-tiep-tuc-tuyen-benh-nhan-dung-vaccine-dieu-tri-ung-thu-dai-truc-trang-5146451.html",
+   "date": "Thu, 19 Nov 2026 14:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/19/1795006248988276-u1jl6vco-1795-3147-7663-1795057925.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Hx-gbgm_7xQoZAsivMv6cg",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Phát hiện hơn 7 tấn nội tạng bò bốc mùi đang được sơ chế tại Đồng Nai",
+   "link": "https://tienphong.vn/phat-hien-hon-7-tan-noi-tang-bo-boc-mui-dang-duoc-so-che-tai-dong-nai-post1895748.tpo",
+   "date": "Thu, 19 Nov 2026 13:14:19 +07:00",
+   "image": "https://cdn.tienphong.vn/images/leCA4OT2qM2MZ0hXzCNIbNd39j0DQjJwUXQMUmhzC8pIqMcqNZRxTvUcbAu8naNL/1000041511.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Đột tử tuổi 31 bởi thói quen ăn sáng bằng gà rán và bánh mì kẹp thịt",
+   "link": "https://vnexpress.net/dot-tu-tuoi-31-boi-thoi-quen-an-sang-bang-ga-ran-va-banh-mi-kep-thit-5146397.html",
+   "date": "Thu, 19 Nov 2026 12:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/19/20261118003723-1795054563-2984-1795054665.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=shZxddQlTR1RYjv-X6JNwA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Những thực phẩm quen thuộc cực giàu magie",
+   "link": "https://znews.vn/nhung-thuc-pham-quen-thuoc-cuc-giau-magie-post1697499.html",
+   "date": "Thu, 19 Nov 2026 11:41:54 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/uqvpkpic/2026_11_19/magie.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
   {
    "title": "VNVC và MSD công bố kế hoạch chuyển giao công nghệ sản xuất vaccine",
    "link": "https://vnexpress.net/vnvc-va-msd-cong-bo-ke-hoach-chuyen-giao-cong-nghe-san-xuat-vaccine-5146371.html",
@@ -120,33 +183,6 @@
    "icon": "📰"
   },
   {
-   "title": "Dịch tả lợn châu Phi xuất hiện tại 12 xã, phường ở Ninh Bình",
-   "link": "https://tienphong.vn/dich-ta-lon-chau-phi-xuat-hien-tai-12-xa-phuong-o-ninh-binh-post1895392.tpo",
-   "date": "Wed, 18 Nov 2026 11:28:46 +07:00",
-   "image": "https://cdn.tienphong.vn/images/nsgp9dvlAamgUjJTw8t8VRqhz7W7XPIMf2gGN1VkggUHRRBlrHKkVABEAScs1pQkCsGkd2dFGMbmiVfQljswMw/screen-shot-2026-11-18-at.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
-   "title": "Nhiễm liên cầu lợn gây đột quỵ và hỏng van tim",
-   "link": "https://vnexpress.net/nhiem-lien-cau-lon-gay-dot-quy-va-hong-van-tim-5145714.html",
-   "date": "Wed, 18 Nov 2026 08:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/17/image001-1794901309-7668-1794901431.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Lil_04FbIFMBWwnWuHFGWw",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Đắk Lắk: Lý do tôm hùm trên vịnh Xuân Đài chết đột ngột hàng loạt",
-   "link": "https://znews.vn/dak-lak-ly-do-tom-hum-tren-vinh-xuan-dai-chet-dot-ngot-hang-loat-post1697200.html",
-   "date": "Tue, 17 Nov 2026 21:16:16 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/bpcgbqmv/2026_11_17/tp.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
    "title": "'Vi khuẩn ăn thịt người' tấn c&ocirc;ng phổi, người đ&agrave;n &ocirc;ng 54 tuổi phải thở m&aacute;y",
    "link": "https://thanhnien.vn/vi-khuan-an-thit-nguoi-tan-cong-phoi-nguoi-dan-ong-54-tuoi-phai-tho-may-185261116142223978.htm",
    "date": "Tue, 17 Nov 26 16:01:00 +0700",
@@ -180,15 +216,6 @@
    "image": "https://cdnphoto.dantri.com.vn/vL_9SJX3XkEQKMHOas02sba40nQ=/2026/11/16/cua-2-1794815847417.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Người cao huyết &aacute;p c&oacute; n&ecirc;n ăn trứng mỗi ng&agrave;y?",
-   "link": "https://thanhnien.vn/nguoi-cao-huyet-ap-co-nen-an-trung-moi-ngay-185261115161050285.htm",
-   "date": "Sun, 15 Nov 26 16:10:00 +0700",
-   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/15/nv-trung-1-1794733745629546253521-0-0-941-1506-crop-1794733782402482837492.png",
-   "source": "thanhnien",
-   "label": "Báo Thanh Niên",
    "icon": "📰"
   },
   {
