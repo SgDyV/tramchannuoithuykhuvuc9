@@ -1,9 +1,25 @@
 {
- "updated": "2026-11-20T10:40:05.730Z",
+ "updated": "2026-11-20T18:53:59.765Z",
  "category": "Văn bản chung",
  "source": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
  "count": 12,
  "items": [
+  {
+   "code": "415/2026/NĐ-CP",
+   "title": "Quy định xử phạt vi phạm hành chính trong lĩnh vực khoa học và công nghệ.",
+   "date": "2026-11-19T00:00:00+07:00",
+   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=400e1eba-b968-4577-8d25-781c4cb302a4&file_name=N%C4%90415.pdf",
+   "file": "NĐ415.pdf"
+  },
+  {
+   "code": "189/QĐ-BCĐ",
+   "title": "Quy chế tổ chức và hoạt động của Văn phòng Thường trực Ban Chỉ đạo quốc gia chống buôn lậu, gian lận thương mại và hàng giả.",
+   "date": "2026-11-17T00:00:00+07:00",
+   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=db9fcb67-8599-4892-9bf9-cfebf12399f7&file_name=Q%C4%90189",
+   "file": "QĐ189"
+  },
   {
    "code": "101/2026/VBHN-TT-BNNMT",
    "title": "Quy chuẩn kỹ thuật quốc gia lĩnh vực thức ăn chăn nuôi.",
@@ -45,22 +61,6 @@
    "file": "QĐ3792.pdf"
   },
   {
-   "code": "22/2026/VBHN-TT-BKHCN",
-   "title": "Quy định về đo lường đối với chuẩn quốc gia.",
-   "date": "2026-09-30T00:00:00+07:00",
-   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=be57955e-a9c7-40d7-8ef8-0ba628bd7c59&file_name=TT22.pdf",
-   "file": "TT22.pdf"
-  },
-  {
-   "code": "24/2026/VBHN-TT-BKHCN",
-   "title": "Quy định về hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường.",
-   "date": "2026-09-30T00:00:00+07:00",
-   "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=c558df22-3222-4e21-a584-a20d4afe908c&file_name=TT24.pdf",
-   "file": "TT24.pdf"
-  },
-  {
    "code": "23/2026/VBHN-TT-BKHCN",
    "title": "Quy định về đo lường đối với phương tiện đo nhóm 2.",
    "date": "2026-09-30T00:00:00+07:00",
@@ -69,12 +69,12 @@
    "file": "TT23.pdf"
   },
   {
-   "code": "03/VBHN-NĐ-TTCP",
-   "title": "Quy định chi tiết một số điều và biện pháp thi hành Luật Khiếu nại.",
+   "code": "22/2026/VBHN-TT-BKHCN",
+   "title": "Quy định về đo lường đối với chuẩn quốc gia.",
    "date": "2026-09-30T00:00:00+07:00",
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=cfa6b349-1df4-4afd-9e94-148c3b36f751&file_name=N%C4%9003.pdf",
-   "file": "NĐ03.pdf"
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=be57955e-a9c7-40d7-8ef8-0ba628bd7c59&file_name=TT22.pdf",
+   "file": "TT22.pdf"
   },
   {
    "code": "25/2026/VBHN-NĐ-BKHCN",
@@ -85,20 +85,20 @@
    "file": "NĐ25.pdf"
   },
   {
-   "code": "42/2026/TT-BNNMT",
-   "title": "Quy định kỹ thuật giám sát, đánh giá hoạt động thích ứng với biến đổi khí hậu trong lĩnh vực nông nghiệp và môi trường.",
+   "code": "24/2026/VBHN-TT-BKHCN",
+   "title": "Quy định về hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường.",
    "date": "2026-09-30T00:00:00+07:00",
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=0ce279ea-426c-4381-9b30-add683cdf7b7&file_name=TT42.pdf",
-   "file": "TT42.pdf"
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=c558df22-3222-4e21-a584-a20d4afe908c&file_name=TT24.pdf",
+   "file": "TT24.pdf"
   },
   {
-   "code": "372/2026/NĐ-CP",
-   "title": "Quy định về hoạt động định danh, xác thực, truy xuất nguồn gốc sản phẩm, hàng hoá.",
-   "date": "2026-09-29T00:00:00+07:00",
+   "code": "03/VBHN-NĐ-TTCP",
+   "title": "Quy định chi tiết một số điều và biện pháp thi hành Luật Khiếu nại.",
+   "date": "2026-09-30T00:00:00+07:00",
    "link": "https://channuoivietnam.com/portal-file/35a7576b-70e1-4fcd-844d-142049f7b9bc",
-   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=03889547-13aa-47f4-ab45-15ddbb767fa2&file_name=N%C4%90372.pdf",
-   "file": "NĐ372.pdf"
+   "pdf": "https://channuoivietnam.com/sys_file.ctr/downloadFile?id=cfa6b349-1df4-4afd-9e94-148c3b36f751&file_name=N%C4%9003.pdf",
+   "file": "NĐ03.pdf"
   }
  ]
 }
