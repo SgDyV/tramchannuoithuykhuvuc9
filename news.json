@@ -1,7 +1,97 @@
 {
- "updated": "2026-11-20T02:43:15.895Z",
- "count": 24,
+ "updated": "2026-11-20T10:39:46.463Z",
+ "count": 26,
  "items": [
+  {
+   "title": "TP HCM dự kiến không còn Sở Du lịch và Sở An toàn thực phẩm",
+   "link": "https://vnexpress.net/tp-hcm-du-kien-khong-con-so-du-lich-va-so-an-toan-thuc-pham-5147183.html",
+   "date": "Fri, 20 Nov 2026 17:29:01 +0700",
+   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/61347abf6af8c1a698e9jpeg483917-8514-8648-1795170246.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TvGTfi3yeTjzDt7VEjZfiQ",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Ống ruột gà cháy chậm Cát Vạn Lợi và bước tiến của vật tư cơ điện Việt",
+   "link": "https://tienphong.vn/ong-ruot-ga-chay-cham-cat-van-loi-va-buoc-tien-cua-vat-tu-co-dien-viet-post1896132.tpo",
+   "date": "Fri, 20 Nov 2026 17:01:56 +07:00",
+   "image": "https://cdn.tienphong.vn/images/RNp65zNs098qZKWyBaZ90sqRkvmFEoWbYmtIq_BUcJDpCNj7LMK16m5m3eHHv9Jv/word-rig8j6.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "'Khó truy xuất nguồn gốc thực phẩm vì thiếu thông tin người bán'",
+   "link": "https://vnexpress.net/kho-truy-xuat-nguon-goc-thuc-pham-vi-thieu-thong-tin-nguoi-ban-5146880.html",
+   "date": "Fri, 20 Nov 2026 15:41:23 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/20/dsc02054-enhanced-nr-179514074-5329-5702-1795140955.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nWXL79sHMyB6ckh4hlX8BA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Thịt cua gi&agrave;u dinh dưỡng, mang lại những lợi &iacute;ch g&igrave; cho sức khỏe?",
+   "link": "https://thanhnien.vn/thit-cua-giau-dinh-duong-mang-lai-nhung-loi-ich-gi-cho-suc-khoe-185261120125416454.htm",
+   "date": "Fri, 20 Nov 26 14:48:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/20/cua-hap-va-bieu-tuong-suc-khoe-1795153966264171436997-0-156-941-1662-crop-17951539732001772010096.png",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "Sốt xuất huyết gia tăng, người từng mắc bệnh có cần tiêm vaccine?",
+   "link": "https://dantri.com.vn/suc-khoe/sot-xuat-huyet-gia-tang-nguoi-tung-mac-benh-co-can-tiem-vaccine-20261119162845637.htm",
+   "date": "Fri, 20 Nov 2026 14:36:32 +0700",
+   "image": "https://cdnphoto.dantri.com.vn/I_PfR1UVZ4KD1BkDfaG4nhjSU24=/2026/11/19/sot-xuat-huyet-1795079963871.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Vaccine não mô cầu có tác dụng trong bao lâu?",
+   "link": "https://znews.vn/vaccine-nao-mo-cau-co-tac-dung-trong-bao-lau-post1696489.html",
+   "date": "Fri, 20 Nov 2026 14:10:27 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_11_15/DSC_8158.JPG",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Công nhân vớt hàng chục xác lợn nổi trên kênh Bắc ở Thanh Hóa",
+   "link": "https://tienphong.vn/cong-nhan-vot-hang-chuc-xac-lon-noi-tren-kenh-bac-o-thanh-hoa-post1896026.tpo",
+   "date": "Fri, 20 Nov 2026 12:33:05 +07:00",
+   "image": "https://cdn.tienphong.vn/images/nJo0ky-Hz6Ps363LGLSGahljFppmo52Yz1_kcocKiwfolz7xZIPOynG38-ER7SxTkcOVqqlJPlza80nK09ShXg/1000034850.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "65.000 đồng một con gà mái ôm trứng, chất lượng ra sao?",
+   "link": "https://dantri.com.vn/kinh-doanh/65000-dong-mot-con-ga-mai-om-trung-chat-luong-ra-sao-20261120102659527.htm",
+   "date": "Fri, 20 Nov 2026 11:14:05 +0700",
+   "image": "https://cdnphoto.dantri.com.vn/zaAzgkqhmJfIiela7ce9zeCFfW4=/2026/11/20/ga-mai-cropped-1795145128222.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "C.P. Việt Nam thúc đẩy nông nghiệp bền vững tại COP31",
+   "link": "https://vnexpress.net/c-p-viet-nam-thuc-day-nong-nghiep-ben-vung-tai-cop31-5146591.html",
+   "date": "Fri, 20 Nov 2026 10:30:00 +0700",
+   "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/20/k1-1795142532-5862-1795144825.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aC92vXDj3x-CafX10wYi8Q",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Cà Mau kỳ vọng con tôm tạo ‘cú hích’ cho mục tiêu tăng trưởng hai con số",
+   "link": "https://tienphong.vn/ca-mau-ky-vong-con-tom-tao-cu-hich-cho-muc-tieu-tang-truong-hai-con-so-post1895956.tpo",
+   "date": "Fri, 20 Nov 2026 09:41:31 +07:00",
+   "image": "https://cdn.tienphong.vn/images/JEGkKVw0d9h8seAtZbRxCKhvOPb-UorozUqtqL_cvkvKwm4tEdROzqKgtlPICcJkUCWIfvt19lH2vP_kGZoZXA/0568d203-e2e9-45f7-968f-987a3d3d6797.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
   {
    "title": "Việt Nam-Argentina mở rộng cơ hội hợp tác trong lĩnh vực thực phẩm",
    "link": "https://www.vietnamplus.vn/viet-nam-argentina-mo-rong-co-hoi-hop-tac-trong-linh-vuc-thuc-pham-post1149534.vnp",
@@ -42,7 +132,7 @@
    "title": "Ăn trứng mỗi ngày có làm tăng mỡ máu?",
    "link": "https://vnexpress.net/an-trung-moi-ngay-co-lam-tang-mo-mau-5146422.html",
    "date": "Thu, 19 Nov 2026 18:00:00 +0700",
-   "image": "https://i1-suckhoe.vnecdn.net/2026/11/19/pexels-klaus-nielsen-179505766-5974-4575-1795057676.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YzeYXwH7fN1FcJnYV7hhfg",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/19/pexels-klaus-nielsen-179505766-5974-4575-1795057676.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YzeYXwH7fN1FcJnYV7hhfg",
    "source": "vnexpress",
    "label": "VnExpress",
    "icon": "📰"
@@ -51,16 +141,7 @@
    "title": "Robot hình người nhặt trứng trong trang trại gia cầm",
    "link": "https://vnexpress.net/robot-hinh-nguoi-nhat-trung-trong-trang-trai-gia-cam-5146244.html",
    "date": "Thu, 19 Nov 2026 16:00:00 +0700",
-   "image": "https://i1-vnexpress.vnecdn.net/2026/11/18/VNERobot-1794995614-7405-1794995667.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=l8obyNQGgpYW0egHYW1ybQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Nga tiếp tục tuyển bệnh nhân dùng vaccine điều trị ung thư đại trực tràng",
-   "link": "https://vnexpress.net/nga-tiep-tuc-tuyen-benh-nhan-dung-vaccine-dieu-tri-ung-thu-dai-truc-trang-5146451.html",
-   "date": "Thu, 19 Nov 2026 14:00:00 +0700",
-   "image": "https://i1-suckhoe.vnecdn.net/2026/11/19/1795006248988276-u1jl6vco-1795-3147-7663-1795057925.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Hx-gbgm_7xQoZAsivMv6cg",
+   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/VNERobot-1794995614-7405-1794995667.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=l8obyNQGgpYW0egHYW1ybQ",
    "source": "vnexpress",
    "label": "VnExpress",
    "icon": "📰"
@@ -78,7 +159,7 @@
    "title": "Đột tử tuổi 31 bởi thói quen ăn sáng bằng gà rán và bánh mì kẹp thịt",
    "link": "https://vnexpress.net/dot-tu-tuoi-31-boi-thoi-quen-an-sang-bang-ga-ran-va-banh-mi-kep-thit-5146397.html",
    "date": "Thu, 19 Nov 2026 12:00:00 +0700",
-   "image": "https://i1-suckhoe.vnecdn.net/2026/11/19/20261118003723-1795054563-2984-1795054665.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=shZxddQlTR1RYjv-X6JNwA",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/19/20261118003723-1795054563-2984-1795054665.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=shZxddQlTR1RYjv-X6JNwA",
    "source": "vnexpress",
    "label": "VnExpress",
    "icon": "📰"
@@ -90,24 +171,6 @@
    "image": "https://photo.znews.vn/w660/Uploaded/uqvpkpic/2026_11_19/magie.jpg",
    "source": "znews",
    "label": "ZNews",
-   "icon": "📰"
-  },
-  {
-   "title": "VNVC và MSD công bố kế hoạch chuyển giao công nghệ sản xuất vaccine",
-   "link": "https://vnexpress.net/vnvc-va-msd-cong-bo-ke-hoach-chuyen-giao-cong-nghe-san-xuat-vaccine-5146371.html",
-   "date": "Thu, 19 Nov 2026 09:00:00 +0700",
-   "image": "https://i1-suckhoe.vnecdn.net/2026/11/19/01-vnvc-trao-van-kien-hop-tac-5046-3397-1795052295.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=OZHdGo9IIWKpgfCJ4jScRg",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Bác sĩ dinh dưỡng chỉ 5 món ăn sáng từ trứng giúp giảm cân",
-   "link": "https://vnexpress.net/bac-si-dinh-duong-chi-5-mon-an-sang-tu-trung-giup-giam-can-5146351.html",
-   "date": "Thu, 19 Nov 2026 09:00:00 +0700",
-   "image": "https://i1-suckhoe.vnecdn.net/2026/11/19/trung-1795047675-3967-1795047767.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=PjwJ75SHB_mCc0gxZMLLxw",
-   "source": "vnexpress",
-   "label": "VnExpress",
    "icon": "📰"
   },
   {
@@ -123,7 +186,7 @@
    "title": "12 thực phẩm 'vàng' trong giỏ hàng của chuyên gia tuổi thọ Mỹ",
    "link": "https://vnexpress.net/12-thuc-pham-vang-trong-gio-hang-cua-chuyen-gia-tuoi-tho-my-5145509.html",
    "date": "Thu, 19 Nov 2026 05:00:00 +0700",
-   "image": "https://i1-suckhoe.vnecdn.net/2026/11/17/screenshot-at-1794897303-6890-1794897514.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4AqIHfzqwu3edaXGkZriGQ",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/17/screenshot-at-1794897303-6890-1794897514.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4AqIHfzqwu3edaXGkZriGQ",
    "source": "vnexpress",
    "label": "VnExpress",
    "icon": "📰"
@@ -132,7 +195,7 @@
    "title": "Có nên ăn mỡ lợn hàng ngày?",
    "link": "https://vnexpress.net/co-nen-an-mo-lon-hang-ngay-5145593.html",
    "date": "Thu, 19 Nov 2026 02:00:00 +0700",
-   "image": "https://i1-suckhoe.vnecdn.net/2026/11/17/buoc-1794886831-7096-1794887030.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2eAtYW1mX5VIcjBhBXYlpA",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/17/buoc-1794886831-7096-1794887030.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2eAtYW1mX5VIcjBhBXYlpA",
    "source": "vnexpress",
    "label": "VnExpress",
    "icon": "📰"
@@ -142,51 +205,6 @@
    "link": "https://znews.vn/loai-thit-nen-cho-be-an-dau-tien-post1697329.html",
    "date": "Wed, 18 Nov 2026 19:45:58 +0700",
    "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_11_18/Tre_an_thit1.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
-   "title": "C.P. Việt Nam là thành viên sáng lập sáng kiến phát triển chuỗi giá trị nông nghiệp bền vững của Việt Nam",
-   "link": "https://tienphong.vn/cp-viet-nam-la-thanh-vien-sang-lap-sang-kien-phat-trien-chuoi-gia-tri-nong-nghiep-ben-vung-cua-viet-nam-post1895530.tpo",
-   "date": "Wed, 18 Nov 2026 16:31:30 +07:00",
-   "image": "https://cdn.tienphong.vn/images/RNp65zNs098qZKWyBaZ90lf9qXY8rJVqGEVqCOWKZeUULgH-TieBPXrd6ekt5kMe/1-5086.png.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
-   "title": "Bệnh viện Hong Kong xin lỗi vì cắt nhầm hai buồng trứng của người bệnh",
-   "link": "https://vnexpress.net/benh-vien-hong-kong-xin-loi-vi-cat-nham-hai-buong-trung-cua-nguoi-benh-5145973.html",
-   "date": "Wed, 18 Nov 2026 15:12:11 +0700",
-   "image": "https://i1-suckhoe.vnecdn.net/2026/11/18/4-1794968561-5144-1794969082.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VxaZlKQTj_hzCRlAPspAYA",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Hàng loạt thị trường thay đổi quy định nhập khẩu nông sản, thực phẩm",
-   "link": "https://tienphong.vn/hang-loat-thi-truong-thay-doi-quy-dinh-nhap-khau-nong-san-thuc-pham-post1895347.tpo",
-   "date": "Wed, 18 Nov 2026 15:05:00 +07:00",
-   "image": "https://cdn.tienphong.vn/images/KCTeIbVb0PG0gWP1KDt6KS76BnwEVlSSVS7SMlz8i_xW88n_DXF4GZmDM6iKqCz5/xuat-khau-8.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
-   "title": "Căn bệnh nguy hiểm dễ bị nhầm với cảm cúm thông thường",
-   "link": "https://znews.vn/can-benh-nguy-hiem-de-bi-nham-voi-cam-cum-thong-thuong-post1696200.html",
-   "date": "Wed, 18 Nov 2026 15:04:58 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_11_13/nao_mo_cau_17.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
-   "title": "Công thức thịt kho kiểu Việt Nam ngon hoàn hảo trên báo Anh",
-   "link": "https://znews.vn/cong-thuc-thit-kho-kieu-viet-nam-ngon-hoan-hao-tren-bao-anh-post1697025.html",
-   "date": "Wed, 18 Nov 2026 13:00:13 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_11_17/Thit_kho_kieu_Viet_2.jpg",
    "source": "znews",
    "label": "ZNews",
    "icon": "📰"
