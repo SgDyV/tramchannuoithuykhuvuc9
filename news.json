@@ -1,7 +1,34 @@
 {
- "updated": "2026-11-21T07:28:39.120Z",
- "count": 35,
+ "updated": "2026-11-21T15:30:15.292Z",
+ "count": 32,
  "items": [
+  {
+   "title": "Ai là người đưa hối lộ hai hiệu trưởng ở Huế liên quan thực phẩm bán trú?",
+   "link": "https://tienphong.vn/ai-la-nguoi-dua-hoi-lo-hai-hieu-truong-o-hue-lien-quan-thuc-pham-ban-tru-post1896397.tpo",
+   "date": "Sat, 21 Nov 2026 18:37:00 +07:00",
+   "image": "https://cdn.tienphong.vn/images/nsgp9dvlAamgUjJTw8t8VTjq-AXGRQQO4v52iK0jDiwPW-NNMJwNXNssrI7L6kXPZkEajp_l6XBUCnFVv_gR6w/phuong-pgd-ca-hue-4362.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Xuất khẩu tôm đạt 4,22 tỷ USD, cần động lực cạnh tranh mới ngoài giá bán",
+   "link": "https://dantri.com.vn/kinh-doanh/xuat-khau-tom-dat-422-ty-usd-can-dong-luc-canh-tranh-moi-ngoai-gia-ban-20261121150747966.htm",
+   "date": "Sat, 21 Nov 2026 17:04:50 +0700",
+   "image": "https://cdnphoto.dantri.com.vn/ew8DypLmd6iylfEwmx7-G1UU4Ec=/2026/11/21/cong-nhan-thuy-sanhuynh-hai-1795247391367.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Ngành tôm Việt Nam đặt mục tiêu xuất khẩu 4,7 tỷ USD",
+   "link": "https://vnexpress.net/nganh-tom-viet-nam-dat-muc-tieu-xuat-khau-4-7-ty-usd-5147435.html",
+   "date": "Sat, 21 Nov 2026 16:36:16 +0700",
+   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/dsc-1795246346-1359-1795246436.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GRvWU4A2Yd1VeHborP-I9g",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Dễ nhầm cảm cúm, căn bệnh ở trẻ có thể trở nặng sau 24h",
    "link": "https://znews.vn/de-nham-cam-cum-can-benh-o-tre-co-the-tro-nang-sau-24h-post1696203.html",
@@ -12,39 +39,12 @@
    "icon": "📰"
   },
   {
-   "title": "Điều gì xảy ra với cholesterol khi bạn ăn tôm?",
-   "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-cholesterol-khi-ban-an-tom-5147245.html",
-   "date": "Sat, 21 Nov 2026 13:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/to-m-1795221900-9613-1795222056.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=RS57RL3fzvRffNQ6v1Mr4Q",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "5 thực phẩm hỗ trợ bảo vệ mắt khi tuổi tác tăng",
-   "link": "https://vnexpress.net/5-thuc-pham-ho-tro-bao-ve-mat-khi-tuoi-tac-tang-5147350.html",
-   "date": "Sat, 21 Nov 2026 12:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/du-du-1795229674.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=sB9b9wdWRHIxuyJnr83vDA",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Chuỗi hoạt động Festival Tôm Cà Mau lần thứ 2 năm 2026",
    "link": "https://www.vietnamplus.vn/chuoi-hoat-dong-festival-tom-ca-mau-lan-thu-2-nam-2026-post1149773.vnp",
    "date": "Sat, 21 Nov 2026 10:01:05 +07:00",
    "image": "https://media.vietnamplus.vn/images/IQdJ9t68n_Fc4c6ldNrZ7YcuGsbkCli4m0d66opclZAdF1BY2aWdTiEQDdtBxUxF/1-3496.jpg.avif",
    "source": "vietnamplus",
    "label": "VietnamPlus (TTXVN)",
-   "icon": "📰"
-  },
-  {
-   "title": "Vì sao mắc cúm do virus, bác sĩ vẫn kê kháng sinh?",
-   "link": "https://vnexpress.net/vi-sao-mac-cum-do-virus-bac-si-van-ke-khang-sinh-5147303.html",
-   "date": "Sat, 21 Nov 2026 10:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/image001-1795222667-9944-1795222800.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Gs1rVeyhWEunmVFW5_SfUA",
-   "source": "vnexpress",
-   "label": "VnExpress",
    "icon": "📰"
   },
   {
@@ -93,15 +93,6 @@
    "icon": "📰"
   },
   {
-   "title": "TPHCM tính sáp nhập 2 sở, tổ chức lại Sở An toàn thực phẩm",
-   "link": "https://tienphong.vn/tphcm-tinh-sap-nhap-2-so-to-chuc-lai-so-an-toan-thuc-pham-post1896145.tpo",
-   "date": "Fri, 20 Nov 2026 18:14:00 +07:00",
-   "image": "https://cdn.tienphong.vn/images/OPp5s3M_Ea0rWUkRyT_4ye--jT_GwrBD30d67Q0cFxvc2l2yyCS39Wfey4yTp4n-/img-9379.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
    "title": "TP HCM dự kiến không còn Sở Du lịch và Sở An toàn thực phẩm",
    "link": "https://vnexpress.net/tp-hcm-du-kien-khong-con-so-du-lich-va-so-an-toan-thuc-pham-5147183.html",
    "date": "Fri, 20 Nov 2026 17:29:01 +0700",
@@ -117,15 +108,6 @@
    "image": "https://cdn.tienphong.vn/images/RNp65zNs098qZKWyBaZ90sqRkvmFEoWbYmtIq_BUcJDpCNj7LMK16m5m3eHHv9Jv/word-rig8j6.jpg.avif",
    "source": "tienphong",
    "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
-   "title": "'Khó truy xuất nguồn gốc thực phẩm vì thiếu thông tin người bán'",
-   "link": "https://vnexpress.net/kho-truy-xuat-nguon-goc-thuc-pham-vi-thieu-thong-tin-nguoi-ban-5146880.html",
-   "date": "Fri, 20 Nov 2026 15:41:23 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/20/dsc02054-enhanced-nr-179514074-5329-5702-1795140955.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nWXL79sHMyB6ckh4hlX8BA",
-   "source": "vnexpress",
-   "label": "VnExpress",
    "icon": "📰"
   },
   {
@@ -171,15 +153,6 @@
    "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/20/k1-1795142532-5862-1795144825.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aC92vXDj3x-CafX10wYi8Q",
    "source": "vnexpress",
    "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Cà Mau kỳ vọng con tôm tạo ‘cú hích’ cho mục tiêu tăng trưởng hai con số",
-   "link": "https://tienphong.vn/ca-mau-ky-vong-con-tom-tao-cu-hich-cho-muc-tieu-tang-truong-hai-con-so-post1895956.tpo",
-   "date": "Fri, 20 Nov 2026 09:41:31 +07:00",
-   "image": "https://cdn.tienphong.vn/images/JEGkKVw0d9h8seAtZbRxCKhvOPb-UorozUqtqL_cvkvKwm4tEdROzqKgtlPICcJkUCWIfvt19lH2vP_kGZoZXA/0568d203-e2e9-45f7-968f-987a3d3d6797.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
    "icon": "📰"
   },
   {
