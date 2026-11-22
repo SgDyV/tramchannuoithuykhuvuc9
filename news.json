@@ -1,7 +1,61 @@
 {
- "updated": "2026-11-22T00:57:42.190Z",
- "count": 39,
+ "updated": "2026-11-22T07:41:04.422Z",
+ "count": 41,
  "items": [
+  {
+   "title": "Phát hiện 123 con lợn nhiễm dịch tả lợn châu Phi tại chợ ở Đồng Tháp",
+   "link": "https://tienphong.vn/phat-hien-123-con-lon-nhiem-dich-ta-lon-chau-phi-tai-cho-o-dong-thap-post1896532.tpo",
+   "date": "Sun, 22 Nov 2026 13:26:15 +07:00",
+   "image": "https://cdn.tienphong.vn/images/tqT9h7ukNIKgWki7nLgzP6I1g-BCuH-qjGHTNuwCemVmcGbErgqWBpPYLXXdlNgBv5M8W3jVrpxGHToJSTZ8txEySXFpYgIKjm8CihMd8OyazVjgRlNyCNTqRVJbe8b5Uhfp6VGuSzYueuy-6C7VmSgtTb9VIPbRl0PMeuJAJGI/1795324689551-5373081934213827234-5373081934213827234-c87f4ebb64e4092661c9b000239c709e.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Vì sao người cao tuổi mắc cúm không sốt cao?",
+   "link": "https://vnexpress.net/vi-sao-nguoi-cao-tuoi-mac-cum-khong-sot-cao-5147434.html",
+   "date": "Sun, 22 Nov 2026 11:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/22/image001-1795301096-7287-1795301210.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dNdv8qZ5QB_MgJanHTCM3g",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Tin tích cực về vaccine ung thư đại trực tràng của Nga",
+   "link": "https://znews.vn/tin-tich-cuc-ve-vaccine-ung-thu-dai-truc-trang-cua-nga-post1698217.html",
+   "date": "Sun, 22 Nov 2026 10:10:58 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_11_22/Vacicne_tri_ung_thu_dai_truc_trang_1.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Đánh thức giá trị vịt bầu bản địa bên dòng suối Nậm Luông",
+   "link": "https://tienphong.vn/danh-thuc-gia-tri-vit-bau-ban-dia-ben-dong-suoi-nam-luong-post1896222.tpo",
+   "date": "Sun, 22 Nov 2026 09:01:54 +07:00",
+   "image": "https://cdn.tienphong.vn/images/LyfxyOz9oHHqQupb4KPScHXIej85sSrsEXNkceT9Jebh6kvTnGlXM7UTo5hd_rY_/mg.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "5 việc cần làm khi trẻ có dấu hiệu ngộ độc thực phẩm",
+   "link": "https://vnexpress.net/5-viec-can-lam-khi-tre-co-dau-hieu-ngo-doc-thuc-pham-5147433.html",
+   "date": "Sun, 22 Nov 2026 09:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/image001-1795248616-6422-1795248656.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sXtN1B3cJd8p9ePOdXPfbg",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Biến chứng do cúm có thể khiến người cao tuổi nhập viện",
+   "link": "https://vnexpress.net/bien-chung-do-cum-co-the-khien-nguoi-cao-tuoi-nhap-vien-5147408.html",
+   "date": "Sun, 22 Nov 2026 09:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/01-1795238203-2183-1795238271.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xxQyA4YoeNUwS54xYXd63g",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "6 thực phẩm bổ sung dưỡng chất cho da mùa hanh khô",
    "link": "https://vnexpress.net/6-thuc-pham-bo-sung-duong-chat-cho-da-mua-hanh-kho-5147431.html",
@@ -120,30 +174,12 @@
    "icon": "📰"
   },
   {
-   "title": "Xe tải chở lợn giống bị lật trên đường Hồ Chí Minh, một người tử vong",
-   "link": "https://tienphong.vn/xe-tai-cho-lon-giong-bi-lat-tren-duong-ho-chi-minh-mot-nguoi-tu-vong-post1896186.tpo",
-   "date": "Sat, 21 Nov 2026 06:30:11 +07:00",
-   "image": "https://cdn.tienphong.vn/images/nsgp9dvlAamgUjJTw8t8VZSgyAmWNnRNbx1SWQ2uUM8K_Bf020CxWAzzLxL2FGgp8sy_6WcGUSquhEsih0DfXiC8G8GjbMpGr-9AaB8k34k/2aobordtgrxeyijvnwp48ss2vsah9tbybjtkqgoa.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
    "title": "Ông Trần Bá Dương thôi chức chủ tịch công ty nông nghiệp",
    "link": "https://vnexpress.net/ong-tran-ba-duong-thoi-chuc-chu-tich-cong-ty-nong-nghiep-5147247.html",
    "date": "Fri, 20 Nov 2026 21:35:54 +0700",
    "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/20/thacotranbaduong-1795184806-1334-1795184872.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iaMPoGi6Vs0Fjyfd8gi13A",
    "source": "vnexpress",
    "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Ngành tôm Cà Mau: Từ lợi thế quy mô đến sức cạnh tranh toàn cầu",
-   "link": "https://www.vietnamplus.vn/nganh-tom-ca-mau-tu-loi-the-quy-mo-den-suc-canh-tranh-toan-cau-post1149688.vnp",
-   "date": "Fri, 20 Nov 2026 19:17:59 +07:00",
-   "image": "https://media.vietnamplus.vn/images/1NRlHlv2ikBbd9jRTdcj2O8aouVA4aDtsfOy4upq_YE7b50K-JOFqodaYVR2GPaudVx_gZHSB8PPt3q7R-kjMQ/ttxvn_1510-xuat-khau-tom-ca-mau.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
    "icon": "📰"
   },
   {
@@ -165,15 +201,6 @@
    "icon": "📰"
   },
   {
-   "title": "'Khó truy xuất nguồn gốc thực phẩm vì thiếu thông tin người bán'",
-   "link": "https://vnexpress.net/kho-truy-xuat-nguon-goc-thuc-pham-vi-thieu-thong-tin-nguoi-ban-5146880.html",
-   "date": "Fri, 20 Nov 2026 15:41:23 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/20/dsc02054-enhanced-nr-179514074-5329-5702-1795140955.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nWXL79sHMyB6ckh4hlX8BA",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Thịt cua gi&agrave;u dinh dưỡng, mang lại những lợi &iacute;ch g&igrave; cho sức khỏe?",
    "link": "https://thanhnien.vn/thit-cua-giau-dinh-duong-mang-lai-nhung-loi-ich-gi-cho-suc-khoe-185261120125416454.htm",
    "date": "Fri, 20 Nov 26 14:48:00 +0700",
@@ -189,15 +216,6 @@
    "image": "https://cdnphoto.dantri.com.vn/I_PfR1UVZ4KD1BkDfaG4nhjSU24=/2026/11/19/sot-xuat-huyet-1795079963871.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Vaccine não mô cầu có tác dụng trong bao lâu?",
-   "link": "https://znews.vn/vaccine-nao-mo-cau-co-tac-dung-trong-bao-lau-post1696489.html",
-   "date": "Fri, 20 Nov 2026 14:10:27 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_11_15/DSC_8158.JPG",
-   "source": "znews",
-   "label": "ZNews",
    "icon": "📰"
   },
   {
