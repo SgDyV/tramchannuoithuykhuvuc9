@@ -1,7 +1,34 @@
 {
- "updated": "2026-11-23T09:55:56.883Z",
+ "updated": "2026-11-23T21:48:19.010Z",
  "count": 29,
  "items": [
+  {
+   "title": "Thúc đẩy hợp tác khu vực tư nhân Việt Nam-châu Phi trong lĩnh vực nông nghiệp",
+   "link": "https://www.vietnamplus.vn/thuc-day-hop-tac-khu-vuc-tu-nhan-viet-nam-chau-phi-trong-linh-vuc-nong-nghiep-post1150173.vnp",
+   "date": "Mon, 23 Nov 2026 18:22:28 +07:00",
+   "image": "https://media.vietnamplus.vn/images/_RfA0Lv7xigOosrBfIuLk3hy09hTIF261vVfTurQyHYeIvZ5MpobUzn4lVPuuGVC/ttxvn-chau-phi.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Chọn vaccine cúm dạng xịt hay dạng tiêm?",
+   "link": "https://vnexpress.net/chon-vaccine-cum-dang-xit-hay-dang-tiem-5147942.html",
+   "date": "Mon, 23 Nov 2026 17:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/23/khach-tim-dau-tien-1795406961-1550-1795407066.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SSBcqM_wrhS5KAyKycnueg",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Heo hơi tăng giá gần 30% sau khi chạm đáy 3 năm",
+   "link": "https://vnexpress.net/heo-hoi-tang-gia-gan-30-sau-khi-cham-day-3-nam-5148039.html",
+   "date": "Mon, 23 Nov 2026 14:37:46 +0700",
+   "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/wm1-wm1-screen-shot-at-pm-17954178-8801-4148-1795418244.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XZ89YmzYSxv7EM22Q2DxEA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
   {
    "title": "Kết hợp tổ yến v&agrave; nh&acirc;n s&acirc;m: C&oacute; phải c&agrave;ng bổ c&agrave;ng tốt? B&aacute;c sĩ giải đ&aacute;p",
    "link": "https://thanhnien.vn/ket-hop-to-yen-va-nhan-sam-co-phai-cang-bo-cang-tot-bac-si-giai-dap-185261123132226292.htm",
@@ -39,24 +66,6 @@
    "icon": "📰"
   },
   {
-   "title": "Phát hiện 123 con lợn nhiễm dịch tả lợn châu Phi tại chợ ở Đồng Tháp",
-   "link": "https://tienphong.vn/phat-hien-123-con-lon-nhiem-dich-ta-lon-chau-phi-tai-cho-o-dong-thap-post1896532.tpo",
-   "date": "Sun, 22 Nov 2026 13:26:15 +07:00",
-   "image": "https://cdn.tienphong.vn/images/tqT9h7ukNIKgWki7nLgzP6I1g-BCuH-qjGHTNuwCemVmcGbErgqWBpPYLXXdlNgBv5M8W3jVrpxGHToJSTZ8txEySXFpYgIKjm8CihMd8OyazVjgRlNyCNTqRVJbe8b5Uhfp6VGuSzYueuy-6C7VmSgtTb9VIPbRl0PMeuJAJGI/1795324689551-5373081934213827234-5373081934213827234-c87f4ebb64e4092661c9b000239c709e.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
-   "title": "Vì sao người cao tuổi mắc cúm không sốt cao?",
-   "link": "https://vnexpress.net/vi-sao-nguoi-cao-tuoi-mac-cum-khong-sot-cao-5147434.html",
-   "date": "Sun, 22 Nov 2026 11:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/22/image001-1795301096-7287-1795301210.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dNdv8qZ5QB_MgJanHTCM3g",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
    "title": "Tin tích cực về vaccine ung thư đại trực tràng của Nga",
    "link": "https://znews.vn/tin-tich-cuc-ve-vaccine-ung-thu-dai-truc-trang-cua-nga-post1698217.html",
    "date": "Sun, 22 Nov 2026 10:10:58 +0700",
@@ -81,6 +90,15 @@
    "image": "https://cdnphoto.dantri.com.vn/ew8DypLmd6iylfEwmx7-G1UU4Ec=/2026/11/21/cong-nhan-thuy-sanhuynh-hai-1795247391367.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Ngành tôm Việt Nam đặt mục tiêu xuất khẩu 4,7 tỷ USD",
+   "link": "https://vnexpress.net/nganh-tom-viet-nam-dat-muc-tieu-xuat-khau-4-7-ty-usd-5147435.html",
+   "date": "Sat, 21 Nov 2026 16:36:16 +0700",
+   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/dsc-1795246346-1359-1795246436.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GRvWU4A2Yd1VeHborP-I9g",
+   "source": "vnexpress",
+   "label": "VnExpress",
    "icon": "📰"
   },
   {
@@ -129,15 +147,6 @@
    "icon": "📰"
   },
   {
-   "title": "65.000 đồng một con gà mái ôm trứng, chất lượng ra sao?",
-   "link": "https://dantri.com.vn/kinh-doanh/65000-dong-mot-con-ga-mai-om-trung-chat-luong-ra-sao-20261120102659527.htm",
-   "date": "Fri, 20 Nov 2026 11:14:05 +0700",
-   "image": "https://cdnphoto.dantri.com.vn/zaAzgkqhmJfIiela7ce9zeCFfW4=/2026/11/20/ga-mai-cropped-1795145128222.jpg",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
    "title": "Loại thịt nhiều người th&iacute;ch ăn c&oacute; thể l&agrave;m tăng nguy cơ mắc bệnh thận",
    "link": "https://thanhnien.vn/loai-thit-nhieu-nguoi-thich-an-co-the-lam-tang-nguy-co-mac-benh-than-185261118120537335.htm",
    "date": "Fri, 20 Nov 26 08:10:00 +0700",
@@ -162,15 +171,6 @@
    "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/VNERobot-1794995614-7405-1794995667.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=l8obyNQGgpYW0egHYW1ybQ",
    "source": "vnexpress",
    "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Vaccine ung thư Nga chặn di căn: Bác sĩ Việt nói điều đáng kỳ vọng",
-   "link": "https://dantri.com.vn/suc-khoe/vaccine-ung-thu-nga-chan-di-can-bac-si-viet-noi-dieu-dang-ky-vong-20261113223006769.htm",
-   "date": "Sat, 14 Nov 2026 07:23:44 +0700",
-   "image": "https://cdnphoto.dantri.com.vn/SIdjoXxoiafQaLVGEKHOKULc3ZQ=/2026/11/13/bac-si-va-vac-xin-ung-thu-nga-1-1794583762852.png",
-   "source": "dantri",
-   "label": "Báo Dân Trí",
    "icon": "📰"
   },
   {
