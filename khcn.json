@@ -1,9 +1,54 @@
 {
- "updated": "2026-11-23T01:51:54.359Z",
+ "updated": "2026-11-23T09:56:27.389Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Cải thiện tình trạng thiếu sắt ở lợn con",
+   "link": "https://channuoivietnam.com/portal-news-detail/54718",
+   "date": "2026-11-23T16:05:48+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c54718edit.png&v=a23aa209-ece9-4d33-b536-b3c3a8be5d9b",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Bột nhuyễn thể mang lại hiệu quả cao trong các thử nghiệm về thức ăn",
+   "link": "https://channuoivietnam.com/portal-news-detail/33040",
+   "date": "2026-11-23T16:00:08+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f11%2fKH.-B%e1%bb%99t-nhuyen-the-2.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Đánh giá khả năng sản xuất của chim cút Nhật Bản nuôi trong nông hộ",
+   "link": "https://channuoivietnam.com/portal-news-detail/47745",
+   "date": "2026-11-23T15:59:17+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f11%2fKH.-TRai-cut-de.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Phòng bệnh cho lợn mùa lạnh: Chiến lược an toàn sinh học hiệu quả",
+   "link": "https://channuoivietnam.com/portal-news-detail/42159",
+   "date": "2026-11-23T15:59:13+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f04%2fKH.-Heo-con.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Kiểm soát động dục trên heo nái bình thường và heo nái có vấn đề",
+   "link": "https://channuoivietnam.com/portal-news-detail/45675",
+   "date": "2026-11-23T15:58:16+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f08%2fKH.-TRai-nai.jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Nghiên cứu các yếu tố ảnh hưởng đến sản lượng tổ yến khai thác trong nhà dẫn dụ",
    "link": "https://channuoivietnam.com/portal-news-detail/46e45ca8-e324-4f02-b697-1cc7abb99fdb",
@@ -90,51 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/58120",
    "date": "2026-11-22T17:15:00+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c58120edit.png&v=80c1df5b-4d43-4211-8728-9b6ef6628155",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của khối lượng sơ sinh, tăng trưởng giai đoạn trước cai sữa và tuổi phối giống lần đầu lên tuổi đẻ lứa đầu và mối liên quan đến năng suất sữa chu kỳ đầu của bò tơ HF",
-   "link": "https://channuoivietnam.com/portal-news-detail/44068",
-   "date": "2026-11-22T16:00:56+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c44068edit.png&v=2ee784ed-2a85-4b23-99d5-43d8fab24777",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Nghiên cứu về quản lý kháng sinh thông qua cải thiện sức khỏe đường ruột",
-   "link": "https://channuoivietnam.com/portal-news-detail/36524",
-   "date": "2026-11-22T16:00:53+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2018%2f11%2fKH.-00108_Kemin_ABX_1540x800_1.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Tại sao ngày cai sữa cho heo nên từ 21 ngày trở đi?",
-   "link": "https://channuoivietnam.com/portal-news-detail/47412",
-   "date": "2026-11-22T15:59:53+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f11%2fKH.-Chu-ky-tiet-sua-heo.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Một số chỉ tiêu lâm sàng, phi lâm sàng và biến đổi bệnh lý đại thể của gà bệnh thiếu máu truyền nhiễm",
-   "link": "https://channuoivietnam.com/portal-news-detail/49776",
-   "date": "2026-11-22T15:59:26+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2021%2f01%2fKH.-Bieu-do-thi-nghiem.emf_.png",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Khi nào nên phối giống lại cho bò?",
-   "link": "https://channuoivietnam.com/portal-news-detail/45451",
-   "date": "2026-11-22T15:59:12+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f07%2fKH.-Bo-sua-2.jpeg",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
