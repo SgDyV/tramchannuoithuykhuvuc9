@@ -1,7 +1,52 @@
 {
- "updated": "2026-11-25T09:58:01.159Z",
- "count": 33,
+ "updated": "2026-11-25T19:43:14.641Z",
+ "count": 32,
  "items": [
+  {
+   "title": "EU đẩy mạnh tiếp cận thị trường nông sản, thực phẩm Việt Nam",
+   "link": "https://www.vietnamplus.vn/eu-day-manh-tiep-can-thi-truong-nong-san-thuc-pham-viet-nam-post1150576.vnp",
+   "date": "Wed, 25 Nov 2026 22:28:38 +07:00",
+   "image": "https://media.vietnamplus.vn/images/VDu2ayPW9xEUQJPBOsBm6rO9y_i0BXdfX9Pk8lI91nRvNKEpzlGpPxDuEoaV6j9Z/ttxvn-nong-san-viet.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "4 nhóm thực phẩm không tốt cho huyết áp",
+   "link": "https://vnexpress.net/4-nhom-thuc-pham-khong-tot-cho-huyet-ap-5148600.html",
+   "date": "Wed, 25 Nov 2026 19:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/25/kim-chi-jpeg-1795576231-3278-1795576374.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MNJovgzeg2Eb4R-g9xp9CQ",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Giải pháp số minh bạch thông tin vaccine gây chú ý tại hội nghị y khoa",
+   "link": "https://znews.vn/giai-phap-so-minh-bach-thong-tin-vaccine-gay-chu-y-tai-hoi-nghi-y-khoa-post1699045.html",
+   "date": "Wed, 25 Nov 2026 19:00:00 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/wyhktpu/2026_11_25/9.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
+  {
+   "title": "Chủ tịch Cần Thơ nói giải pháp 'lên đời' ngành nông nghiệp",
+   "link": "https://tienphong.vn/chu-tich-can-tho-noi-giai-phap-len-doi-nganh-nong-nghiep-post1897414.tpo",
+   "date": "Wed, 25 Nov 2026 18:12:52 +07:00",
+   "image": "https://cdn.tienphong.vn/images/zpSLZBAVuID-6PZjWY2f62Q_zsv-CFKr3PI5OSKoRQjRc6jSyhP0fQlvajC0WGr7/tp_tuyen.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "BAF Việt Nam khởi công nhà máy chế biến thực phẩm 1.250 tỷ đồng tại Gia Lai",
+   "link": "https://tienphong.vn/baf-viet-nam-khoi-cong-nha-may-che-bien-thuc-pham-1250-ty-dong-tai-gia-lai-post1897467.tpo",
+   "date": "Wed, 25 Nov 2026 18:09:36 +07:00",
+   "image": "https://cdn.tienphong.vn/images/QgeU4W8cU3yjVpamn3KDNQA7g5_irHvmTcbuc7E-Rk6Rw5WqqUk-XNrzScrT1KFe/hinh.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
   {
    "title": "Tôm sú gần 400 gram thắng giải ở Cà Mau",
    "link": "https://vnexpress.net/tom-su-gan-400-gram-thang-giai-o-ca-mau-5148621.html",
@@ -93,15 +138,6 @@
    "icon": "📰"
   },
   {
-   "title": "Cháy quán bún bò ở Hà Tĩnh, một người tử vong",
-   "link": "https://tienphong.vn/chay-quan-bun-bo-o-ha-tinh-mot-nguoi-tu-vong-post1897117.tpo",
-   "date": "Tue, 24 Nov 2026 14:15:45 +07:00",
-   "image": "https://cdn.tienphong.vn/images/OXp6W7uCaM9Zc5Wf5f7wlhvArdkta9iMj7n1WX0IGomZrTYSwtFRMwfcDLsthS2PtFBMgvho8LpyVnOkK9CZ0JcnC-MEeDud--S3w-OB_AU/2aoborenublxeo54bew4qwnajyjrwe4s6ur2xouo.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
    "title": "Cháy quán bún bò, một phụ nữ tử vong",
    "link": "https://vnexpress.net/chay-quan-bun-bo-mot-phu-nu-tu-vong-5148352.html",
    "date": "Tue, 24 Nov 2026 13:48:34 +0700",
@@ -117,42 +153,6 @@
    "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/23/c-hoai-1795441216-7216-1795441614.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=UJpEqxOrUXVmUgD-YiJz4Q",
    "source": "vnexpress",
    "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "5 thực phẩm màu cam, đỏ giúp giảm viêm",
-   "link": "https://vnexpress.net/5-thuc-pham-mau-cam-do-giup-giam-viem-5148155.html",
-   "date": "Tue, 24 Nov 2026 11:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/23/luu-jfif-1795427321-6864-1795427450.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VQs30GuYVZSv56qRjiiNeg",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "4 thực phẩm màu xanh tốt cho mắt nên ăn thường xuyên",
-   "link": "https://vnexpress.net/4-thuc-pham-mau-xanh-tot-cho-mat-nen-an-thuong-xuyen-5148240.html",
-   "date": "Tue, 24 Nov 2026 08:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/23/qua-bo-1-1795444233.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=yvs_9KXye5dH2vdxMjeYsA",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Dấu hiệu nào cảnh báo ung thư buồng trứng?",
-   "link": "https://vnexpress.net/dau-hieu-nao-canh-bao-ung-thu-buong-trung-5148182.html",
-   "date": "Tue, 24 Nov 2026 07:15:56 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/24/image001-1795476024-9972-1795476491.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NBPerpZixmvFQunUb5TZxw",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Thúc đẩy hợp tác khu vực tư nhân Việt Nam-châu Phi trong lĩnh vực nông nghiệp",
-   "link": "https://www.vietnamplus.vn/thuc-day-hop-tac-khu-vuc-tu-nhan-viet-nam-chau-phi-trong-linh-vuc-nong-nghiep-post1150173.vnp",
-   "date": "Mon, 23 Nov 2026 18:22:28 +07:00",
-   "image": "https://media.vietnamplus.vn/images/_RfA0Lv7xigOosrBfIuLk3hy09hTIF261vVfTurQyHYeIvZ5MpobUzn4lVPuuGVC/ttxvn-chau-phi.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
    "icon": "📰"
   },
   {
@@ -198,15 +198,6 @@
    "image": "https://cdnphoto.dantri.com.vn/UoXh0nFu8iS8BtPDWZB0s5oqSk4=/2026/11/19/giun-moc-edited-1795071991889.jpg",
    "source": "dantri",
    "label": "Báo Dân Trí",
-   "icon": "📰"
-  },
-  {
-   "title": "Robot hình người nhặt trứng trong trang trại gia cầm",
-   "link": "https://vnexpress.net/robot-hinh-nguoi-nhat-trung-trong-trang-trai-gia-cam-5146244.html",
-   "date": "Thu, 19 Nov 2026 16:00:00 +0700",
-   "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/VNERobot-1794995614-7405-1794995667.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=l8obyNQGgpYW0egHYW1ybQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
    "icon": "📰"
   },
   {

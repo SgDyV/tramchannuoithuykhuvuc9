@@ -1,9 +1,72 @@
 {
- "updated": "2026-11-25T09:58:16.486Z",
+ "updated": "2026-11-25T19:43:31.593Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Mối quan hệ di truyền của một số quần thể chim yến sống ngoài đảo và trong đất liền ở Việt Nam",
+   "link": "https://channuoivietnam.com/portal-news-detail/21257de9-275f-4d41-9dc9-947afe010372",
+   "date": "2026-11-26T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cacb6cf0d-5480-4c16-b831-0c137913f5f6.png&v=4a945ed1-01a4-4176-8be9-2ea406ce4eb9",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Đặc điểm bệnh lý tăng sinh nội mạc tử cung thỏ cái nuôi làm cảnh",
+   "link": "https://channuoivietnam.com/portal-news-detail/2767a63b-23e3-478b-bbc9-42bef645c811",
+   "date": "2026-11-26T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c484159c4-30f3-4b99-93a6-51a6f1572725.png&v=d0e012fb-7f1e-42a1-bf90-d2ff3eddf89c",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Ảnh hưởng của các nguồn protein khác nhau trong khẩu phần đến năng suất tăng trưởng, khả năng chống oxy hóa, khả năng miễn dịch, hệ vi sinh vật trong phân và các chất chuyển hóa ở heo con cai sữa",
+   "link": "https://channuoivietnam.com/portal-news-detail/bdef0b9b-0da0-4a12-8606-75da05fc49af",
+   "date": "2026-11-26T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c753be089-3ce4-4f7e-bf8a-e6f9d4659baf.png&v=55e8e03e-d9c2-4b81-af8b-303e2d2bab7e",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Táo bón ở heo nái - Kẻ thù tiềm ẩn",
+   "link": "https://channuoivietnam.com/portal-news-detail/bed775be-a8cd-4d71-b920-aeac6459f13a",
+   "date": "2026-11-26T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c10093cfc-fff6-409f-a3c0-6cec5a48484e.png&v=0dbf91dc-7863-4bd2-b78d-77ec4fa11df4",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Phân lập, xác định nhóm huyết thanh và khả năng kháng kháng sinh của vi khuẩn Avibacterium paragallinarum phân lập từ gà",
+   "link": "https://channuoivietnam.com/portal-news-detail/c0f2eb8a-3a5b-4c15-93d7-1fb206855cdf",
+   "date": "2026-11-26T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cbc8b4fd6-033d-4a07-9409-15c389675e4b.png&v=c1038647-8d42-4b60-97f4-f313edcbae7e",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Sự lưu hành và biến đổi di truyền của virus cúm gia cầm Type A H5N1 trên gia cầm tại một số tỉnh Đồng bằng sông Cửu Long",
+   "link": "https://channuoivietnam.com/portal-news-detail/f2803837-72ee-4298-bea5-12363d87e651",
+   "date": "2026-11-26T00:00:00+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c33449091-7f37-4f6f-9bc9-d6c639d3913a.png&v=391e99da-549c-4fce-bcdf-48db1897c21d",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Nguyên nhân gốc rễ: Chấm dứt hành vi gà mổ lông và ăn thịt lẫn nhau",
+   "link": "https://channuoivietnam.com/portal-news-detail/60573",
+   "date": "2026-11-25T17:37:54+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c60573edit.png&v=7c0b4b79-d5aa-4ac0-a68f-475fb9e90883",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Bệnh Leuco trên gà và biện pháp phòng trị",
    "link": "https://channuoivietnam.com/portal-news-detail/30701",
@@ -72,69 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/7dba181b-30bf-498d-87d0-711e8bf688eb",
    "date": "2026-11-25T00:00:00+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c24de842a-59ad-47f7-b7b1-ea024040beb1.png&v=2eba31b0-0ee8-44b0-a19a-eb3a4a4ff3ab",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Các yếu tố liên quan đến lượng ăn vào và các mô hình tiêu thụ thức ăn",
-   "link": "https://channuoivietnam.com/portal-news-detail/7fa28e45-4767-454e-8089-35f95c00ca8a",
-   "date": "2026-11-25T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5cb6fb828c-3a71-4e25-83c8-a7c7838a90a1.png&v=0c710287-f1c2-45ef-af76-2d9218cc519f",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Nghiên cứu đa hình trình tự vùng gen melanocortin receptor 1 (MC1R) ở giống lợn Móng Cái Việt Nam",
-   "link": "https://channuoivietnam.com/portal-news-detail/8681dde3-4949-4d62-a322-6628abee2b3c",
-   "date": "2026-11-25T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c21395676-a67c-49e0-8d59-b5b6b3abd687.png&v=011d07c1-4c3c-4542-bbcf-ed469b0dafda",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Năng suất và chất lượng thịt gà Ri Lạc Sơn theo tuổi giết mổ",
-   "link": "https://channuoivietnam.com/portal-news-detail/ca093684-1924-4521-ad9b-cc10d00382af",
-   "date": "2026-11-25T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5caeecd69b-61f2-4d9f-8da4-01a3d1cdd794.png&v=5fe9e7be-b2e2-48ca-bc76-2c548ffe9f5a",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của bổ sung chế phẩm Halquinol lên năng suất sinh trưởng và hiệu quả kinh tế ở heo sau cai sữa",
-   "link": "https://channuoivietnam.com/portal-news-detail/f2271add-0163-439f-818c-d30535f203c6",
-   "date": "2026-11-25T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c95a24a16-0f98-454f-9cd8-304b734136b9.png&v=9a436be7-4ad2-4c7c-a529-a0a61881196e",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của demecolcine và thời gian nuôi thành thục in vitro tế bào trứng đến hiệu quả tạo phôi lợn Ỉ nhân bản",
-   "link": "https://channuoivietnam.com/portal-news-detail/60563",
-   "date": "2026-11-24T17:40:55+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f08%2fUnknown-9.jpeg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Bệnh tiêu chảy thành dịch trên heo: Lâm sàng và phòng chống",
-   "link": "https://channuoivietnam.com/portal-news-detail/57059",
-   "date": "2026-11-24T17:00:12+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2023%2f01%2fScreenshot-2023-01-25-at-17.02.43.png",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Các giai đoạn quan trọng trong dinh dưỡng gà con giai đoạn đầu",
-   "link": "https://channuoivietnam.com/portal-news-detail/44356",
-   "date": "2026-11-24T16:08:21+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f06%2fKH.-Ga-con.png",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
