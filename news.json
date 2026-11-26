@@ -1,7 +1,43 @@
 {
- "updated": "2026-11-26T02:30:51.429Z",
- "count": 34,
+ "updated": "2026-11-26T11:37:32.087Z",
+ "count": 35,
  "items": [
+  {
+   "title": "Long Ch&acirc;u tiếp tục giới thiệu s&aacute;ng kiến minh bạch h&agrave;nh tr&igrave;nh vắc xin đến giới chuy&ecirc;n m&ocirc;n trong nước v&agrave; quốc tế",
+   "link": "https://thanhnien.vn/long-chau-tiep-tuc-gioi-thieu-sang-kien-minh-bach-hanh-trinh-vac-xin-den-gioi-chuyen-mon-trong-nuoc-va-quoc-te-185261126171001326.htm",
+   "date": "Thu, 26 Nov 26 17:07:00 +0700",
+   "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/26/10-17956874789501802119242-1236-0-4156-4672-crop-1795687504229184387968.jpg",
+   "source": "thanhnien",
+   "label": "Báo Thanh Niên",
+   "icon": "📰"
+  },
+  {
+   "title": "Long Châu giới thiệu sáng kiến minh bạch hành trình vaccine đến giới chuyên môn",
+   "link": "https://dantri.com.vn/suc-khoe/long-chau-gioi-thieu-sang-kien-minh-bach-hanh-trinh-vaccine-den-gioi-chuyen-mon-20261126153604103.htm",
+   "date": "Thu, 26 Nov 2026 16:00:00 +0700",
+   "image": "https://cdnphoto.dantri.com.vn/fub7ZdIutmRAX1RlZlJdWXHN_io=/2026/11/26/anh-chup-man-hinh-2026-11-26-luc-15-cropped-1795682078267.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Theo chân đội cứu hộ gỡ bẫy sắt cứu động vật giữa rừng già",
+   "link": "https://tienphong.vn/theo-chan-doi-cuu-ho-go-bay-sat-cuu-dong-vat-giua-rung-gia-post1897645.tpo",
+   "date": "Thu, 26 Nov 2026 11:23:46 +07:00",
+   "image": "https://cdn.tienphong.vn/images/EfQGVTCKI40X1VMmSyXaXYAqKgrDd6TI_57IakJ8-Ar6aLrZ-yD6KLMRtMOsPiami5JXLOnOwlPv0g8UCq5uIg/thiet-ke-chua-co-ten.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Dầu thực vật hay mỡ lợn tốt hơn?",
+   "link": "https://znews.vn/dau-thuc-vat-hay-mo-lon-tot-hon-post1699128.html",
+   "date": "Thu, 26 Nov 2026 10:19:04 +0700",
+   "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_11_26/Dau_thuc_vat_hay_mo_lon_1.jpg",
+   "source": "znews",
+   "label": "ZNews",
+   "icon": "📰"
+  },
   {
    "title": "Ba lý do trẻ bị sốt lại sau mắc cúm A",
    "link": "https://vnexpress.net/ba-ly-do-tre-bi-sot-lai-sau-mac-cum-a-5148795.html",
@@ -36,15 +72,6 @@
    "image": "https://cdn.tienphong.vn/images/cUfL7fgrU5Sn6arHJuaIjFKbvfer8_gJ5KdujnrAiAP6J0-oWsZIdwm-XZu2fNqrS7QR9xzWEgC2Y_IEdfJHQroVMsb9p1CosEtVTCrN2X8/926412369-1129772219825057-3241797865537163356-n.jpg.avif",
    "source": "tienphong",
    "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
-   "title": "EU đẩy mạnh tiếp cận thị trường nông sản, thực phẩm Việt Nam",
-   "link": "https://www.vietnamplus.vn/eu-day-manh-tiep-can-thi-truong-nong-san-thuc-pham-viet-nam-post1150576.vnp",
-   "date": "Wed, 25 Nov 2026 22:28:38 +07:00",
-   "image": "https://media.vietnamplus.vn/images/VDu2ayPW9xEUQJPBOsBm6rO9y_i0BXdfX9Pk8lI91nRvNKEpzlGpPxDuEoaV6j9Z/ttxvn-nong-san-viet.jpg.avif",
-   "source": "vietnamplus",
-   "label": "VietnamPlus (TTXVN)",
    "icon": "📰"
   },
   {
@@ -156,28 +183,10 @@
    "icon": "📰"
   },
   {
-   "title": "Không chỉ thịt đỏ, nhiều thực phẩm quen thuộc cũng giàu sắt",
-   "link": "https://znews.vn/khong-chi-thit-do-nhieu-thuc-pham-quen-thuoc-cung-giau-sat-post1698479.html",
-   "date": "Tue, 24 Nov 2026 15:03:22 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/gtnvzv/2026_11_23/giau_sat_2.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
    "title": "Cháy quán bún bò, một phụ nữ tử vong",
    "link": "https://vnexpress.net/chay-quan-bun-bo-mot-phu-nu-tu-vong-5148352.html",
    "date": "Tue, 24 Nov 2026 13:48:34 +0700",
    "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/hien-truong-vu-chay-1795496364-8427-1795496375.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iK0I8n8zFjjmJHa9aMus_w",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Heo hơi tăng giá gần 30% sau khi chạm đáy 3 năm",
-   "link": "https://vnexpress.net/heo-hoi-tang-gia-gan-30-sau-khi-cham-day-3-nam-5148039.html",
-   "date": "Mon, 23 Nov 2026 14:37:46 +0700",
-   "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/wm1-wm1-screen-shot-at-pm-17954178-8801-4148-1795418244.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XZ89YmzYSxv7EM22Q2DxEA",
    "source": "vnexpress",
    "label": "VnExpress",
    "icon": "📰"

@@ -1,9 +1,72 @@
 {
- "updated": "2026-11-26T02:31:10.372Z",
+ "updated": "2026-11-26T11:37:49.483Z",
  "category": "Khoa học công nghệ",
  "source": "https://channuoivietnam.com/portal-type-news/fca53d3b-2302-4166-abfb-c50364a14fa6",
  "count": 15,
  "items": [
+  {
+   "title": "Lông dài, xù cứng: Dấu hiệu cảnh báo về sự sụp đổ cấu trúc dinh dưỡng",
+   "link": "https://channuoivietnam.com/portal-news-detail/60581",
+   "date": "2026-11-26T17:37:17+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c60581edit.png&v=cf6a9c1a-7c2f-4832-b87d-c4d1aaaf9503",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Ảnh hưởng của tưới nước trong mùa khô đến sản lượng lá cây Trichanthera gigantea",
+   "link": "https://channuoivietnam.com/portal-news-detail/57044",
+   "date": "2026-11-26T17:00:02+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c57044edit.png&v=17789bb7-d967-4292-b3fe-1a6ba3cc6300",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Tỉ lệ chuyển đổi thức ăn (FCR) trong chăn nuôi heo thịt",
+   "link": "https://channuoivietnam.com/portal-news-detail/27915",
+   "date": "2026-11-26T16:00:11+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f02%2fKH.-Pig.jpeg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Có nên sử dụng bột cá trong khẩu phần heo con?",
+   "link": "https://channuoivietnam.com/portal-news-detail/42063",
+   "date": "2026-11-26T16:00:09+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f03%2fKH.-Bot-ca1.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Nguy cơ ngộ độc vitamin trong thức ăn chăn nuôi",
+   "link": "https://channuoivietnam.com/portal-news-detail/10257",
+   "date": "2026-11-26T15:59:41+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c10257edit.png&v=d897f395-6caf-4b7b-9c36-a9a2e1b32290",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Ảnh hưởng của phương pháp thụ tinh đến năng suất sinh sản của gà Hồ",
+   "link": "https://channuoivietnam.com/portal-news-detail/50194",
+   "date": "2026-11-26T15:59:40+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c50194edit.png&v=73214848-5a25-4c5d-a8c3-6c24d69f15cb",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
+  {
+   "title": "Bệnh viêm phổi dính sườn trên heo – APP",
+   "link": "https://channuoivietnam.com/portal-news-detail/45568",
+   "date": "2026-11-26T15:59:32+07:00",
+   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f08%2fKH.-Benh-APP.jpg",
+   "source": "khcn",
+   "label": "KH–CN · Chăn nuôi VN",
+   "icon": "🔬"
+  },
   {
    "title": "Mối quan hệ di truyền của một số quần thể chim yến sống ngoài đảo và trong đất liền ở Việt Nam",
    "link": "https://channuoivietnam.com/portal-news-detail/21257de9-275f-4d41-9dc9-947afe010372",
@@ -72,69 +135,6 @@
    "link": "https://channuoivietnam.com/portal-news-detail/30701",
    "date": "2026-11-25T16:00:36+07:00",
    "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f08%2fKH.-Benh-Leuco-ga-1.jpeg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Tiêu chuẩn Halal trong xuất khẩu gia cầm và trứng gia cầm",
-   "link": "https://channuoivietnam.com/portal-news-detail/45827",
-   "date": "2026-11-25T15:59:51+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c45827edit.png&v=c3fc7798-635a-400e-880a-31608153b312",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Cơ chế năng lượng tế bào: Tối ưu hóa tích lũy cơ nạc với GAA",
-   "link": "https://channuoivietnam.com/portal-news-detail/18302",
-   "date": "2026-11-25T15:59:34+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2017%2f05%2fKH.-bo-rung.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "7 lợi ích của việc sử dụng enzyme protease đối với gia cầm",
-   "link": "https://channuoivietnam.com/portal-news-detail/54837",
-   "date": "2026-11-25T06:49:59+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2022%2f07%2fbay-loi-ich-cua-enzyme-protease-doi-voi-chan-nuoi-gia-cam-3486.jpeg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Kinh nghiệm dẫn dụ chim yến - Phần 1: Âm thanh dẫn dụ",
-   "link": "https://channuoivietnam.com/portal-news-detail/43210",
-   "date": "2026-11-25T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c43210edit.png&v=0f6b066b-77b3-4943-9882-4b25a6167e20",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Kinh nghiệm dẫn dụ chim yến - Phần 2: Mùi dẫn dụ",
-   "link": "https://channuoivietnam.com/portal-news-detail/43213",
-   "date": "2026-11-25T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c43213edit.png&v=5c3febb1-8211-4a8d-aace-0180cdc88e27",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Kinh nghiệm dẫn dụ chim yến - Phần 3: Thanh làm tổ",
-   "link": "https://channuoivietnam.com/portal-news-detail/43216",
-   "date": "2026-11-25T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=data_old%2f2020%2f06%2fKH.-Thanh-lam-to.jpg",
-   "source": "khcn",
-   "label": "KH–CN · Chăn nuôi VN",
-   "icon": "🔬"
-  },
-  {
-   "title": "Ảnh hưởng của các điều kiện chiết tách đến tính chất của tinh bột hạt Mít Thái Lá Bàng (Artocarpus heterophyllus Lam.)",
-   "link": "https://channuoivietnam.com/portal-news-detail/7dba181b-30bf-498d-87d0-711e8bf688eb",
-   "date": "2026-11-25T00:00:00+07:00",
-   "image": "https://channuoivietnam.com/FileManager/Download/?filename=%5cimage_upload%5csys_news%5c20eb356f-29b2-425e-aa92-09ddd7932a99%5cweb%5c24de842a-59ad-47f7-b7b1-ea024040beb1.png&v=2eba31b0-0ee8-44b0-a19a-eb3a4a4ff3ab",
    "source": "khcn",
    "label": "KH–CN · Chăn nuôi VN",
    "icon": "🔬"
