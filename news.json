@@ -1,7 +1,52 @@
 {
- "updated": "2026-11-27T03:20:41.158Z",
- "count": 35,
+ "updated": "2026-11-27T12:50:52.122Z",
+ "count": 32,
  "items": [
+  {
+   "title": "Có phải mắc sùi mào gà sẽ không khỏi?",
+   "link": "https://vnexpress.net/co-phai-mac-sui-mao-ga-se-khong-khoi-5149699.html",
+   "date": "Fri, 27 Nov 2026 19:00:00 +0700",
+   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/27/sui-mao-ga-do-nhiem-hpv-179576-4493-4930-1795769052.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=qHVQ62EFDaTKRPUmUtqedA",
+   "source": "vnexpress",
+   "label": "VnExpress",
+   "icon": "📰"
+  },
+  {
+   "title": "Thực phẩm Việt Nam khẳng định chỗ đứng vững chắc tại thị trường Hong Kong (Trung Quốc)",
+   "link": "https://www.vietnamplus.vn/thuc-pham-viet-nam-khang-dinh-cho-dung-vung-chac-tai-thi-truong-hong-kong-trung-quoc-post1150965.vnp",
+   "date": "Fri, 27 Nov 2026 17:04:32 +07:00",
+   "image": "https://media.vietnamplus.vn/images/IQdJ9t68n_Fc4c6ldNrZ7V2JavaoXkMJ_hO0xa7F6g7ERupCiPocw7ids0O-D4n5/ttxvn_thuc-pham.jpg.avif",
+   "source": "vietnamplus",
+   "label": "VietnamPlus (TTXVN)",
+   "icon": "📰"
+  },
+  {
+   "title": "Bí quyết ủ chua thức ăn cho bò sữa TH: Từ quy trình nghiêm ngặt đến bữa ăn khoái khẩu",
+   "link": "https://tienphong.vn/bi-quyet-u-chua-thuc-an-cho-bo-sua-th-tu-quy-trinh-nghiem-ngat-den-bua-an-khoai-khau-post1898023.tpo",
+   "date": "Fri, 27 Nov 2026 15:30:00 +07:00",
+   "image": "https://cdn.tienphong.vn/images/RNp65zNs098qZKWyBaZ90ksDWRACkc4w6mAiPwDZ6JtRGTJPfQ9_8yPupY1XrYcZ/word-n58xe6-9703.jpg.avif",
+   "source": "tienphong",
+   "label": "Báo Tiền Phong",
+   "icon": "📰"
+  },
+  {
+   "title": "Biến đổi khí hậu làm tăng nguy cơ dịch bệnh, TPHCM hỗ trợ 4.000 người",
+   "link": "https://dantri.com.vn/suc-khoe/bien-doi-khi-hau-lam-tang-nguy-co-dich-benh-tphcm-ho-tro-4000-nguoi-20261126103054249.htm",
+   "date": "Fri, 27 Nov 2026 11:54:56 +0700",
+   "image": "https://cdnphoto.dantri.com.vn/GVgir101iMke2sVem1F3ryH3vfQ=/2026/11/26/trung-tam-bao-tro-xa-hoi-1795663541272.jpeg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
+  {
+   "title": "Cúm mùa có thể trở nặng, bác sĩ cảnh báo những dấu hiệu nguy hiểm",
+   "link": "https://dantri.com.vn/suc-khoe/cum-mua-co-the-tro-nang-bac-si-canh-bao-nhung-dau-hieu-nguy-hiem-20261126153430876.htm",
+   "date": "Fri, 27 Nov 2026 11:54:00 +0700",
+   "image": "https://cdnphoto.dantri.com.vn/J_MMYtOzA2KPiD0o2VTRg657x28=/2026/11/26/cum-edited-1791860827794-1795681100490.jpg",
+   "source": "dantri",
+   "label": "Báo Dân Trí",
+   "icon": "📰"
+  },
   {
    "title": "Tại sao vẫn mắc cúm dù tiêm vaccine?",
    "link": "https://vnexpress.net/tai-sao-van-mac-cum-du-tiem-vaccine-5149250.html",
@@ -39,30 +84,12 @@
    "icon": "📰"
   },
   {
-   "title": "Theo chân đội cứu hộ gỡ bẫy sắt cứu động vật giữa rừng già",
-   "link": "https://tienphong.vn/theo-chan-doi-cuu-ho-go-bay-sat-cuu-dong-vat-giua-rung-gia-post1897645.tpo",
-   "date": "Thu, 26 Nov 2026 11:23:46 +07:00",
-   "image": "https://cdn.tienphong.vn/images/EfQGVTCKI40X1VMmSyXaXYAqKgrDd6TI_57IakJ8-Ar6aLrZ-yD6KLMRtMOsPiami5JXLOnOwlPv0g8UCq5uIg/thiet-ke-chua-co-ten.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
    "title": "Dầu thực vật hay mỡ lợn tốt hơn?",
    "link": "https://znews.vn/dau-thuc-vat-hay-mo-lon-tot-hon-post1699128.html",
    "date": "Thu, 26 Nov 2026 10:19:04 +0700",
    "image": "https://photo.znews.vn/w660/Uploaded/sgorvz/2026_11_26/Dau_thuc_vat_hay_mo_lon_1.jpg",
    "source": "znews",
    "label": "ZNews",
-   "icon": "📰"
-  },
-  {
-   "title": "Ba lý do trẻ bị sốt lại sau mắc cúm A",
-   "link": "https://vnexpress.net/ba-ly-do-tre-bi-sot-lai-sau-mac-cum-a-5148795.html",
-   "date": "Thu, 26 Nov 2026 09:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/25/medium-vecteezy-asian-mother-t-1448-8051-1795595498.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JjbqP7pAUUMMeD3Z93B-YQ",
-   "source": "vnexpress",
-   "label": "VnExpress",
    "icon": "📰"
   },
   {
@@ -75,64 +102,10 @@
    "icon": "📰"
   },
   {
-   "title": "Ăn thực phẩm chế biến sẵn vào bữa sáng có gây tăng cân?",
-   "link": "https://vnexpress.net/an-thuc-pham-che-bien-san-vao-bua-sang-co-gay-tang-can-5148904.html",
-   "date": "Thu, 26 Nov 2026 06:00:00 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/25/441291936-n-1795613133-2167-1795613228.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XSFSitz_vM4thcJoU9KX1w",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Tôm khô Cà Mau hơn 100.000 đồng/con",
-   "link": "https://tienphong.vn/tom-kho-ca-mau-hon-100000-dongcon-post1897270.tpo",
-   "date": "Thu, 26 Nov 2026 05:30:00 +07:00",
-   "image": "https://cdn.tienphong.vn/images/cUfL7fgrU5Sn6arHJuaIjFKbvfer8_gJ5KdujnrAiAP6J0-oWsZIdwm-XZu2fNqrS7QR9xzWEgC2Y_IEdfJHQroVMsb9p1CosEtVTCrN2X8/926412369-1129772219825057-3241797865537163356-n.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
-   "title": "Giải pháp số minh bạch thông tin vaccine gây chú ý tại hội nghị y khoa",
-   "link": "https://znews.vn/giai-phap-so-minh-bach-thong-tin-vaccine-gay-chu-y-tai-hoi-nghi-y-khoa-post1699045.html",
-   "date": "Wed, 25 Nov 2026 19:00:00 +0700",
-   "image": "https://photo.znews.vn/w660/Uploaded/wyhktpu/2026_11_25/9.jpg",
-   "source": "znews",
-   "label": "ZNews",
-   "icon": "📰"
-  },
-  {
-   "title": "Chủ tịch Cần Thơ nói giải pháp 'lên đời' ngành nông nghiệp",
-   "link": "https://tienphong.vn/chu-tich-can-tho-noi-giai-phap-len-doi-nganh-nong-nghiep-post1897414.tpo",
-   "date": "Wed, 25 Nov 2026 18:12:52 +07:00",
-   "image": "https://cdn.tienphong.vn/images/zpSLZBAVuID-6PZjWY2f62Q_zsv-CFKr3PI5OSKoRQjRc6jSyhP0fQlvajC0WGr7/tp_tuyen.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
-   "title": "BAF Việt Nam khởi công nhà máy chế biến thực phẩm 1.250 tỷ đồng tại Gia Lai",
-   "link": "https://tienphong.vn/baf-viet-nam-khoi-cong-nha-may-che-bien-thuc-pham-1250-ty-dong-tai-gia-lai-post1897467.tpo",
-   "date": "Wed, 25 Nov 2026 18:09:36 +07:00",
-   "image": "https://cdn.tienphong.vn/images/QgeU4W8cU3yjVpamn3KDNQA7g5_irHvmTcbuc7E-Rk6Rw5WqqUk-XNrzScrT1KFe/hinh.jpg.avif",
-   "source": "tienphong",
-   "label": "Báo Tiền Phong",
-   "icon": "📰"
-  },
-  {
    "title": "Tôm sú gần 400 gram thắng giải ở Cà Mau",
    "link": "https://vnexpress.net/tom-su-gan-400-gram-thang-giai-o-ca-mau-5148621.html",
    "date": "Wed, 25 Nov 2026 15:30:21 +0700",
    "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/tom-su-nhat-1795595126-4973-1795595155.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_Xka-MQIz4h667-TUx1c6g",
-   "source": "vnexpress",
-   "label": "VnExpress",
-   "icon": "📰"
-  },
-  {
-   "title": "Đầu tôm nấu chín chuyển màu đen có phải do bị ươn?",
-   "link": "https://vnexpress.net/dau-tom-nau-chin-chuyen-mau-den-co-phai-do-bi-uon-5148108.html",
-   "date": "Wed, 25 Nov 2026 08:38:25 +0700",
-   "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/25/tom-1795570484-8143-1795570490.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wHaxV66SLVfev13X09QmXA",
    "source": "vnexpress",
    "label": "VnExpress",
    "icon": "📰"
